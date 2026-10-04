@@ -268,6 +268,12 @@ let grow = reduced ? 1 : 0;
 const t0 = performance.now();
 
 let active = new Set();
+// Per-node visibility, recomputed only when the legend changes. Caching it keeps the draw loops
+// free of Set lookups and lets the node loop skip hidden topics before touching the projector.
+let vis = null;
+function syncVis() {
+  for (let i = 0; i < N.length; i++) vis[i] = active.has(N[i].g) ? 1 : 0;
+}
 let selected = -1, hover = -1, hist = [];
 let showPre = true, showRel = true;
 let lineage = { nodes: new Set(), edges: new Set() };
@@ -381,13 +387,16 @@ const depthStep = (d) => Math.round(Math.min(1, Math.max(0, d)) * DEPTH_STEPS) /
 
 function draw() {
   ctx.clearRect(0, 0, VW, VH);
-  const hasSel = selected >= 0;
+  // A selection inside a group the legend has hidden is treated as no selection: none of the
+  // topics on screen are in its lineage, so dimming by lineage would fade the whole graph.
+  const hasSel = selected >= 0 && vis[selected];
 
   // Relations first, so the long Old Testament to New Testament threads sit behind the
   // prerequisites rather than crossing over them.
   if (showRel) {
     for (let k = 0; k < relEdges.length; k++) {
       const [a, b, kind] = relEdges[k];
+      if (!vis[a] || !vis[b]) continue;
       const lit = hasSel && lineage.relEdges.has(k);
       let col, alpha, lw;
       if (hasSel) {
@@ -411,6 +420,7 @@ function draw() {
   if (showPre) {
     for (let k = 0; k < preEdges.length; k++) {
       const [a, b, hard] = preEdges[k];
+      if (!vis[a] || !vis[b]) continue;
       const lit = hasSel && lineage.edges.has(k);
       ctx.strokeStyle = lit ? 'rgba(217,164,65,0.7)'
         : `rgba(${DIM_RGB},${+((hard ? 0.1 : 0.05) * depthStep((P[a * 3 + 2] + P[b * 3 + 2]) / 2)).toFixed(3)})`;
@@ -431,7 +441,7 @@ function draw() {
   for (let n = 0; n < order.length; n++) {
     const i = order[n];
     const node = N[i];
-    if (node.y / H > grow) continue;
+    if (!vis[i] || node.y / H > grow) continue;
     // A topic stays lit if it is in the prerequisite chain or directly cross-referenced from the
     // selection, so the two kinds of connection both read as connected.
     const inLine = hasSel ? (lineage.nodes.has(i) || lineage.relNodes.has(i)) : true;
@@ -846,8 +856,10 @@ function buildLegend() {
     const toggle = () => {
       const g = +chip.dataset.g;
       const on = chip.getAttribute('aria-pressed') === 'true';
+      if (on && active.size === 1) return;
       chip.setAttribute('aria-pressed', String(!on));
       if (on) active.delete(g); else active.add(g);
+      syncVis();
     };
     chip.addEventListener('click', toggle);
     chip.addEventListener('keydown', (e) => {
@@ -935,6 +947,8 @@ fetch('graph.json')
     });
 
     for (let g = 0; g < GROUPS.length; g++) active.add(g);
+    vis = new Uint8Array(N.length);
+    syncVis();
 
     document.getElementById('nCount').textContent = nf(D.counts.topics);
     document.getElementById('eCount').textContent = nf(D.counts.edges);
@@ -972,6 +986,8 @@ fetch('graph.json')
       setEdges: (pre, rel) => { showPre = pre; showRel = rel; },
       get showRel() { return showRel; },
       get lineageMs() { return lineageMs; },
+      get vis() { return vis; },
+      get active() { return active; },
       sample(k) {
         const off = document.createElement('canvas');
         off.width = cv.width; off.height = cv.height;

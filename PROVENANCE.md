@@ -11,6 +11,26 @@ Nothing is made up. Every scripture reference, work, date and citation must be e
 
 **Open item (UK):** in the UK the KJV text is subject to a Crown letters patent administered by Cambridge University Press. Confirm this is acceptable for the intended use before any public release. The Project Gutenberg licence and trademark terms (included in the source file) also apply to redistribution of the Gutenberg file itself.
 
+## Covenant framework
+The covenant spine — which covenants exist, in what order, on what passages — is not invented here. It follows:
+
+> Paul R. Williamson, "The Biblical Covenants," The Gospel Coalition, Concise Theology series.
+> https://www.thegospelcoalition.org/essay/the-biblical-covenants/ (accessed 2026-10-04)
+
+| Source | Status | Policy |
+|---|---|---|
+| [TGC, "The Biblical Covenants"](https://www.thegospelcoalition.org/essay/the-biblical-covenants/) (Williamson) | **Definitional basis for `data/covenants.json`** | Licensed **CC BY-SA 4.0**, which permits adaptation provided attribution, an indication of changes, and the same licence. The framework's summary, the Abraham/David parallels, and the covenant descriptions in `data/covenants.json` are adapted from it. `scripts/tag-covenants.mjs` cites a specific essay reference for each assignment it makes. |
+
+`scripts/tag-covenants.mjs` applies this framework. Rules are checked most specific first — a cited verse, then a cited chapter range, then a book-wide default. Rules whose reference is prefixed `repo:` are this project's own inferences rather than the essay's citations, and are flagged in the script's report so a reviewer can tell them apart.
+
+Two places where the framework does not line up cleanly with the six existing `cv_` ids, both recorded in `data/covenants.json` under `framework.caveats`:
+
+- **Creation is not an explicit covenant.** The essay counts only covenants Scripture describes, so its first explicit covenant is Noah's. It calls creation a probationary "covenant of works/creation" belonging to Reformed/Covenant Theology and notes that other scholars are "unpersuaded". `cv_creation` is retained as a theological prior with that caveat attached.
+- **The Abrahamic covenant is argued to be two.** Genesis 15:18 ratifies the national promise; Genesis 17:1-14 the international one, ratified by oath at Genesis 22:16-18. Both stay under `cv_abrahamic` so no topic loses its tag, and the split is recorded in `stages` so the legend can be split later without re-tagging.
+- **The Davidic covenant is never called one where it is established.** 2 Samuel 7 and 1 Chronicles 17 promise a dynasty without the word; the framing comes from 2 Samuel 23:5, 2 Chronicles 7:18 and 13:5, Psalm 89:3 and Jeremiah 33:21.
+
+Assigning a covenant to a topic is an editorial proposal, not a reviewed judgement. Of the 1,140 assigned topics, 50 rest on a single cited verse, 126 on a cited chapter range, and 964 on a book-wide default; that last group is the review priority, since a chapter-spanning topic can match a cited verse without being about it. Three topics previously tagged in this project are deliberately now untagged, because the essay gives them no place: `EZK.20`, `EZK.34` and `DAN.9`.
+
 ## Teachers
 Bibliographic only: author, work, year, edition, exact location, URL, passage addressed. No quoted or paraphrased text. Copyright is recorded per work (`public-domain` or `in-copyright`). No entries have been added yet.
 

@@ -11,7 +11,7 @@
   },
   "files": {
     "topics.json": {
-      "sha256": "42f0179f651fdd40bfce90851814aeddb735e4ccf2fbbf68360f9f94857c0eef"
+      "sha256": "b3b0cf929388d48dc56a27cc21239e09616be1a65d57b6c81df9665d37792970"
     },
     "dependencies.json": {
       "sha256": "3931b461c5c591e053fb9e2b756cc6f24b6b25fc8e5728dcebae1b4e201b9c5d"
@@ -20,7 +20,7 @@
       "sha256": "f4ebd3ff35d4411e6c0e71ae4f6e401544f65c17807392681aea89f0c3a51566"
     },
     "covenants.json": {
-      "sha256": "88c763918e8d3c504c4985d5b69d57263b68646a3cd8182184a5eed8e2cd5a51"
+      "sha256": "edd9287dac26bf408a25fdbb2ea75299228c4f74579822d093ddc88050b9bd05"
     },
     "teachers.json": {
       "sha256": "e9d87261da52676d1cf0ca34b0f5f11f8324941ce58388c5861705716a887983"

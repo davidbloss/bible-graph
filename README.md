@@ -16,7 +16,7 @@ A learning path and knowledge graph for teaching and learning the Bible, modelle
 | Sermons / confessions / catechisms | Directories ready, awaiting your uploads |
 | Licences, UK RE alignment | Not yet decided / not started |
 
-Age ranges (`ageRangeStart`/`ageRangeEnd`), `hard`/`soft` strengths and `cv_*` covenant tags are editorial proposals for review, not authoritative.
+Age ranges (`ageRangeStart`/`ageRangeEnd`), `hard`/`soft` strengths and `cv_*` covenant tags are editorial proposals for review, not authoritative. The covenant tags follow the published framework described below, but the mapping onto individual topics has not been human-reviewed.
 
 Cross-linking is done where the text supports it, and stopped where it does not. A relation is only added when both passages were read in the KJV and the text itself makes the link. `docs/crosslink-coverage.md` records the gaps, the reasons, and the checks that changed the plan. Nothing in the graph is human-reviewed yet; `REVIEW.md` is the generated queue and `data/review.json` is where a reviewer's decisions go.
 
@@ -27,7 +27,7 @@ Cross-linking is done where the text supports it, and stopped where it does not.
 | `data/topics.json` | Nodes: `STORY`, `DOCTRINE`, `BOOK_OVERVIEW`, `THEME`, `COVENANT`, `SKILL` (`bt_` ids) |
 | `data/dependencies.json` | Prerequisite DAG. `topicId` depends on `prerequisiteId`; strength `hard`/`soft` plus a reason |
 | `data/relations.json` | Typed edges (`fulfilled-in`, `quoted-in`, `parallels`, `part-of-covenant`, `illustrates-doctrine`); each must cite scripture |
-| `data/covenants.json` | Covenant spine (`cv_` ids): creation, Noah, Abraham, Moses, David, new. Topics link via `covenant` |
+| `data/covenants.json` | Covenant spine (`cv_` ids): creation, Noah, Abraham, Moses, David, new, plus the `framework` block recording the definitional basis. Topics link via `covenant`. See [Covenant framework](#covenant-framework) |
 | `data/teachers.json`, `works.json`, `citations.json` | Source of truth for teacher tracking (bibliographic only) |
 | `TEACHERS.md` | Generated authors / works / timeline file. Do not edit by hand |
 | `REVIEW.md` | Generated human-review queue, one entry per topic, dependency and relation. Do not edit by hand |
@@ -71,6 +71,23 @@ Verse text is fetched lazily from `data/kjv.json` (4.7MB) the first time you ope
 Layout is deterministic and the build is byte-reproducible, so a rebuild produces no diff. Position is derived, not hand-tuned: topics sit in their book's band, spread by a hash-seeded low-discrepancy sequence, with the band's inner radius set by how many descendants a topic unlocks. Two properties are asserted at build time and will fail the build if broken: no book overflows its band, and radius never decreases with canonical order.
 
 Add `?debug=1` to the URL for a `window.bibleGraph` handle (projection, hit testing, selection, render timings). A canvas has no DOM to assert against, so this is how the page is tested.
+
+## Covenant framework
+The covenant spine is not improvised. Its structure, chronology and key passages follow:
+
+> Paul R. Williamson, "The Biblical Covenants," The Gospel Coalition, Concise Theology series.
+> https://www.thegospelcoalition.org/essay/the-biblical-covenants/ (CC BY-SA 4.0)
+
+That essay counts only covenants Scripture itself describes, so **Noah's is the first explicit covenant** (the word first appears at `GEN.6.18`). Its four subsequent stages are Abraham, Moses, David, and the new covenant ratified through the blood of Jesus Christ. Three points where the essay does not fit the six `cv_` ids cleanly, all recorded in `data/covenants.json` under `framework.caveats`:
+
+- **Creation is a theological prior, not an explicit covenant.** The essay calls it a probationary "covenant of works/creation" in Reformed/Covenant Theology and notes other scholars are "unpersuaded". `cv_creation` stays, with the caveat attached.
+- **The Abrahamic covenant is two covenants** in the essay's reading: the national promise ratified at `GEN.15.18`, and the international promise at `GEN.17.1-14`, ratified by solemn oath at `GEN.22.16-18` with circumcision as the sign. Both stay under `cv_abrahamic` so no topic loses a tag; the split is recorded in `stages` on that covenant.
+- **The Davidic covenant is never called one where it is established.** `2SA.7` and `1CH.17` promise a dynasty without the word, so the covenant framing comes from `2SA.23.5`, `2CH.7.18`, `2CH.13.5`, `PSA.89.3` and `JER.33.21`. The essay's six Abraham-David parallels are why Genesis's royal-line chapters sit here rather than under Abraham.
+
+### Tagging rules
+`node scripts/tag-covenants.mjs` assigns a covenant to every topic the framework can place. A topic is tagged with the stage its primary text belongs to under the essay's chronology, most specific match first: a cited verse, then a cited chapter range, then a book-wide default. Every rule names the essay passage it rests on, and inferences of this project's own are prefixed `repo:`. All 66 books have a considered entry with a reason, including the ones the essay leaves unplaced — `EST`, `JOB`, `PRO`, `ECC`, `SNG`, `DAN`, the twelve minor prophets, and several letters — which is a recorded decision rather than an omission.
+
+Current state: **1,140 of 1,772 topics tagged (64.3%)** across 34 books. By reach, 50 tags come from a cited verse, 126 from a cited chapter range, and 964 from a book-wide default. That last group is the review priority, because a topic spanning a whole chapter can match a cited verse without being about it. The 632 untagged topics are concentrated in books the essay does not use — wisdom literature, the minor prophets, and several letters — plus a handful of Genesis and Ezekiel chapters with no covenant content. Use `--dry` to report without writing; the script is idempotent.
 
 ## Passage references
 A reference is `{book, chapter, verseStart, verseEnd}` within one chapter; multi-chapter passages are several refs. In text and front matter: `ROM.5.12-21`. ESV links are derived from refs, never stored (e.g. `https://www.esv.org/Romans+5/`); ESV text is not stored (Crossway copyright).

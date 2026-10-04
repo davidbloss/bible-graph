@@ -9,6 +9,7 @@
     "build:teachers": "node scripts/build-teachers-md.mjs",
     "build:review": "node scripts/build-review.mjs",
     "build:book-links": "node scripts/lib/derive-book-edges.mjs",
-    "build:web": "node scripts/build-graph.mjs"
+    "build:web": "node scripts/build-graph.mjs",
+    "tag:covenants": "node scripts/tag-covenants.mjs"
   }
 }
