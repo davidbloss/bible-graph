@@ -11,12 +11,14 @@ A learning path and knowledge graph for teaching and learning the Bible, modelle
 | Content | State |
 |---|---|
 | KJV full text (`data/kjv.json`) | Imported from Project Gutenberg #10: 66 books, 31,102 verses |
-| Topics: **all 66 books** | 1,772 topics (66 book overviews), 1,811 prerequisite edges, 197 typed relations, 6 covenants. Every KJV verse (31,102 of 31,102) is covered by at least one topic. Drafted by parallel agents from the KJV text, **not yet human-reviewed** |
+| Topics: **all 66 books** | 1,772 topics (66 book overviews), 1,811 prerequisite edges, 601 typed relations, 6 covenants. Every KJV verse (31,102 of 31,102) is covered by at least one topic. Drafted by parallel agents from the KJV text, **not yet human-reviewed** |
 | Teachers, works, citations | Structure ready, **empty** until entries are verified |
 | Sermons / confessions / catechisms | Directories ready, awaiting your uploads |
 | Licences, UK RE alignment | Not yet decided / not started |
 
-Age ranges (`ageRangeStart`/`ageRangeEnd`), `hard`/`soft` strengths and `cv_*` covenant tags are editorial proposals for review, not authoritative. Cross-book links are sparse: relations were only added where both topics existed and the text made the link explicit, so a cross-linking pass is still to do (e.g. Gospel and Acts citations of the Old Testament).
+Age ranges (`ageRangeStart`/`ageRangeEnd`), `hard`/`soft` strengths and `cv_*` covenant tags are editorial proposals for review, not authoritative.
+
+Cross-linking is done where the text supports it, and stopped where it does not. A relation is only added when both passages were read in the KJV and the text itself makes the link. `docs/crosslink-coverage.md` records the gaps, the reasons, and the checks that changed the plan. Nothing in the graph is human-reviewed yet; `REVIEW.md` is the generated queue and `data/review.json` is where a reviewer's decisions go.
 
 ## Layout
 | Path | Purpose |
@@ -28,16 +30,20 @@ Age ranges (`ageRangeStart`/`ageRangeEnd`), `hard`/`soft` strengths and `cv_*` c
 | `data/covenants.json` | Covenant spine (`cv_` ids): creation, Noah, Abraham, Moses, David, new. Topics link via `covenant` |
 | `data/teachers.json`, `works.json`, `citations.json` | Source of truth for teacher tracking (bibliographic only) |
 | `TEACHERS.md` | Generated authors / works / timeline file. Do not edit by hand |
+| `REVIEW.md` | Generated human-review queue, one entry per topic, dependency and relation. Do not edit by hand |
 | `sermons/` | Raw transcripts to be synthesized. See `sermons/README.md` |
 | `confessions/` | e.g. Second London Baptist Confession (1689). See `confessions/README.md` |
 | `catechisms/` | Including children's catechisms. See `catechisms/README.md` |
 | `schema/` | JSON Schemas for each data file |
 | `fragments/` | Parallel authoring: write a fragment, `node scripts/fragment.mjs check <file>`, then a maintainer merges. `scripts/show.mjs` prints KJV passages |
-| `scripts/` | `validate.mjs`, `import-kjv.mjs`, `build-teachers-md.mjs`, `fragment.mjs`, `show.mjs` |
+| `docs/crosslink-coverage.md` | Why some cross-links are absent, including the books the New Testament never cites |
+| `scripts/` | `validate.mjs`, `import-kjv.mjs`, `build-teachers-md.mjs`, `build-review.mjs`, `fragment.mjs`, `show.mjs` |
 
 ```
 npm run validate                          # integrity checks
 node scripts/validate.mjs --update-manifest   # after editing data, refresh checksums
+npm run build:review                      # regenerate REVIEW.md from data/ + data/review.json
+npm run build:book-links                  # regenerate the book-level rollup fragment
 npm run build:teachers                    # regenerate TEACHERS.md
 ```
 

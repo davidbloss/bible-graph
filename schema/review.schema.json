@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/bible-taxonomy/schema/review.schema.json",
+  "description": "Human review decisions for the agent-authored corpus. REVIEW.md is generated from this file by scripts/build-review.mjs; this file is the only one a reviewer edits.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "decisions"],
+  "properties": {
+    "version": { "type": "string" },
+    "note": { "type": "string" },
+    "decisions": {
+      "type": "object",
+      "description": "Keyed by the stable item identifiers printed in REVIEW.md.",
+      "propertyNames": { "pattern": "^(topic:bt_|dep:bt_|relation:bt_)" },
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["status"],
+        "properties": {
+          "status": { "enum": ["ok", "changed", "wrong"] },
+          "by": { "type": "string", "description": "Reviewer who made the call" },
+          "on": { "type": "string", "description": "ISO date of the review" },
+          "note": { "type": "string", "description": "Required in substance when status is changed or wrong: what was wrong and what was done" }
+        },
+        "allOf": [
+          {
+            "if": { "properties": { "status": { "enum": ["changed", "wrong"] } }, "required": ["status"] },
+            "then": { "required": ["by", "on"], "properties": { "note": { "minLength": 1 } } }
+          }
+        ]
+      }
+    }
+  }
+}

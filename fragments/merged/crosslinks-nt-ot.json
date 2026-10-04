@@ -910,15 +910,6 @@
    ]
   },
   {
-   "from": "isa_true_fast",
-   "to": "luk_nazareth",
-   "kind": "quoted-in",
-   "refs": [
-    "ISA 58:6",
-    "LUK 4:18"
-   ]
-  },
-  {
    "from": "1ki_widow_zarephath_meal",
    "to": "luk_nazareth",
    "kind": "parallels",

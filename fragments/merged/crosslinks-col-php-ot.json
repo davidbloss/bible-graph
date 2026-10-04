@@ -1,0 +1,18 @@
+{
+ "topics": [],
+ "dependencies": [],
+ "relations": [
+  {
+   "from": "gen_creation",
+   "to": "col_supremacy_christ",
+   "kind": "parallels",
+   "refs": ["GEN 1:1", "COL 1:15-17"]
+  },
+  {
+   "from": "isa_cyrus",
+   "to": "php_mind_of_christ",
+   "kind": "quoted-in",
+   "refs": ["ISA 45:23", "PHP 2:10-11"]
+  }
+ ]
+}

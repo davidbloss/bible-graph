@@ -6,6 +6,8 @@
   "description": "Bible learning path and knowledge graph: topics, prerequisites, covenant history, and bibliographic tracking of reformed teachers.",
   "scripts": {
     "validate": "node scripts/validate.mjs",
-    "build:teachers": "node scripts/build-teachers-md.mjs"
+    "build:teachers": "node scripts/build-teachers-md.mjs",
+    "build:review": "node scripts/build-review.mjs",
+    "build:book-links": "node scripts/lib/derive-book-edges.mjs"
   }
 }

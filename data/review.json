@@ -1,0 +1,5 @@
+{
+ "version": "v0",
+ "note": "Human review decisions for agent-authored content. Keys are stable identifiers emitted by scripts/build-review.mjs: `topic:<id>`, `dep:<topicId><-<prerequisiteId>`, `relation:<from>|<to>|<kind>|<refs>`. REVIEW.md is generated from this file; never edit REVIEW.md by hand. status: unreviewed | ok | changed | wrong. When status is changed or wrong, say what was wrong in `note`.",
+ "decisions": {}
+}

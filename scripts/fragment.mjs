@@ -13,6 +13,7 @@ import { tmpdir } from 'node:os';
 import { spawnSync } from 'node:child_process';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { relKey } from './lib/edge-key.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const [mode, file] = process.argv.slice(2);
@@ -50,9 +51,17 @@ for (const t of frag.topics ?? []) {
   } catch (e) { problems.push(`topic ${t.id}: ${e.message}`); }
 }
 for (const d of frag.dependencies ?? []) deps.dependencies.push({ topicId: id(d.topic), prerequisiteId: id(d.prereq), strength: d.strength, reason: d.reason });
+const knownRels = new Set(rels.relations.map(relKey));
+let addedRels = 0;
+let skippedRels = 0;
 for (const r of frag.relations ?? []) {
-  try { rels.relations.push({ from: id(r.from), to: id(r.to), kind: r.kind, refs: refs(r.refs ?? []) }); }
-  catch (e) { problems.push(`relation ${r.from}->${r.to}: ${e.message}`); }
+  try {
+    const edge = { from: id(r.from), to: id(r.to), kind: r.kind, refs: refs(r.refs ?? []) };
+    if (knownRels.has(relKey(edge))) { skippedRels++; continue; }
+    knownRels.add(relKey(edge));
+    rels.relations.push(edge);
+    addedRels++;
+  } catch (e) { problems.push(`relation ${r.from}->${r.to}: ${e.message}`); }
 }
 if (problems.length) { console.error(problems.join('\n')); process.exit(1); }
 
@@ -66,4 +75,6 @@ run(['--update-manifest']);
 const v = run([]);
 process.stdout.write(v.stdout); process.stderr.write(v.stderr);
 if (v.status !== 0) { console.error(mode === 'check' ? 'FRAGMENT INVALID: fix and re-run check' : 'MERGE PRODUCED INVALID DATA'); process.exit(1); }
-console.log(mode === 'check' ? `fragment OK: +${frag.topics?.length ?? 0} topics, +${frag.dependencies?.length ?? 0} deps, +${frag.relations?.length ?? 0} relations` : 'merged');
+console.log(mode === 'check'
+  ? `fragment OK: +${frag.topics?.length ?? 0} topics, +${frag.dependencies?.length ?? 0} deps, +${addedRels} relations${skippedRels ? `, ${skippedRels} already present and skipped` : ''}`
+  : `merged: +${frag.topics?.length ?? 0} topics, +${frag.dependencies?.length ?? 0} deps, +${addedRels} relations${skippedRels ? `, ${skippedRels} already present and skipped` : ''}`);

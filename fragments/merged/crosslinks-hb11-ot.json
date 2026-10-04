@@ -1,0 +1,36 @@
+{
+ "topics": [],
+ "dependencies": [],
+ "relations": [
+  {
+   "from": "deu_justice_levirate",
+   "to": "1ti_widows_family",
+   "kind": "quoted-in",
+   "refs": ["DEU 25:4", "1TI 5:18"]
+  },
+  {
+   "from": "heb_faith_many",
+   "to": "jdg_deborah_barak",
+   "kind": "parallels",
+   "refs": ["HEB 11:32", "JDG 4:4"]
+  },
+  {
+   "from": "heb_faith_many",
+   "to": "jdg_gideon_300",
+   "kind": "parallels",
+   "refs": ["HEB 11:32", "JDG 7:1-3"]
+  },
+  {
+   "from": "heb_faith_many",
+   "to": "jdg_jephthah_rise",
+   "kind": "parallels",
+   "refs": ["HEB 11:32", "JDG 11:1"]
+  },
+  {
+   "from": "heb_faith_many",
+   "to": "jdg_samson_birth",
+   "kind": "parallels",
+   "refs": ["HEB 11:32", "JDG 13:5"]
+  }
+ ]
+}

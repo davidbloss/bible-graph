@@ -1,0 +1,102 @@
+{
+ "topics": [],
+ "dependencies": [],
+ "relations": [
+  {
+   "from": "dan_beasts_ancient_of_days",
+   "to": "rev_vision_christ",
+   "kind": "quoted-in",
+   "refs": ["DAN 7:9", "DAN 7:13", "REV 1:13-14"]
+  },
+  {
+   "from": "dan_beasts_ancient_of_days",
+   "to": "rev_throne_heaven",
+   "kind": "parallels",
+   "refs": ["DAN 7:9-10", "REV 4:2-3"]
+  },
+  {
+   "from": "ezk_vision_glory",
+   "to": "rev_throne_heaven",
+   "kind": "parallels",
+   "refs": ["EZK 1:26-28", "REV 4:2-3"]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "rev_lamb_scroll",
+   "kind": "parallels",
+   "refs": ["ISA 53:7", "REV 5:6"]
+  },
+  {
+   "from": "dan_beasts_interpreted",
+   "to": "rev_two_beasts",
+   "kind": "quoted-in",
+   "refs": ["DAN 7:2-7", "REV 13:1-2"]
+  },
+  {
+   "from": "dan_time_of_end",
+   "to": "rev_woman_dragon",
+   "kind": "parallels",
+   "refs": ["DAN 12:1", "REV 12:7"]
+  },
+  {
+   "from": "gen_curse_promise",
+   "to": "rev_woman_dragon",
+   "kind": "parallels",
+   "refs": ["GEN 3:15", "REV 12:17"]
+  },
+  {
+   "from": "zec_lampstand_zerubbabel",
+   "to": "rev_two_witnesses",
+   "kind": "quoted-in",
+   "refs": ["ZEC 4:11-14", "REV 11:4"]
+  },
+  {
+   "from": "exo_plague_blood",
+   "to": "rev_seven_bowls",
+   "kind": "parallels",
+   "refs": ["EXO 7:20", "REV 16:4"]
+  },
+  {
+   "from": "jer_babylon_judged",
+   "to": "rev_babylon_woman_beast",
+   "kind": "quoted-in",
+   "refs": ["JER 51:7", "REV 17:4"]
+  },
+  {
+   "from": "isa_burdens_watchman",
+   "to": "rev_babylon_falls",
+   "kind": "quoted-in",
+   "refs": ["ISA 21:9", "REV 18:2"]
+  },
+  {
+   "from": "dan_beasts_ancient_of_days",
+   "to": "rev_final_judgment",
+   "kind": "parallels",
+   "refs": ["DAN 7:9-10", "REV 20:11"]
+  },
+  {
+   "from": "isa_new_heavens_earth",
+   "to": "rev_new_heaven_earth",
+   "kind": "quoted-in",
+   "refs": ["ISA 65:17", "REV 21:1"]
+  },
+  {
+   "from": "isa_new_heavens_earth",
+   "to": "rev_new_heaven_earth",
+   "kind": "quoted-in",
+   "refs": ["ISA 65:19", "REV 21:4"]
+  },
+  {
+   "from": "isa_branch_jesse",
+   "to": "rev_epilogue",
+   "kind": "parallels",
+   "refs": ["ISA 11:10", "REV 22:16"]
+  },
+  {
+   "from": "deu_hear_statutes",
+   "to": "rev_epilogue",
+   "kind": "parallels",
+   "refs": ["DEU 4:2", "REV 22:18-19"]
+  }
+ ]
+}

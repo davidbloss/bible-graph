@@ -1,0 +1,66 @@
+{
+ "topics": [],
+ "dependencies": [],
+ "relations": [
+  {
+   "from": "exo_moses_asks_glory",
+   "to": "2co_yes_in_christ",
+   "kind": "parallels",
+   "refs": ["EXO 33:18", "2CO 1:20"]
+  },
+  {
+   "from": "exo_name_proclaimed",
+   "to": "2co_comfort_affliction",
+   "kind": "parallels",
+   "refs": ["EXO 34:6", "2CO 1:3"]
+  },
+  {
+   "from": "jer_new_covenant",
+   "to": "2co_new_covenant_ministry",
+   "kind": "quoted-in",
+   "refs": ["JER 31:31-33", "2CO 3:6"]
+  },
+  {
+   "from": "exo_moses_face",
+   "to": "2co_unveiled_glory",
+   "kind": "quoted-in",
+   "refs": ["EXO 34:33-35", "2CO 3:16-18"]
+  },
+  {
+   "from": "isa_redeemed_israel",
+   "to": "2co_reconciliation",
+   "kind": "parallels",
+   "refs": ["ISA 43:19", "2CO 5:17"]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "2co_reconciliation",
+   "kind": "parallels",
+   "refs": ["ISA 53:6", "2CO 5:21"]
+  },
+  {
+   "from": "isa_prayer_lament",
+   "to": "2co_unequally_yoked",
+   "kind": "parallels",
+   "refs": ["ISA 64:8", "2CO 6:18"]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "2co_inner_renewed",
+   "kind": "parallels",
+   "refs": ["ISA 40:31", "2CO 4:16"]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "2co_thorn_weakness",
+   "kind": "parallels",
+   "refs": ["ISA 40:29", "2CO 12:9"]
+  },
+  {
+   "from": "gen_fall",
+   "to": "2co_false_apostles",
+   "kind": "parallels",
+   "refs": ["GEN 3:1-4", "2CO 11:14"]
+  }
+ ]
+}

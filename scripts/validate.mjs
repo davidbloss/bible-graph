@@ -3,19 +3,19 @@ import { createHash } from 'node:crypto';
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { depKey, relationKey, relKey, topicKey } from './lib/edge-key.mjs';
+import { NT, OT, OVERLAP_ADVISORY_MAX, quoteOverlap } from './lib/overlap.mjs';
 
 const root = process.env.BT_ROOT ?? join(dirname(fileURLToPath(import.meta.url)), '..');
 const dataPath = (f) => join(root, 'data', f);
 const load = (f) => JSON.parse(readFileSync(dataPath(f), 'utf8'));
 const errors = [];
+const warnings = [];
 const err = (m) => errors.push(m);
+const warn = (m) => warnings.push(m);
 
 // USFM-style ids for the 66 canonical books (fixed enum).
-const BOOKS = new Set(
-  ('GEN EXO LEV NUM DEU JOS JDG RUT 1SA 2SA 1KI 2KI 1CH 2CH EZR NEH EST JOB PSA PRO ECC SNG ISA JER LAM EZK DAN ' +
-    'HOS JOL AMO OBA JON MIC NAM HAB ZEP HAG ZEC MAL MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH ' +
-    '1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV').split(' '),
-);
+const BOOKS = new Set([...OT, ...NT]);
 if (BOOKS.size !== 66) err(`internal: expected 66 books, got ${BOOKS.size}`);
 
 const FILES = ['topics.json', 'dependencies.json', 'relations.json', 'covenants.json', 'teachers.json', 'works.json', 'citations.json'];
@@ -30,9 +30,11 @@ const citations = load('citations.json').citations;
 
 // Verse bounds come from kjv.json only (never hand-typed). Shape: { verses: { "GEN.1.1": "text", ... } }
 let bounds = null;
+let kjvText = null;
 if (existsSync(dataPath('kjv.json'))) {
+  kjvText = load('kjv.json').verses;
   bounds = new Map();
-  for (const key of Object.keys(load('kjv.json').verses)) {
+  for (const key of Object.keys(kjvText)) {
     const [b, c, v] = key.split('.');
     const k = `${b}.${c}`;
     bounds.set(k, Math.max(bounds.get(k) ?? 0, Number(v)));
@@ -98,13 +100,25 @@ for (const n of adj.keys()) visit(n, []);
 
 // Relations: every edge must cite scripture
 count(rels.relations.length, rels.relationCount, 'relationCount');
+const seenRels = new Set();
+const thinOverlaps = [];
 rels.relations.forEach((r, i) => {
   if (!topicIds.has(r.from)) err(`relation[${i}]: unknown from ${r.from}`);
   if (!topicIds.has(r.to)) err(`relation[${i}]: unknown to ${r.to}`);
   if (!['fulfilled-in', 'quoted-in', 'parallels', 'part-of-covenant', 'illustrates-doctrine'].includes(r.kind)) err(`relation[${i}]: invalid kind ${r.kind}`);
   if (!r.refs?.length) err(`relation[${i}]: needs at least one scripture ref`);
   r.refs?.forEach((x, j) => checkRef(x, `relation[${i}] ref[${j}]`));
+  const k = relKey(r);
+  if (seenRels.has(k)) err(`relation[${i}]: duplicate edge ${r.from} -> ${r.to} (${r.kind}) with identical refs`);
+  seenRels.add(k);
+
+  const ov = quoteOverlap(kjvText, r.kind, r.refs);
+  if (!ov) return;
+  const label = `${r.from} -> ${r.to} (${r.kind}, ${r.refs.map((p) => `${p.book}.${p.chapter}.${p.verseStart}-${p.verseEnd}`).join(' ')})`;
+  if (ov.ratio === 0) warn(`${label}: the cited passages share no content words. Read both with show.mjs and confirm this really is a quotation.`);
+  else if (ov.ratio < OVERLAP_ADVISORY_MAX) thinOverlaps.push(`${label} (${(ov.ratio * 100).toFixed(0)}% shared)`);
 });
+if (thinOverlaps.length) warn(`${thinOverlaps.length} further ${thinOverlaps.length === 1 ? 'edge has' : 'edges have'} under ${OVERLAP_ADVISORY_MAX * 100}% shared content words, usually NT paraphrase: ${thinOverlaps.join(' | ')}`);
 
 // Teachers / works / citations (bibliographic only)
 const teacherIds = unique(teachers, 'teachers');
@@ -121,6 +135,32 @@ for (const c of citations) {
   if (c.verified && !c.verifiedOn) err(`citation ${c.id}: verified=true requires verifiedOn`);
   c.addresses.forEach((r, i) => checkRef(r, `citation ${c.id} addresses[${i}]`));
   for (const banned of ['quote', 'text', 'summary']) if (banned in c) err(`citation ${c.id}: "${banned}" not allowed (bibliographic only)`);
+}
+
+// Human review decisions (data/review.json). Deliberately not in the manifest checksum set: a
+// reviewer editing decisions should not have to regenerate checksums for corpus data.
+if (existsSync(dataPath('review.json'))) {
+  const decisions = load('review.json').decisions ?? {};
+  const resolvable = new Set([
+    ...topics.topics.map((t) => topicKey(t.id)),
+    ...deps.dependencies.map((d) => depKey(d)),
+    ...rels.relations.map((r) => relationKey(r)),
+  ]);
+  let orphanDecisions = 0;
+  for (const [key, d] of Object.entries(decisions)) {
+    if (!['ok', 'changed', 'wrong'].includes(d.status)) err(`review decision ${key}: invalid status "${d.status}"`);
+    if (d.status === 'changed' || d.status === 'wrong') {
+      for (const k of ['by', 'on', 'note']) if (!d[k]) err(`review decision ${key}: status "${d.status}" requires "${k}"`);
+    }
+    if (!resolvable.has(key)) {
+      orphanDecisions++;
+      warn(`review decision ${key} no longer matches any item in data/. The item was probably edited or removed; delete the decision or re-key it.`);
+    }
+  }
+  const reviewed = Object.keys(decisions).length;
+  const outstanding = resolvable.size - Object.keys(decisions).filter((k) => resolvable.has(k)).length;
+  warn(`human review: ${reviewed} of ${resolvable.size} items carry a decision, ${outstanding} still unreviewed. See REVIEW.md (npm run build:review).`);
+  if (orphanDecisions) warn(`${orphanDecisions} review decision(s) no longer resolve.`);
 }
 
 // Corpus files (sermons, confessions, catechisms): front matter must be present and complete
@@ -164,6 +204,8 @@ if (process.argv.includes('--update-manifest')) {
   for (const [f, info] of Object.entries(m.files)) if (sha(f) !== info.sha256) err(`manifest: checksum mismatch for ${f}`);
 } else err('manifest.json missing (run with --update-manifest)');
 
+for (const w of warnings) console.error(`warning: ${w}`);
+if (warnings.length) console.error(`${warnings.length} warning(s). These do not fail the build: check them against the KJV text.\n`);
 if (errors.length) {
   console.error(errors.join('\n'));
   console.error(`\n${errors.length} problem(s)`);

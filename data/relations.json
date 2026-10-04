@@ -1,6 +1,6 @@
 {
  "version": "v0",
- "relationCount": 461,
+ "relationCount": 601,
  "relations": [
   {
    "from": "bt_gen_abraham_believed",
@@ -5683,25 +5683,6 @@
    ]
   },
   {
-   "from": "bt_isa_true_fast",
-   "to": "bt_luk_nazareth",
-   "kind": "quoted-in",
-   "refs": [
-    {
-     "book": "ISA",
-     "chapter": 58,
-     "verseStart": 6,
-     "verseEnd": 6
-    },
-    {
-     "book": "LUK",
-     "chapter": 4,
-     "verseStart": 18,
-     "verseEnd": 18
-    }
-   ]
-  },
-  {
    "from": "bt_1ki_widow_zarephath_meal",
    "to": "bt_luk_nazareth",
    "kind": "parallels",
@@ -8776,6 +8757,2691 @@
      "chapter": 5,
      "verseStart": 18,
      "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_dan_beasts_ancient_of_days",
+   "to": "bt_rev_vision_christ",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 7,
+     "verseStart": 9,
+     "verseEnd": 9
+    },
+    {
+     "book": "DAN",
+     "chapter": 7,
+     "verseStart": 13,
+     "verseEnd": 13
+    },
+    {
+     "book": "REV",
+     "chapter": 1,
+     "verseStart": 13,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_dan_beasts_ancient_of_days",
+   "to": "bt_rev_throne_heaven",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 7,
+     "verseStart": 9,
+     "verseEnd": 10
+    },
+    {
+     "book": "REV",
+     "chapter": 4,
+     "verseStart": 2,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_ezk_vision_glory",
+   "to": "bt_rev_throne_heaven",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EZK",
+     "chapter": 1,
+     "verseStart": 26,
+     "verseEnd": 28
+    },
+    {
+     "book": "REV",
+     "chapter": 4,
+     "verseStart": 2,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_suffering_servant",
+   "to": "bt_rev_lamb_scroll",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 53,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "REV",
+     "chapter": 5,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_dan_beasts_interpreted",
+   "to": "bt_rev_two_beasts",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 7,
+     "verseStart": 2,
+     "verseEnd": 7
+    },
+    {
+     "book": "REV",
+     "chapter": 13,
+     "verseStart": 1,
+     "verseEnd": 2
+    }
+   ]
+  },
+  {
+   "from": "bt_dan_time_of_end",
+   "to": "bt_rev_woman_dragon",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 12,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "REV",
+     "chapter": 12,
+     "verseStart": 7,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_curse_promise",
+   "to": "bt_rev_woman_dragon",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 3,
+     "verseStart": 15,
+     "verseEnd": 15
+    },
+    {
+     "book": "REV",
+     "chapter": 12,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_zec_lampstand_zerubbabel",
+   "to": "bt_rev_two_witnesses",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ZEC",
+     "chapter": 4,
+     "verseStart": 11,
+     "verseEnd": 14
+    },
+    {
+     "book": "REV",
+     "chapter": 11,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_exo_plague_blood",
+   "to": "bt_rev_seven_bowls",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 7,
+     "verseStart": 20,
+     "verseEnd": 20
+    },
+    {
+     "book": "REV",
+     "chapter": 16,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_jer_babylon_judged",
+   "to": "bt_rev_babylon_woman_beast",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 51,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "REV",
+     "chapter": 17,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_burdens_watchman",
+   "to": "bt_rev_babylon_falls",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 21,
+     "verseStart": 9,
+     "verseEnd": 9
+    },
+    {
+     "book": "REV",
+     "chapter": 18,
+     "verseStart": 2,
+     "verseEnd": 2
+    }
+   ]
+  },
+  {
+   "from": "bt_dan_beasts_ancient_of_days",
+   "to": "bt_rev_final_judgment",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 7,
+     "verseStart": 9,
+     "verseEnd": 10
+    },
+    {
+     "book": "REV",
+     "chapter": 20,
+     "verseStart": 11,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_new_heavens_earth",
+   "to": "bt_rev_new_heaven_earth",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 65,
+     "verseStart": 17,
+     "verseEnd": 17
+    },
+    {
+     "book": "REV",
+     "chapter": 21,
+     "verseStart": 1,
+     "verseEnd": 1
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_new_heavens_earth",
+   "to": "bt_rev_new_heaven_earth",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 65,
+     "verseStart": 19,
+     "verseEnd": 19
+    },
+    {
+     "book": "REV",
+     "chapter": 21,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_branch_jesse",
+   "to": "bt_rev_epilogue",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 11,
+     "verseStart": 10,
+     "verseEnd": 10
+    },
+    {
+     "book": "REV",
+     "chapter": 22,
+     "verseStart": 16,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_hear_statutes",
+   "to": "bt_rev_epilogue",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 4,
+     "verseStart": 2,
+     "verseEnd": 2
+    },
+    {
+     "book": "REV",
+     "chapter": 22,
+     "verseStart": 18,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_exo_moses_asks_glory",
+   "to": "bt_2co_yes_in_christ",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 33,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "2CO",
+     "chapter": 1,
+     "verseStart": 20,
+     "verseEnd": 20
+    }
+   ]
+  },
+  {
+   "from": "bt_exo_name_proclaimed",
+   "to": "bt_2co_comfort_affliction",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 34,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "2CO",
+     "chapter": 1,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_jer_new_covenant",
+   "to": "bt_2co_new_covenant_ministry",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 31,
+     "verseStart": 31,
+     "verseEnd": 33
+    },
+    {
+     "book": "2CO",
+     "chapter": 3,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_exo_moses_face",
+   "to": "bt_2co_unveiled_glory",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 34,
+     "verseStart": 33,
+     "verseEnd": 35
+    },
+    {
+     "book": "2CO",
+     "chapter": 3,
+     "verseStart": 16,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_redeemed_israel",
+   "to": "bt_2co_reconciliation",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 43,
+     "verseStart": 19,
+     "verseEnd": 19
+    },
+    {
+     "book": "2CO",
+     "chapter": 5,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_suffering_servant",
+   "to": "bt_2co_reconciliation",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 53,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "2CO",
+     "chapter": 5,
+     "verseStart": 21,
+     "verseEnd": 21
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_prayer_lament",
+   "to": "bt_2co_unequally_yoked",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 64,
+     "verseStart": 8,
+     "verseEnd": 8
+    },
+    {
+     "book": "2CO",
+     "chapter": 6,
+     "verseStart": 18,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_comfort",
+   "to": "bt_2co_inner_renewed",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 40,
+     "verseStart": 31,
+     "verseEnd": 31
+    },
+    {
+     "book": "2CO",
+     "chapter": 4,
+     "verseStart": 16,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_comfort",
+   "to": "bt_2co_thorn_weakness",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 40,
+     "verseStart": 29,
+     "verseEnd": 29
+    },
+    {
+     "book": "2CO",
+     "chapter": 12,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_fall",
+   "to": "bt_2co_false_apostles",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 3,
+     "verseStart": 1,
+     "verseEnd": 4
+    },
+    {
+     "book": "2CO",
+     "chapter": 11,
+     "verseStart": 14,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_creation",
+   "to": "bt_col_supremacy_christ",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 1,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "COL",
+     "chapter": 1,
+     "verseStart": 15,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_isa_cyrus",
+   "to": "bt_php_mind_of_christ",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 45,
+     "verseStart": 23,
+     "verseEnd": 23
+    },
+    {
+     "book": "PHP",
+     "chapter": 2,
+     "verseStart": 10,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_1co",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 29,
+     "verseStart": 14,
+     "verseEnd": 14
+    },
+    {
+     "book": "1CO",
+     "chapter": 1,
+     "verseStart": 19,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_book_exo",
+   "to": "bt_book_1co",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 13,
+     "verseStart": 21,
+     "verseEnd": 21
+    },
+    {
+     "book": "1CO",
+     "chapter": 10,
+     "verseStart": 1,
+     "verseEnd": 1
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_1co",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 94,
+     "verseStart": 11,
+     "verseEnd": 11
+    },
+    {
+     "book": "1CO",
+     "chapter": 3,
+     "verseStart": 20,
+     "verseEnd": 20
+    }
+   ]
+  },
+  {
+   "from": "bt_book_num",
+   "to": "bt_book_1co",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "NUM",
+     "chapter": 25,
+     "verseStart": 1,
+     "verseEnd": 9
+    },
+    {
+     "book": "1CO",
+     "chapter": 10,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_book_1jn",
+   "to": "bt_book_gen",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1JN",
+     "chapter": 3,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "GEN",
+     "chapter": 4,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_book_1ki",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 19,
+     "verseStart": 10,
+     "verseEnd": 10
+    },
+    {
+     "book": "ROM",
+     "chapter": 11,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_book_1ki",
+   "to": "bt_book_jas",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 17,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "JAS",
+     "chapter": 5,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_book_1ki",
+   "to": "bt_book_luk",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 17,
+     "verseStart": 8,
+     "verseEnd": 9
+    },
+    {
+     "book": "LUK",
+     "chapter": 4,
+     "verseStart": 25,
+     "verseEnd": 26
+    }
+   ]
+  },
+  {
+   "from": "bt_book_1ki",
+   "to": "bt_book_mat",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 10,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "MAT",
+     "chapter": 12,
+     "verseStart": 42,
+     "verseEnd": 42
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_1pe",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 40,
+     "verseStart": 6,
+     "verseEnd": 8
+    },
+    {
+     "book": "1PE",
+     "chapter": 1,
+     "verseStart": 24,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_book_pro",
+   "to": "bt_book_1pe",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PRO",
+     "chapter": 10,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "1PE",
+     "chapter": 4,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_book_1pe",
+   "to": "bt_book_gen",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1PE",
+     "chapter": 3,
+     "verseStart": 20,
+     "verseEnd": 20
+    },
+    {
+     "book": "GEN",
+     "chapter": 7,
+     "verseStart": 7,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_1pe",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 118,
+     "verseStart": 22,
+     "verseEnd": 22
+    },
+    {
+     "book": "1PE",
+     "chapter": 2,
+     "verseStart": 7,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_book_1sa",
+   "to": "bt_book_mat",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1SA",
+     "chapter": 21,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "MAT",
+     "chapter": 12,
+     "verseStart": 3,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_book_1sa",
+   "to": "bt_book_mrk",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1SA",
+     "chapter": 21,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "MRK",
+     "chapter": 2,
+     "verseStart": 25,
+     "verseEnd": 26
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_2co",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 43,
+     "verseStart": 19,
+     "verseEnd": 19
+    },
+    {
+     "book": "2CO",
+     "chapter": 5,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_2co",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 3,
+     "verseStart": 1,
+     "verseEnd": 13
+    },
+    {
+     "book": "2CO",
+     "chapter": 11,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_book_exo",
+   "to": "bt_book_2co",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 33,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "2CO",
+     "chapter": 1,
+     "verseStart": 20,
+     "verseEnd": 20
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jer",
+   "to": "bt_book_2co",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 31,
+     "verseStart": 31,
+     "verseEnd": 33
+    },
+    {
+     "book": "2CO",
+     "chapter": 3,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_2ki",
+   "to": "bt_book_luk",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2KI",
+     "chapter": 5,
+     "verseStart": 14,
+     "verseEnd": 14
+    },
+    {
+     "book": "LUK",
+     "chapter": 4,
+     "verseStart": 27,
+     "verseEnd": 27
+    }
+   ]
+  },
+  {
+   "from": "bt_book_2pe",
+   "to": "bt_book_gen",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2PE",
+     "chapter": 2,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "GEN",
+     "chapter": 7,
+     "verseStart": 23,
+     "verseEnd": 23
+    }
+   ]
+  },
+  {
+   "from": "bt_book_num",
+   "to": "bt_book_2pe",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "NUM",
+     "chapter": 22,
+     "verseStart": 21,
+     "verseEnd": 30
+    },
+    {
+     "book": "2PE",
+     "chapter": 2,
+     "verseStart": 15,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_book_pro",
+   "to": "bt_book_2pe",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PRO",
+     "chapter": 26,
+     "verseStart": 11,
+     "verseEnd": 11
+    },
+    {
+     "book": "2PE",
+     "chapter": 2,
+     "verseStart": 22,
+     "verseEnd": 22
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_2pe",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 90,
+     "verseStart": 4,
+     "verseEnd": 4
+    },
+    {
+     "book": "2PE",
+     "chapter": 3,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_book_2sa",
+   "to": "bt_book_heb",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "2SA",
+     "chapter": 7,
+     "verseStart": 14,
+     "verseEnd": 14
+    },
+    {
+     "book": "HEB",
+     "chapter": 1,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_act",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 16,
+     "verseStart": 8,
+     "verseEnd": 11
+    },
+    {
+     "book": "ACT",
+     "chapter": 2,
+     "verseStart": 25,
+     "verseEnd": 28
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_act",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 12,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "ACT",
+     "chapter": 7,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_act",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 6,
+     "verseStart": 9,
+     "verseEnd": 10
+    },
+    {
+     "book": "ACT",
+     "chapter": 28,
+     "verseStart": 26,
+     "verseEnd": 27
+    }
+   ]
+  },
+  {
+   "from": "bt_book_exo",
+   "to": "bt_book_act",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 3,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "ACT",
+     "chapter": 3,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_book_amo",
+   "to": "bt_book_act",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "AMO",
+     "chapter": 5,
+     "verseStart": 25,
+     "verseEnd": 27
+    },
+    {
+     "book": "ACT",
+     "chapter": 7,
+     "verseStart": 42,
+     "verseEnd": 43
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_col",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 1,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "COL",
+     "chapter": 1,
+     "verseStart": 15,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_book_dan",
+   "to": "bt_book_rev",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 7,
+     "verseStart": 9,
+     "verseEnd": 9
+    },
+    {
+     "book": "REV",
+     "chapter": 1,
+     "verseStart": 13,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_book_dan",
+   "to": "bt_book_mat",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 9,
+     "verseStart": 27,
+     "verseEnd": 27
+    },
+    {
+     "book": "MAT",
+     "chapter": 24,
+     "verseStart": 15,
+     "verseEnd": 15
+    }
+   ]
+  },
+  {
+   "from": "bt_book_dan",
+   "to": "bt_book_mrk",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 9,
+     "verseStart": 27,
+     "verseEnd": 27
+    },
+    {
+     "book": "MRK",
+     "chapter": 13,
+     "verseStart": 14,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_book_deu",
+   "to": "bt_book_mat",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 8,
+     "verseStart": 3,
+     "verseEnd": 3
+    },
+    {
+     "book": "MAT",
+     "chapter": 4,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_book_deu",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 5,
+     "verseStart": 17,
+     "verseEnd": 21
+    },
+    {
+     "book": "ROM",
+     "chapter": 13,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_book_deu",
+   "to": "bt_book_luk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 8,
+     "verseStart": 3,
+     "verseEnd": 3
+    },
+    {
+     "book": "LUK",
+     "chapter": 4,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_book_deu",
+   "to": "bt_book_heb",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 32,
+     "verseStart": 35,
+     "verseEnd": 36
+    },
+    {
+     "book": "HEB",
+     "chapter": 10,
+     "verseStart": 30,
+     "verseEnd": 30
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_eph",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 8,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "EPH",
+     "chapter": 1,
+     "verseStart": 22,
+     "verseEnd": 22
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_eph",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 24,
+     "verseEnd": 24
+    },
+    {
+     "book": "EPH",
+     "chapter": 5,
+     "verseStart": 31,
+     "verseEnd": 31
+    }
+   ]
+  },
+  {
+   "from": "bt_book_exo",
+   "to": "bt_book_eph",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 20,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "EPH",
+     "chapter": 6,
+     "verseStart": 2,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_book_zec",
+   "to": "bt_book_eph",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "ZEC",
+     "chapter": 8,
+     "verseStart": 16,
+     "verseEnd": 16
+    },
+    {
+     "book": "EPH",
+     "chapter": 4,
+     "verseStart": 25,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_book_exo",
+   "to": "bt_book_mat",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 20,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "MAT",
+     "chapter": 15,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_book_exo",
+   "to": "bt_book_heb",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 25,
+     "verseStart": 40,
+     "verseEnd": 40
+    },
+    {
+     "book": "HEB",
+     "chapter": 8,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jer",
+   "to": "bt_book_ezk",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 31,
+     "verseStart": 33,
+     "verseEnd": 33
+    },
+    {
+     "book": "EZK",
+     "chapter": 36,
+     "verseStart": 26,
+     "verseEnd": 28
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_gal",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "GAL",
+     "chapter": 3,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_deu",
+   "to": "bt_book_gal",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 27,
+     "verseStart": 26,
+     "verseEnd": 26
+    },
+    {
+     "book": "GAL",
+     "chapter": 3,
+     "verseStart": 10,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_book_lev",
+   "to": "bt_book_gal",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "LEV",
+     "chapter": 18,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "GAL",
+     "chapter": 3,
+     "verseStart": 12,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_book_hab",
+   "to": "bt_book_gal",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HAB",
+     "chapter": 2,
+     "verseStart": 4,
+     "verseEnd": 4
+    },
+    {
+     "book": "GAL",
+     "chapter": 3,
+     "verseStart": 11,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_heb",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 4,
+     "verseStart": 3,
+     "verseEnd": 5
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "ROM",
+     "chapter": 4,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_book_hab",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HAB",
+     "chapter": 2,
+     "verseStart": 4,
+     "verseEnd": 4
+    },
+    {
+     "book": "ROM",
+     "chapter": 1,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_book_hab",
+   "to": "bt_book_act",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HAB",
+     "chapter": 1,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "ACT",
+     "chapter": 13,
+     "verseStart": 40,
+     "verseEnd": 41
+    }
+   ]
+  },
+  {
+   "from": "bt_book_hab",
+   "to": "bt_book_heb",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HAB",
+     "chapter": 2,
+     "verseStart": 3,
+     "verseEnd": 4
+    },
+    {
+     "book": "HEB",
+     "chapter": 10,
+     "verseStart": 37,
+     "verseEnd": 38
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_heb",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 2,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "HEB",
+     "chapter": 1,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_book_hos",
+   "to": "bt_book_mat",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HOS",
+     "chapter": 11,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "MAT",
+     "chapter": 2,
+     "verseStart": 14,
+     "verseEnd": 15
+    }
+   ]
+  },
+  {
+   "from": "bt_book_hos",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HOS",
+     "chapter": 2,
+     "verseStart": 23,
+     "verseEnd": 23
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 25,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_book_hos",
+   "to": "bt_book_1co",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HOS",
+     "chapter": 13,
+     "verseStart": 14,
+     "verseEnd": 14
+    },
+    {
+     "book": "1CO",
+     "chapter": 15,
+     "verseStart": 55,
+     "verseEnd": 55
+    }
+   ]
+  },
+  {
+   "from": "bt_book_hos",
+   "to": "bt_book_1pe",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HOS",
+     "chapter": 2,
+     "verseStart": 23,
+     "verseEnd": 23
+    },
+    {
+     "book": "1PE",
+     "chapter": 2,
+     "verseStart": 10,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 29,
+     "verseStart": 10,
+     "verseEnd": 10
+    },
+    {
+     "book": "ROM",
+     "chapter": 11,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_mat",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 7,
+     "verseStart": 14,
+     "verseEnd": 14
+    },
+    {
+     "book": "MAT",
+     "chapter": 1,
+     "verseStart": 22,
+     "verseEnd": 23
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jas",
+   "to": "bt_book_gen",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JAS",
+     "chapter": 2,
+     "verseStart": 21,
+     "verseEnd": 23
+    },
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_pro",
+   "to": "bt_book_jas",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PRO",
+     "chapter": 3,
+     "verseStart": 34,
+     "verseEnd": 34
+    },
+    {
+     "book": "JAS",
+     "chapter": 4,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_lev",
+   "to": "bt_book_jas",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "LEV",
+     "chapter": 19,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "JAS",
+     "chapter": 2,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jer",
+   "to": "bt_book_mat",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 31,
+     "verseStart": 15,
+     "verseEnd": 15
+    },
+    {
+     "book": "MAT",
+     "chapter": 2,
+     "verseStart": 17,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jer",
+   "to": "bt_book_heb",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 31,
+     "verseStart": 31,
+     "verseEnd": 34
+    },
+    {
+     "book": "HEB",
+     "chapter": 8,
+     "verseStart": 8,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jer",
+   "to": "bt_book_mrk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 7,
+     "verseStart": 11,
+     "verseEnd": 11
+    },
+    {
+     "book": "MRK",
+     "chapter": 11,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_jhn",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 118,
+     "verseStart": 25,
+     "verseEnd": 26
+    },
+    {
+     "book": "JHN",
+     "chapter": 12,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_jhn",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 40,
+     "verseStart": 3,
+     "verseEnd": 3
+    },
+    {
+     "book": "JHN",
+     "chapter": 1,
+     "verseStart": 23,
+     "verseEnd": 23
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_jhn",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 1,
+     "verseStart": 1,
+     "verseEnd": 3
+    },
+    {
+     "book": "JHN",
+     "chapter": 1,
+     "verseStart": 1,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_book_zec",
+   "to": "bt_book_jhn",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ZEC",
+     "chapter": 9,
+     "verseStart": 9,
+     "verseEnd": 9
+    },
+    {
+     "book": "JHN",
+     "chapter": 12,
+     "verseStart": 14,
+     "verseEnd": 15
+    }
+   ]
+  },
+  {
+   "from": "bt_book_job",
+   "to": "bt_book_1co",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JOB",
+     "chapter": 5,
+     "verseStart": 13,
+     "verseEnd": 13
+    },
+    {
+     "book": "1CO",
+     "chapter": 3,
+     "verseStart": 19,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_book_job",
+   "to": "bt_book_jas",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JOB",
+     "chapter": 42,
+     "verseStart": 10,
+     "verseEnd": 10
+    },
+    {
+     "book": "JAS",
+     "chapter": 5,
+     "verseStart": 11,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jol",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JOL",
+     "chapter": 2,
+     "verseStart": 32,
+     "verseEnd": 32
+    },
+    {
+     "book": "ROM",
+     "chapter": 10,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jol",
+   "to": "bt_book_act",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JOL",
+     "chapter": 2,
+     "verseStart": 28,
+     "verseEnd": 32
+    },
+    {
+     "book": "ACT",
+     "chapter": 2,
+     "verseStart": 17,
+     "verseEnd": 21
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jon",
+   "to": "bt_book_mat",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JON",
+     "chapter": 1,
+     "verseStart": 17,
+     "verseEnd": 17
+    },
+    {
+     "book": "MAT",
+     "chapter": 12,
+     "verseStart": 40,
+     "verseEnd": 40
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jos",
+   "to": "bt_book_heb",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JOS",
+     "chapter": 6,
+     "verseStart": 20,
+     "verseEnd": 20
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 30,
+     "verseEnd": 30
+    }
+   ]
+  },
+  {
+   "from": "bt_book_jos",
+   "to": "bt_book_jas",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JOS",
+     "chapter": 2,
+     "verseStart": 4,
+     "verseEnd": 6
+    },
+    {
+     "book": "JAS",
+     "chapter": 2,
+     "verseStart": 25,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_book_num",
+   "to": "bt_book_jud",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "NUM",
+     "chapter": 14,
+     "verseStart": 29,
+     "verseEnd": 30
+    },
+    {
+     "book": "JUD",
+     "chapter": 1,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_jud",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 4,
+     "verseStart": 8,
+     "verseEnd": 8
+    },
+    {
+     "book": "JUD",
+     "chapter": 1,
+     "verseStart": 11,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_book_lev",
+   "to": "bt_book_mat",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "LEV",
+     "chapter": 19,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "MAT",
+     "chapter": 19,
+     "verseStart": 19,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_book_lev",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "LEV",
+     "chapter": 18,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "ROM",
+     "chapter": 10,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_book_lev",
+   "to": "bt_book_luk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "LEV",
+     "chapter": 19,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "LUK",
+     "chapter": 10,
+     "verseStart": 27,
+     "verseEnd": 27
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_luk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 91,
+     "verseStart": 11,
+     "verseEnd": 12
+    },
+    {
+     "book": "LUK",
+     "chapter": 4,
+     "verseStart": 10,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_book_gen",
+   "to": "bt_book_luk",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 22,
+     "verseStart": 16,
+     "verseEnd": 18
+    },
+    {
+     "book": "LUK",
+     "chapter": 1,
+     "verseStart": 72,
+     "verseEnd": 73
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_luk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 40,
+     "verseStart": 3,
+     "verseEnd": 5
+    },
+    {
+     "book": "LUK",
+     "chapter": 3,
+     "verseStart": 4,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_mal",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "MAL",
+     "chapter": 1,
+     "verseStart": 2,
+     "verseEnd": 3
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_book_mal",
+   "to": "bt_book_mrk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "MAL",
+     "chapter": 3,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "MRK",
+     "chapter": 1,
+     "verseStart": 2,
+     "verseEnd": 2
+    }
+   ]
+  },
+  {
+   "from": "bt_book_mal",
+   "to": "bt_book_mat",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "MAL",
+     "chapter": 3,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "MAT",
+     "chapter": 11,
+     "verseStart": 10,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_book_mal",
+   "to": "bt_book_luk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "MAL",
+     "chapter": 3,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "LUK",
+     "chapter": 7,
+     "verseStart": 27,
+     "verseEnd": 27
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_mat",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 91,
+     "verseStart": 11,
+     "verseEnd": 12
+    },
+    {
+     "book": "MAT",
+     "chapter": 4,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_mic",
+   "to": "bt_book_mat",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "MIC",
+     "chapter": 5,
+     "verseStart": 2,
+     "verseEnd": 2
+    },
+    {
+     "book": "MAT",
+     "chapter": 2,
+     "verseStart": 5,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_mrk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 118,
+     "verseStart": 25,
+     "verseEnd": 26
+    },
+    {
+     "book": "MRK",
+     "chapter": 11,
+     "verseStart": 9,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_mrk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 40,
+     "verseStart": 3,
+     "verseEnd": 3
+    },
+    {
+     "book": "MRK",
+     "chapter": 1,
+     "verseStart": 2,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_book_exo",
+   "to": "bt_book_mrk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 20,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "MRK",
+     "chapter": 7,
+     "verseStart": 10,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_book_deu",
+   "to": "bt_book_mrk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 24,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "MRK",
+     "chapter": 10,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_book_num",
+   "to": "bt_book_heb",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "NUM",
+     "chapter": 12,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "HEB",
+     "chapter": 3,
+     "verseStart": 2,
+     "verseEnd": 2
+    }
+   ]
+  },
+  {
+   "from": "bt_book_num",
+   "to": "bt_book_jhn",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "NUM",
+     "chapter": 21,
+     "verseStart": 9,
+     "verseEnd": 9
+    },
+    {
+     "book": "JHN",
+     "chapter": 3,
+     "verseStart": 14,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_php",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 45,
+     "verseStart": 23,
+     "verseEnd": 23
+    },
+    {
+     "book": "PHP",
+     "chapter": 2,
+     "verseStart": 10,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_book_pro",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PRO",
+     "chapter": 25,
+     "verseStart": 21,
+     "verseEnd": 22
+    },
+    {
+     "book": "ROM",
+     "chapter": 12,
+     "verseStart": 20,
+     "verseEnd": 20
+    }
+   ]
+  },
+  {
+   "from": "bt_book_pro",
+   "to": "bt_book_heb",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PRO",
+     "chapter": 3,
+     "verseStart": 11,
+     "verseEnd": 12
+    },
+    {
+     "book": "HEB",
+     "chapter": 12,
+     "verseStart": 5,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_psa",
+   "to": "bt_book_rom",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 14,
+     "verseStart": 1,
+     "verseEnd": 3
+    },
+    {
+     "book": "ROM",
+     "chapter": 3,
+     "verseStart": 10,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_book_isa",
+   "to": "bt_book_rev",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ISA",
+     "chapter": 53,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "REV",
+     "chapter": 5,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_book_rev",
+   "to": "bt_book_gen",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "REV",
+     "chapter": 5,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "GEN",
+     "chapter": 49,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_book_zec",
+   "to": "bt_book_mat",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "ZEC",
+     "chapter": 9,
+     "verseStart": 9,
+     "verseEnd": 9
+    },
+    {
+     "book": "MAT",
+     "chapter": 21,
+     "verseStart": 4,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_book_zec",
+   "to": "bt_book_mrk",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "ZEC",
+     "chapter": 13,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "MRK",
+     "chapter": 14,
+     "verseStart": 27,
+     "verseEnd": 27
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_justice_levirate",
+   "to": "bt_1ti_widows_family",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 25,
+     "verseStart": 4,
+     "verseEnd": 4
+    },
+    {
+     "book": "1TI",
+     "chapter": 5,
+     "verseStart": 18,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_heb_faith_many",
+   "to": "bt_jdg_deborah_barak",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 32,
+     "verseEnd": 32
+    },
+    {
+     "book": "JDG",
+     "chapter": 4,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_heb_faith_many",
+   "to": "bt_jdg_gideon_300",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 32,
+     "verseEnd": 32
+    },
+    {
+     "book": "JDG",
+     "chapter": 7,
+     "verseStart": 1,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_heb_faith_many",
+   "to": "bt_jdg_jephthah_rise",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 32,
+     "verseEnd": 32
+    },
+    {
+     "book": "JDG",
+     "chapter": 11,
+     "verseStart": 1,
+     "verseEnd": 1
+    }
+   ]
+  },
+  {
+   "from": "bt_heb_faith_many",
+   "to": "bt_jdg_samson_birth",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 32,
+     "verseEnd": 32
+    },
+    {
+     "book": "JDG",
+     "chapter": 13,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_book_deu",
+   "to": "bt_book_1ti",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 25,
+     "verseStart": 4,
+     "verseEnd": 4
+    },
+    {
+     "book": "1TI",
+     "chapter": 5,
+     "verseStart": 18,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_book_heb",
+   "to": "bt_book_jdg",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 32,
+     "verseEnd": 32
+    },
+    {
+     "book": "JDG",
+     "chapter": 4,
+     "verseStart": 4,
+     "verseEnd": 4
     }
    ]
   }
