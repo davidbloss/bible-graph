@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/bible-taxonomy/schema/topics.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "topicCount", "topics"],
+  "properties": {
+    "version": { "type": "string" },
+    "topicCount": { "type": "integer" },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "type", "name", "description", "evidence", "primaryPassages"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^bt_" },
+          "type": { "enum": ["STORY", "DOCTRINE", "BOOK_OVERVIEW", "THEME", "COVENANT", "SKILL"] },
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "covenant": { "type": ["string", "null"], "description": "id in covenants.json" },
+          "ageRangeStart": { "type": ["integer", "null"] },
+          "ageRangeEnd": { "type": ["integer", "null"] },
+          "primaryPassages": {
+            "type": "array",
+            "items": { "$ref": "#/$defs/ref" }
+          },
+          "evidence": { "type": "array", "items": { "type": "string" } },
+          "assessmentPrompt": { "type": ["string", "null"] }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "ref": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["book", "chapter", "verseStart", "verseEnd"],
+      "properties": {
+        "book": { "type": "string", "description": "Canonical book id, e.g. GEN, ROM (fixed 66-book enum)" },
+        "chapter": { "type": "integer", "minimum": 1 },
+        "verseStart": { "type": "integer", "minimum": 1 },
+        "verseEnd": { "type": "integer", "minimum": 1 }
+      }
+    }
+  }
+}

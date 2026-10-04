@@ -1,0 +1,4906 @@
+{
+ "topics": [
+  {
+   "id": "book_job",
+   "type": "BOOK_OVERVIEW",
+   "name": "Job: overview",
+   "description": "Job opens with a righteous man losing everything (1-2), moves through his lament and long exchanges with three friends (3-31), Elihu (32-37) and the LORD answering from the whirlwind (38-41), and ends with Job’s repentance and restoration (42).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 1..42"
+   ],
+   "evidence": [
+    "Outline the book of Job in its main parts: prologue, speeches, the LORD’s answer, epilogue."
+   ],
+   "prompt": "Can {{name}} outline the book of Job in four or five parts and name who speaks in each?"
+  },
+  {
+   "id": "job_trial",
+   "type": "STORY",
+   "name": "Job’s integrity and the loss of everything",
+   "description": "Job is described as blameless and God-fearing and is very rich; the LORD allows Satan to take his possessions and children, and Job worships, saying the LORD gave and the LORD has taken away.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JOB 1:1-22"
+   ],
+   "evidence": [
+    "Retell what Job lost in chapter 1 and how he responded (1:20-22)."
+   ],
+   "prompt": "Can {{name}} retell what happened to Job in chapter 1 and what he said when he heard the news?"
+  },
+  {
+   "id": "job_boils",
+   "type": "STORY",
+   "name": "Job’s sores and his friends’ silence",
+   "description": "Satan is allowed to strike Job’s body with sore boils, his wife tells him to curse God and die, Job refuses, and three friends come and sit with him seven days without speaking.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JOB 2:1-13"
+   ],
+   "evidence": [
+    "Explain how Job answers his wife in 2:9-10 and what the three friends do in 2:11-13."
+   ],
+   "prompt": "Can {{name}} explain what Job says to his wife and what his three friends do when they arrive?"
+  },
+  {
+   "id": "job_curses_day",
+   "type": "THEME",
+   "name": "Job laments the day of his birth",
+   "description": "Job breaks the silence by cursing the day he was born and asking why light is given to those in misery who long for death.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 3:1-26"
+   ],
+   "evidence": [
+    "Summarize Job’s complaint in chapter 3 and name what he wishes had happened (3:11-13)."
+   ],
+   "prompt": "Can {{name}} describe how Job speaks in chapter 3 and how it differs from his words in chapters 1-2?"
+  },
+  {
+   "id": "job_eliphaz_first",
+   "type": "THEME",
+   "name": "Eliphaz’s first speech",
+   "description": "Eliphaz says the innocent do not perish and those who sow wickedness reap it, tells of a night vision asking whether mortal man can be more just than God, and urges Job to seek God and not despise his correction.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 4..5"
+   ],
+   "evidence": [
+    "Identify Eliphaz’s argument in 4:7-8 and his advice in 5:8 and 5:17."
+   ],
+   "prompt": "Can {{name}} state Eliphaz’s main argument to Job in chapters 4-5?"
+  },
+  {
+   "id": "job_answers_eliphaz",
+   "type": "THEME",
+   "name": "Job answers: my grief is heavy, my friends fail me",
+   "description": "Job says his grief outweighs the sand of the sea, compares his friends to a stream that fails in summer, and cries that his days are hopeless and short, asking God why he is watched so closely.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 6..7"
+   ],
+   "evidence": [
+    "Find the image Job uses for his friends in 6:15-20.",
+    "Describe how Job speaks to God in 7:11-21."
+   ],
+   "prompt": "Can {{name}} explain how Job answers Eliphaz in chapters 6-7 and what he asks of God?"
+  },
+  {
+   "id": "job_bildad_first",
+   "type": "THEME",
+   "name": "Bildad’s first speech",
+   "description": "Bildad asks whether God perverts justice, suggests Job’s children sinned, and says that if Job is pure God will restore him while the hope of the godless perishes.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 8:1-22"
+   ],
+   "evidence": [
+    "Note Bildad’s questions in 8:3 and the promise in 8:20-21."
+   ],
+   "prompt": "Can {{name}} explain what Bildad says about God’s justice and what he thinks it means for Job?"
+  },
+  {
+   "id": "job_no_daysman",
+   "type": "THEME",
+   "name": "How can a man be right with God? Job longs for a mediator",
+   "description": "Job agrees that a man cannot contend with a God of great power, laments that there is no daysman between them to lay a hand on both, and in chapter 10 pleads with God to show why he contends with him, recalling that God made him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 9..10"
+   ],
+   "evidence": [
+    "Find Job’s question in 9:2 and his wish in 9:33.",
+    "List what Job says about being made by God in 10:8-12."
+   ],
+   "prompt": "Can {{name}} explain what Job means by wanting a daysman in 9:33?"
+  },
+  {
+   "id": "job_zophar_first",
+   "type": "THEME",
+   "name": "Zophar’s first speech",
+   "description": "Zophar accuses Job of empty talk, says God’s wisdom cannot be searched out, and promises that if Job puts away iniquity and prepares his heart he will be secure, while the eyes of the wicked fail.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 11:1-20"
+   ],
+   "evidence": [
+    "What does Zophar say about searching out God (11:7-9) and about repentance (11:13-19)?"
+   ],
+   "prompt": "Can {{name}} summarize Zophar’s first speech and compare it with Bildad’s?"
+  },
+  {
+   "id": "job_job_wisdom_hope",
+   "type": "THEME",
+   "name": "Job replies: God’s power, and whether a man will live again",
+   "description": "Job tells the friends he is not inferior to them, says wisdom and strength belong to God, who overturns counsellors and kings, declares he will trust God though he slay him, and in chapter 14 asks whether a man who dies shall live again.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 12..14"
+   ],
+   "evidence": [
+    "Locate 13:15 and 14:14 and say what each expresses.",
+    "List things God does to rulers in 12:17-21."
+   ],
+   "prompt": "Can {{name}} describe how Job speaks of God’s power in chapter 12 and what he asks about death in 14:14?"
+  },
+  {
+   "id": "job_eliphaz_second",
+   "type": "THEME",
+   "name": "Eliphaz’s second speech: the wicked man’s torment",
+   "description": "Eliphaz rebukes Job for vain words and describes at length how the wicked man suffers pain and fear all his days.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 15:1-35"
+   ],
+   "evidence": [
+    "Describe the picture of the wicked man in 15:20-35."
+   ],
+   "prompt": "Can {{name}} explain what Eliphaz accuses Job of in chapter 15 and how he describes the wicked?"
+  },
+  {
+   "id": "job_witness_in_heaven",
+   "type": "THEME",
+   "name": "Job: miserable comforters, and a witness on high",
+   "description": "Job calls his friends miserable comforters, says God has broken and worn him down, yet declares that his prayer is pure and that his witness is in heaven; his spirit is broken and the grave is ready for him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 16..17"
+   ],
+   "evidence": [
+    "Find the phrase Job uses for his friends in 16:2 and what he claims in 16:17-19."
+   ],
+   "prompt": "Can {{name}} explain how Job describes his friends and what he says about a witness in chapters 16-17?"
+  },
+  {
+   "id": "job_bildad_second",
+   "type": "THEME",
+   "name": "Bildad’s second speech: the light of the wicked is put out",
+   "description": "Bildad describes the wicked man snared, terrified and rooted out of his tent so that his remembrance perishes from the earth.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 18:1-21"
+   ],
+   "evidence": [
+    "List the images of the wicked man’s end in chapter 18."
+   ],
+   "prompt": "Can {{name}} list two of the pictures Bildad uses for the end of the wicked?"
+  },
+  {
+   "id": "job_redeemer",
+   "type": "THEME",
+   "name": "I know that my redeemer lives",
+   "description": "Job says God has fenced his way and his family and friends have forsaken him, and he longs for his words to be written, declaring that he knows his redeemer lives and that in his flesh he shall see God.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 19:1-29"
+   ],
+   "evidence": [
+    "Read 19:23-27 and state what Job says he knows and expects to see.",
+    "List the losses Job names in 19:13-20."
+   ],
+   "prompt": "Can {{name}} read Job 19:25-27 and say what Job expects in spite of his condition?"
+  },
+  {
+   "id": "job_zophar_second",
+   "type": "THEME",
+   "name": "Zophar’s second speech: the triumph of the wicked is short",
+   "description": "Zophar says the triumphing of the wicked is short, that ill-gotten riches will be vomited up, and that God casts the fury of his wrath on him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 20:1-29"
+   ],
+   "evidence": [
+    "State Zophar’s claim in 20:5 and the portion he assigns the wicked in 20:29."
+   ],
+   "prompt": "Can {{name}} explain Zophar’s claim about the wicked in chapter 20?"
+  },
+  {
+   "id": "job_wicked_prosper",
+   "type": "THEME",
+   "name": "Job: the wicked often prosper",
+   "description": "Job answers that the wicked live, grow old, see their children established and die at ease, and asks how often the lamp of the wicked is put out, rejecting his friends’ consolations as falsehood.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 21:1-34"
+   ],
+   "evidence": [
+    "Find where Job describes the wicked at ease in 21:7-13 and contrast it with the friends’ claims."
+   ],
+   "prompt": "Can {{name}} explain how Job’s words in chapter 21 challenge the friends’ view of the wicked?"
+  },
+  {
+   "id": "job_eliphaz_third",
+   "type": "THEME",
+   "name": "Eliphaz’s third speech: accusation and a call to return",
+   "description": "Eliphaz asks whether a man can profit God, accuses Job of specific wrongs against the poor, and calls him to return to the Almighty and be built up.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 22:1-30"
+   ],
+   "evidence": [
+    "List the charges Eliphaz makes in 22:5-9 and the invitation in 22:21-30."
+   ],
+   "prompt": "Can {{name}} explain what Eliphaz now accuses Job of and what he tells him to do?"
+  },
+  {
+   "id": "job_cannot_find_god",
+   "type": "THEME",
+   "name": "Job: I cannot find him, yet he knows my way",
+   "description": "Job longs to come to God’s seat and plead his case but cannot find him forward or backward; he says God knows the way he takes and that when tried he shall come forth as gold, and chapter 24 asks why the oppression of the poor goes unpunished.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 23..24"
+   ],
+   "evidence": [
+    "Find 23:3-10 and say what Job wants and what he is confident of in 23:10."
+   ],
+   "prompt": "Can {{name}} describe what Job wants from God in chapter 23 and what troubles him in chapter 24?"
+  },
+  {
+   "id": "job_bildad_third_job_replies",
+   "type": "THEME",
+   "name": "Bildad’s short speech and Job’s reply",
+   "description": "Bildad says dominion and fear are with God and asks how man can be clean before him; Job replies by describing God’s power over the deep and the heavens and swears he will hold fast his integrity until he dies.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 25..27"
+   ],
+   "evidence": [
+    "Compare the length of Bildad’s speech (ch. 25) with Job’s answers (26-27).",
+    "Find Job’s vow in 27:2-6."
+   ],
+   "prompt": "Can {{name}} explain what Job vows in chapter 27 and why he refuses to agree with his friends?"
+  },
+  {
+   "id": "job_wisdom_hymn",
+   "type": "THEME",
+   "name": "Where shall wisdom be found?",
+   "description": "Job describes how men mine silver and gold from the earth, yet wisdom cannot be found in the deep or bought with gold; God alone knows its place, and tells man that the fear of the LORD is wisdom and to depart from evil is understanding.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 28:1-28"
+   ],
+   "evidence": [
+    "Contrast what men can find by mining (28:1-11) with what they cannot (28:12-22).",
+    "State the answer in 28:28."
+   ],
+   "prompt": "Can {{name}} read Job 28:28 and explain how it answers the question asked in 28:12 and 28:20?"
+  },
+  {
+   "id": "job_past_and_present",
+   "type": "THEME",
+   "name": "Job remembers his former honour and describes his shame",
+   "description": "Job recalls the months when God preserved him, when he was honoured and delivered the poor, then describes being mocked by those younger, with God not hearing his cry.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 29..30"
+   ],
+   "evidence": [
+    "Contrast Job’s life in chapter 29 with chapter 30."
+   ],
+   "prompt": "Can {{name}} compare Job’s condition in chapter 29 with his condition in chapter 30?"
+  },
+  {
+   "id": "job_oath_of_innocence",
+   "type": "THEME",
+   "name": "Job’s oath of innocence",
+   "description": "Job lists wrongs he says he has not done, from lust and falsehood to neglecting the poor, the fatherless and the stranger, trusting gold, and rejoicing at an enemy’s fall, and desires that the Almighty answer him; the words of Job end.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 31:1-40"
+   ],
+   "evidence": [
+    "Choose three of Job’s denials in chapter 31 and say which commands of right conduct each shows."
+   ],
+   "prompt": "Can {{name}} name three kinds of wrong Job says he has avoided in chapter 31?"
+  },
+  {
+   "id": "job_elihu_begins",
+   "type": "THEME",
+   "name": "Elihu speaks: anger at Job and the three",
+   "description": "The three men stop answering because Job is righteous in his own eyes; Elihu, younger than they, is angry with Job for justifying himself and with the friends for finding no answer, and says the Spirit within man gives understanding.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 32:1-22"
+   ],
+   "evidence": [
+    "Name why Elihu was angry with Job and with the three friends (32:2-3)."
+   ],
+   "prompt": "Can {{name}} explain why Elihu speaks and why he waited?"
+  },
+  {
+   "id": "job_elihu_instruction",
+   "type": "THEME",
+   "name": "Elihu: God speaks, and sends an interpreter",
+   "description": "Elihu says God speaks to man in dreams and by suffering to turn him from pride, and that if there is a messenger, an interpreter, to show man his uprightness, God is gracious and ransoms him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 33:1-33"
+   ],
+   "evidence": [
+    "Find 33:14-30 and list the ways Elihu says God speaks to and restores a person."
+   ],
+   "prompt": "Can {{name}} list two ways Elihu says God speaks to men in chapter 33?"
+  },
+  {
+   "id": "job_elihu_justice",
+   "type": "THEME",
+   "name": "Elihu: God does no wickedness",
+   "description": "Elihu says God will not do wickedly or pervert judgment and rewards each man according to his work, rebukes Job for saying it profits nothing to delight in God, and says God sees but does not owe man.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 34..35"
+   ],
+   "evidence": [
+    "Find the sentence in 34:10 and the charge against Job in 34:35-37."
+   ],
+   "prompt": "Can {{name}} state what Elihu says about God’s justice in chapter 34?"
+  },
+  {
+   "id": "job_elihu_greatness",
+   "type": "THEME",
+   "name": "Elihu: the greatness of God in the storm",
+   "description": "Elihu says God is mighty, teaches through affliction, and is beyond understanding; he describes God’s command over rain, lightning and thunder and tells Job to stand still and consider God’s wondrous works.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 36..37"
+   ],
+   "evidence": [
+    "List the weather phenomena Elihu names in 36:27-37:13."
+   ],
+   "prompt": "Can {{name}} name three works of God Elihu points to in chapters 36-37?"
+  },
+  {
+   "id": "job_lord_answers",
+   "type": "THEME",
+   "name": "The LORD answers Job out of the whirlwind: creation and the animals",
+   "description": "The LORD answers Job out of the whirlwind with questions about the foundations of the earth, the sea, light, rain, the stars, and the lion, raven, wild goat, wild ass, ostrich, horse and hawk, none of which Job made or controls.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 38..39"
+   ],
+   "evidence": [
+    "Pick five of the LORD’s questions in chapter 38 and say what each says about God’s power.",
+    "List the animals in chapter 39."
+   ],
+   "prompt": "Can {{name}} explain what the LORD is showing Job by asking questions about creation in chapters 38-39?"
+  },
+  {
+   "id": "job_job_silenced",
+   "type": "THEME",
+   "name": "Job lays his hand on his mouth",
+   "description": "The LORD asks whether the faultfinder will instruct the Almighty and challenges Job to answer; Job says he is vile and will not answer again, and the LORD calls him to gird up his loins and asks whether he will condemn God to justify himself.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 40:1-14"
+   ],
+   "evidence": [
+    "Compare Job’s first reply (40:3-5) with the LORD’s second challenge (40:6-14)."
+   ],
+   "prompt": "Can {{name}} describe how Job responds in 40:3-5 and what the LORD asks next?"
+  },
+  {
+   "id": "job_behemoth_leviathan",
+   "type": "THEME",
+   "name": "Behemoth and Leviathan",
+   "description": "The LORD describes behemoth, which he made, as chief of his ways with great strength, and leviathan, which no man can hook, tame or stand before; he asks who can stand before him and says all under heaven is his.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 40:15-24",
+    "JOB 41:1-34"
+   ],
+   "evidence": [
+    "Name what the LORD says in 41:10-11 about standing before the creature and before him."
+   ],
+   "prompt": "Can {{name}} explain why the LORD speaks of behemoth and leviathan to Job?"
+  },
+  {
+   "id": "job_repents",
+   "type": "STORY",
+   "name": "Job sees God and repents",
+   "description": "Job says he knows God can do everything, that he spoke of things too wonderful for him, that he had heard of God by the ear but now his eye sees him, and he abhors himself and repents in dust and ashes.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOB 42:1-6"
+   ],
+   "evidence": [
+    "Say what Job confesses in 42:2-6 and what changed for him from hearing to seeing."
+   ],
+   "prompt": "Can {{name}} read Job 42:1-6 and describe what Job confesses?"
+  },
+  {
+   "id": "job_restored",
+   "type": "STORY",
+   "name": "The LORD restores Job and rebukes the friends",
+   "description": "The LORD says the three friends have not spoken of him rightly as Job has, tells them to offer a burnt offering with Job praying for them, and then gives Job twice as much as before, seven sons and three daughters, and many more years.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JOB 42:7-17"
+   ],
+   "evidence": [
+    "State why the LORD is angry with Eliphaz and his friends (42:7).",
+    "List what the LORD gives Job in 42:10-16."
+   ],
+   "prompt": "Can {{name}} explain what the LORD tells the friends to do, and what happens to Job at the end?"
+  },
+  {
+   "id": "book_psa",
+   "type": "BOOK_OVERVIEW",
+   "name": "Psalms: overview",
+   "description": "The Psalms are 150 songs and prayers addressed to or about the LORD: cries for help, confession, thanksgiving, praise of his creation and rule, songs about the king, and meditation on his law; the book closes with calls to praise (146-150).",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 1",
+    "PSA 150"
+   ],
+   "evidence": [
+    "Name several kinds of psalm (lament, thanksgiving, praise, royal, wisdom) and give one psalm number for each."
+   ],
+   "prompt": "Can {{name}} name three kinds of psalm and read one verse from a psalm of each kind?"
+  },
+  {
+   "id": "psa_1",
+   "type": "THEME",
+   "name": "Psalm 1: the blessed man and the way of the ungodly",
+   "description": "The blessed man delights in the law of the LORD and is like a tree by streams of water, while the ungodly are like chaff and their way shall perish.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "PSA 1"
+   ],
+   "evidence": [
+    "Contrast the tree and the chaff in Psalm 1 and say what each picture shows."
+   ],
+   "prompt": "Can {{name}} explain the two ways in Psalm 1 and what the blessed man delights in?"
+  },
+  {
+   "id": "psa_2",
+   "type": "THEME",
+   "name": "Psalm 2: the nations rage, the LORD’s king is set on Zion",
+   "description": "The kings of the earth set themselves against the LORD and his anointed, the LORD laughs and says he has set his king on Zion, declares him his Son, and warns the kings to serve the LORD with fear.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 2"
+   ],
+   "evidence": [
+    "List who rages against whom (2:1-3), who answers (2:4-6), and what the kings are told to do (2:10-12)."
+   ],
+   "prompt": "Can {{name}} outline Psalm 2 in its four parts and say what the kings are warned to do?"
+  },
+  {
+   "id": "psa_3_4",
+   "type": "THEME",
+   "name": "Psalms 3-4: trusting the LORD and sleeping in peace",
+   "description": "In Psalm 3 many rise up against the speaker but the LORD is a shield and he lies down and sleeps; in Psalm 4 he asks the LORD to hear him, says the LORD has put gladness in his heart, and lies down in peace.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "PSA 3..4"
+   ],
+   "evidence": [
+    "Find the verse about sleep in each psalm (3:5, 4:8) and say what gives the speaker peace."
+   ],
+   "prompt": "Can {{name}} say how the speaker of Psalms 3 and 4 is able to sleep despite trouble?"
+  },
+  {
+   "id": "psa_5_7",
+   "type": "THEME",
+   "name": "Psalms 5-7: prayers for help against enemies and for the LORD’s judgment",
+   "description": "Psalm 5 is a morning prayer to a God who hates wickedness, Psalm 6 is a weary cry for mercy and healing, and Psalm 7 appeals to the LORD as righteous judge to save the speaker from persecutors.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "PSA 5..7"
+   ],
+   "evidence": [
+    "Find the request in 5:8, the groaning in 6:6, and the appeal to God’s judgment in 7:8-9."
+   ],
+   "prompt": "Can {{name}} describe how each of Psalms 5, 6 and 7 begins and what the speaker asks?"
+  },
+  {
+   "id": "psa_8",
+   "type": "THEME",
+   "name": "Psalm 8: what is man? the LORD’s majesty and man’s place",
+   "description": "The speaker praises the LORD’s excellent name, considers the heavens, the moon and stars, and asks what man is that God remembers him, saying God made him a little lower than the angels, crowned with glory, with dominion over the works of his hands.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "PSA 8"
+   ],
+   "evidence": [
+    "Read 8:3-8 and list what is put under man’s dominion."
+   ],
+   "prompt": "Can {{name}} read Psalm 8:3-6 and say what it teaches about God and man?"
+  },
+  {
+   "id": "psa_9_10",
+   "type": "THEME",
+   "name": "Psalms 9-10: the LORD is a refuge for the oppressed and judges the wicked",
+   "description": "Psalm 9 praises the LORD who sits on his throne judging, is a refuge for the oppressed and does not forget the cry of the humble; Psalm 10 asks why he stands afar and describes the wicked who persecute the poor, ending with the LORD hearing the humble.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 9..10"
+   ],
+   "evidence": [
+    "List what the wicked say and do in Psalm 10:2-11, and the LORD’s response in 10:16-18."
+   ],
+   "prompt": "Can {{name}} explain how Psalms 9 and 10 speak of the LORD as judge of the oppressor?"
+  },
+  {
+   "id": "psa_11_12",
+   "type": "THEME",
+   "name": "Psalms 11-12: refuge when the faithful fail",
+   "description": "Psalm 11 says the LORD is in his holy temple and trieth the righteous, and the speaker trusts him instead of fleeing; Psalm 12 says the godly cease and men speak flattery, but the words of the LORD are pure and he will arise for the poor.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 11..12"
+   ],
+   "evidence": [
+    "Read 11:1-4 and 12:5-6 and say why the speaker trusts the LORD."
+   ],
+   "prompt": "Can {{name}} explain why the speakers of Psalms 11 and 12 trust the LORD when evil seems strong?"
+  },
+  {
+   "id": "psa_13",
+   "type": "THEME",
+   "name": "Psalm 13: how long, O LORD?",
+   "description": "The speaker asks how long the LORD will forget him and hide his face, pleads for light lest his enemy rejoice, and ends by trusting in the LORD’s mercy and singing.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 13"
+   ],
+   "evidence": [
+    "Trace how the psalm moves from “how long” in 13:1-2 to singing in 13:5-6."
+   ],
+   "prompt": "Can {{name}} explain how Psalm 13 moves from complaint to trust?"
+  },
+  {
+   "id": "psa_14_53",
+   "type": "THEME",
+   "name": "Psalms 14 and 53: the fool says there is no God",
+   "description": "Both psalms say the fool has said in his heart there is no God, that the LORD looked down from heaven to see if any seek him, and that all are gone aside and none does good; the psalms end with a longing for the salvation of Israel.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 14",
+    "PSA 53"
+   ],
+   "evidence": [
+    "Compare Psalm 14:1-3 and 53:1-3 and note the repeated words.",
+    "Find the closing wish in 14:7 and 53:6."
+   ],
+   "prompt": "Can {{name}} compare Psalms 14 and 53 and say what they teach about human beings?"
+  },
+  {
+   "id": "psa_15",
+   "type": "THEME",
+   "name": "Psalm 15: who may dwell in the LORD’s tabernacle?",
+   "description": "Asked who may abide in the LORD’s tabernacle and dwell in his holy hill, the psalm answers with the one who walks uprightly, speaks truth, does not slander or take usury or bribes, and honours those who fear the LORD.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "PSA 15"
+   ],
+   "evidence": [
+    "List the qualities named in 15:2-5."
+   ],
+   "prompt": "Can {{name}} list four qualities of the person described in Psalm 15?"
+  },
+  {
+   "id": "psa_16",
+   "type": "THEME",
+   "name": "Psalm 16: the LORD is my portion and I will not be moved",
+   "description": "The speaker takes refuge in the LORD, calls him his portion and cup, sets him always before him, and expects his heart to be glad and his soul not left in hell, with fulness of joy and pleasures at God’s right hand.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 16"
+   ],
+   "evidence": [
+    "Read 16:5-11 and list the reasons the speaker rejoices."
+   ],
+   "prompt": "Can {{name}} explain what the speaker says in Psalm 16:8-11 about the LORD’s presence?"
+  },
+  {
+   "id": "psa_17",
+   "type": "THEME",
+   "name": "Psalm 17: hide me under the shadow of thy wings",
+   "description": "The speaker appeals to the LORD to hear his right, says his heart has been tried and found without fault, asks to be kept as the apple of the eye from violent men, and expects to behold God’s face and be satisfied.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 17"
+   ],
+   "evidence": [
+    "Read 17:8-9 and 17:15 and say what the speaker asks and expects."
+   ],
+   "prompt": "Can {{name}} explain the two pictures of God’s care in Psalm 17:8?"
+  },
+  {
+   "id": "psa_18",
+   "type": "THEME",
+   "name": "Psalm 18: the LORD my rock and deliverer; a king’s thanksgiving",
+   "description": "The speaker loves the LORD as rock, fortress and deliverer, describes God coming down in storm and fire to rescue him from death and strong enemies, and gives thanks for strength in battle and for deliverance given to his king and anointed.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 18"
+   ],
+   "evidence": [
+    "Read 18:1-6, 18:30-36 and 18:50 and list who delivers and who is delivered."
+   ],
+   "prompt": "Can {{name}} describe how Psalm 18 pictures the LORD rescuing the speaker?"
+  },
+  {
+   "id": "psa_19",
+   "type": "DOCTRINE",
+   "name": "Psalm 19: the heavens declare God’s glory, and his law is perfect",
+   "description": "The heavens declare the glory of God day and night to all the earth, and the law, testimony, statutes and judgments of the LORD are perfect, sure, right and sweeter than honey; the speaker asks to be cleansed from secret and presumptuous sins.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 19"
+   ],
+   "evidence": [
+    "Read 19:1-6 and 19:7-11 and say what each half says about God.",
+    "Read 19:12-14 as a prayer."
+   ],
+   "prompt": "Can {{name}} explain how God makes himself known in Psalm 19 through the heavens and through his law?"
+  },
+  {
+   "id": "psa_20_21",
+   "type": "THEME",
+   "name": "Psalms 20-21: prayer and thanksgiving for the king",
+   "description": "Psalm 20 prays that the LORD hear the king in the day of trouble and says some trust in chariots but we remember the name of the LORD; Psalm 21 thanks the LORD that the king rejoices in his salvation, with his heart’s desire and a crown.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 20..21"
+   ],
+   "evidence": [
+    "Read 20:7 and 21:7 and say whom the king trusts."
+   ],
+   "prompt": "Can {{name}} explain the contrast in Psalm 20:7 and who the king trusts in Psalm 21?"
+  },
+  {
+   "id": "psa_22",
+   "type": "THEME",
+   "name": "Psalm 22: my God, why hast thou forsaken me?",
+   "description": "The speaker cries to God who seems far, is scorned and surrounded by enemies, his bones out of joint and garments divided, then declares God’s name in the congregation and says all the ends of the world shall remember and turn to the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 22"
+   ],
+   "evidence": [
+    "Read 22:1-21 and list the pictures of suffering.",
+    "Read 22:22-31 and say how the psalm ends."
+   ],
+   "prompt": "Can {{name}} describe how Psalm 22 moves from the opening cry to the closing praise?"
+  },
+  {
+   "id": "psa_23",
+   "type": "THEME",
+   "name": "Psalm 23: the LORD is my shepherd",
+   "description": "The LORD is the speaker’s shepherd who leads him to green pastures and still waters, restores his soul, is with him in the valley of the shadow of death, prepares a table before enemies, and goodness and mercy follow him to the house of the LORD forever.",
+   "covenant": null,
+   "ages": [
+    4,
+    18
+   ],
+   "passages": [
+    "PSA 23"
+   ],
+   "evidence": [
+    "List what the shepherd does in each verse of Psalm 23."
+   ],
+   "prompt": "Can {{name}} say what the LORD does for the speaker in Psalm 23 and where the psalm ends?"
+  },
+  {
+   "id": "psa_24",
+   "type": "THEME",
+   "name": "Psalm 24: the King of glory",
+   "description": "The earth is the LORD’s and all in it; those with clean hands and a pure heart may ascend his hill, and the gates are told to lift up their heads for the King of glory, the LORD of hosts.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 24"
+   ],
+   "evidence": [
+    "Read 24:3-6 and say who may ascend, and 24:7-10 and say who comes in."
+   ],
+   "prompt": "Can {{name}} explain who may stand in the LORD’s holy place and who the King of glory is in Psalm 24?"
+  },
+  {
+   "id": "psa_25",
+   "type": "THEME",
+   "name": "Psalm 25: teach me thy ways; forgive my sin",
+   "description": "The speaker lifts up his soul to the LORD, asks to be taught his ways and truth, asks him not to remember his youthful sins and to pardon his great iniquity, and says the LORD teaches the meek and sinners in the way.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 25"
+   ],
+   "evidence": [
+    "Read 25:4-11 and list what the speaker asks for.",
+    "Read 25:8-14 and say whom the LORD teaches."
+   ],
+   "prompt": "Can {{name}} list what the speaker asks for in Psalm 25 and whom the LORD teaches?"
+  },
+  {
+   "id": "psa_26",
+   "type": "THEME",
+   "name": "Psalm 26: examine me; I walk in my integrity",
+   "description": "The speaker asks the LORD to judge and test him, says he walks in his truth, has not sat with vain persons, loves the LORD’s house, and asks not to be gathered with sinners.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 26"
+   ],
+   "evidence": [
+    "List what the speaker says he has done and not done in 26:3-8."
+   ],
+   "prompt": "Can {{name}} explain what the speaker asks God to do in Psalm 26:1-2?"
+  },
+  {
+   "id": "psa_27",
+   "type": "THEME",
+   "name": "Psalm 27: the LORD is my light and salvation",
+   "description": "The speaker says the LORD is his light, salvation and strength, so he will not fear though an army encamp against him; he desires to dwell in the LORD’s house, seeks his face, and says to wait on the LORD.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 27"
+   ],
+   "evidence": [
+    "Read 27:1-6 and 27:13-14 and state what the speaker is confident about.",
+    "Read 27:4 and say what he most desires."
+   ],
+   "prompt": "Can {{name}} explain why the speaker of Psalm 27 does not fear and what he asks for in 27:4?"
+  },
+  {
+   "id": "psa_28_29",
+   "type": "THEME",
+   "name": "Psalms 28-29: the LORD my strength; the voice of the LORD",
+   "description": "Psalm 28 is a cry to the LORD the rock, then blessing him because he has heard and is the speaker’s strength and shield; Psalm 29 summons the mighty to give glory to the LORD whose voice is over the waters and shakes the wilderness, and who gives strength to his people.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 28..29"
+   ],
+   "evidence": [
+    "Find 28:7-8 and 29:11 and note how both speak of the LORD’s strength to his people.",
+    "List what the voice of the LORD does in 29:3-9."
+   ],
+   "prompt": "Can {{name}} list three things the voice of the LORD does in Psalm 29?"
+  },
+  {
+   "id": "psa_30",
+   "type": "THEME",
+   "name": "Psalm 30: weeping may endure for a night",
+   "description": "The speaker extols the LORD who lifted him up and healed him from the grave, says the LORD’s anger endures a moment but his favour is life, and that mourning was turned into dancing.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 30"
+   ],
+   "evidence": [
+    "Read 30:5 and 30:11-12 and say what changed."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 30:5 says about weeping and joy?"
+  },
+  {
+   "id": "psa_31",
+   "type": "THEME",
+   "name": "Psalm 31: into thine hand I commit my spirit",
+   "description": "The speaker takes refuge in the LORD as rock and fortress, commits his spirit into his hand, describes distress, reproach and fear on every side, says his times are in the LORD’s hand, and blesses him for his goodness laid up for those who fear him.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 31"
+   ],
+   "evidence": [
+    "Read 31:5, 31:15 and 31:19 and state what each says about trusting the LORD."
+   ],
+   "prompt": "Can {{name}} explain what it means that “my times are in thy hand” in Psalm 31:15?"
+  },
+  {
+   "id": "psa_32",
+   "type": "THEME",
+   "name": "Psalm 32: blessed is he whose transgression is forgiven",
+   "description": "The speaker says the one whose transgression is forgiven is blessed, describes bones wasting while he kept silent about his sin, and says that when he acknowledged his sin to the LORD he was forgiven and now the LORD is his hiding place.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 32"
+   ],
+   "evidence": [
+    "Contrast 32:3-4 with 32:5.",
+    "Read 32:1-2 and note who is called blessed."
+   ],
+   "prompt": "Can {{name}} explain what happens in Psalm 32:5 when the speaker confesses his sin?"
+  },
+  {
+   "id": "psa_33",
+   "type": "THEME",
+   "name": "Psalm 33: sing to the LORD who made all things by his word",
+   "description": "The righteous are called to sing to the LORD a new song because his word is right and by his word the heavens were made; he looks on all men, brings counsel of nations to nought, and his eye is on those who fear him and hope in his mercy.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 33"
+   ],
+   "evidence": [
+    "Read 33:6-9 and 33:16-19 and say how God’s word and rescue are described."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 33:6-9 says about creation by the LORD’s word?"
+  },
+  {
+   "id": "psa_34",
+   "type": "THEME",
+   "name": "Psalm 34: taste and see that the LORD is good",
+   "description": "The speaker blesses the LORD at all times, tells how this poor man cried and the LORD saved him, says the angel of the LORD encamps around those who fear him, teaches children the fear of the LORD, and says the LORD is near the broken-hearted.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "PSA 34"
+   ],
+   "evidence": [
+    "Read 34:1-10 and 34:11-14 and list what the speaker teaches the children."
+   ],
+   "prompt": "Can {{name}} tell what Psalm 34 teaches about crying to the LORD and what children are taught in 34:11-14?"
+  },
+  {
+   "id": "psa_35",
+   "type": "THEME",
+   "name": "Psalm 35: plead my cause against false accusers",
+   "description": "The speaker asks the LORD to contend with those who strive with him, to let the angel of the LORD chase them, and describes false witnesses who repay evil for good; he promises thanks in the great congregation.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 35"
+   ],
+   "evidence": [
+    "Read 35:7, 35:11-12 and 35:18 and describe the wrong done to the speaker."
+   ],
+   "prompt": "Can {{name}} describe the wrong done to the speaker in Psalm 35 and what he asks of the LORD?"
+  },
+  {
+   "id": "psa_36",
+   "type": "THEME",
+   "name": "Psalm 36: the wicked and the fountain of life",
+   "description": "The transgression of the wicked says there is no fear of God before his eyes, while the LORD’s mercy reaches to the heavens and his faithfulness to the clouds; with him is the fountain of life and in his light we see light.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 36"
+   ],
+   "evidence": [
+    "Contrast 36:1-4 with 36:5-9."
+   ],
+   "prompt": "Can {{name}} contrast what Psalm 36 says about the wicked and about the LORD?"
+  },
+  {
+   "id": "psa_37",
+   "type": "THEME",
+   "name": "Psalm 37: fret not, trust in the LORD",
+   "description": "The psalm tells the reader not to fret over evildoers but to trust in the LORD, delight in him, commit his way to him and wait; the wicked will be cut off and the meek shall inherit the earth.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 37"
+   ],
+   "evidence": [
+    "Read 37:1-9 and list the commands given.",
+    "Read 37:25 and say what the speaker has observed."
+   ],
+   "prompt": "Can {{name}} list three commands in Psalm 37:1-8 and what is promised to the meek?"
+  },
+  {
+   "id": "psa_38",
+   "type": "THEME",
+   "name": "Psalm 38: a penitent’s cry in suffering",
+   "description": "The speaker asks the LORD not to rebuke him in wrath, says his flesh and bones suffer because of his sin and iniquity, his friends stand aloof and enemies speak against him, yet he hopes in the LORD and confesses his iniquity.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 38"
+   ],
+   "evidence": [
+    "Read 38:1-4 and 38:15-18 and say what the speaker confesses and hopes."
+   ],
+   "prompt": "Can {{name}} explain how the speaker of Psalm 38 connects his suffering to his sin and what he does about it?"
+  },
+  {
+   "id": "psa_39",
+   "type": "THEME",
+   "name": "Psalm 39: make me to know my end",
+   "description": "The speaker resolves to guard his tongue, asks the LORD to make him know his end and how short his days are, calls man’s life an handbreadth, says his hope is in the LORD, and asks to be spared.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 39"
+   ],
+   "evidence": [
+    "Read 39:4-7 and say what the speaker asks and what he concludes about his hope."
+   ],
+   "prompt": "Can {{name}} explain what the speaker asks God to teach him in Psalm 39:4-7?"
+  },
+  {
+   "id": "psa_40",
+   "type": "THEME",
+   "name": "Psalm 40: I waited patiently for the LORD",
+   "description": "The speaker waited patiently for the LORD who lifted him from a pit and put a new song in his mouth, says the LORD desires obedience and not sacrifice and offering, declares his righteousness to the congregation, and asks for help as poor and needy.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 40"
+   ],
+   "evidence": [
+    "Read 40:1-3 and 40:6-8 and say what the LORD desires according to the speaker."
+   ],
+   "prompt": "Can {{name}} explain what the speaker says in Psalm 40:6-8 about sacrifice and the LORD’s will?"
+  },
+  {
+   "id": "psa_41",
+   "type": "THEME",
+   "name": "Psalm 41: blessed is he that considers the poor",
+   "description": "The one who considers the poor is blessed and the LORD delivers him in trouble; the speaker, ill and slandered by enemies and even a familiar friend, asks for mercy and the psalm ends with a blessing on the LORD.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 41"
+   ],
+   "evidence": [
+    "Read 41:1-3 and 41:9-13 and say who is blessed and who betrays the speaker."
+   ],
+   "prompt": "Can {{name}} explain what blessing Psalm 41:1-3 gives to the one who considers the poor?"
+  },
+  {
+   "id": "psa_42_43",
+   "type": "THEME",
+   "name": "Psalms 42-43: my soul thirsts for God; why art thou cast down?",
+   "description": "The speaker pants after God like a deer after water, remembers going to God’s house, and three times asks his soul why it is cast down and tells it to hope in God; Psalm 43 asks God to plead his cause and lead him to his holy hill.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 42..43"
+   ],
+   "evidence": [
+    "Find the repeated refrain (42:5, 42:11, 43:5) and say how the speaker answers his own soul."
+   ],
+   "prompt": "Can {{name}} read the refrain of Psalms 42-43 and say what the speaker tells his soul?"
+  },
+  {
+   "id": "psa_44",
+   "type": "THEME",
+   "name": "Psalm 44: a lament of God’s people after defeat",
+   "description": "The people recall what God did for their fathers in giving the land, say they trust not in their bow, but now God has cast them off, scattered them and made them a reproach though they have not forgotten him, and they ask him to awake and redeem them.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 44"
+   ],
+   "evidence": [
+    "Read 44:1-8, 44:9-16 and 44:17-26 and say what each section says."
+   ],
+   "prompt": "Can {{name}} explain why the people complain in Psalm 44 and what they ask?"
+  },
+  {
+   "id": "psa_45",
+   "type": "THEME",
+   "name": "Psalm 45: a song for the king",
+   "description": "The speaker addresses a king who is fairer than the sons of men, whose throne is for ever and whose sceptre is righteous; he is anointed with the oil of gladness above his fellows, and a king’s daughter is brought to him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 45"
+   ],
+   "evidence": [
+    "Read 45:1-7 and say what is said about the king and 45:10-15 about the bride."
+   ],
+   "prompt": "Can {{name}} describe how the king and his throne are praised in Psalm 45?"
+  },
+  {
+   "id": "psa_46",
+   "type": "THEME",
+   "name": "Psalm 46: God is our refuge and strength",
+   "description": "God is a very present help in trouble, so the speakers will not fear though the earth is removed and the waters roar; God is in the midst of the city, the LORD of hosts is with us, and he makes wars cease and says, Be still, and know that I am God.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 46"
+   ],
+   "evidence": [
+    "Read 46:1-3, 46:4-7 and 46:8-11 and find the refrain in 46:7 and 46:11."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 46:10 asks and why the speakers do not fear?"
+  },
+  {
+   "id": "psa_47_48",
+   "type": "THEME",
+   "name": "Psalms 47-48: God is king over all the earth; the city of God",
+   "description": "Psalm 47 calls all peoples to clap and shout for God, who is the great King over all the earth; Psalm 48 praises the LORD in the city of our God on the mountain of Zion, where God is known as a refuge.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 47..48"
+   ],
+   "evidence": [
+    "Find 47:2, 47:7-8 and 48:1-3 and say what is said about God’s kingship and Zion."
+   ],
+   "prompt": "Can {{name}} explain what Psalms 47 and 48 say about God as king and about Zion?"
+  },
+  {
+   "id": "psa_49",
+   "type": "THEME",
+   "name": "Psalm 49: no man can redeem his brother; God will redeem my soul",
+   "description": "The speaker calls all peoples to hear his wisdom and says those who trust in wealth cannot redeem a brother or give God a ransom, men die like beasts and carry nothing away, but God will redeem his soul from the grave.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 49"
+   ],
+   "evidence": [
+    "Read 49:6-9 and 49:15 and contrast what riches cannot do with what God does."
+   ],
+   "prompt": "Can {{name}} explain what the speaker says about riches and death in Psalm 49 and what he says God will do?"
+  },
+  {
+   "id": "psa_50",
+   "type": "THEME",
+   "name": "Psalm 50: God judges his people; offer thanksgiving",
+   "description": "God speaks from Zion to gather his saints who made a covenant with him by sacrifice, says he does not need bulls and goats, tells them to offer thanksgiving and call on him in trouble, and rebukes the wicked who hate instruction.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 50"
+   ],
+   "evidence": [
+    "Read 50:7-15 and 50:16-23 and say what God asks and what he rebukes."
+   ],
+   "prompt": "Can {{name}} explain what God says in Psalm 50:9-15 about sacrifice and thanksgiving?"
+  },
+  {
+   "id": "psa_51",
+   "type": "THEME",
+   "name": "Psalm 51: have mercy upon me, O God",
+   "description": "The speaker pleads for mercy and cleansing, confesses his transgression and says he sinned against God only, asks for a clean heart and a right spirit and that God not take his holy spirit, and says God desires a broken and contrite heart.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 51"
+   ],
+   "evidence": [
+    "Read 51:1-4 and say what the speaker confesses.",
+    "Read 51:10-17 and list what he asks and what God accepts."
+   ],
+   "prompt": "Can {{name}} read Psalm 51:10-12 and say what the speaker asks God to do?"
+  },
+  {
+   "id": "psa_52_54",
+   "type": "THEME",
+   "name": "Psalms 52 and 54: God against the deceitful and violent",
+   "description": "Psalm 52 asks why the mighty man boasts in mischief, says God will destroy the deceitful tongue, and compares the speaker to a green olive tree trusting in God’s mercy; Psalm 54 asks God to save him from strangers and oppressors and says God is his helper.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 52",
+    "PSA 54"
+   ],
+   "evidence": [
+    "Compare what the boaster trusts (52:7) with what the speaker trusts (52:8)."
+   ],
+   "prompt": "Can {{name}} contrast the man in Psalm 52:7 with the speaker in 52:8?"
+  },
+  {
+   "id": "psa_55",
+   "type": "THEME",
+   "name": "Psalm 55: betrayed by an equal, cast thy burden on the LORD",
+   "description": "The speaker is overwhelmed by fear and wishes he had wings to flee, sees violence in the city, is wounded not by an enemy but by an equal and familiar friend, and resolves to pray evening, morning and noon, trusting that God will hear.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 55"
+   ],
+   "evidence": [
+    "Read 55:12-14 and 55:16-22 and say who wounds the speaker and what he does."
+   ],
+   "prompt": "Can {{name}} explain what the speaker does in Psalm 55:16-17 and who has caused his grief in 55:12-14?"
+  },
+  {
+   "id": "psa_56_57",
+   "type": "THEME",
+   "name": "Psalms 56-57: in God I will trust and not be afraid",
+   "description": "In Psalm 56 the speaker says that when afraid he will trust in God and not fear what man can do; in Psalm 57 he takes refuge in the shadow of God’s wings and says his heart is fixed to sing, asking God to be exalted above the heavens.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 56..57"
+   ],
+   "evidence": [
+    "Find 56:3-4, 56:11 and 57:1, 57:7 and say what the speaker does when afraid."
+   ],
+   "prompt": "Can {{name}} explain what the speaker does when afraid in Psalm 56:3-4?"
+  },
+  {
+   "id": "psa_58_59",
+   "type": "THEME",
+   "name": "Psalms 58-59: God judges unjust rulers and rescues from violent men",
+   "description": "Psalm 58 asks whether the congregation judges uprightly and appeals to God to break the teeth of the wicked, concluding that there is a God who judges in the earth; Psalm 59 asks God to deliver from bloodthirsty enemies and sings of his strength and mercy.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 58..59"
+   ],
+   "evidence": [
+    "Read 58:11 and 59:16-17 and say how each psalm ends."
+   ],
+   "prompt": "Can {{name}} explain how Psalms 58 and 59 end and what each says about God?"
+  },
+  {
+   "id": "psa_60",
+   "type": "THEME",
+   "name": "Psalm 60: a prayer after a defeat",
+   "description": "The speaker says God has cast off and scattered his people and made them drink the wine of astonishment, prays for deliverance, recalls God’s claim on Gilead, Manasseh, Ephraim and Judah, and says vain is the help of man while through God we shall do valiantly.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 60"
+   ],
+   "evidence": [
+    "Read 60:1-5 and 60:11-12 and say what the people ask and trust."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 60:11-12 says about help from man and from God?"
+  },
+  {
+   "id": "psa_61_62",
+   "type": "THEME",
+   "name": "Psalms 61-62: my rock and my refuge; wait on God alone",
+   "description": "In Psalm 61 the speaker cries from the end of the earth and asks to be led to a rock higher than he, a strong tower; in Psalm 62 his soul waits on God alone, his rock and salvation, and he says power belongs to God and mercy belongs to him.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 61..62"
+   ],
+   "evidence": [
+    "Find 61:2-3 and 62:1-2, 62:5-8 and list the names for God."
+   ],
+   "prompt": "Can {{name}} list the names for God in Psalm 62:1-8 and say what the speaker does?"
+  },
+  {
+   "id": "psa_63",
+   "type": "THEME",
+   "name": "Psalm 63: my soul thirsts for thee",
+   "description": "The speaker earnestly seeks God in a dry and thirsty land, says God’s lovingkindness is better than life, remembers him on his bed in the night watches, and says his soul follows hard after God and the king shall rejoice in God.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 63"
+   ],
+   "evidence": [
+    "Read 63:1-8 and list the ways the speaker seeks and praises God."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 63:3 says about God’s lovingkindness?"
+  },
+  {
+   "id": "psa_64",
+   "type": "THEME",
+   "name": "Psalm 64: hide me from the secret counsel of the wicked",
+   "description": "The speaker asks God to preserve his life from enemies who sharpen their tongues like swords and shoot bitter words and plan snares in secret; God shall shoot at them and all men shall fear and declare his work.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 64"
+   ],
+   "evidence": [
+    "Read 64:3-6 and 64:7-10 and contrast the wicked’s weapons with God’s."
+   ],
+   "prompt": "Can {{name}} explain what the wicked do and what God does in Psalm 64?"
+  },
+  {
+   "id": "psa_65_67",
+   "type": "THEME",
+   "name": "Psalms 65-67: praise for God’s forgiveness, creation and blessing of the nations",
+   "description": "Psalm 65 says praise waits for God who purges transgressions and waters the earth and crowns the year with goodness; Psalm 66 calls all lands to praise him for his works and for bringing his people through trial; Psalm 67 asks God to bless us so that all the earth may fear him.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 65..67"
+   ],
+   "evidence": [
+    "Find 65:3, 65:9-13, 66:5-12 and 67:1-3 and list what is praised."
+   ],
+   "prompt": "Can {{name}} explain what the refrain of Psalm 67:3 and 67:5 asks of all the peoples?"
+  },
+  {
+   "id": "psa_68",
+   "type": "THEME",
+   "name": "Psalm 68: let God arise",
+   "description": "The psalm begins with Let God arise and his enemies be scattered, calls God a father of the fatherless and judge of the widows who leads his people, and calls the kingdoms of the earth to sing to God who rides on the heavens.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 68"
+   ],
+   "evidence": [
+    "Read 68:1-6 and 68:32-35 and note who is called to rejoice and sing."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 68:5-6 says about God’s care for the weak?"
+  },
+  {
+   "id": "psa_69",
+   "type": "THEME",
+   "name": "Psalm 69: zeal for thy house; they gave me vinegar",
+   "description": "The speaker is sinking in deep waters and hated without cause, says zeal for God’s house has consumed him and reproaches have fallen on him, that he was given gall and vinegar, asks that his adversaries’ table be a snare and their eyes darkened, and ends with praise.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 69"
+   ],
+   "evidence": [
+    "Read 69:1-4, 69:9, 69:21 and 69:22-28 and list what the speaker suffers and asks."
+   ],
+   "prompt": "Can {{name}} describe the suffering in Psalm 69:1-4 and 69:20-21 and how the psalm ends?"
+  },
+  {
+   "id": "psa_70_71",
+   "type": "THEME",
+   "name": "Psalms 70-71: make haste to help; forsake me not in old age",
+   "description": "Psalm 70 is a short cry for God to hasten and help the poor and needy speaker; Psalm 71 trusts in God from youth, asks not to be cast off in old age, and promises to declare God’s righteousness and strength to the next generation.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 70..71"
+   ],
+   "evidence": [
+    "Read 71:5-9 and 71:17-18 and say what the speaker asks and promises."
+   ],
+   "prompt": "Can {{name}} explain what the speaker asks of God in old age in Psalm 71:9 and 71:18?"
+  },
+  {
+   "id": "psa_72",
+   "type": "THEME",
+   "name": "Psalm 72: the king who judges the poor with righteousness",
+   "description": "The psalm prays that God give the king his judgments and righteousness so that he judges the poor, saves the needy, and breaks the oppressor, that his dominion be from sea to sea and his name endure, and all nations be blessed in him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 72"
+   ],
+   "evidence": [
+    "Read 72:1-4, 72:12-14 and 72:17-19 and list what the king does for the poor."
+   ],
+   "prompt": "Can {{name}} explain what kind of king Psalm 72 describes and how he treats the poor?"
+  },
+  {
+   "id": "psa_73",
+   "type": "THEME",
+   "name": "Psalm 73: why the wicked prosper; I went into the sanctuary",
+   "description": "The speaker nearly slipped because he envied the prosperity of the wicked and thought cleansing his heart was in vain, until he went into God’s sanctuary and understood their end; he says God is the strength of his heart and his portion and it is good to draw near to God.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 73"
+   ],
+   "evidence": [
+    "Read 73:1-14 and 73:15-20 and say what changed his view.",
+    "Read 73:25-28."
+   ],
+   "prompt": "Can {{name}} explain what changed the speaker’s mind in Psalm 73:16-17?"
+  },
+  {
+   "id": "psa_74",
+   "type": "THEME",
+   "name": "Psalm 74: a lament over the destroyed sanctuary",
+   "description": "The people ask why God has cast them off for ever, describe the enemy wrecking the sanctuary and burning the meeting places, say there is no prophet, recall God’s power in creation and dividing the sea, and ask him to plead his cause.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 74"
+   ],
+   "evidence": [
+    "Read 74:1-11 and 74:12-17 and say how remembering God’s past works shapes the plea."
+   ],
+   "prompt": "Can {{name}} explain why the people recall creation and the sea in Psalm 74:12-17?"
+  },
+  {
+   "id": "psa_75_76",
+   "type": "THEME",
+   "name": "Psalms 75-76: God is the judge; God is known in Judah",
+   "description": "In Psalm 75 the speaker gives thanks to God and says he judges uprightly, puts down one and sets up another, and warns the boastful; Psalm 76 says God is known in Judah, his dwelling is in Zion, and he breaks the weapons and rebukes the proud.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 75..76"
+   ],
+   "evidence": [
+    "Read 75:6-8 and 76:1-3 and say who judges and where he is known."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 75:6-7 says about who raises and who puts down?"
+  },
+  {
+   "id": "psa_77",
+   "type": "THEME",
+   "name": "Psalm 77: I will remember the works of the LORD",
+   "description": "In trouble the speaker cries to God and asks whether he has cast off for ever and forgotten to be gracious; then he resolves to remember the works and wonders of the LORD, who led his people like a flock by the hand of Moses and Aaron.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 77"
+   ],
+   "evidence": [
+    "Read 77:7-9 and 77:10-20 and trace the turn from questions to remembering."
+   ],
+   "prompt": "Can {{name}} explain what the speaker does in Psalm 77:10-12 when he feels God has forgotten him?"
+  },
+  {
+   "id": "psa_78",
+   "type": "THEME",
+   "name": "Psalm 78: tell the coming generation what God did and how Israel rebelled",
+   "description": "The speaker says the fathers must teach their children the LORD’s works so they will not be stubborn like their fathers; he retells Egypt, the sea, the wilderness provision and Israel’s repeated unbelief, God’s anger, and his choosing of Judah, Zion and David.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 78"
+   ],
+   "evidence": [
+    "Read 78:1-8 and say why the story is told.",
+    "Trace the cycle of provision, rebellion and judgment in 78:12-64."
+   ],
+   "prompt": "Can {{name}} explain why the psalmist retells Israel’s history in Psalm 78:1-8 and what repeated pattern follows?"
+  },
+  {
+   "id": "psa_79_80",
+   "type": "THEME",
+   "name": "Psalms 79-80: pleas for Jerusalem and the vine of Israel",
+   "description": "Psalm 79 laments that the nations have defiled God’s temple and shed blood in Jerusalem and asks God not to remember former iniquities but to help for his name’s sake; Psalm 80 prays that the Shepherd of Israel turn us again, picturing Israel as a vine brought out of Egypt.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 79..80"
+   ],
+   "evidence": [
+    "Find the refrain in 80:3, 80:7, 80:19 and the vine imagery in 80:8-16."
+   ],
+   "prompt": "Can {{name}} explain the vine picture in Psalm 80 and what the people ask in the refrain?"
+  },
+  {
+   "id": "psa_81_82",
+   "type": "THEME",
+   "name": "Psalms 81-82: hear my people; God judges among the gods",
+   "description": "Psalm 81 calls Israel to sing and recalls the LORD who brought them from Egypt, who asks them to listen and says he would have fed them had they obeyed; Psalm 82 shows God standing in the congregation to judge those who judge unjustly and favour the wicked.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 81..82"
+   ],
+   "evidence": [
+    "Read 81:8-16 and 82:1-4 and say what God asks and rebukes."
+   ],
+   "prompt": "Can {{name}} explain what God says in Psalm 81:8-13 and what he says to the judges in Psalm 82:2-4?"
+  },
+  {
+   "id": "psa_83",
+   "type": "THEME",
+   "name": "Psalm 83: a plea against nations conspiring against God’s people",
+   "description": "The speaker says God’s enemies make a tumult and consult together against his people, names Edom, Moab, Ammon, Assur and others, asks God to deal with them as with Midian and Sisera, so that they may know that he alone is the most high over all the earth.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 83"
+   ],
+   "evidence": [
+    "Read 83:1-8 and 83:16-18 and say what the enemies plan and what the speaker asks."
+   ],
+   "prompt": "Can {{name}} describe the plan of the enemies in Psalm 83:3-5 and what the speaker hopes people will know?"
+  },
+  {
+   "id": "psa_84",
+   "type": "THEME",
+   "name": "Psalm 84: how amiable are thy tabernacles",
+   "description": "The speaker longs for the courts of the LORD, says the sparrow finds a house near his altars, blesses those whose strength is in God and who pass through the valley of Baca, and says a day in his courts is better than a thousand.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 84"
+   ],
+   "evidence": [
+    "Read 84:1-4 and 84:10-12 and say what the speaker values."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 84:10 says about being in God’s house?"
+  },
+  {
+   "id": "psa_85",
+   "type": "THEME",
+   "name": "Psalm 85: revive us; mercy and truth meet",
+   "description": "The people thank the LORD for favour and forgiveness to the land, ask him to turn them again and revive them, and say mercy and truth are met together, righteousness and peace have kissed each other.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 85"
+   ],
+   "evidence": [
+    "Read 85:1-7 and 85:8-13 and say what the speaker expects God to speak."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 85:10-11 says about mercy, truth, righteousness and peace?"
+  },
+  {
+   "id": "psa_86",
+   "type": "THEME",
+   "name": "Psalm 86: unite my heart to fear thy name",
+   "description": "The speaker, poor and needy, asks the LORD to hear and preserve him, says the Lord is good and ready to forgive and there is none like him among the gods, asks to be taught his way and for a united heart, and says God is full of compassion.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 86"
+   ],
+   "evidence": [
+    "Read 86:5, 86:8-11 and 86:15 and list what is said about God."
+   ],
+   "prompt": "Can {{name}} explain what the speaker asks in Psalm 86:11 and what he says about God in 86:15?"
+  },
+  {
+   "id": "psa_87",
+   "type": "THEME",
+   "name": "Psalm 87: glorious things are spoken of Zion",
+   "description": "The LORD loves the gates of Zion more than all the dwellings of Jacob, glorious things are spoken of the city of God, and the LORD records of peoples that this one was born there.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 87"
+   ],
+   "evidence": [
+    "Read 87:1-7 and list what is said about Zion and who is counted as born there."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 87 says about Zion and about the nations?"
+  },
+  {
+   "id": "psa_88",
+   "type": "THEME",
+   "name": "Psalm 88: a cry from the depths with no answer in sight",
+   "description": "The speaker is full of troubles, near the grave, afflicted by God’s wrath and forsaken by friends, and cries to the LORD day and night; the psalm ends in darkness without a stated answer.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 88"
+   ],
+   "evidence": [
+    "Read 88:1-4 and 88:13-18 and note how the psalm begins and ends."
+   ],
+   "prompt": "Can {{name}} explain how Psalm 88 begins and why its ending is different from Psalm 13?"
+  },
+  {
+   "id": "psa_89",
+   "type": "COVENANT",
+   "name": "Psalm 89: the LORD’s covenant with David",
+   "description": "The psalm sings of the LORD’s mercies and faithfulness, says he made a covenant with his chosen David and swore to establish his seed and throne for ever, then laments that the LORD has cast off and abhorred his anointed and asks him to remember.",
+   "covenant": "cv_davidic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 89"
+   ],
+   "evidence": [
+    "Read 89:3-4, 89:28-37 and 89:38-45 and contrast the promise with the lament."
+   ],
+   "prompt": "Can {{name}} explain what the LORD promised David in Psalm 89 and what the psalmist complains about at the end?"
+  },
+  {
+   "id": "psa_90",
+   "type": "THEME",
+   "name": "Psalm 90: teach us to number our days",
+   "description": "The speaker says the LORD has been our dwelling place in all generations and is God from everlasting, while man is like grass and a thousand years are as yesterday; he asks to be taught to number his days, to be satisfied with mercy, and for the work of their hands to be established.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 90"
+   ],
+   "evidence": [
+    "Read 90:1-6 and 90:12-17 and contrast God’s time with man’s."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 90:12 asks God to teach and why?"
+  },
+  {
+   "id": "psa_91",
+   "type": "THEME",
+   "name": "Psalm 91: he that dwells in the secret place of the most High",
+   "description": "The one who dwells in the secret place of the most High abides under the shadow of the Almighty, who is his refuge and fortress; he will not fear the terror by night or the arrow by day, God gives his angels charge over him, and the LORD speaks of delivering him.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 91"
+   ],
+   "evidence": [
+    "Read 91:1-2 and 91:14-16 and list what the one who trusts receives."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 91:1-2 says about the person who trusts in the LORD?"
+  },
+  {
+   "id": "psa_92_93",
+   "type": "THEME",
+   "name": "Psalms 92-93: it is good to give thanks; the LORD reigns",
+   "description": "Psalm 92 says it is good to give thanks to the LORD and praise his works, that the righteous flourish like a palm tree and bring forth fruit in old age; Psalm 93 declares that the LORD reigns, clothed with majesty and strength, his throne established of old.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 92..93"
+   ],
+   "evidence": [
+    "Read 92:12-15 and 93:1-4 and say what is said about the righteous and about the LORD’s reign."
+   ],
+   "prompt": "Can {{name}} explain the picture of the righteous in Psalm 92:12-14 and the opening of Psalm 93?"
+  },
+  {
+   "id": "psa_94",
+   "type": "THEME",
+   "name": "Psalm 94: O LORD God, to whom vengeance belongeth",
+   "description": "The speaker calls on God as judge of the earth to reward the proud, asks how long the wicked will triumph and kill the widow and fatherless, says the LORD who made the ear hears and he will not cast off his people, and the LORD is his defence.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 94"
+   ],
+   "evidence": [
+    "Read 94:1-7 and 94:8-15 and 94:16-23 and say what the speaker asks and what he trusts."
+   ],
+   "prompt": "Can {{name}} explain what the speaker says in Psalm 94:9 and 94:14?"
+  },
+  {
+   "id": "psa_95",
+   "type": "THEME",
+   "name": "Psalm 95: come, let us worship; harden not your heart",
+   "description": "The psalm calls the people to sing to the LORD, the great King above all gods, who made the sea and dry land and is our shepherd; then it warns not to harden the heart as in the wilderness at Meribah, where God swore they should not enter his rest.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 95"
+   ],
+   "evidence": [
+    "Read 95:1-7 and 95:8-11 and say what the call to worship and the warning each ask."
+   ],
+   "prompt": "Can {{name}} explain the two parts of Psalm 95 and what the people are warned not to do?"
+  },
+  {
+   "id": "psa_96_99",
+   "type": "THEME",
+   "name": "Psalms 96-99: the LORD reigns over all the earth",
+   "description": "These psalms call the earth to sing a new song to the LORD, say all the gods of the nations are idols but the LORD made the heavens, repeat that the LORD reigns, and call the world to exalt him as holy and to rejoice at his coming to judge in righteousness.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 96..99"
+   ],
+   "evidence": [
+    "Find the phrase “the LORD reigneth” in 96:10, 97:1 and 99:1, and say what each psalm adds."
+   ],
+   "prompt": "Can {{name}} explain what Psalms 96-99 say about the LORD’s reign and the gods of the nations?"
+  },
+  {
+   "id": "psa_100",
+   "type": "THEME",
+   "name": "Psalm 100: make a joyful noise unto the LORD",
+   "description": "All lands are called to serve the LORD with gladness, know that he made us and we are his people and the sheep of his pasture, and enter his gates with thanksgiving because he is good and his mercy is everlasting.",
+   "covenant": null,
+   "ages": [
+    4,
+    18
+   ],
+   "passages": [
+    "PSA 100"
+   ],
+   "evidence": [
+    "Read Psalm 100 and list the reasons given for thanks."
+   ],
+   "prompt": "Can {{name}} say why Psalm 100 says to give thanks to the LORD?"
+  },
+  {
+   "id": "psa_101",
+   "type": "THEME",
+   "name": "Psalm 101: I will walk within my house with a perfect heart",
+   "description": "The speaker resolves to sing of mercy and judgment, to behave wisely in a perfect way, to set no wicked thing before his eyes, to cut off the slanderer and proud, and to look to the faithful of the land.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 101"
+   ],
+   "evidence": [
+    "List the resolutions in 101:2-8."
+   ],
+   "prompt": "Can {{name}} list three things the speaker of Psalm 101 resolves to do or not to do?"
+  },
+  {
+   "id": "psa_102",
+   "type": "THEME",
+   "name": "Psalm 102: the afflicted pours out his complaint; thou art the same",
+   "description": "The afflicted speaker says his days are consumed like smoke and his bones cleave to his skin, he is like a pelican of the wilderness and a sparrow alone, but the LORD shall endure for ever, will build up Zion and hear the destitute, and the heavens will perish while he remains.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 102"
+   ],
+   "evidence": [
+    "Read 102:1-11 and 102:12-22 and 102:23-28 and contrast the speaker with the LORD."
+   ],
+   "prompt": "Can {{name}} contrast the speaker’s condition with the LORD’s endurance in Psalm 102?"
+  },
+  {
+   "id": "psa_103",
+   "type": "THEME",
+   "name": "Psalm 103: bless the LORD, O my soul",
+   "description": "The speaker tells his soul to bless the LORD and forget not his benefits: forgiveness, healing, redemption; the LORD is merciful, gracious and slow to anger, removes our transgressions as far as east from west, pities like a father, and knows we are dust.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "PSA 103"
+   ],
+   "evidence": [
+    "List the benefits in 103:3-5 and the character of the LORD in 103:8-14."
+   ],
+   "prompt": "Can {{name}} name some of the LORD’s benefits in Psalm 103 and read 103:8-12?"
+  },
+  {
+   "id": "psa_104",
+   "type": "DOCTRINE",
+   "name": "Psalm 104: the LORD’s creation and provision",
+   "description": "The speaker blesses the LORD for stretching out the heavens, setting the earth’s foundations, sending springs and grass for the cattle, giving the beasts and birds their places, and says all creatures look to him for food and live when he sends his spirit.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 104"
+   ],
+   "evidence": [
+    "Read 104:1-9, 104:10-23 and 104:24-30 and list what the LORD provides."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 104 says about God’s care for creation and every creature?"
+  },
+  {
+   "id": "psa_105",
+   "type": "THEME",
+   "name": "Psalm 105: remember his wonderful works and his covenant with Abraham",
+   "description": "The psalm calls Israel to give thanks and remember the LORD’s works, recounts his covenant with Abraham, Isaac and Jacob to give them Canaan, Joseph sent before them, the plagues of Egypt, and the exodus and wilderness provision, so that they might keep his statutes.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 105"
+   ],
+   "evidence": [
+    "Read 105:7-11 and 105:23-45 and list the events retold."
+   ],
+   "prompt": "Can {{name}} list four events recounted in Psalm 105 and say why they are told?"
+  },
+  {
+   "id": "psa_106",
+   "type": "THEME",
+   "name": "Psalm 106: our fathers sinned; he remembered his covenant",
+   "description": "The psalm confesses that the fathers sinned at the Red Sea, in the wilderness with the golden calf, at Baal-peor and at Meribah, and in Canaan among the heathen, yet God heard their cry and remembered his covenant; the speaker asks him to gather them from the nations.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 106"
+   ],
+   "evidence": [
+    "Read 106:6-7 and 106:44-48 and list the sins confessed in 106:13-39."
+   ],
+   "prompt": "Can {{name}} explain how Psalm 106 differs from Psalm 105 in how it tells Israel’s history?"
+  },
+  {
+   "id": "psa_107",
+   "type": "THEME",
+   "name": "Psalm 107: let the redeemed of the LORD say so",
+   "description": "The redeemed are told to give thanks for the LORD’s goodness; four groups are described, wanderers in the wilderness, prisoners, the sick, and sailors in a storm, each cried to the LORD in trouble and he delivered them.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 107"
+   ],
+   "evidence": [
+    "List the four groups and find the repeated refrain (107:8, 15, 21, 31)."
+   ],
+   "prompt": "Can {{name}} name the four groups in Psalm 107 and the refrain that follows each?"
+  },
+  {
+   "id": "psa_108",
+   "type": "THEME",
+   "name": "Psalm 108: awake, psaltery and harp",
+   "description": "The speaker resolves to sing and praise, says God’s mercy is great above the heavens, and asks for help against the enemy using words that also appear in Psalm 60:5-12 about Gilead, Manasseh, Ephraim, Judah and Edom.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 108"
+   ],
+   "evidence": [
+    "Compare Psalm 108:6-13 with 60:5-12 and note the shared words."
+   ],
+   "prompt": "Can {{name}} compare Psalm 108 with Psalm 57 and Psalm 60 and say which verses are alike?"
+  },
+  {
+   "id": "psa_109",
+   "type": "THEME",
+   "name": "Psalm 109: a cry against false accusers",
+   "description": "The speaker says the wicked speak against him with lying tongues and repay evil for love, and prays that the accuser’s days be few and his reward come from the LORD; he says he is poor and needy and asks God to save him.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "PSA 109"
+   ],
+   "evidence": [
+    "Read 109:1-5, 109:6-20 and 109:21-31 and note how the psalm moves from complaint to curse to appeal."
+   ],
+   "prompt": "Can {{name}} explain how Psalm 109 moves from the speaker’s complaint to his prayer for help?"
+  },
+  {
+   "id": "psa_110",
+   "type": "THEME",
+   "name": "Psalm 110: sit at my right hand; a priest after Melchizedek",
+   "description": "The LORD says to the speaker’s Lord to sit at his right hand until his enemies are his footstool; he is a king sent to rule from Zion and a priest for ever after the order of Melchizedek, sworn by the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 110"
+   ],
+   "evidence": [
+    "Read 110:1-4 and say who speaks and to whom, and what is sworn."
+   ],
+   "prompt": "Can {{name}} read Psalm 110:1 and 110:4 and say what the LORD says to the speaker’s Lord?"
+  },
+  {
+   "id": "psa_111_112",
+   "type": "THEME",
+   "name": "Psalms 111-112: the works of the LORD and the blessed man who fears him",
+   "description": "Psalm 111 praises the LORD’s works, righteousness and covenant, saying the fear of the LORD is the beginning of wisdom; Psalm 112 describes the man who fears the LORD and delights in his commandments, whose righteousness endures and who is gracious and gives to the poor.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 111..112"
+   ],
+   "evidence": [
+    "Read 111:10 and 112:1-9 and say what each says about the fear of the LORD."
+   ],
+   "prompt": "Can {{name}} explain how Psalm 111:10 and Psalm 112:1 connect the fear of the LORD with wisdom and blessing?"
+  },
+  {
+   "id": "psa_113_114",
+   "type": "THEME",
+   "name": "Psalms 113-114: the LORD lifts the poor; the sea saw it and fled",
+   "description": "Psalm 113 calls the LORD’s servants to praise his name, says he dwells on high yet humbles himself and raises the poor from the dust; Psalm 114 recalls Israel leaving Egypt when the sea fled and Jordan turned back and the earth trembled before the LORD.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 113..114"
+   ],
+   "evidence": [
+    "Read 113:5-9 and 114:1-8 and say what the LORD does in each."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 113:7-8 says about the poor and what Psalm 114 recalls?"
+  },
+  {
+   "id": "psa_115",
+   "type": "THEME",
+   "name": "Psalm 115: not unto us; idols and the living God",
+   "description": "The psalm gives glory to the LORD’s name, says the heathen’s idols have mouths that speak not and eyes that see not and those who trust them become like them, and calls Israel, the house of Aaron and all who fear him to trust the LORD, their help and shield.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 115"
+   ],
+   "evidence": [
+    "Read 115:4-8 and 115:9-11 and contrast idols with the LORD."
+   ],
+   "prompt": "Can {{name}} contrast the idols with the LORD in Psalm 115?"
+  },
+  {
+   "id": "psa_116",
+   "type": "THEME",
+   "name": "Psalm 116: I love the LORD because he heard my voice",
+   "description": "The speaker loves the LORD because he heard his voice, tells how the sorrows of death compassed him and he called on the LORD who delivered his soul, and asks what he can render, promising to take the cup of salvation and pay his vows in the presence of all his people.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 116"
+   ],
+   "evidence": [
+    "Read 116:3-4 and 116:12-19 and say what the speaker does in thanks."
+   ],
+   "prompt": "Can {{name}} explain what the speaker promises to do in Psalm 116:12-14?"
+  },
+  {
+   "id": "psa_117_118",
+   "type": "THEME",
+   "name": "Psalms 117-118: his mercy endureth for ever; the stone the builders refused",
+   "description": "Psalm 117 calls all nations to praise the LORD for his great mercy and truth; Psalm 118 calls Israel to say his mercy endures for ever, tells of being delivered from distress, says it is better to trust the LORD than man, speaks of the stone the builders refused, and ends with giving thanks.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 117..118"
+   ],
+   "evidence": [
+    "Read 118:5-9, 118:19-24 and 118:26-29 and list what is said about the LORD and the gate."
+   ],
+   "prompt": "Can {{name}} explain the refrain “his mercy endureth for ever” and the picture in Psalm 118:22-23?"
+  },
+  {
+   "id": "psa_119_1",
+   "type": "THEME",
+   "name": "Psalm 119:1-32: blessed are those who walk in the law of the LORD",
+   "description": "The psalm opens by calling blessed those who walk in the LORD’s law, asks how a young man may cleanse his way and says he has hid God’s word in his heart, and asks the LORD to open his eyes to see wondrous things out of his law.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 119:1-32"
+   ],
+   "evidence": [
+    "Read 119:9-11 and say how a young man is to cleanse his way.",
+    "List the different words for God’s word used in 119:1-32."
+   ],
+   "prompt": "Can {{name}} explain Psalm 119:9-11 and name three words the psalm uses for God’s word?"
+  },
+  {
+   "id": "psa_119_33",
+   "type": "THEME",
+   "name": "Psalm 119:33-64: teach me, O LORD, the way of thy statutes",
+   "description": "The speaker asks the LORD to teach him his statutes, turn his eyes from vanity, and let his mercies come; he says he will speak of the LORD’s testimonies before kings, is the LORD’s portion, and has turned his feet to the LORD’s testimonies.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 119:33-64"
+   ],
+   "evidence": [
+    "Pick three requests the speaker makes in 119:33-40."
+   ],
+   "prompt": "Can {{name}} list what the speaker asks God to teach and turn away in Psalm 119:33-40?"
+  },
+  {
+   "id": "psa_119_65",
+   "type": "THEME",
+   "name": "Psalm 119:65-96: it is good for me that I have been afflicted",
+   "description": "The speaker says that before he was afflicted he went astray but now keeps God’s word, that it is good for him to have been afflicted that he might learn the statutes, that God’s hands made him, and that God’s word is settled for ever in heaven.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 119:65-96"
+   ],
+   "evidence": [
+    "Read 119:67, 119:71, 119:75 and 119:89 and say what the speaker has learned through affliction."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 119:67 and 119:71 say about affliction?"
+  },
+  {
+   "id": "psa_119_97",
+   "type": "THEME",
+   "name": "Psalm 119:97-128: O how I love thy law; thy word is a lamp unto my feet",
+   "description": "The speaker loves God’s law and meditates on it all day, says it makes him wiser than his enemies and teachers, calls God’s words sweeter than honey, and says the word is a lamp unto his feet and a light unto his path.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 119:97-128"
+   ],
+   "evidence": [
+    "Read 119:97-105 and say what the speaker says the law gives him."
+   ],
+   "prompt": "Can {{name}} read Psalm 119:105 and explain what it says the word does?"
+  },
+  {
+   "id": "psa_119_129",
+   "type": "THEME",
+   "name": "Psalm 119:129-160: the entrance of thy words giveth light",
+   "description": "The speaker says God’s testimonies are wonderful and his words give light and understanding, weeps because others do not keep the law, asks to be redeemed from oppression, and says the sum of God’s word is truth and every righteous judgment endures for ever.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 119:129-160"
+   ],
+   "evidence": [
+    "Read 119:129-136 and 119:160 and say what the speaker says about God’s word."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 119:130 and 119:160 say about God’s word?"
+  },
+  {
+   "id": "psa_119_161",
+   "type": "THEME",
+   "name": "Psalm 119:161-176: great peace have they which love thy law",
+   "description": "The speaker says princes persecute him without cause but his heart stands in awe of God’s word, he rejoices at it as one who finds great spoil, praises God seven times a day, says great peace have they that love the law, and ends by asking to be sought as a lost sheep.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 119:161-176"
+   ],
+   "evidence": [
+    "Read 119:161-168 and 119:176 and say how the psalm ends."
+   ],
+   "prompt": "Can {{name}} explain how Psalm 119 ends and what the speaker asks in verse 176?"
+  },
+  {
+   "id": "psa_120_121",
+   "type": "THEME",
+   "name": "Psalms 120-121: distress among liars; my help comes from the LORD",
+   "description": "Psalm 120 cries to the LORD in distress against lying lips and a deceitful tongue, among those who hate peace; Psalm 121 lifts the eyes to the hills and says help comes from the LORD who made heaven and earth and who keeps his people and never slumbers.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 120..121"
+   ],
+   "evidence": [
+    "Read 121:1-8 and list what the LORD keeps and when."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 121 says about who keeps the speaker and when?"
+  },
+  {
+   "id": "psa_122",
+   "type": "THEME",
+   "name": "Psalm 122: I was glad when they said, let us go to the house of the LORD",
+   "description": "The speaker is glad to go up to the house of the LORD to Jerusalem, where the tribes go up and the thrones of the house of David are set, and asks others to pray for the peace of Jerusalem.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 122"
+   ],
+   "evidence": [
+    "Read 122:1-9 and list the reasons to love Jerusalem."
+   ],
+   "prompt": "Can {{name}} say what Psalm 122:6-9 asks and why?"
+  },
+  {
+   "id": "psa_123_125",
+   "type": "THEME",
+   "name": "Psalms 123-125: our eyes wait upon the LORD",
+   "description": "Psalm 123 lifts eyes like servants watching a master’s hand and asks for mercy against contempt; Psalm 124 says that if the LORD had not been on our side the proud waters would have gone over us; Psalm 125 says those who trust in the LORD are like mount Zion, which cannot be removed.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 123..125"
+   ],
+   "evidence": [
+    "Find the pictures in 123:2, 124:7 and 125:1-2."
+   ],
+   "prompt": "Can {{name}} explain one picture each from Psalms 123, 124 and 125?"
+  },
+  {
+   "id": "psa_126",
+   "type": "THEME",
+   "name": "Psalm 126: they that sow in tears shall reap in joy",
+   "description": "The people recall the LORD turning again the captivity of Zion when they were like those who dream, filled with laughter, and pray for the LORD to turn their captivity again, saying those who sow in tears shall reap in joy.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 126"
+   ],
+   "evidence": [
+    "Read 126:5-6 and say what the sower does and receives."
+   ],
+   "prompt": "Can {{name}} explain the picture of sowing in tears and reaping in joy in Psalm 126:5-6?"
+  },
+  {
+   "id": "psa_127_128",
+   "type": "THEME",
+   "name": "Psalms 127-128: unless the LORD builds the house; the blessed family",
+   "description": "Psalm 127 says that unless the LORD builds the house those who build it labour in vain, and that children are a heritage from the LORD; Psalm 128 blesses the one who fears the LORD with the fruit of his labour, a fruitful wife and children, and the good of Jerusalem.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "PSA 127..128"
+   ],
+   "evidence": [
+    "Read 127:1-2 and 128:1-4 and say what depends on the LORD."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 127:1 teaches about work and the LORD?"
+  },
+  {
+   "id": "psa_129",
+   "type": "THEME",
+   "name": "Psalm 129: they have afflicted me from my youth, yet have not prevailed",
+   "description": "Israel says they have often been afflicted from their youth yet not overcome, the LORD is righteous and has cut asunder the cords of the wicked, and those who hate Zion are compared to grass on the housetops that withers.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 129"
+   ],
+   "evidence": [
+    "Read 129:1-4 and say why the afflicted have not been overcome."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 129:2-4 says about the afflicted and the LORD?"
+  },
+  {
+   "id": "psa_130_131",
+   "type": "THEME",
+   "name": "Psalms 130-131: out of the depths; a weaned child",
+   "description": "Psalm 130 cries to the LORD out of the depths, says that with him there is forgiveness and plenteous redemption, and waits for him more than watchmen for the morning; Psalm 131 says the speaker is not haughty and has quieted his soul like a weaned child, and both end by telling Israel to hope in the LORD.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 130..131"
+   ],
+   "evidence": [
+    "Read 130:3-8 and 131:1-3 and say what Israel is told to do."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 130:3-4 says about forgiveness and what 130:7 and 131:3 tell Israel to do?"
+  },
+  {
+   "id": "psa_132",
+   "type": "COVENANT",
+   "name": "Psalm 132: the LORD’s oath to David and his choice of Zion",
+   "description": "The psalm recalls David’s vow to find a dwelling for the LORD and says the LORD swore to David that his seed would sit on his throne if his children keep his covenant; the LORD chose Zion for his rest and will make the horn of David to bud.",
+   "covenant": "cv_davidic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 132"
+   ],
+   "evidence": [
+    "Read 132:11-18 and say what the LORD swore and what he chose."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 132:11-12 says the LORD swore to David?"
+  },
+  {
+   "id": "psa_133_134",
+   "type": "THEME",
+   "name": "Psalms 133-134: brethren in unity; bless the LORD in the night",
+   "description": "Psalm 133 says it is good and pleasant when brethren dwell together in unity, like precious ointment and the dew of Hermon, for there the LORD commands the blessing; Psalm 134 calls the LORD’s servants who stand in his house by night to lift up their hands and bless him.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 133..134"
+   ],
+   "evidence": [
+    "Read 133:1-3 and 134:1-3 and say who is called to do what."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 133:1 says is good and what Psalm 134 calls the servants to do?"
+  },
+  {
+   "id": "psa_135",
+   "type": "THEME",
+   "name": "Psalm 135: praise the LORD who is great above all gods",
+   "description": "The psalm calls the LORD’s servants to praise him, says he is above all gods and does whatever he pleases in heaven and earth, recalls Egypt’s firstborn and the defeat of Sihon and Og, and says those who make idols become like them.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 135"
+   ],
+   "evidence": [
+    "Read 135:5-14 and 135:15-18 and list what the LORD does and what idols are."
+   ],
+   "prompt": "Can {{name}} explain how Psalm 135 contrasts the LORD with idols?"
+  },
+  {
+   "id": "psa_136",
+   "type": "THEME",
+   "name": "Psalm 136: his mercy endureth for ever",
+   "description": "Each verse tells a work of the LORD, from creation of the heavens and lights to the striking of Egypt’s firstborn, the dividing of the Red Sea and the giving of the land, and each is followed by the refrain that his mercy endures for ever.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "PSA 136"
+   ],
+   "evidence": [
+    "Read Psalm 136 and list the works named, noting the repeated refrain."
+   ],
+   "prompt": "Can {{name}} list three works of the LORD in Psalm 136 and say the refrain?"
+  },
+  {
+   "id": "psa_137",
+   "type": "THEME",
+   "name": "Psalm 137: by the rivers of Babylon",
+   "description": "Exiles sit by the rivers of Babylon and weep when they remember Zion, hang up their harps when their captors ask for a song, and vow not to forget Jerusalem; the psalm ends with a plea against Babylon and Edom.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 137"
+   ],
+   "evidence": [
+    "Read 137:1-6 and say what the exiles refuse to do and what they promise."
+   ],
+   "prompt": "Can {{name}} explain why the exiles in Psalm 137 will not sing and what they vow about Jerusalem?"
+  },
+  {
+   "id": "psa_138",
+   "type": "THEME",
+   "name": "Psalm 138: I will praise thee with my whole heart",
+   "description": "The speaker praises the LORD for his lovingkindness and truth, for answering when he cried, says kings shall sing of the LORD and that though he is high he regards the lowly, and says the LORD will perfect that which concerns him.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 138"
+   ],
+   "evidence": [
+    "Read 138:1-8 and say what the speaker praises God for."
+   ],
+   "prompt": "Can {{name}} explain what the speaker says in Psalm 138:6-8 about God and the lowly?"
+  },
+  {
+   "id": "psa_139",
+   "type": "DOCTRINE",
+   "name": "Psalm 139: O LORD, thou hast searched me and known me",
+   "description": "The speaker says the LORD knows his sitting and rising and thoughts, that he cannot flee from his presence in heaven, the depths or the uttermost sea, that God formed him in the womb so that he is fearfully and wonderfully made, and asks God to search him and lead him.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 139"
+   ],
+   "evidence": [
+    "Read 139:1-6, 139:7-12 and 139:13-16 and say what each part says about God.",
+    "Read 139:23-24 as a prayer."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 139 says about God’s knowledge of us and his presence?"
+  },
+  {
+   "id": "psa_140_142",
+   "type": "THEME",
+   "name": "Psalms 140-142: deliver me from violent men; I cried unto the LORD",
+   "description": "Psalm 140 asks the LORD to deliver the speaker from evil and violent men whose tongues are like serpents; Psalm 141 asks that his prayer be set before the LORD like incense and that he be kept from wickedness; Psalm 142 pours out his complaint, saying the LORD is his refuge and portion.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 140..142"
+   ],
+   "evidence": [
+    "Read 140:1-3, 141:1-4 and 142:1-7 and list what the speaker asks."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 141:2-4 and 142:5 say about the speaker’s prayer and refuge?"
+  },
+  {
+   "id": "psa_143",
+   "type": "THEME",
+   "name": "Psalm 143: enter not into judgment with thy servant",
+   "description": "The speaker asks the LORD to hear and not to enter into judgment with him since in God’s sight no man living is righteous, remembers the days of old, spreads out his hands, and asks to be taught to do God’s will and led into the land of uprightness.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PSA 143"
+   ],
+   "evidence": [
+    "Read 143:1-2 and 143:8-10 and list what the speaker asks."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 143:2 says about being righteous in God’s sight?"
+  },
+  {
+   "id": "psa_144",
+   "type": "THEME",
+   "name": "Psalm 144: blessed be the LORD my strength; happy is that people",
+   "description": "The speaker blesses the LORD who teaches his hands to war and is his fortress and deliverer, asks what man is that God takes knowledge of him, asks for rescue from false and strange children, and describes the happy people whose God is the LORD.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PSA 144"
+   ],
+   "evidence": [
+    "Read 144:1-4 and 144:12-15 and list the names for God and the picture of the happy people."
+   ],
+   "prompt": "Can {{name}} explain what Psalm 144:15 says makes a people happy?"
+  },
+  {
+   "id": "psa_145",
+   "type": "THEME",
+   "name": "Psalm 145: I will extol thee, my God, O King",
+   "description": "The speaker will bless the LORD every day and speak of his greatness, calls him gracious, full of compassion, slow to anger, good to all, near to all who call on him, upholding the fallen, and says his kingdom is an everlasting kingdom.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PSA 145"
+   ],
+   "evidence": [
+    "Read 145:8-9 and 145:13-20 and list what is said about God’s character and care."
+   ],
+   "prompt": "Can {{name}} read Psalm 145:8-9 and name three things it says about the LORD?"
+  },
+  {
+   "id": "psa_146_148",
+   "type": "THEME",
+   "name": "Psalms 146-148: praise the LORD from the heavens and the earth",
+   "description": "Psalm 146 says to praise the LORD all one’s life and not to trust in princes, since the LORD gives justice and feeds the hungry; Psalm 147 praises him for rebuilding Jerusalem, healing the broken-hearted and his word on the earth; Psalm 148 calls angels, the sun, moon, stars, sea creatures, mountains and kings to praise him.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "PSA 146..148"
+   ],
+   "evidence": [
+    "List what is called to praise the LORD in Psalm 148 and what the LORD does in 146:7-9."
+   ],
+   "prompt": "Can {{name}} list five things called to praise the LORD in Psalm 148?"
+  },
+  {
+   "id": "psa_149_150",
+   "type": "THEME",
+   "name": "Psalms 149-150: let every thing that hath breath praise the LORD",
+   "description": "Psalm 149 calls the saints to sing a new song to the LORD with dancing and swords in their hands; Psalm 150 closes the book by calling for praise of God in his sanctuary and firmament with trumpet, harp, cymbals and all that has breath.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "PSA 149..150"
+   ],
+   "evidence": [
+    "Read Psalm 150 and list where, why and with what God is to be praised."
+   ],
+   "prompt": "Can {{name}} read Psalm 150 and say who is to praise the LORD and with what?"
+  },
+  {
+   "id": "book_pro",
+   "type": "BOOK_OVERVIEW",
+   "name": "Proverbs: overview",
+   "description": "Proverbs begins with the proverbs of Solomon son of David (1:1), sets out a father’s teaching about wisdom and folly (1-9), gathers many short sayings (10-29), and ends with the words of Agur (30) and of king Lemuel (31).",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 1..31"
+   ],
+   "evidence": [
+    "Describe the main sections of Proverbs: 1-9, 10-22, 22-24, 25-29, 30, 31."
+   ],
+   "prompt": "Can {{name}} name the main sections of Proverbs and who is named as the source of each?"
+  },
+  {
+   "id": "pro_purpose",
+   "type": "THEME",
+   "name": "The purpose of Proverbs and the fear of the LORD",
+   "description": "Proverbs is given to know wisdom and instruction, to give prudence to the simple and knowledge to the young, and it names the fear of the LORD as the beginning of knowledge while fools despise wisdom.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "PRO 1:1-7"
+   ],
+   "evidence": [
+    "Name what Proverbs 1:2-4 says the book is for and what 1:7 calls the beginning of knowledge."
+   ],
+   "prompt": "Can {{name}} read Proverbs 1:7 and explain it in their own words?"
+  },
+  {
+   "id": "pro_sinners_wisdom_calls",
+   "type": "THEME",
+   "name": "Do not follow sinners; wisdom cries out",
+   "description": "A father urges his son to hear instruction and not consent when sinners entice him to join violence; Wisdom cries in the streets and warns those who hate knowledge and refuse her reproof.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "PRO 1:8-33"
+   ],
+   "evidence": [
+    "Describe the enticement of 1:10-14 and the warning of 1:24-33."
+   ],
+   "prompt": "Can {{name}} explain the two warnings in Proverbs 1: the sinners’ enticing and Wisdom’s rebuke?"
+  },
+  {
+   "id": "pro_seek_wisdom",
+   "type": "THEME",
+   "name": "Seeking wisdom: protection and the right path",
+   "description": "The father says that if the son seeks wisdom like silver he will understand the fear of the LORD, and wisdom will deliver him from evil men and from the strange woman and keep him on the way of good men.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "PRO 2:1-22"
+   ],
+   "evidence": [
+    "List what Proverbs 2 says the LORD gives and what wisdom keeps the son from."
+   ],
+   "prompt": "Can {{name}} explain what the son must do and what he will receive in Proverbs 2?"
+  },
+  {
+   "id": "pro_trust_lord",
+   "type": "THEME",
+   "name": "Trust in the LORD with all your heart",
+   "description": "The father tells his son to keep his commandments, trust in the LORD and not lean on his own understanding, accept the LORD’s correction, value wisdom above silver and gold, and do good to his neighbour.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "PRO 3:1-35"
+   ],
+   "evidence": [
+    "Read 3:5-6 and say what the son is told to do and what the LORD does.",
+    "Find 3:11-12 and say what it says about correction."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 3:5-6 and give one example of leaning on one’s own understanding?"
+  },
+  {
+   "id": "pro_get_wisdom",
+   "type": "THEME",
+   "name": "Get wisdom; guard your heart",
+   "description": "A father recalls the teaching he received, tells his son to get wisdom and understanding, to avoid the path of the wicked, and to keep his heart with all diligence since the issues of life flow from it.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "PRO 4:1-27"
+   ],
+   "evidence": [
+    "Contrast the paths in 4:14-19 and 4:18.",
+    "Say what 4:23 tells the son to guard."
+   ],
+   "prompt": "Can {{name}} explain 4:23 and name the two paths described in chapter 4?"
+  },
+  {
+   "id": "pro_strange_woman",
+   "type": "THEME",
+   "name": "Warnings against the strange woman",
+   "description": "The father warns his son against the strange woman whose lips drop honey but whose end is bitter and whose feet go down to death, and urges him to find joy in the wife of his youth.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "PRO 5:1-23"
+   ],
+   "evidence": [
+    "Read Proverbs 5:3-6 and 5:15-19 and contrast the warning with the counsel."
+   ],
+   "prompt": "Can {{name}} explain the warning of Proverbs 5 and the counsel given in 5:15-19?"
+  },
+  {
+   "id": "pro_practical_warnings",
+   "type": "THEME",
+   "name": "Surety, sloth and seven abominations",
+   "description": "Proverbs warns against becoming surety for a neighbour, sends the sluggard to the ant, describes the froward man who sows discord, and lists six things the LORD hates, even seven.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 6:1-19"
+   ],
+   "evidence": [
+    "List the six things and the seventh named in 6:16-19.",
+    "Say what the ant teaches in 6:6-8."
+   ],
+   "prompt": "Can {{name}} list some of the seven things the LORD hates in Proverbs 6:16-19?"
+  },
+  {
+   "id": "pro_adultery_snare",
+   "type": "THEME",
+   "name": "Keep the commandment; the snare of adultery",
+   "description": "The father says the commandment is a lamp and the law is light, warns that adultery brings ruin and burning that cannot be hidden, and in chapter 7 tells how a simple young man is lured by a woman and walks to her house like an ox to the slaughter.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "PRO 6:20-35",
+    "PRO 7:1-27"
+   ],
+   "evidence": [
+    "Describe the young man’s steps in 7:6-23 and the closing warning in 7:24-27."
+   ],
+   "prompt": "Can {{name}} retell the scene in Proverbs 7 and the warning it ends with?"
+  },
+  {
+   "id": "pro_wisdom_speaks",
+   "type": "THEME",
+   "name": "Wisdom calls aloud and was there at creation",
+   "description": "Wisdom cries out to the simple, says she is better than rubies, loves those who love her, and describes herself as brought forth by the LORD before the earth and rejoicing when he set the heavens and the foundations of the earth.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 8:1-36"
+   ],
+   "evidence": [
+    "Read 8:22-31 and say what Wisdom says about her place before and during creation.",
+    "List what Wisdom offers in 8:12-21."
+   ],
+   "prompt": "Can {{name}} explain what Wisdom says about herself in Proverbs 8:22-31?"
+  },
+  {
+   "id": "pro_two_invitations",
+   "type": "THEME",
+   "name": "Two invitations: Wisdom’s house and Folly’s seat",
+   "description": "Wisdom builds a house, prepares a feast and calls the simple to come, while a foolish woman sits at her door and calls them to stolen waters; the beginning of wisdom is the fear of the LORD.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 9:1-18"
+   ],
+   "evidence": [
+    "Compare the two invitations in 9:1-6 and 9:13-18.",
+    "Read 9:10."
+   ],
+   "prompt": "Can {{name}} compare the invitation of Wisdom and the invitation of the foolish woman in Proverbs 9?"
+  },
+  {
+   "id": "pro_righteous_wicked_1",
+   "type": "THEME",
+   "name": "Proverbs of Solomon: the righteous, the wicked and words (10-11)",
+   "description": "Short sayings contrast the righteous and the wicked, the diligent and the lazy, and the mouth that gives life with the mouth that harms; chapter 11 adds sayings on integrity, pride, surety and generosity.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 10..11"
+   ],
+   "evidence": [
+    "Collect three contrasts between righteous and wicked from chapter 10 and chapter 11."
+   ],
+   "prompt": "Can {{name}} pick one saying from Proverbs 10 or 11 and explain what two ways of life it contrasts?"
+  },
+  {
+   "id": "pro_fools_diligence",
+   "type": "THEME",
+   "name": "Fools, counsel, truth and diligence (12-13)",
+   "description": "The sayings praise truthful lips over lying tongues, the one who hears counsel over the fool who is right in his own eyes, and diligent work over slothfulness; chapter 13 speaks about the mouth, wealth and discipline.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 12..13"
+   ],
+   "evidence": [
+    "Find a saying about speech, one about work, and one about counsel in chapters 12-13."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 12:15 and give a saying from chapters 12-13 about work?"
+  },
+  {
+   "id": "pro_fear_lord_prudent",
+   "type": "THEME",
+   "name": "The fear of the LORD, the simple and the prudent (14-15)",
+   "description": "The sayings contrast the simple who believe every word with the prudent who consider their steps, call the fear of the LORD a fountain of life, say that oppressing the poor insults their Maker, and teach that a soft answer turns away wrath.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 14..15"
+   ],
+   "evidence": [
+    "Read 14:27, 14:31 and 15:1 and say what each teaches."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 15:1 and give an example from daily life?"
+  },
+  {
+   "id": "pro_lord_directs_pride",
+   "type": "THEME",
+   "name": "The LORD directs; pride and strife (16-17)",
+   "description": "The sayings say a man’s plans are before the LORD, that pride goes before destruction, that the LORD tries hearts as a furnace tries gold, and that justifying the wicked or condemning the just is an abomination to him.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 16..17"
+   ],
+   "evidence": [
+    "Read 16:3, 16:18 and 17:15 and state the lesson of each."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 16:18 and name one saying about the LORD’s part in human plans in chapter 16?"
+  },
+  {
+   "id": "pro_tongue_friends_wealth",
+   "type": "THEME",
+   "name": "The tongue, friends, anger, rich and poor (18-19)",
+   "description": "The sayings warn that a fool’s mouth is his destruction, that death and life are in the power of the tongue, that a brother offended is hard to win, that discretion defers anger, and that the poor are often forsaken while the fear of the LORD leads to life.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 18..19"
+   ],
+   "evidence": [
+    "Read 18:21 and 19:11 and say what each teaches."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 18:21 in their own words?"
+  },
+  {
+   "id": "pro_honest_justice",
+   "type": "THEME",
+   "name": "Honest weights, justice and the safety of the LORD (20-21)",
+   "description": "The sayings say wine is a mocker, that divers weights are an abomination to the LORD, that doing justice is more acceptable to him than sacrifice, and that the horse is prepared for battle but safety is of the LORD.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 20..21"
+   ],
+   "evidence": [
+    "Read 20:23, 21:3 and 21:31 and state what each says."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 21:3 and say why it matters?"
+  },
+  {
+   "id": "pro_train_child_poor",
+   "type": "THEME",
+   "name": "Good name, training a child, and the poor (22:1-16)",
+   "description": "The sayings praise a good name over riches, say the rich and poor meet before their maker, tell parents to train up a child in his way, and say the rich rule over the poor while the borrower is servant to the lender.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 22:1-16"
+   ],
+   "evidence": [
+    "Read 22:1, 22:2 and 22:6 and say what each teaches."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 22:6 and name something from 22:1-16 about the poor?"
+  },
+  {
+   "id": "pro_sayings_of_wise_1",
+   "type": "THEME",
+   "name": "Sayings of the wise: do not rob the poor, do not envy sinners",
+   "description": "The writer calls the reader to bow the ear to the words of the wise so that trust may be in the LORD, forbids robbing the poor, warns against greed for riches, correction of a child, the drunkard and the winebibber, and urges buying truth and not envying sinners.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 22:17-29",
+    "PRO 23:1-35"
+   ],
+   "evidence": [
+    "Read 23:29-35 and describe the picture of strong drink.",
+    "Read 22:17-21 and say why the writer addresses the reader."
+   ],
+   "prompt": "Can {{name}} explain what the writer says is the reason for these sayings in Proverbs 22:17-21?"
+  },
+  {
+   "id": "pro_sayings_of_wise_2",
+   "type": "THEME",
+   "name": "More sayings of the wise: wisdom, enemies and the sluggard’s field",
+   "description": "The sayings say not to envy evil men, that wise men are strong, that respect of persons in judgment is not good, that one should not rejoice when an enemy falls or repay evil, and the writer learns a lesson from the field of the slothful man.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 24:1-34"
+   ],
+   "evidence": [
+    "Read 24:17-18 and 24:29 and say what each commands.",
+    "Retell what the writer sees in 24:30-34."
+   ],
+   "prompt": "Can {{name}} explain what Proverbs 24:17 and 24:29 say about enemies?"
+  },
+  {
+   "id": "pro_hezekiah_kings",
+   "type": "THEME",
+   "name": "More proverbs of Solomon: kings, neighbours and fitting words (25)",
+   "description": "These proverbs, which the men of Hezekiah king of Judah copied out, speak of the glory of God to conceal a thing and the honour of kings to search it out, a word fitly spoken, restraint with a neighbour, and kindness to an enemy.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 25:1-28"
+   ],
+   "evidence": [
+    "Read 25:1 and say who copied these proverbs.",
+    "Find the saying about a word fitly spoken (25:11)."
+   ],
+   "prompt": "Can {{name}} explain what 25:1 says about the source of chapters 25-29 and give one saying from chapter 25?"
+  },
+  {
+   "id": "pro_fools_sluggards",
+   "type": "THEME",
+   "name": "Fools, sluggards and talebearers (26)",
+   "description": "The proverbs liken honour for a fool to a stone bound in a sling, say a fool returns to his folly as a dog to its vomit, picture the slothful turning on his bed like a door on its hinges, and say strife ceases where there is no talebearer.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 26:1-28"
+   ],
+   "evidence": [
+    "Find three images used for the fool and the sluggard in chapter 26."
+   ],
+   "prompt": "Can {{name}} list two pictures Proverbs 26 uses for a fool or a sluggard?"
+  },
+  {
+   "id": "pro_friends_boasting",
+   "type": "THEME",
+   "name": "Friends, boasting and tending flocks (27)",
+   "description": "The proverbs say not to boast of tomorrow or of yourself, that open rebuke is better than secret love, that iron sharpens iron, and that a man should know the state of his flocks.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 27:1-27"
+   ],
+   "evidence": [
+    "Read 27:5-6 and 27:17 and explain the lesson on friendship."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 27:17 and name one other saying about friends or boasting in chapter 27?"
+  },
+  {
+   "id": "pro_rulers_confession",
+   "type": "THEME",
+   "name": "Rulers, justice and confessing sin (28-29)",
+   "description": "The proverbs say the wicked flee when no man pursues while the righteous are bold as a lion, that confessing and forsaking sin brings mercy, that the poor and the oppressed matter to rulers, that when the righteous rule the people rejoice, and that he who trusts his own heart is a fool.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PRO 28..29"
+   ],
+   "evidence": [
+    "Read 28:13 and 29:2 and say what each teaches.",
+    "Contrast 28:26 with the proverbs on the fear of the LORD."
+   ],
+   "prompt": "Can {{name}} explain Proverbs 28:13 and give one saying about rulers from chapters 28-29?"
+  },
+  {
+   "id": "pro_agur",
+   "type": "THEME",
+   "name": "The words of Agur",
+   "description": "Agur confesses he lacks understanding, asks who has ascended to heaven and gathered the wind, says every word of God is pure, asks for neither poverty nor riches, and lists things that are never satisfied or too wonderful and things that are small yet wise.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PRO 30:1-33"
+   ],
+   "evidence": [
+    "Read 30:5-9 and state what Agur asks of God."
+   ],
+   "prompt": "Can {{name}} explain what Agur prays for in Proverbs 30:7-9?"
+  },
+  {
+   "id": "pro_lemuel",
+   "type": "THEME",
+   "name": "The words of king Lemuel",
+   "description": "King Lemuel recounts what his mother taught him: not to give his strength to women or to strong drink, and to open his mouth for the dumb and to plead for the poor and needy.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PRO 31:1-9"
+   ],
+   "evidence": [
+    "Read 31:8-9 and say what the king is told to do for those who cannot speak for themselves."
+   ],
+   "prompt": "Can {{name}} explain what Lemuel’s mother tells him about kings and the poor in Proverbs 31:1-9?"
+  },
+  {
+   "id": "pro_virtuous_woman",
+   "type": "THEME",
+   "name": "The virtuous woman",
+   "description": "A closing poem asks who can find a virtuous woman and describes her trust, work, care for her household and for the poor, and wise speech, concluding that a woman who fears the LORD shall be praised.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PRO 31:10-31"
+   ],
+   "evidence": [
+    "List the works and character traits of the woman in 31:10-27.",
+    "Read 31:30 and say what is praised."
+   ],
+   "prompt": "Can {{name}} describe the woman of Proverbs 31 and read what 31:30 says is to be praised?"
+  },
+  {
+   "id": "book_ecc",
+   "type": "BOOK_OVERVIEW",
+   "name": "Ecclesiastes: overview",
+   "description": "The Preacher, son of David, king in Jerusalem, examines life under the sun and declares that all is vanity, yet counsels the fear of God and keeping his commandments, for God will bring every work into judgment (12:13-14).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 1..12"
+   ],
+   "evidence": [
+    "Say who speaks in Ecclesiastes and state the closing conclusion in 12:13-14."
+   ],
+   "prompt": "Can {{name}} explain the Preacher’s repeated word “vanity” and his conclusion in chapter 12?"
+  },
+  {
+   "id": "ecc_vanity",
+   "type": "THEME",
+   "name": "All is vanity: the weariness of life under the sun",
+   "description": "The Preacher says all is vanity, that one generation goes and another comes while the earth abides, that the sun and wind keep returning, that there is nothing new, and that he gave his heart to know wisdom and found it vexation.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 1:1-18"
+   ],
+   "evidence": [
+    "Read 1:2-11 and list the cycles named.",
+    "Say what the Preacher concludes in 1:14."
+   ],
+   "prompt": "Can {{name}} describe what the Preacher means by “under the sun” in chapter 1?"
+  },
+  {
+   "id": "ecc_pleasure_labour",
+   "type": "THEME",
+   "name": "Pleasure, wealth and labour are vanity",
+   "description": "The Preacher tests pleasure, great works, gardens and riches, then sees that the wise and the fool share one event, that he must leave his labour to another, and says enjoying good in labour is from God.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 2:1-26"
+   ],
+   "evidence": [
+    "List what the Preacher tried in 2:1-10 and his verdict in 2:11.",
+    "Read 2:24-26 and state what comes from the hand of God."
+   ],
+   "prompt": "Can {{name}} list what the Preacher tried in chapter 2 and what he concluded?"
+  },
+  {
+   "id": "ecc_time_for_everything",
+   "type": "THEME",
+   "name": "A time for everything",
+   "description": "The Preacher says there is a season for every purpose, from birth and death to weeping and laughing, that God made everything beautiful in its time and put eternity in men’s hearts yet no man can find out his work, and that all go to the dust.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 3:1-22"
+   ],
+   "evidence": [
+    "Read 3:1-8 and list four pairs.",
+    "Read 3:11 and 3:14 and say what the Preacher says about God’s work."
+   ],
+   "prompt": "Can {{name}} read Ecclesiastes 3:1-8 and explain what 3:11 adds?"
+  },
+  {
+   "id": "ecc_oppression_companions",
+   "type": "THEME",
+   "name": "Oppression, envy and two are better than one",
+   "description": "The Preacher sees the tears of the oppressed with no comforter, that toil arises from envy, that a man alone has no second, and that two are better than one and a threefold cord is not quickly broken.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 4:1-16"
+   ],
+   "evidence": [
+    "Read 4:9-12 and list the reasons two are better than one."
+   ],
+   "prompt": "Can {{name}} explain why two are better than one according to Ecclesiastes 4:9-12?"
+  },
+  {
+   "id": "ecc_god_house_riches",
+   "type": "THEME",
+   "name": "Guard your step in God’s house; the vanity of riches",
+   "description": "The Preacher says to keep your foot when going to the house of God, not to be hasty with the mouth or with vows, and that he who loves silver will not be satisfied with silver; enjoying one’s labour is a gift of God.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 5:1-20"
+   ],
+   "evidence": [
+    "Read 5:1-7 and list the instructions about worship and vows.",
+    "Read 5:10-15 and state what is said about loving riches."
+   ],
+   "prompt": "Can {{name}} explain what Ecclesiastes 5:1-7 says about speaking to God?"
+  },
+  {
+   "id": "ecc_wealth_without_joy",
+   "type": "THEME",
+   "name": "Wealth without enjoyment; what is man the better?",
+   "description": "The Preacher describes a man to whom God gives riches but not the power to eat of them, says a stillborn child has more rest, and asks who knows what is good for man.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 6:1-12"
+   ],
+   "evidence": [
+    "Say what evil the Preacher describes in 6:1-2 and what question he asks in 6:11-12."
+   ],
+   "prompt": "Can {{name}} summarize the “evil” the Preacher sees in Ecclesiastes 6:1-2?"
+  },
+  {
+   "id": "ecc_wisdom_and_limits",
+   "type": "THEME",
+   "name": "Better is the house of mourning; wisdom and its limits",
+   "description": "The Preacher gathers sayings that the house of mourning is better than feasting, the rebuke of the wise better than the song of fools, and the end of a thing better than its beginning, notes there is not a just man who sins not, and says wisdom is far from him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 7:1-29"
+   ],
+   "evidence": [
+    "Find the “better than” sayings in chapter 7 and say what each prefers.",
+    "Read 7:20 and 7:29."
+   ],
+   "prompt": "Can {{name}} list three “better” sayings from Ecclesiastes 7 and read what 7:20 says?"
+  },
+  {
+   "id": "ecc_kings_judgment_unknown",
+   "type": "THEME",
+   "name": "Obey the king; the work of God cannot be found out",
+   "description": "The Preacher counsels keeping the king’s commandment, observes that sentence against evil is not carried out speedily, that the righteous sometimes get what the wicked deserve, and that man cannot find out the work of God under the sun.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 8:1-17"
+   ],
+   "evidence": [
+    "Read 8:11-14 and state what puzzles the Preacher.",
+    "Read 8:17."
+   ],
+   "prompt": "Can {{name}} explain what troubles the Preacher in Ecclesiastes 8:14?"
+  },
+  {
+   "id": "ecc_one_event",
+   "type": "THEME",
+   "name": "One event comes to all; enjoy life; time and chance",
+   "description": "The Preacher says the same event comes to the righteous and the wicked, that the living know they shall die, tells his reader to eat and drink with joy and enjoy life with the wife he loves, and says the race is not always to the swift and wisdom is better than weapons.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 9:1-18"
+   ],
+   "evidence": [
+    "Read 9:7-10 and list the counsel given.",
+    "Read 9:11-12 and say what the Preacher observes."
+   ],
+   "prompt": "Can {{name}} explain what Ecclesiastes 9:11 says about outcomes?"
+  },
+  {
+   "id": "ecc_folly_and_wisdom",
+   "type": "THEME",
+   "name": "Dead flies and fools: sayings on folly and wisdom",
+   "description": "Sayings say dead flies spoil ointment, that he who digs a pit may fall into it, that a fool is full of words, and that one should not curse the king, even in thought.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 10:1-20"
+   ],
+   "evidence": [
+    "Find three sayings in chapter 10 about the fool and say what harm each describes."
+   ],
+   "prompt": "Can {{name}} explain one saying about folly from Ecclesiastes 10?"
+  },
+  {
+   "id": "ecc_remember_creator",
+   "type": "THEME",
+   "name": "Cast your bread on the waters; remember your Creator",
+   "description": "The Preacher tells men to give a portion and sow in the morning since they cannot know the work of God, to rejoice in their youth yet know that God will bring them to judgment, and to remember their Creator before the evil days come.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 11:1-10",
+    "ECC 12:1-8"
+   ],
+   "evidence": [
+    "Read 11:9-12:1 and say what is said about youth.",
+    "List the images of old age in 12:1-7."
+   ],
+   "prompt": "Can {{name}} read Ecclesiastes 12:1 and explain what it tells the young to do?"
+  },
+  {
+   "id": "ecc_conclusion",
+   "type": "THEME",
+   "name": "The conclusion: fear God and keep his commandments",
+   "description": "The Preacher sought out acceptable words, says the words of the wise are as goads and nails given by one Shepherd, warns that of making many books there is no end, and concludes that the whole duty of man is to fear God and keep his commandments, for God will bring every work into judgment.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ECC 12:9-14"
+   ],
+   "evidence": [
+    "Read 12:13-14 and state the conclusion."
+   ],
+   "prompt": "Can {{name}} state the conclusion of Ecclesiastes in 12:13-14 in their own words?"
+  },
+  {
+   "id": "book_sng",
+   "type": "BOOK_OVERVIEW",
+   "name": "Song of Solomon: overview",
+   "description": "The Song of songs, which is Solomon’s (1:1), is a poem of dialogue between a bride, her beloved and the daughters of Jerusalem, praising mutual love from first longing to its strength (8:6-7).",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 1..8"
+   ],
+   "evidence": [
+    "Name the speakers in the Song and the main settings (gardens, vineyards, the city, the wilderness)."
+   ],
+   "prompt": "Can {{name}} describe the speakers in the Song of Solomon and the theme of the poem?"
+  },
+  {
+   "id": "sng_beloved_praise",
+   "type": "THEME",
+   "name": "Longing and praise: the first meeting",
+   "description": "The bride longs for her beloved and speaks of him as a bundle of myrrh; he praises her as a lily among thorns, and she says she is sick of love, charging the daughters of Jerusalem not to awaken love before it pleases.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 1:1-17",
+    "SNG 2:1-7"
+   ],
+   "evidence": [
+    "Find the speakers in 1:2-4 and 2:1-7 and list the images used for love."
+   ],
+   "prompt": "Can {{name}} identify who is speaking in Song of Solomon 1-2:7 and what they say about each other?"
+  },
+  {
+   "id": "sng_spring_invitation",
+   "type": "THEME",
+   "name": "Arise, my love: the voice of the beloved in spring",
+   "description": "The bride hears her beloved coming over the mountains and he calls her to arise and come away because the winter is past and flowers appear; she asks for the little foxes to be caught, and says my beloved is mine and I am his.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 2:8-17"
+   ],
+   "evidence": [
+    "Read 2:10-13 and list the signs of spring.",
+    "Read 2:16 and say what the bride says of the two of them."
+   ],
+   "prompt": "Can {{name}} describe the invitation in Song of Solomon 2:10-13 and the bride’s answer in 2:16?"
+  },
+  {
+   "id": "sng_seeking_by_night",
+   "type": "THEME",
+   "name": "Seeking him whom my soul loves",
+   "description": "By night the bride seeks her beloved in the city, is found by the watchmen, and then finds him and holds him until she brings him to her mother’s house; she again charges the daughters of Jerusalem.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 3:1-5"
+   ],
+   "evidence": [
+    "Retell the bride’s search in 3:1-4."
+   ],
+   "prompt": "Can {{name}} retell the search in Song of Solomon 3:1-4?"
+  },
+  {
+   "id": "sng_solomon_procession",
+   "type": "THEME",
+   "name": "Solomon’s bed and the daughters of Zion",
+   "description": "A procession is described coming out of the wilderness with smoke of myrrh and frankincense around the bed of Solomon with sixty valiant men, and the daughters of Zion are called to behold king Solomon with his crown on his wedding day.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 3:6-11"
+   ],
+   "evidence": [
+    "Read 3:6-11 and list what is carried and who accompanies it."
+   ],
+   "prompt": "Can {{name}} describe the scene of 3:6-11 and name who is being looked at?"
+  },
+  {
+   "id": "sng_garden_locked",
+   "type": "THEME",
+   "name": "A garden enclosed",
+   "description": "The beloved praises his bride at length, calls her my spouse, his garden enclosed and a spring shut up; she invites him to come into his garden, and he says he has come into his garden.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 4:1-16",
+    "SNG 5:1"
+   ],
+   "evidence": [
+    "Read 4:12-5:1 and list the images of the garden and what the bride and groom say."
+   ],
+   "prompt": "Can {{name}} explain the garden images in Song of Solomon 4:12-5:1?"
+  },
+  {
+   "id": "sng_lost_and_found",
+   "type": "THEME",
+   "name": "I opened to my beloved, but he was gone",
+   "description": "The bride hears her beloved knocking at night, hesitates, and opens to find him gone; the watchmen strike her, and she asks the daughters of Jerusalem to tell him she is sick of love; they ask what is her beloved, and she describes him, saying he is hers.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 5:2-16",
+    "SNG 6:1-3"
+   ],
+   "evidence": [
+    "Retell 5:2-8 and read 6:3."
+   ],
+   "prompt": "Can {{name}} retell the events of Song of Solomon 5:2-8 and what the bride says in 6:3?"
+  },
+  {
+   "id": "sng_beauty_praised",
+   "type": "THEME",
+   "name": "Praise of her beauty",
+   "description": "The beloved praises his bride as beautiful as Tirzah and comely as Jerusalem, says there are many queens and concubines but she alone is his dove, and in chapter 7 admires her form and desires her; she says I am my beloved’s and his desire is toward me.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 6:4-13",
+    "SNG 7:1-9"
+   ],
+   "evidence": [
+    "Find 6:8-10 and 7:10 and say what is said of the bride."
+   ],
+   "prompt": "Can {{name}} explain what the bride says of herself and her beloved in Song of Solomon 7:10?"
+  },
+  {
+   "id": "sng_vineyards_fields",
+   "type": "THEME",
+   "name": "Come, let us go forth into the field",
+   "description": "The bride invites her beloved to go forth into the field and lodge in the villages and give him her love there; she wishes he were as her brother, and charges the daughters of Jerusalem once more not to awaken love before it pleases.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 7:10-13",
+    "SNG 8:1-4"
+   ],
+   "evidence": [
+    "Read 7:10-8:4 and list what the bride offers."
+   ],
+   "prompt": "Can {{name}} explain what the bride invites her beloved to do in Song of Solomon 7:10-13?"
+  },
+  {
+   "id": "sng_love_strong",
+   "type": "THEME",
+   "name": "Love is strong as death",
+   "description": "The bride asks to be set as a seal upon his heart, saying love is strong as death and many waters cannot quench it; the closing verses speak of a little sister, Solomon’s vineyard, and the bride calling her beloved to come quickly.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "SNG 8:5-14"
+   ],
+   "evidence": [
+    "Read 8:6-7 and list the images used for the strength of love."
+   ],
+   "prompt": "Can {{name}} read Song of Solomon 8:6-7 and explain what it says about love?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "job_trial",
+   "prereq": "book_job",
+   "strength": "hard",
+   "reason": "Job 1 is the opening of the book described in the overview"
+  },
+  {
+   "topic": "job_boils",
+   "prereq": "job_trial",
+   "strength": "hard",
+   "reason": "Job 2:3 refers back to Job’s integrity and the first trial of chapter 1"
+  },
+  {
+   "topic": "job_curses_day",
+   "prereq": "job_boils",
+   "strength": "hard",
+   "reason": "Job 3:1 says Job opened his mouth after the seven days of silence in 2:13"
+  },
+  {
+   "topic": "job_eliphaz_first",
+   "prereq": "job_curses_day",
+   "strength": "hard",
+   "reason": "Eliphaz answers Job’s lament of chapter 3 (4:1-2)"
+  },
+  {
+   "topic": "job_answers_eliphaz",
+   "prereq": "job_eliphaz_first",
+   "strength": "hard",
+   "reason": "Job 6:1 begins Job’s reply to Eliphaz"
+  },
+  {
+   "topic": "job_bildad_first",
+   "prereq": "job_answers_eliphaz",
+   "strength": "hard",
+   "reason": "Bildad speaks after Job’s reply in chapters 6-7 (8:1-2)"
+  },
+  {
+   "topic": "job_no_daysman",
+   "prereq": "job_bildad_first",
+   "strength": "hard",
+   "reason": "Job 9:1-2 answers Bildad’s claim about God’s justice"
+  },
+  {
+   "topic": "job_zophar_first",
+   "prereq": "job_no_daysman",
+   "strength": "hard",
+   "reason": "Zophar answers Job’s words in chapters 9-10 (11:1-4)"
+  },
+  {
+   "topic": "job_job_wisdom_hope",
+   "prereq": "job_zophar_first",
+   "strength": "hard",
+   "reason": "Job 12:1-2 replies to Zophar and the friends"
+  },
+  {
+   "topic": "job_eliphaz_second",
+   "prereq": "job_job_wisdom_hope",
+   "strength": "hard",
+   "reason": "Job 15:1 begins the second round of speeches, answering Job’s reply in 12-14"
+  },
+  {
+   "topic": "job_witness_in_heaven",
+   "prereq": "job_eliphaz_second",
+   "strength": "hard",
+   "reason": "Job 16:1-2 replies to Eliphaz’s second speech"
+  },
+  {
+   "topic": "job_bildad_second",
+   "prereq": "job_witness_in_heaven",
+   "strength": "hard",
+   "reason": "Bildad answers Job’s speech of chapters 16-17 (18:1-4)"
+  },
+  {
+   "topic": "job_redeemer",
+   "prereq": "job_bildad_second",
+   "strength": "hard",
+   "reason": "Job 19:1-2 answers Bildad’s second speech"
+  },
+  {
+   "topic": "job_zophar_second",
+   "prereq": "job_redeemer",
+   "strength": "hard",
+   "reason": "Zophar answers Job’s reply of chapter 19 (20:1-3)"
+  },
+  {
+   "topic": "job_wicked_prosper",
+   "prereq": "job_zophar_second",
+   "strength": "hard",
+   "reason": "Job 21 answers the claims of Zophar (20) and Bildad (18) about the wicked"
+  },
+  {
+   "topic": "job_eliphaz_third",
+   "prereq": "job_wicked_prosper",
+   "strength": "hard",
+   "reason": "Eliphaz begins the third round, answering Job in chapter 21"
+  },
+  {
+   "topic": "job_cannot_find_god",
+   "prereq": "job_eliphaz_third",
+   "strength": "hard",
+   "reason": "Job 23:1-2 answers Eliphaz’s third speech"
+  },
+  {
+   "topic": "job_bildad_third_job_replies",
+   "prereq": "job_cannot_find_god",
+   "strength": "hard",
+   "reason": "Bildad speaks in chapter 25 after Job’s speech of 23-24"
+  },
+  {
+   "topic": "job_wisdom_hymn",
+   "prereq": "job_bildad_third_job_replies",
+   "strength": "hard",
+   "reason": "Job 28 continues Job’s uninterrupted words begun in 27:1"
+  },
+  {
+   "topic": "job_past_and_present",
+   "prereq": "job_wisdom_hymn",
+   "strength": "hard",
+   "reason": "Job 29:1 continues Job’s words after chapter 28"
+  },
+  {
+   "topic": "job_oath_of_innocence",
+   "prereq": "job_past_and_present",
+   "strength": "hard",
+   "reason": "Job 31 is the last of Job’s speeches, after 29-30"
+  },
+  {
+   "topic": "job_elihu_begins",
+   "prereq": "job_oath_of_innocence",
+   "strength": "hard",
+   "reason": "Job 32:1 follows the end of Job’s words in 31:40"
+  },
+  {
+   "topic": "job_elihu_instruction",
+   "prereq": "job_elihu_begins",
+   "strength": "hard",
+   "reason": "Job 33:1 addresses Job directly, continuing Elihu’s speech from 32"
+  },
+  {
+   "topic": "job_elihu_justice",
+   "prereq": "job_elihu_instruction",
+   "strength": "hard",
+   "reason": "Job 34:1 continues Elihu’s speech after chapter 33"
+  },
+  {
+   "topic": "job_elihu_greatness",
+   "prereq": "job_elihu_justice",
+   "strength": "hard",
+   "reason": "Job 36:1 continues Elihu’s speech after chapter 35"
+  },
+  {
+   "topic": "job_lord_answers",
+   "prereq": "job_elihu_greatness",
+   "strength": "hard",
+   "reason": "Job 38:1 begins right after Elihu’s description of the storm in chapter 37"
+  },
+  {
+   "topic": "job_job_silenced",
+   "prereq": "job_lord_answers",
+   "strength": "hard",
+   "reason": "Job 40:1-2 continues the LORD’s answer begun in 38:1"
+  },
+  {
+   "topic": "job_behemoth_leviathan",
+   "prereq": "job_job_silenced",
+   "strength": "hard",
+   "reason": "Job 40:15 continues the LORD’s challenge begun in 40:6-14"
+  },
+  {
+   "topic": "job_repents",
+   "prereq": "job_behemoth_leviathan",
+   "strength": "hard",
+   "reason": "Job 42:1 is Job’s answer to the LORD after chapters 38-41"
+  },
+  {
+   "topic": "job_restored",
+   "prereq": "job_repents",
+   "strength": "hard",
+   "reason": "Job 42:7 begins after the LORD had spoken these words to Job (42:7)"
+  },
+  {
+   "topic": "psa_1",
+   "prereq": "book_psa",
+   "strength": "hard",
+   "reason": "Psalm 1 opens the book of Psalms"
+  },
+  {
+   "topic": "psa_2",
+   "prereq": "psa_1",
+   "strength": "soft",
+   "reason": "Psalm 1:6 says the way of the ungodly shall perish and Psalm 2:12 warns the rebels they will perish from the way"
+  },
+  {
+   "topic": "psa_3_4",
+   "prereq": "psa_2",
+   "strength": "soft",
+   "reason": "Psalm 3:1 speaks of many who rise up against the speaker, as the nations rage in Psalm 2:1-2"
+  },
+  {
+   "topic": "psa_5_7",
+   "prereq": "psa_3_4",
+   "strength": "soft",
+   "reason": "Psalms 5-7 continue the prayers for the LORD’s help against enemies begun in 3:7 and 4:1"
+  },
+  {
+   "topic": "psa_8",
+   "prereq": "psa_5_7",
+   "strength": "soft",
+   "reason": "Psalm 8:2 speaks of stilling the enemy, as Psalms 5-7 speak of enemies"
+  },
+  {
+   "topic": "psa_9_10",
+   "prereq": "psa_8",
+   "strength": "soft",
+   "reason": "Psalm 9:2 sings praise to the LORD’s name, as Psalm 8:1 says how excellent his name is"
+  },
+  {
+   "topic": "psa_11_12",
+   "prereq": "psa_9_10",
+   "strength": "soft",
+   "reason": "Psalms 10:2-11 and 12:2-4 both describe the proud speech of the wicked"
+  },
+  {
+   "topic": "psa_13",
+   "prereq": "psa_11_12",
+   "strength": "soft",
+   "reason": "Psalm 12:1 cries “Help, LORD” and Psalm 13:1 is another cry of distress to the LORD"
+  },
+  {
+   "topic": "psa_14_53",
+   "prereq": "psa_13",
+   "strength": "soft",
+   "reason": "Psalm 13:5 trusts in the LORD’s salvation and Psalm 14:7 longs for the salvation of Israel"
+  },
+  {
+   "topic": "psa_15",
+   "prereq": "psa_14_53",
+   "strength": "soft",
+   "reason": "Psalm 14:2 says the LORD looked to see if any did good, and Psalm 15 describes who may dwell with him"
+  },
+  {
+   "topic": "psa_16",
+   "prereq": "psa_15",
+   "strength": "soft",
+   "reason": "Psalm 16:11 speaks of the LORD’s presence, as Psalm 15:1 asks who may dwell with him"
+  },
+  {
+   "topic": "psa_17",
+   "prereq": "psa_16",
+   "strength": "soft",
+   "reason": "Psalm 17:1-8 prays for preservation, as Psalm 16:1 says “Preserve me, O God”"
+  },
+  {
+   "topic": "psa_18",
+   "prereq": "psa_17",
+   "strength": "soft",
+   "reason": "Psalm 18:2-3 calls the LORD rock and deliverer from enemies; Psalm 17:7-9 asks him to save from enemies"
+  },
+  {
+   "topic": "psa_19",
+   "prereq": "psa_18",
+   "strength": "soft",
+   "reason": "Psalm 18:30 says the word of the LORD is tried and Psalm 19:7-9 praises his law as perfect"
+  },
+  {
+   "topic": "psa_20_21",
+   "prereq": "psa_18",
+   "strength": "soft",
+   "reason": "Psalm 18:50 speaks of the LORD’s king and anointed, and Psalms 20:6 and 21:1 speak of the LORD saving the king"
+  },
+  {
+   "topic": "psa_22",
+   "prereq": "psa_13",
+   "strength": "soft",
+   "reason": "Psalm 22:1-2 cries to a God who does not answer, like Psalm 13:1 “How long wilt thou forget me”"
+  },
+  {
+   "topic": "psa_23",
+   "prereq": "psa_22",
+   "strength": "soft",
+   "reason": "Psalm 23:4 speaks of the LORD present in the valley of death, answering the sense of God being far in Psalm 22:1-2"
+  },
+  {
+   "topic": "psa_24",
+   "prereq": "psa_23",
+   "strength": "soft",
+   "reason": "Psalm 24:3 asks who may ascend the LORD’s hill, as Psalm 23:6 speaks of dwelling in the LORD’s house"
+  },
+  {
+   "topic": "psa_25",
+   "prereq": "psa_1",
+   "strength": "soft",
+   "reason": "Psalm 25:4-5 asks the LORD to teach his way, as Psalm 1 describes the way of the righteous"
+  },
+  {
+   "topic": "psa_26",
+   "prereq": "psa_25",
+   "strength": "soft",
+   "reason": "Psalm 26:1 and 25:21 both speak of integrity, and both appeal to the LORD"
+  },
+  {
+   "topic": "psa_27",
+   "prereq": "psa_26",
+   "strength": "soft",
+   "reason": "Psalm 27:4 desires to dwell in the LORD’s house, as Psalm 26:8 loves the habitation of his house"
+  },
+  {
+   "topic": "psa_28_29",
+   "prereq": "psa_27",
+   "strength": "soft",
+   "reason": "Psalm 28:1-2 cries to the LORD, as Psalm 27:7 asks him to hear when I cry"
+  },
+  {
+   "topic": "psa_30",
+   "prereq": "psa_28_29",
+   "strength": "soft",
+   "reason": "Psalm 28:6 blesses the LORD who heard his supplications, as Psalm 30:2 says “I cried unto thee, and thou hast healed me”"
+  },
+  {
+   "topic": "psa_31",
+   "prereq": "psa_30",
+   "strength": "soft",
+   "reason": "Psalm 31:1-5 takes refuge in the LORD, and Psalm 30:1-3 thanks him for deliverance"
+  },
+  {
+   "topic": "psa_32",
+   "prereq": "psa_25",
+   "strength": "soft",
+   "reason": "Psalm 25:7 and 25:11 ask the LORD to pardon sin and Psalm 32:5 tells of sin forgiven"
+  },
+  {
+   "topic": "psa_33",
+   "prereq": "psa_32",
+   "strength": "soft",
+   "reason": "Psalm 32:11 calls the righteous to rejoice and Psalm 33:1 begins “Rejoice in the LORD, O ye righteous”"
+  },
+  {
+   "topic": "psa_34",
+   "prereq": "psa_30",
+   "strength": "soft",
+   "reason": "Psalm 34:17 says the LORD hears the righteous who cry, as Psalm 30:2 says “I cried unto thee, and thou hast healed me”"
+  },
+  {
+   "topic": "psa_35",
+   "prereq": "psa_34",
+   "strength": "soft",
+   "reason": "Psalm 35:5-6 speaks of the angel of the LORD chasing enemies, as Psalm 34:7 speaks of the angel of the LORD encamping round those who fear him"
+  },
+  {
+   "topic": "psa_36",
+   "prereq": "psa_35",
+   "strength": "soft",
+   "reason": "Psalm 36:1-4 describes the wicked, as Psalm 35:7-8 speaks of those devising harm without cause"
+  },
+  {
+   "topic": "psa_37",
+   "prereq": "psa_36",
+   "strength": "soft",
+   "reason": "Psalm 37:1 forbids fretting because of evildoers, whom Psalm 36:1-4 describes"
+  },
+  {
+   "topic": "psa_38",
+   "prereq": "psa_32",
+   "strength": "soft",
+   "reason": "Psalm 38:3 speaks of rest lost in the bones because of sin, as Psalm 32:3-5 speaks of bones wasting until sin is confessed"
+  },
+  {
+   "topic": "psa_39",
+   "prereq": "psa_38",
+   "strength": "soft",
+   "reason": "Psalm 39:11 speaks of the LORD correcting man for iniquity, as Psalm 38:1 asks “rebuke me not in thy wrath”"
+  },
+  {
+   "topic": "psa_40",
+   "prereq": "psa_30",
+   "strength": "soft",
+   "reason": "Psalm 40:1-3 tells of being lifted up and given a song, as Psalm 30:1-3 thanks the LORD for lifting him up"
+  },
+  {
+   "topic": "psa_41",
+   "prereq": "psa_40",
+   "strength": "soft",
+   "reason": "Psalm 41:1 blesses those who consider the poor, and Psalm 40:17 says “I am poor and needy”"
+  },
+  {
+   "topic": "psa_42_43",
+   "prereq": "psa_13",
+   "strength": "soft",
+   "reason": "Psalm 42:9 asks “why hast thou forgotten me?” as Psalm 13:1 asks “how long wilt thou forget me?”"
+  },
+  {
+   "topic": "psa_44",
+   "prereq": "psa_42_43",
+   "strength": "soft",
+   "reason": "Psalm 44:9 says “thou hast cast off”, and Psalm 42:9 asks why the speaker goes mourning as one forgotten"
+  },
+  {
+   "topic": "psa_45",
+   "prereq": "psa_20_21",
+   "strength": "soft",
+   "reason": "Psalm 45 speaks to and about a king, as Psalms 20-21 speak of the king"
+  },
+  {
+   "topic": "psa_46",
+   "prereq": "psa_27",
+   "strength": "soft",
+   "reason": "Psalm 46:1-3 says we will not fear, as Psalm 27:1-3 says the speaker will not fear when enemies encamp"
+  },
+  {
+   "topic": "psa_47_48",
+   "prereq": "psa_46",
+   "strength": "soft",
+   "reason": "Psalm 48:3 says God is known as a refuge in Zion’s palaces, as Psalm 46:1 calls him our refuge"
+  },
+  {
+   "topic": "psa_49",
+   "prereq": "psa_37",
+   "strength": "soft",
+   "reason": "Psalm 49:5-6 asks why fear when the wealthy trust in riches, as Psalm 37:1 says fret not because of evildoers"
+  },
+  {
+   "topic": "psa_50",
+   "prereq": "psa_49",
+   "strength": "soft",
+   "reason": "Psalm 50:1-2 and Psalm 49:1 both open by calling the earth and its peoples to hear"
+  },
+  {
+   "topic": "psa_51",
+   "prereq": "psa_32",
+   "strength": "soft",
+   "reason": "Psalm 51:1-4 confesses sin and asks for mercy, as Psalm 32:5 confesses and is forgiven"
+  },
+  {
+   "topic": "psa_52_54",
+   "prereq": "psa_5_7",
+   "strength": "soft",
+   "reason": "Psalm 52:2-4 condemns the deceitful tongue, as Psalm 5:6 and 5:9 say the LORD abhors deceit and no faithfulness is in their mouth"
+  },
+  {
+   "topic": "psa_55",
+   "prereq": "psa_52_54",
+   "strength": "soft",
+   "reason": "Psalm 55:3 speaks of the oppression of the wicked, continuing the cries of 52 and 54"
+  },
+  {
+   "topic": "psa_56_57",
+   "prereq": "psa_55",
+   "strength": "soft",
+   "reason": "Psalm 55:16-17 says he will call upon God, as Psalms 56-57 trust in God when afraid"
+  },
+  {
+   "topic": "psa_58_59",
+   "prereq": "psa_56_57",
+   "strength": "soft",
+   "reason": "Psalms 58:6-8 and 59:1-2 pray for rescue from enemies, as Psalm 56:1-2 describes men who swallow up the speaker"
+  },
+  {
+   "topic": "psa_60",
+   "prereq": "psa_44",
+   "strength": "soft",
+   "reason": "Psalm 60:1-3 says God has cast off and scattered the people, as Psalm 44:9-11 says he has cast off and scattered them"
+  },
+  {
+   "topic": "psa_61_62",
+   "prereq": "psa_60",
+   "strength": "soft",
+   "reason": "Psalm 60:11 says the help of man is vain and Psalm 62:9 says men of low degree are vanity"
+  },
+  {
+   "topic": "psa_63",
+   "prereq": "psa_61_62",
+   "strength": "soft",
+   "reason": "Psalm 63:1 longs for God as Psalm 61:1-2 cries to God"
+  },
+  {
+   "topic": "psa_64",
+   "prereq": "psa_58_59",
+   "strength": "soft",
+   "reason": "Psalm 64:3 says the wicked whet their tongue like a sword, as Psalm 59:7 says swords are in their lips"
+  },
+  {
+   "topic": "psa_65_67",
+   "prereq": "psa_64",
+   "strength": "soft",
+   "reason": "Psalm 64:9 says all men shall fear and declare the work of God, as Psalms 65-67 call the earth to praise him"
+  },
+  {
+   "topic": "psa_68",
+   "prereq": "psa_65_67",
+   "strength": "soft",
+   "reason": "Psalm 68:32 calls the kingdoms of the earth to sing to God, as Psalm 67:3-5 calls the peoples to praise him"
+  },
+  {
+   "topic": "psa_69",
+   "prereq": "psa_22",
+   "strength": "soft",
+   "reason": "Psalm 69:7-8 speaks of reproach and shame borne for God’s sake, as Psalm 22:6-7 speaks of being despised"
+  },
+  {
+   "topic": "psa_70_71",
+   "prereq": "psa_69",
+   "strength": "soft",
+   "reason": "Psalm 70:1 is a cry for help like Psalm 69:13-18, and Psalm 70:5 says “I am poor and needy” as Psalm 69:29 says “I am poor and sorrowful”"
+  },
+  {
+   "topic": "psa_72",
+   "prereq": "psa_45",
+   "strength": "soft",
+   "reason": "Psalm 72 is a prayer for the king and his reign, as Psalm 45 praises the king and his throne"
+  },
+  {
+   "topic": "psa_73",
+   "prereq": "psa_37",
+   "strength": "soft",
+   "reason": "Psalm 73:3 envies the prosperity of the wicked, as Psalm 37:1 says not to fret over evildoers"
+  },
+  {
+   "topic": "psa_74",
+   "prereq": "psa_44",
+   "strength": "soft",
+   "reason": "Psalm 74:1 asks “why hast thou cast us off for ever?”, as Psalm 44:9 says “thou hast cast off”"
+  },
+  {
+   "topic": "psa_75_76",
+   "prereq": "psa_74",
+   "strength": "soft",
+   "reason": "Psalm 75:2 says God will judge uprightly, answering the plea in Psalm 74:22 for God to plead his cause"
+  },
+  {
+   "topic": "psa_77",
+   "prereq": "psa_74",
+   "strength": "soft",
+   "reason": "Psalm 77:7-9 asks whether God has cast off for ever, as Psalm 74:1 asks why he has cast off for ever"
+  },
+  {
+   "topic": "psa_78",
+   "prereq": "psa_77",
+   "strength": "soft",
+   "reason": "Psalm 78:12-16 retells the wonders at the sea, which Psalm 77:14-20 also recalls"
+  },
+  {
+   "topic": "psa_79_80",
+   "prereq": "psa_74",
+   "strength": "soft",
+   "reason": "Psalm 79:1 laments that the heathen came into God’s inheritance and defiled his temple, as Psalm 74:3-7 laments the sanctuary being destroyed"
+  },
+  {
+   "topic": "psa_81_82",
+   "prereq": "psa_78",
+   "strength": "soft",
+   "reason": "Psalm 81:11-12 says Israel would not hearken, as Psalm 78:8, 10-11 says they did not keep God’s covenant"
+  },
+  {
+   "topic": "psa_83",
+   "prereq": "psa_79_80",
+   "strength": "soft",
+   "reason": "Psalm 83:2-4 describes enemies plotting against the people, as Psalm 79:1-4 describes nations ravaging Jerusalem"
+  },
+  {
+   "topic": "psa_84",
+   "prereq": "psa_27",
+   "strength": "soft",
+   "reason": "Psalm 84:2 longs for the courts of the LORD, as Psalm 27:4 desires to dwell in the house of the LORD"
+  },
+  {
+   "topic": "psa_85",
+   "prereq": "psa_79_80",
+   "strength": "soft",
+   "reason": "Psalm 85:4 asks “Turn us, O God of our salvation”, as Psalm 80:3, 7, 19 ask God to turn us again"
+  },
+  {
+   "topic": "psa_86",
+   "prereq": "psa_25",
+   "strength": "soft",
+   "reason": "Psalm 86:11 asks “Teach me thy way, O LORD”, as Psalm 25:4 asks “Shew me thy ways, O LORD”"
+  },
+  {
+   "topic": "psa_87",
+   "prereq": "psa_47_48",
+   "strength": "soft",
+   "reason": "Psalm 87:3 speaks of the city of God, as Psalm 48:1-2 praises the city of our God"
+  },
+  {
+   "topic": "psa_88",
+   "prereq": "psa_13",
+   "strength": "soft",
+   "reason": "Psalm 88:14 asks “why castest thou off my soul?” and Psalm 13:1 asks “how long wilt thou forget me?”"
+  },
+  {
+   "topic": "psa_89",
+   "prereq": "psa_2",
+   "strength": "soft",
+   "reason": "Psalm 89:20-27 speaks of David as the one anointed and set as the LORD’s king, as Psalm 2:6 says the LORD has set his king on Zion"
+  },
+  {
+   "topic": "psa_90",
+   "prereq": "psa_39",
+   "strength": "soft",
+   "reason": "Psalm 90:3-6, 10 speak of the brevity of life, as Psalm 39:4-5 says days are as an handbreadth"
+  },
+  {
+   "topic": "psa_91",
+   "prereq": "psa_90",
+   "strength": "soft",
+   "reason": "Psalm 91:1 speaks of dwelling in the most High’s secret place, as Psalm 90:1 says the LORD has been our dwelling place"
+  },
+  {
+   "topic": "psa_92_93",
+   "prereq": "psa_91",
+   "strength": "soft",
+   "reason": "Psalm 92:1-2 gives thanks to the LORD, and Psalm 91:14-16 says what the LORD does for one who loves him"
+  },
+  {
+   "topic": "psa_94",
+   "prereq": "psa_81_82",
+   "strength": "soft",
+   "reason": "Psalm 94:2 calls God the judge of the earth, as Psalm 82:1-2, 8 shows God judging among the unjust and asking him to judge the earth"
+  },
+  {
+   "topic": "psa_95",
+   "prereq": "psa_92_93",
+   "strength": "soft",
+   "reason": "Psalm 95:3 calls the LORD a great King, as Psalm 93:1 says the LORD reigns"
+  },
+  {
+   "topic": "psa_96_99",
+   "prereq": "psa_95",
+   "strength": "soft",
+   "reason": "Psalm 96:1 calls all the earth to sing, as Psalm 95:1 calls the people to sing to the LORD"
+  },
+  {
+   "topic": "psa_100",
+   "prereq": "psa_95",
+   "strength": "soft",
+   "reason": "Psalm 100:1-2 calls to joyful noise and coming before him, as Psalm 95:1-2 does"
+  },
+  {
+   "topic": "psa_101",
+   "prereq": "psa_72",
+   "strength": "soft",
+   "reason": "Psalm 101:5-8 resolves to cut off the wicked from the land, as Psalm 72:1-4 describes the king judging and breaking the oppressor"
+  },
+  {
+   "topic": "psa_102",
+   "prereq": "psa_5_7",
+   "strength": "soft",
+   "reason": "Psalm 102:5 says his bones cleave to his skin, as Psalm 6:2 says his bones are vexed"
+  },
+  {
+   "topic": "psa_103",
+   "prereq": "psa_32",
+   "strength": "soft",
+   "reason": "Psalm 103:3, 10-12 speaks of forgiveness of iniquity, as Psalm 32:1-5 does"
+  },
+  {
+   "topic": "psa_104",
+   "prereq": "psa_103",
+   "strength": "soft",
+   "reason": "Psalm 104:1 begins “Bless the LORD, O my soul”, as Psalm 103:1 does"
+  },
+  {
+   "topic": "psa_105",
+   "prereq": "psa_78",
+   "strength": "soft",
+   "reason": "Psalm 105:26-45 retells Egypt and the wilderness, as Psalm 78:12-16, 43-53 also retells them"
+  },
+  {
+   "topic": "psa_106",
+   "prereq": "psa_105",
+   "strength": "soft",
+   "reason": "Psalm 106:7-12 and Psalm 105:37-43 both retell Egypt and the sea, though Psalm 106 emphasizes the fathers’ sin"
+  },
+  {
+   "topic": "psa_107",
+   "prereq": "psa_106",
+   "strength": "soft",
+   "reason": "Psalm 107:2-3 speaks of the redeemed gathered out of the lands, as Psalm 106:47 asks God to gather them from the heathen"
+  },
+  {
+   "topic": "psa_108",
+   "prereq": "psa_60",
+   "strength": "soft",
+   "reason": "Psalm 108:6-13 repeats the words of Psalm 60:5-12"
+  },
+  {
+   "topic": "psa_109",
+   "prereq": "psa_69",
+   "strength": "soft",
+   "reason": "Psalm 109:8 prays that his days be few, and Psalm 69:22-28 also asks for a harsh outcome on adversaries"
+  },
+  {
+   "topic": "psa_110",
+   "prereq": "psa_2",
+   "strength": "soft",
+   "reason": "Psalm 110:2 speaks of ruling in the midst of enemies, as Psalm 2:8-9 speaks of the king receiving the nations"
+  },
+  {
+   "topic": "psa_111_112",
+   "prereq": "psa_1",
+   "strength": "soft",
+   "reason": "Psalm 112:1 blesses the man who delights in the LORD’s commandments, as Psalm 1:1-2 blesses the man who delights in his law"
+  },
+  {
+   "topic": "psa_113_114",
+   "prereq": "psa_111_112",
+   "strength": "soft",
+   "reason": "Psalm 113:1 and Psalm 111:1 both begin with “Praise ye the LORD”"
+  },
+  {
+   "topic": "psa_115",
+   "prereq": "psa_113_114",
+   "strength": "soft",
+   "reason": "Psalm 115:1 gives glory to God’s name, as Psalm 113:2-3 blesses and praises the name of the LORD"
+  },
+  {
+   "topic": "psa_116",
+   "prereq": "psa_30",
+   "strength": "soft",
+   "reason": "Psalm 116:3-8 tells of deliverance from death, as Psalm 30:2-3 tells of being healed and brought up from the grave"
+  },
+  {
+   "topic": "psa_117_118",
+   "prereq": "psa_116",
+   "strength": "soft",
+   "reason": "Psalm 118:17-19 declares the LORD’s works after being delivered from distress, as Psalm 116:8-14 speaks of deliverance and vows"
+  },
+  {
+   "topic": "psa_119_1",
+   "prereq": "psa_1",
+   "strength": "soft",
+   "reason": "Psalm 119:1 blesses those who walk in the law of the LORD, as Psalm 1:1-2 does"
+  },
+  {
+   "topic": "psa_119_33",
+   "prereq": "psa_119_1",
+   "strength": "soft",
+   "reason": "Psalm 119:33 continues the prayer to be taught the LORD’s way that began in 119:12 and 119:26-27"
+  },
+  {
+   "topic": "psa_119_65",
+   "prereq": "psa_119_33",
+   "strength": "soft",
+   "reason": "Psalm 119:65 continues the speaker’s prayer from 119:33-64"
+  },
+  {
+   "topic": "psa_119_97",
+   "prereq": "psa_119_65",
+   "strength": "soft",
+   "reason": "Psalm 119:97 continues the speaker’s praise of God’s word after 119:65-96"
+  },
+  {
+   "topic": "psa_119_129",
+   "prereq": "psa_119_97",
+   "strength": "soft",
+   "reason": "Psalm 119:129 continues the speaker’s praise of the LORD’s testimonies after 119:97-128"
+  },
+  {
+   "topic": "psa_119_161",
+   "prereq": "psa_119_129",
+   "strength": "soft",
+   "reason": "Psalm 119:161 continues the psalm after 119:129-160"
+  },
+  {
+   "topic": "psa_120_121",
+   "prereq": "psa_91",
+   "strength": "soft",
+   "reason": "Psalm 121:5-8 says the LORD keeps and preserves his people, as Psalm 91:1-14 speaks of his protection"
+  },
+  {
+   "topic": "psa_122",
+   "prereq": "psa_120_121",
+   "strength": "soft",
+   "reason": "Psalm 122:1-2 follows the speaker’s journey of 120-121 to Jerusalem’s gates"
+  },
+  {
+   "topic": "psa_123_125",
+   "prereq": "psa_122",
+   "strength": "soft",
+   "reason": "Psalm 125:2 compares the LORD round his people to the mountains round Jerusalem, as Psalm 122 speaks of Jerusalem"
+  },
+  {
+   "topic": "psa_126",
+   "prereq": "psa_123_125",
+   "strength": "soft",
+   "reason": "Psalm 126:1 speaks of the captivity of Zion turned, continuing the Zion theme of Psalm 125:1"
+  },
+  {
+   "topic": "psa_127_128",
+   "prereq": "psa_126",
+   "strength": "soft",
+   "reason": "Psalm 127:1 says the LORD must build, as Psalm 126:2-3 says the LORD has done great things"
+  },
+  {
+   "topic": "psa_129",
+   "prereq": "psa_127_128",
+   "strength": "soft",
+   "reason": "Psalm 129:5 mentions those who hate Zion, as Psalm 128:5-6 mentions the good of Jerusalem and peace upon Israel"
+  },
+  {
+   "topic": "psa_130_131",
+   "prereq": "psa_129",
+   "strength": "soft",
+   "reason": "Psalm 130:1 cries out of the depths after the affliction of Psalm 129:1-3"
+  },
+  {
+   "topic": "psa_132",
+   "prereq": "psa_89",
+   "strength": "soft",
+   "reason": "Psalm 132:11 says the LORD swore truth to David about his throne, as Psalm 89:3-4 says he swore to David and made a covenant"
+  },
+  {
+   "topic": "psa_133_134",
+   "prereq": "psa_132",
+   "strength": "soft",
+   "reason": "Psalm 133:3 and Psalm 134:3 speak of Zion and of blessing out of Zion, as Psalm 132:13-15 speaks of the LORD’s choice of Zion and his blessing"
+  },
+  {
+   "topic": "psa_135",
+   "prereq": "psa_115",
+   "strength": "soft",
+   "reason": "Psalm 135:15-18 repeats the description of idols found in Psalm 115:4-8"
+  },
+  {
+   "topic": "psa_136",
+   "prereq": "psa_135",
+   "strength": "soft",
+   "reason": "Psalm 136:10-20 and Psalm 135:8-12 both recall the firstborn of Egypt and Sihon and Og"
+  },
+  {
+   "topic": "psa_137",
+   "prereq": "psa_126",
+   "strength": "soft",
+   "reason": "Psalm 137:1 mentions captivity and Zion, as Psalm 126:1 speaks of the LORD turning again the captivity of Zion"
+  },
+  {
+   "topic": "psa_138",
+   "prereq": "psa_136",
+   "strength": "soft",
+   "reason": "Psalm 138:2 praises God’s lovingkindness, as Psalm 136 repeats that his mercy endures for ever"
+  },
+  {
+   "topic": "psa_139",
+   "prereq": "psa_26",
+   "strength": "soft",
+   "reason": "Psalm 139:23 asks “Search me, O God”, as Psalm 26:2 asks “Examine me, O LORD, and prove me”"
+  },
+  {
+   "topic": "psa_140_142",
+   "prereq": "psa_64",
+   "strength": "soft",
+   "reason": "Psalm 140:3 says they sharpen their tongues like a serpent, as Psalm 64:3 says they whet their tongue like a sword"
+  },
+  {
+   "topic": "psa_143",
+   "prereq": "psa_130_131",
+   "strength": "soft",
+   "reason": "Psalm 143:2 says no man living is righteous in God’s sight, as Psalm 130:3 asks who could stand if the LORD marked iniquities"
+  },
+  {
+   "topic": "psa_144",
+   "prereq": "psa_18",
+   "strength": "soft",
+   "reason": "Psalm 144:1-2 calls the LORD my strength, fortress and deliverer, as Psalm 18:1-2 does"
+  },
+  {
+   "topic": "psa_145",
+   "prereq": "psa_103",
+   "strength": "soft",
+   "reason": "Psalm 145:8 repeats the words of Psalm 103:8 that the LORD is merciful and gracious, slow to anger"
+  },
+  {
+   "topic": "psa_146_148",
+   "prereq": "psa_145",
+   "strength": "soft",
+   "reason": "Psalm 146:1-2 resolves to praise the LORD as long as the speaker lives, as Psalm 145:2 says every day will I bless thee"
+  },
+  {
+   "topic": "psa_149_150",
+   "prereq": "psa_146_148",
+   "strength": "soft",
+   "reason": "Psalm 149:1 calls to praise with a new song and Psalm 150 follows with praise, continuing the closing praises of 146-148"
+  },
+  {
+   "topic": "pro_purpose",
+   "prereq": "book_pro",
+   "strength": "hard",
+   "reason": "Proverbs 1:1-7 is the opening statement of the book"
+  },
+  {
+   "topic": "pro_sinners_wisdom_calls",
+   "prereq": "pro_purpose",
+   "strength": "hard",
+   "reason": "Proverbs 1:8-33 develops the call to wisdom introduced in 1:1-7"
+  },
+  {
+   "topic": "pro_seek_wisdom",
+   "prereq": "pro_sinners_wisdom_calls",
+   "strength": "hard",
+   "reason": "Proverbs 2:1 continues the father’s address to his son that began in 1:8"
+  },
+  {
+   "topic": "pro_trust_lord",
+   "prereq": "pro_seek_wisdom",
+   "strength": "hard",
+   "reason": "Proverbs 3 continues the father’s instruction of chapter 2"
+  },
+  {
+   "topic": "pro_get_wisdom",
+   "prereq": "pro_trust_lord",
+   "strength": "hard",
+   "reason": "Proverbs 4 is a further address to sons following chapter 3"
+  },
+  {
+   "topic": "pro_strange_woman",
+   "prereq": "pro_get_wisdom",
+   "strength": "soft",
+   "reason": "Proverbs 5:1 continues the father’s address; 2:16-19 and 4:5-6 had already mentioned the strange woman"
+  },
+  {
+   "topic": "pro_practical_warnings",
+   "prereq": "pro_strange_woman",
+   "strength": "soft",
+   "reason": "Proverbs 6:1 follows chapter 5 in the father’s teaching"
+  },
+  {
+   "topic": "pro_adultery_snare",
+   "prereq": "pro_practical_warnings",
+   "strength": "soft",
+   "reason": "Proverbs 6:20 resumes the father’s address after the proverbs of 6:1-19"
+  },
+  {
+   "topic": "pro_wisdom_speaks",
+   "prereq": "pro_adultery_snare",
+   "strength": "soft",
+   "reason": "Proverbs 8:1 shifts to Wisdom speaking after the warnings of chapters 5-7"
+  },
+  {
+   "topic": "pro_two_invitations",
+   "prereq": "pro_wisdom_speaks",
+   "strength": "soft",
+   "reason": "Proverbs 9 continues the speaking of Wisdom from chapter 8"
+  },
+  {
+   "topic": "pro_righteous_wicked_1",
+   "prereq": "pro_two_invitations",
+   "strength": "soft",
+   "reason": "Proverbs 10:1 begins the collection of the proverbs of Solomon after the discourses of chapters 1-9"
+  },
+  {
+   "topic": "pro_fools_diligence",
+   "prereq": "pro_righteous_wicked_1",
+   "strength": "soft",
+   "reason": "Proverbs 12 continues the sayings of 10-11"
+  },
+  {
+   "topic": "pro_fear_lord_prudent",
+   "prereq": "pro_fools_diligence",
+   "strength": "soft",
+   "reason": "Proverbs 14 continues the collection after chapter 13"
+  },
+  {
+   "topic": "pro_lord_directs_pride",
+   "prereq": "pro_fear_lord_prudent",
+   "strength": "soft",
+   "reason": "Proverbs 16 continues the collection after chapters 14-15"
+  },
+  {
+   "topic": "pro_tongue_friends_wealth",
+   "prereq": "pro_lord_directs_pride",
+   "strength": "soft",
+   "reason": "Proverbs 18 continues the collection after chapters 16-17"
+  },
+  {
+   "topic": "pro_honest_justice",
+   "prereq": "pro_tongue_friends_wealth",
+   "strength": "soft",
+   "reason": "Proverbs 20 continues the collection after chapters 18-19"
+  },
+  {
+   "topic": "pro_train_child_poor",
+   "prereq": "pro_honest_justice",
+   "strength": "soft",
+   "reason": "Proverbs 22:1 continues the proverbs of Solomon after chapter 21"
+  },
+  {
+   "topic": "pro_sayings_of_wise_1",
+   "prereq": "pro_train_child_poor",
+   "strength": "soft",
+   "reason": "Proverbs 22:17 begins a new section of sayings of the wise after 22:1-16"
+  },
+  {
+   "topic": "pro_sayings_of_wise_2",
+   "prereq": "pro_sayings_of_wise_1",
+   "strength": "soft",
+   "reason": "Proverbs 24:23 says these things also belong to the wise, continuing the sayings of 22:17-23:35"
+  },
+  {
+   "topic": "pro_hezekiah_kings",
+   "prereq": "pro_sayings_of_wise_2",
+   "strength": "soft",
+   "reason": "Proverbs 25:1 begins a further collection after the sayings of the wise in 22:17-24:34"
+  },
+  {
+   "topic": "pro_fools_sluggards",
+   "prereq": "pro_hezekiah_kings",
+   "strength": "soft",
+   "reason": "Proverbs 26 continues the proverbs copied by Hezekiah’s men from 25:1"
+  },
+  {
+   "topic": "pro_friends_boasting",
+   "prereq": "pro_fools_sluggards",
+   "strength": "soft",
+   "reason": "Proverbs 27 continues the collection after chapter 26"
+  },
+  {
+   "topic": "pro_rulers_confession",
+   "prereq": "pro_friends_boasting",
+   "strength": "soft",
+   "reason": "Proverbs 28 continues the collection after chapter 27"
+  },
+  {
+   "topic": "pro_agur",
+   "prereq": "pro_rulers_confession",
+   "strength": "soft",
+   "reason": "Proverbs 30:1 introduces the words of Agur after the proverbs of Solomon in chapters 25-29"
+  },
+  {
+   "topic": "pro_lemuel",
+   "prereq": "pro_agur",
+   "strength": "soft",
+   "reason": "Proverbs 31:1 follows the words of Agur with the words of king Lemuel"
+  },
+  {
+   "topic": "pro_virtuous_woman",
+   "prereq": "pro_lemuel",
+   "strength": "soft",
+   "reason": "Proverbs 31:10-31 follows Lemuel’s mother’s instruction in 31:1-9"
+  },
+  {
+   "topic": "ecc_vanity",
+   "prereq": "book_ecc",
+   "strength": "hard",
+   "reason": "Ecclesiastes 1 states the theme of the book"
+  },
+  {
+   "topic": "ecc_pleasure_labour",
+   "prereq": "ecc_vanity",
+   "strength": "hard",
+   "reason": "Ecclesiastes 2:1 continues the Preacher’s testing introduced in 1:12-18"
+  },
+  {
+   "topic": "ecc_time_for_everything",
+   "prereq": "ecc_pleasure_labour",
+   "strength": "soft",
+   "reason": "Ecclesiastes 3 follows the Preacher’s verdict on labour in chapter 2 (see 2:24)"
+  },
+  {
+   "topic": "ecc_oppression_companions",
+   "prereq": "ecc_time_for_everything",
+   "strength": "soft",
+   "reason": "Ecclesiastes 4:1 returns to what the Preacher saw under the sun, following chapter 3"
+  },
+  {
+   "topic": "ecc_god_house_riches",
+   "prereq": "ecc_oppression_companions",
+   "strength": "soft",
+   "reason": "Ecclesiastes 5 continues the Preacher’s observations from chapter 4"
+  },
+  {
+   "topic": "ecc_wealth_without_joy",
+   "prereq": "ecc_god_house_riches",
+   "strength": "soft",
+   "reason": "Ecclesiastes 6:1-2 continues the theme of riches from 5:10-19"
+  },
+  {
+   "topic": "ecc_wisdom_and_limits",
+   "prereq": "ecc_wealth_without_joy",
+   "strength": "soft",
+   "reason": "Ecclesiastes 7 continues the Preacher’s reflections after chapter 6"
+  },
+  {
+   "topic": "ecc_kings_judgment_unknown",
+   "prereq": "ecc_wisdom_and_limits",
+   "strength": "soft",
+   "reason": "Ecclesiastes 8 continues from the wisdom reflections of chapter 7"
+  },
+  {
+   "topic": "ecc_one_event",
+   "prereq": "ecc_kings_judgment_unknown",
+   "strength": "soft",
+   "reason": "Ecclesiastes 9 continues the discussion of what happens to the righteous and wicked from chapter 8"
+  },
+  {
+   "topic": "ecc_folly_and_wisdom",
+   "prereq": "ecc_one_event",
+   "strength": "soft",
+   "reason": "Ecclesiastes 10 follows chapter 9 which ends by weighing wisdom and folly (9:17-18)"
+  },
+  {
+   "topic": "ecc_remember_creator",
+   "prereq": "ecc_folly_and_wisdom",
+   "strength": "soft",
+   "reason": "Ecclesiastes 11 continues the Preacher’s counsel after chapter 10"
+  },
+  {
+   "topic": "ecc_conclusion",
+   "prereq": "ecc_remember_creator",
+   "strength": "hard",
+   "reason": "Ecclesiastes 12:9 comes after the poem on old age in 12:1-8"
+  },
+  {
+   "topic": "sng_beloved_praise",
+   "prereq": "book_sng",
+   "strength": "hard",
+   "reason": "Song of Solomon 1 opens the poem named in the overview"
+  },
+  {
+   "topic": "sng_spring_invitation",
+   "prereq": "sng_beloved_praise",
+   "strength": "soft",
+   "reason": "Song of Solomon 2:8 continues the poem after 2:1-7"
+  },
+  {
+   "topic": "sng_seeking_by_night",
+   "prereq": "sng_spring_invitation",
+   "strength": "soft",
+   "reason": "Song of Solomon 3 continues the poem after chapter 2"
+  },
+  {
+   "topic": "sng_solomon_procession",
+   "prereq": "sng_seeking_by_night",
+   "strength": "soft",
+   "reason": "Song of Solomon 3:6 follows the bride’s search and the charge in 3:5"
+  },
+  {
+   "topic": "sng_garden_locked",
+   "prereq": "sng_solomon_procession",
+   "strength": "soft",
+   "reason": "Song of Solomon 4 follows the wedding procession of chapter 3"
+  },
+  {
+   "topic": "sng_lost_and_found",
+   "prereq": "sng_garden_locked",
+   "strength": "soft",
+   "reason": "Song of Solomon 5:2 follows the garden union of 5:1"
+  },
+  {
+   "topic": "sng_beauty_praised",
+   "prereq": "sng_lost_and_found",
+   "strength": "soft",
+   "reason": "Song of Solomon 6:4 follows the bride’s description of her beloved in 5:10-16"
+  },
+  {
+   "topic": "sng_vineyards_fields",
+   "prereq": "sng_beauty_praised",
+   "strength": "soft",
+   "reason": "Song of Solomon 7:10 follows the beloved’s praise in 7:1-9"
+  },
+  {
+   "topic": "sng_love_strong",
+   "prereq": "sng_vineyards_fields",
+   "strength": "soft",
+   "reason": "Song of Solomon 8:5 follows the bride’s words in 8:1-4"
+  }
+ ],
+ "relations": [
+  {
+   "from": "psa_14_53",
+   "to": "rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 14:1-3",
+    "PSA 53:1-3",
+    "ROM 3:10-12"
+   ]
+  },
+  {
+   "from": "psa_5_7",
+   "to": "rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 5:9",
+    "ROM 3:13"
+   ]
+  },
+  {
+   "from": "psa_140_142",
+   "to": "rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 140:3",
+    "ROM 3:13"
+   ]
+  },
+  {
+   "from": "psa_9_10",
+   "to": "rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 10:7",
+    "ROM 3:14"
+   ]
+  },
+  {
+   "from": "psa_36",
+   "to": "rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 36:1",
+    "ROM 3:18"
+   ]
+  },
+  {
+   "from": "psa_32",
+   "to": "rom_abraham",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 32:1-2",
+    "ROM 4:7-8"
+   ]
+  },
+  {
+   "from": "psa_44",
+   "to": "rom_no_separation",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 44:22",
+    "ROM 8:36"
+   ]
+  },
+  {
+   "from": "psa_19",
+   "to": "rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 19:3-4",
+    "ROM 10:18"
+   ]
+  },
+  {
+   "from": "psa_69",
+   "to": "rom_remnant",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 69:22-23",
+    "ROM 11:9-10"
+   ]
+  },
+  {
+   "from": "psa_18",
+   "to": "rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 18:49",
+    "ROM 15:9"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 117:1",
+    "ROM 15:11"
+   ]
+  }
+ ]
+}

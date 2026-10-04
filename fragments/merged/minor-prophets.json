@@ -1,0 +1,2483 @@
+{
+ "topics": [
+  {
+   "id": "book_hos",
+   "type": "BOOK_OVERVIEW",
+   "name": "Hosea: overview",
+   "description": "Hosea's word to Israel in the days of Jeroboam son of Joash and Judah's kings: a prophet's marriage to an unfaithful wife pictures the LORD's love for faithless Israel, followed by charges, judgment and a call to return.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 1..14"
+   ],
+   "evidence": [
+    "Say that Hosea's marriage (chs 1-3) is an acted picture of the LORD and Israel",
+    "Outline the book as marriage (1-3), charges and judgment (4-13) and a closing call to return (14)"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences how Hosea's marriage pictures the LORD's relationship with Israel?"
+  },
+  {
+   "id": "hos_gomer_children",
+   "type": "STORY",
+   "name": "Hosea's wife and children",
+   "description": "The LORD tells Hosea to take a wife of whoredoms; their three children are named Jezreel, Loruhamah and Loammi as signs, yet the chapter ends with a promise that Israel will be called sons of the living God.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "HOS 1:1-11",
+    "HOS 2:1"
+   ],
+   "evidence": [
+    "Name the three children and what each name signals",
+    "Point out the promise in 1:10-11 that reverses 'not my people'"
+   ],
+   "prompt": "Can {{name}} tell what the names of Hosea's three children meant and what hope the LORD adds at the end of chapter 1?"
+  },
+  {
+   "id": "hos_plead_with_mother",
+   "type": "THEME",
+   "name": "The LORD pleads and allures his wife",
+   "description": "The LORD charges Israel with going after her lovers and forgetting him, announces discipline, then promises to allure her into the wilderness and betroth her to himself for ever in faithfulness.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 2:2-23"
+   ],
+   "evidence": [
+    "Describe the charge (2:5, 2:8, 2:13) and the discipline (2:6-13)",
+    "Describe the promise to betroth Israel for ever (2:19-20) and to say 'Thou art my people' (2:23)"
+   ],
+   "prompt": "Can {{name}} explain how chapter 2 moves from judgment on Israel to the LORD betrothing her again?"
+  },
+  {
+   "id": "hos_buys_back_wife",
+   "type": "STORY",
+   "name": "Hosea buys back his wife",
+   "description": "The LORD tells Hosea to love a woman who is an adulteress, as he loves Israel; Hosea buys her and tells her to wait for him, and Israel is said to wait many days before returning to seek the LORD and David their king.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "HOS 3:1-5"
+   ],
+   "evidence": [
+    "Retell what Hosea did and what he said to the woman",
+    "Say what the action pictures about Israel in 3:4-5"
+   ],
+   "prompt": "Can {{name}} retell Hosea 3 and say what it shows about the LORD's love for Israel?"
+  },
+  {
+   "id": "hos_lord_controversy",
+   "type": "THEME",
+   "name": "The LORD's controversy with the land",
+   "description": "The LORD charges the people and priests with no truth, mercy or knowledge of God, with violence, idolatry and sexual sin at the high places, and declares that his people are destroyed for lack of knowledge.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 4:1-19"
+   ],
+   "evidence": [
+    "List the sins named in 4:1-2 and 4:12-14",
+    "Explain 4:6 in plain words"
+   ],
+   "prompt": "Can {{name}} say why the LORD has a controversy with the land in Hosea 4?"
+  },
+  {
+   "id": "hos_israel_judah_fall",
+   "type": "THEME",
+   "name": "Priests, house of Israel and Judah judged",
+   "description": "Priests, people and king are warned that judgment is coming; Ephraim and Judah turn to Assyria for healing but cannot be healed, and the LORD says he will withdraw until they acknowledge their offence and seek his face.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 5:1-15"
+   ],
+   "evidence": [
+    "Say whom the LORD addresses in 5:1",
+    "Explain why turning to the Assyrian could not heal them (5:13)",
+    "Say what the LORD waits for in 5:15"
+   ],
+   "prompt": "Can {{name}} explain why Ephraim's help from Assyria fails in Hosea 5 and what the LORD waits for?"
+  },
+  {
+   "id": "hos_mercy_not_sacrifice",
+   "type": "THEME",
+   "name": "Return to the LORD; mercy, not sacrifice",
+   "description": "The people speak of returning to the LORD who has torn and will heal, but the LORD answers that their goodness is like morning dew, that he desires mercy and the knowledge of God more than offerings, and that they have transgressed the covenant.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 6:1-11"
+   ],
+   "evidence": [
+    "Read the call to return in 6:1-3 and the LORD's reply in 6:4-6",
+    "Explain 6:6 in plain words",
+    "Notice the reference to transgressing the covenant in 6:7"
+   ],
+   "prompt": "Can {{name}} explain what the LORD means in Hosea 6:6 when he says he desires mercy, not sacrifice?"
+  },
+  {
+   "id": "hos_ephraim_oven_cake",
+   "type": "THEME",
+   "name": "Ephraim: a cake not turned",
+   "description": "The LORD would heal Israel but finds falsehood and treachery, from the king and princes down; Ephraim is like a half-baked cake and a silly dove that calls to Egypt and goes to Assyria rather than crying to the LORD with the heart.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 7:1-16"
+   ],
+   "evidence": [
+    "Describe two pictures used for Ephraim (7:8, 7:11)",
+    "Say what Ephraim does instead of turning to the LORD (7:11, 7:14)"
+   ],
+   "prompt": "Can {{name}} explain why the LORD compares Ephraim to a silly dove in Hosea 7?"
+  },
+  {
+   "id": "hos_sow_wind_reap_whirlwind",
+   "type": "THEME",
+   "name": "Sowing the wind, reaping the whirlwind",
+   "description": "The trumpet sounds because Israel transgressed the covenant, set up kings and idols of their own making and the calf of Samaria; they sow the wind and reap the whirlwind, and will return to Egypt.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 8:1-14"
+   ],
+   "evidence": [
+    "Name the charges in 8:1, 8:4 and 8:12",
+    "Explain the saying in 8:7"
+   ],
+   "prompt": "Can {{name}} explain what it means that Israel sows the wind and reaps the whirlwind?"
+  },
+  {
+   "id": "hos_no_joy_exile",
+   "type": "THEME",
+   "name": "No rejoicing: days of recompence",
+   "description": "Israel is told not to rejoice, since the land will not feed them and they will go into Assyria and Egypt; the LORD recalls finding Israel like grapes in the wilderness before they went to Baalpeor and Gilgal, and Ephraim's fruit is cut off.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 9:1-17"
+   ],
+   "evidence": [
+    "Say where the LORD says Israel will go (9:3, 9:6, 9:17)",
+    "Describe the picture of 9:10 and what went wrong"
+   ],
+   "prompt": "Can {{name}} retell how the LORD first found Israel in Hosea 9:10 and what the people did next?"
+  },
+  {
+   "id": "hos_empty_vine",
+   "type": "THEME",
+   "name": "Israel an empty vine",
+   "description": "Israel the vine bears fruit for himself and multiplies altars and images; calves and king will be carried off, yet the LORD calls them to sow righteousness and seek him until he rains righteousness on them.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 10:1-15"
+   ],
+   "evidence": [
+    "Explain why Israel is called an empty vine (10:1)",
+    "Read the call in 10:12 and say how it contrasts with 10:13"
+   ],
+   "prompt": "Can {{name}} explain the call to sow in righteousness in Hosea 10:12 and what Israel had sown instead?"
+  },
+  {
+   "id": "hos_out_of_egypt",
+   "type": "THEME",
+   "name": "Out of Egypt: the LORD's fatherly love",
+   "description": "The LORD remembers calling his son out of Egypt, teaching Ephraim to walk and drawing them with bands of love, yet they turned to Baalim; he declares he will not carry out the fierceness of his anger, for he is God and not man.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "HOS 11:1-12"
+   ],
+   "evidence": [
+    "Retell 11:1-4 in your own words",
+    "Explain what 11:8-9 says about the LORD's heart and character"
+   ],
+   "prompt": "Can {{name}} describe how the LORD speaks about Israel as his child in Hosea 11:1-4 and 11:8-9?"
+  },
+  {
+   "id": "hos_jacob_ephraim_lies",
+   "type": "THEME",
+   "name": "Ephraim's lies; Jacob recalled",
+   "description": "The LORD has a controversy with Judah and Israel; he recalls Jacob taking his brother's heel, wrestling and finding God at Bethel, then calls Ephraim to turn, since the people trade by deceit and trust in wealth.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 12:1-14"
+   ],
+   "evidence": [
+    "Say which events of Jacob's life are recalled (12:3-4, 12:12)",
+    "Read the call of 12:6 and the sin of 12:7-8"
+   ],
+   "prompt": "Can {{name}} say which parts of Jacob's life Hosea 12 recalls and why?"
+  },
+  {
+   "id": "hos_no_saviour_beside_me",
+   "type": "THEME",
+   "name": "No saviour beside the LORD",
+   "description": "Ephraim's idol worship brings him to vanish like morning cloud; the LORD alone is God and Saviour from Egypt, yet he will come as a lion and bear, though he also promises to ransom them from the grave and death.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HOS 13:1-16"
+   ],
+   "evidence": [
+    "Summarise 13:4 and 13:9 in your own words",
+    "Describe the judgment pictures of 13:7-8",
+    "Point to the ransom promise of 13:14"
+   ],
+   "prompt": "Can {{name}} explain why Hosea 13:4 says there is no saviour but the LORD?"
+  },
+  {
+   "id": "hos_return_to_lord",
+   "type": "THEME",
+   "name": "Return, and the LORD will heal",
+   "description": "The book ends with a call to take words and return to the LORD, who promises to heal backsliding, love freely and be like dew so that Israel flourishes, with a closing note that the ways of the LORD are right.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "HOS 14:1-9"
+   ],
+   "evidence": [
+    "Say what Israel is told to say and renounce (14:2-3)",
+    "Describe the LORD's promises in 14:4-7",
+    "Read the closing line (14:9)"
+   ],
+   "prompt": "Can {{name}} describe how Hosea ends, with what Israel is told to do and what the LORD promises?"
+  },
+  {
+   "id": "book_jol",
+   "type": "BOOK_OVERVIEW",
+   "name": "Joel: overview",
+   "description": "The word of the LORD to Joel: a locust plague and the near day of the LORD, a call to return with all the heart, the LORD's promise of restoration and of his Spirit poured out, and judgment on the nations.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOL 1..3"
+   ],
+   "evidence": [
+    "Outline the book: plague (1), call and promise (2), nations judged (3)",
+    "Say what the phrase 'day of the LORD' is used for in 1:15 and 2:1"
+   ],
+   "prompt": "Can {{name}} give a short summary of Joel and say where the 'day of the LORD' appears?"
+  },
+  {
+   "id": "jol_locusts",
+   "type": "STORY",
+   "name": "The locust plague and call to mourn",
+   "description": "A devastating swarm strips the land's vines, fields and trees, and the offerings are cut off from the house of the LORD; old men, drunkards, farmers and priests are told to mourn and to fast and cry to the LORD.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JOL 1:1-20"
+   ],
+   "evidence": [
+    "Describe what was destroyed (1:4-12)",
+    "Say whom Joel tells to mourn and what they are to do (1:13-14)"
+   ],
+   "prompt": "Can {{name}} describe the plague in Joel 1 and what the people were told to do?"
+  },
+  {
+   "id": "jol_return_with_all_heart",
+   "type": "THEME",
+   "name": "The army and the call to return",
+   "description": "Joel pictures a great army and the day of the LORD as darkness, then the LORD calls the people to turn to him with all the heart, since he is gracious, slow to anger and may leave a blessing; priests are to plead for sparing.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOL 2:1-17"
+   ],
+   "evidence": [
+    "Describe the day of the LORD in 2:1-11",
+    "Explain 2:12-13 in your own words"
+   ],
+   "prompt": "Can {{name}} explain what Joel 2:12-13 asks of the people and why the LORD may be turned to?"
+  },
+  {
+   "id": "jol_restoration_spirit",
+   "type": "THEME",
+   "name": "Restoration and the Spirit poured out",
+   "description": "The LORD pities his people, drives off the northern army, restores the years the locust has eaten, and promises afterward to pour out his Spirit on all flesh, with wonders before the day of the LORD and deliverance for all who call on his name.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOL 2:18-32"
+   ],
+   "evidence": [
+    "List the restoration promises of 2:19-27",
+    "Say who receives the Spirit in 2:28-29",
+    "Read the promise of 2:32"
+   ],
+   "prompt": "Can {{name}} describe the promise of 2:28-29 and the promise to whoever calls on the name of the LORD?"
+  },
+  {
+   "id": "jol_nations_judged",
+   "type": "THEME",
+   "name": "The nations judged; Judah dwells for ever",
+   "description": "When the LORD restores Judah he gathers the nations to the valley of Jehoshaphat to judge them for what they did to his people; the day of the LORD is near, and the book closes with Judah dwelling for ever and the LORD dwelling in Zion.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JOL 3:1-21"
+   ],
+   "evidence": [
+    "Say why the nations are judged (3:2-6)",
+    "Describe the picture of harvest in 3:13",
+    "Describe the closing promise of 3:17-21"
+   ],
+   "prompt": "Can {{name}} explain why the nations are gathered in Joel 3 and how the book ends?"
+  },
+  {
+   "id": "book_amo",
+   "type": "BOOK_OVERVIEW",
+   "name": "Amos: overview",
+   "description": "Amos, a herdman of Tekoa, sees words concerning Israel in the days of Uzziah and Jeroboam: judgment on the nations and on Israel, five visions, and a closing promise to raise David's fallen tabernacle and restore Israel.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 1..9"
+   ],
+   "evidence": [
+    "Outline: nations (1-2), sermons on Israel (3-6), visions (7-9)",
+    "Say what Amos was before the LORD sent him (1:1, 7:14-15)"
+   ],
+   "prompt": "Can {{name}} explain who Amos was and what his book says about Israel in a few sentences?"
+  },
+  {
+   "id": "amo_nations_judged",
+   "type": "THEME",
+   "name": "Judgment on the surrounding nations",
+   "description": "Amos announces for each of Damascus, Gaza, Tyre, Edom, Ammon, Moab and Judah that for three transgressions, and for four, the LORD will not turn away punishment, naming the crime and sending fire.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 1:1-15",
+    "AMO 2:1-5"
+   ],
+   "evidence": [
+    "Name some of the nations and a crime named for each",
+    "Notice that Judah is included (2:4-5)"
+   ],
+   "prompt": "Can {{name}} name some nations in Amos 1-2 and say what pattern each oracle follows?"
+  },
+  {
+   "id": "amo_israel_judged",
+   "type": "THEME",
+   "name": "Judgment on Israel's oppression and ingratitude",
+   "description": "The LORD charges Israel with selling the righteous and the poor, profaning his name and silencing prophets, after he destroyed the Amorite and brought them out of Egypt; no strong or swift man will escape.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 2:6-16"
+   ],
+   "evidence": [
+    "List the sins in 2:6-8 and 2:12",
+    "Recall the LORD's acts for them in 2:9-11"
+   ],
+   "prompt": "Can {{name}} say what Israel is charged with in Amos 2:6-16 and what the LORD had done for them?"
+  },
+  {
+   "id": "amo_you_only_have_i_known",
+   "type": "THEME",
+   "name": "You only have I known",
+   "description": "Because the LORD knew Israel alone of all the families of the earth, he will punish them for their iniquities; the prophet speaks because the LORD has spoken, and the palaces and altars of Bethel will fall.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 3:1-15"
+   ],
+   "evidence": [
+    "Read 3:2 and say why it comes before punishment",
+    "Explain 3:7 in your own words",
+    "Describe the coming judgment in 3:11-15"
+   ],
+   "prompt": "Can {{name}} explain why Amos 3:2 connects the LORD's knowing of Israel with punishment?"
+  },
+  {
+   "id": "amo_yet_have_ye_not_returned",
+   "type": "THEME",
+   "name": "Kine of Bashan; yet ye have not returned",
+   "description": "Amos rebukes the kine of Bashan in Samaria who oppress the poor and mocks empty worship at Bethel and Gilgal; the LORD lists famine, drought, blight, plague and overthrow after which they have not returned, and calls Israel to prepare to meet God.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 4:1-13"
+   ],
+   "evidence": [
+    "List the disasters of 4:6-11 and the refrain",
+    "Say what Israel is told in 4:12"
+   ],
+   "prompt": "Can {{name}} describe the refrain of Amos 4:6-11 and what the LORD calls Israel to do in 4:12?"
+  },
+  {
+   "id": "amo_seek_the_lord_and_live",
+   "type": "THEME",
+   "name": "Seek the LORD and live",
+   "description": "Amos laments for fallen Israel, tells them to seek the LORD and not Bethel, condemns those who trample the poor and pervert justice, warns that the day of the LORD is darkness, and says the LORD hates their feasts but wants justice to roll like water.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 5:1-27"
+   ],
+   "evidence": [
+    "Read 5:4-6 and 5:14-15",
+    "Explain why the day of the LORD is darkness in 5:18-20",
+    "Describe what the LORD wants in 5:21-24"
+   ],
+   "prompt": "Can {{name}} explain what the LORD says about Israel's feasts and songs and what he wants instead in Amos 5:21-24?"
+  },
+  {
+   "id": "amo_at_ease_in_zion",
+   "type": "THEME",
+   "name": "Woe to those at ease",
+   "description": "Amos pronounces woe on the comfortable leaders of Zion and Samaria who lie on ivory beds and feast but are not grieved for Joseph's affliction; they will go into captivity first, since they have turned justice into gall.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 6:1-14"
+   ],
+   "evidence": [
+    "Describe how the leaders live in 6:4-6",
+    "Say what will happen to them in 6:7 and 6:14"
+   ],
+   "prompt": "Can {{name}} describe how the people in Amos 6 lived and what the LORD says will happen to them?"
+  },
+  {
+   "id": "amo_visions_locusts_fire_plumbline",
+   "type": "STORY",
+   "name": "Locusts, fire and the plumbline",
+   "description": "Amos is shown locusts and a fire and pleads for Jacob, and the LORD relents; then he is shown a plumbline set in the midst of Israel with the high places and Jeroboam's house to fall.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 7:1-9"
+   ],
+   "evidence": [
+    "Say what Amos asks in 7:2 and 7:5 and how the LORD answers",
+    "Describe the third vision (7:7-9)"
+   ],
+   "prompt": "Can {{name}} retell the three visions of Amos 7:1-9 and how the LORD responds to Amos' prayers?"
+  },
+  {
+   "id": "amo_amaziah_and_amos",
+   "type": "STORY",
+   "name": "Amaziah tells Amos to go",
+   "description": "Amaziah priest of Bethel reports Amos to Jeroboam and tells him to flee to Judah; Amos answers that he was a herdman and fig gatherer whom the LORD took and sent, and announces judgment on Amaziah and exile for Israel.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "AMO 7:10-17"
+   ],
+   "evidence": [
+    "Retell the exchange",
+    "Say how Amos describes his own calling (7:14-15)"
+   ],
+   "prompt": "Can {{name}} tell what Amaziah said to Amos and how Amos answered?"
+  },
+  {
+   "id": "amo_summer_fruit_famine_of_word",
+   "type": "THEME",
+   "name": "Basket of summer fruit; famine of the word",
+   "description": "The LORD shows Amos a basket of summer fruit and says the end has come for Israel; Amos charges merchants with cheating and buying the poor, and the LORD announces mourning and a famine of hearing his words.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 8:1-14"
+   ],
+   "evidence": [
+    "Describe the vision and the LORD's explanation (8:1-3)",
+    "Name the merchants' sins (8:4-6)",
+    "Explain the famine in 8:11-12"
+   ],
+   "prompt": "Can {{name}} explain the famine described in Amos 8:11-12?"
+  },
+  {
+   "id": "amo_no_escape",
+   "type": "THEME",
+   "name": "No escape from the LORD",
+   "description": "The LORD stands by the altar and says none can escape, though they dig to hell or climb to heaven; he will sift Israel among all nations yet not utterly destroy the house of Jacob, and sinners who deny the evil will die.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 9:1-10"
+   ],
+   "evidence": [
+    "Describe how far the LORD's hand reaches in 9:2-4",
+    "Read the limit on judgment in 9:8-9"
+   ],
+   "prompt": "Can {{name}} say how Amos 9:1-10 shows both the certainty of judgment and a limit placed on it?"
+  },
+  {
+   "id": "amo_tabernacle_of_david",
+   "type": "THEME",
+   "name": "David's fallen tabernacle raised",
+   "description": "The LORD promises to raise up the fallen tabernacle of David, so that Israel possess the remnant of Edom and the heathen called by his name, with abundant harvests and a restored land from which they will not be uprooted.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "AMO 9:11-15"
+   ],
+   "evidence": [
+    "Say what the LORD will raise up (9:11)",
+    "Describe the promises of 9:13-15"
+   ],
+   "prompt": "Can {{name}} describe the promises that end the book of Amos?"
+  },
+  {
+   "id": "book_oba",
+   "type": "BOOK_OVERVIEW",
+   "name": "Obadiah: overview",
+   "description": "The one-chapter vision of Obadiah against Edom: Edom's pride is brought down, its violence against brother Jacob is condemned, and the day of the LORD brings deliverance on Zion and a kingdom that is the LORD's.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "OBA 1:1-21"
+   ],
+   "evidence": [
+    "Say who the vision is against (1:1)",
+    "Outline in three parts: pride (1-9), violence against Jacob (10-14), the day of the LORD (15-21)"
+   ],
+   "prompt": "Can {{name}} say who Obadiah's vision is about and give its three parts?"
+  },
+  {
+   "id": "oba_edom_pride_brought_down",
+   "type": "THEME",
+   "name": "Edom's pride brought down",
+   "description": "The LORD says he will make Edom small, bringing down the one who dwells in the clefts of the rock and says in his heart that none can bring him down; his allies deceive him and the wise men of Esau's mount are destroyed.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "OBA 1:1-9"
+   ],
+   "evidence": [
+    "Say what deceived Edom (1:3)",
+    "Describe how far the LORD says he will bring Edom down (1:4)"
+   ],
+   "prompt": "Can {{name}} explain why Edom feels safe in Obadiah 1:3-4 and what the LORD says about it?"
+  },
+  {
+   "id": "oba_edom_violence_against_jacob",
+   "type": "THEME",
+   "name": "Edom's violence against his brother",
+   "description": "Edom is condemned for standing aloof while strangers took Jerusalem, and for rejoicing, entering the gate, looting and cutting off fugitives in the day of his brother Jacob's calamity.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "OBA 1:10-14"
+   ],
+   "evidence": [
+    "List what Edom should not have done (1:12-14)",
+    "Say what relationship the text names between Edom and Jacob (1:10)"
+   ],
+   "prompt": "Can {{name}} list what Edom did in his brother's day of calamity according to Obadiah 1:10-14?"
+  },
+  {
+   "id": "oba_day_of_lord_kingdom",
+   "type": "THEME",
+   "name": "The day of the LORD and the kingdom",
+   "description": "The day of the LORD is near on all the nations, and as Edom has done it will be done to him; on Mount Zion there will be deliverance, the house of Jacob will possess their possessions, and the kingdom will be the LORD's.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "OBA 1:15-21"
+   ],
+   "evidence": [
+    "Read the principle of 1:15",
+    "Contrast the end of Esau with Zion in 1:17-18",
+    "Read the closing line (1:21)"
+   ],
+   "prompt": "Can {{name}} explain what Obadiah 1:15-21 says will happen to Edom and to the house of Jacob?"
+  },
+  {
+   "id": "book_jon",
+   "type": "BOOK_OVERVIEW",
+   "name": "Jonah: overview",
+   "description": "A narrative of the prophet Jonah son of Amittai, sent to Nineveh: he flees, is caught in a storm and swallowed by a great fish, then preaches, Nineveh repents, and the LORD answers Jonah's anger with a question about pity for the city.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "JON 1..4"
+   ],
+   "evidence": [
+    "Retell the four chapters in order",
+    "Say what question the book ends on (4:11)"
+   ],
+   "prompt": "Can {{name}} retell the book of Jonah in a few sentences and say how it ends?"
+  },
+  {
+   "id": "jon_flees_storm",
+   "type": "STORY",
+   "name": "Jonah flees and the storm",
+   "description": "Told to go to Nineveh, Jonah goes the other way toward Tarshish; the LORD sends a great storm, the sailors cast lots and Jonah is thrown into the sea, whereupon the sea calms and the men fear the LORD.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "JON 1:1-16"
+   ],
+   "evidence": [
+    "Say what the LORD told Jonah to do and what he did",
+    "Tell what Jonah said about himself in 1:9 and 1:12",
+    "Say how the sailors responded in 1:14-16"
+   ],
+   "prompt": "Can {{name}} retell why the storm came in Jonah 1 and how it stopped?"
+  },
+  {
+   "id": "jon_fish_prayer",
+   "type": "STORY",
+   "name": "Jonah in the fish",
+   "description": "The LORD prepares a great fish that swallows Jonah for three days and three nights; from its belly Jonah prays, remembers the LORD and declares that salvation is of the LORD, and the fish casts him on dry land.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "JON 1:17",
+    "JON 2:1-10"
+   ],
+   "evidence": [
+    "Tell how long Jonah was in the fish",
+    "Describe what Jonah says in his prayer (2:2, 2:9)"
+   ],
+   "prompt": "Can {{name}} tell what happened to Jonah after he was thrown into the sea and what he prayed?"
+  },
+  {
+   "id": "jon_nineveh_repents",
+   "type": "STORY",
+   "name": "Nineveh believes and God spares",
+   "description": "The word comes to Jonah a second time; he cries that Nineveh will be overthrown in forty days, the people and their king fast, wear sackcloth and turn from their evil way, and God sees their works and does not do the harm he said.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "JON 3:1-10"
+   ],
+   "evidence": [
+    "Retell Jonah's message and the response of Nineveh",
+    "Say what God did in 3:10"
+   ],
+   "prompt": "Can {{name}} retell how Nineveh responded to Jonah's preaching and what God did?"
+  },
+  {
+   "id": "jon_anger_and_gourd",
+   "type": "STORY",
+   "name": "Jonah's anger and the gourd",
+   "description": "Jonah is angry and says he fled because he knew the LORD is gracious and slow to anger; the LORD prepares a gourd and then a worm and wind, and asks whether he should not spare Nineveh with its many people and cattle.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JON 4:1-11"
+   ],
+   "evidence": [
+    "Explain why Jonah was angry (4:2)",
+    "Describe the gourd, the worm and the question in 4:10-11"
+   ],
+   "prompt": "Can {{name}} explain what the LORD teaches Jonah with the gourd in Jonah 4?"
+  },
+  {
+   "id": "book_mic",
+   "type": "BOOK_OVERVIEW",
+   "name": "Micah: overview",
+   "description": "Micah the Morasthite sees the word of the LORD concerning Samaria and Jerusalem in the days of Jotham, Ahaz and Hezekiah: three cycles of judgment and hope, with the ruler from Bethlehem, what the LORD requires, and pardon for the remnant.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MIC 1..7"
+   ],
+   "evidence": [
+    "Notice the three 'Hear' sections (1:2, 3:1, 6:1)",
+    "Name two hope passages (4:1-5, 5:2, 7:18-20)"
+   ],
+   "prompt": "Can {{name}} outline Micah as judgment followed by hope in each section?"
+  },
+  {
+   "id": "mic_samaria_jerusalem_judged",
+   "type": "THEME",
+   "name": "The LORD comes against Samaria and Judah",
+   "description": "The LORD comes down from his temple as witness against the people; Samaria will become a heap and its idols be broken, and the wound reaches Judah to the gate of Jerusalem, with a lament naming towns of Judah.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MIC 1:1-16"
+   ],
+   "evidence": [
+    "Say what the LORD says is the transgression of Jacob (1:5)",
+    "Describe what happens to Samaria (1:6-7) and how far the wound comes (1:9)"
+   ],
+   "prompt": "Can {{name}} explain why the LORD comes against Samaria and Jerusalem in Micah 1?"
+  },
+  {
+   "id": "mic_covet_fields_remnant",
+   "type": "THEME",
+   "name": "Woe to those who covet; the remnant gathered",
+   "description": "Micah pronounces woe on those who plot evil and seize fields and houses, and on those who silence prophets; the chapter ends with the LORD promising to gather the remnant of Israel like sheep with their king before them.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MIC 2:1-13"
+   ],
+   "evidence": [
+    "Describe the sins in 2:1-2 and 2:8-9",
+    "Describe the promise of 2:12-13"
+   ],
+   "prompt": "Can {{name}} say what the wicked did in Micah 2:1-2 and what the LORD promises in 2:12?"
+  },
+  {
+   "id": "mic_leaders_prophets_judged",
+   "type": "THEME",
+   "name": "Heads, prophets and priests judged",
+   "description": "Micah charges Israel's heads with hating good, their prophets with crying peace for pay, and rulers, priests and prophets with judging, teaching and divining for reward while claiming the LORD is among them; Zion will be plowed as a field.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MIC 3:1-12"
+   ],
+   "evidence": [
+    "List who is charged and with what (3:1-3, 3:5, 3:9-11)",
+    "Read what Micah says he is full of (3:8)",
+    "Say what happens to Zion (3:12)"
+   ],
+   "prompt": "Can {{name}} explain what Micah says is wrong with Israel's leaders in chapter 3?"
+  },
+  {
+   "id": "mic_mountain_of_lord",
+   "type": "THEME",
+   "name": "The mountain of the LORD in the last days",
+   "description": "In the last days the mountain of the LORD's house is exalted, nations come to be taught his ways, swords become plowshares and each sits under his vine and fig tree.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MIC 4:1-5"
+   ],
+   "evidence": [
+    "Describe what the nations say and do (4:2-3)",
+    "Describe the picture of 4:4"
+   ],
+   "prompt": "Can {{name}} describe what Micah says will happen in the last days to the mountain of the LORD?"
+  },
+  {
+   "id": "mic_zion_babylon_deliverance",
+   "type": "THEME",
+   "name": "Zion in travail and delivered",
+   "description": "The LORD will gather the lame and outcast as a remnant and reign in Zion; Zion must go to Babylon, where she will be delivered, and the nations gathered against her will be gathered like sheaves for her to thresh.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MIC 4:6-13"
+   ],
+   "evidence": [
+    "Say where Zion goes and where she is delivered (4:10)",
+    "Explain 4:12 in plain words"
+   ],
+   "prompt": "Can {{name}} explain what Micah 4:6-13 says about the remnant and Zion's trouble and deliverance?"
+  },
+  {
+   "id": "mic_ruler_from_bethlehem",
+   "type": "THEME",
+   "name": "The ruler out of Bethlehem",
+   "description": "A siege strikes the judge of Israel, yet from little Bethlehem Ephratah comes one to be ruler in Israel whose goings forth are from of old; he stands and feeds in the LORD's strength, is the peace against Assyria, and the LORD purges idols and horses.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MIC 5:1-15"
+   ],
+   "evidence": [
+    "Read 5:2 and say where the ruler comes from",
+    "Describe what he does in 5:4-5",
+    "Describe the purifying in 5:10-14"
+   ],
+   "prompt": "Can {{name}} say what Micah 5:2 promises and what the ruler will do?"
+  },
+  {
+   "id": "mic_lord_controversy_requires",
+   "type": "THEME",
+   "name": "The LORD's controversy: what he requires",
+   "description": "The LORD pleads with his people, recalling Egypt, Moses, Aaron and Miriam and Balaam; asked what offerings please him, Micah answers that he requires justice, mercy and a humble walk, and the LORD condemns false weights and the ways of Omri and Ahab.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MIC 6:1-16"
+   ],
+   "evidence": [
+    "Retell what the LORD recalls in 6:3-5",
+    "Read 6:8 and state its three requirements",
+    "Name the sins in 6:10-12 and 6:16"
+   ],
+   "prompt": "Can {{name}} state what the LORD requires according to Micah 6:8 and what question it answers?"
+  },
+  {
+   "id": "mic_wait_for_the_lord",
+   "type": "THEME",
+   "name": "Lament and waiting for the God of salvation",
+   "description": "The prophet laments that the upright are gone and trust fails even in the home; he resolves to look to the LORD, bear the LORD's indignation for his sin, and expect to be brought to the light.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MIC 7:1-13"
+   ],
+   "evidence": [
+    "Describe the lament of 7:1-6",
+    "Read 7:7-9 and say what the speaker resolves"
+   ],
+   "prompt": "Can {{name}} explain how the speaker of Micah 7:7-9 responds to a world of betrayal?"
+  },
+  {
+   "id": "mic_who_is_a_god",
+   "type": "THEME",
+   "name": "Who is a God like thee",
+   "description": "Micah prays that the LORD feed his flock and show wonders as at the coming out of Egypt; the book ends asking who is a God who pardons iniquity, delights in mercy, casts sins into the sea and keeps his oath to Jacob and Abraham.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MIC 7:14-20"
+   ],
+   "evidence": [
+    "Read 7:18-19 and list what the LORD does with sin",
+    "Say whose oath is recalled in 7:20"
+   ],
+   "prompt": "Can {{name}} explain how Micah ends and what it says about the LORD pardoning sin?"
+  },
+  {
+   "id": "book_nam",
+   "type": "BOOK_OVERVIEW",
+   "name": "Nahum: overview",
+   "description": "The burden of Nineveh, the vision of Nahum the Elkoshite: the LORD is both a jealous avenger and a stronghold to those who trust him, and Nineveh's fall is described and explained.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NAM 1..3"
+   ],
+   "evidence": [
+    "Say what the book's heading names (1:1)",
+    "Outline: the LORD's character (1), the city's fall (2), the reasons and a final lament (3)"
+   ],
+   "prompt": "Can {{name}} say what Nahum is about and describe the LORD as he is shown in chapter 1?"
+  },
+  {
+   "id": "nam_lord_jealous_and_good",
+   "type": "THEME",
+   "name": "The LORD: jealous, slow to anger, a stronghold",
+   "description": "Nahum describes the LORD as jealous and avenging yet slow to anger, who will not acquit the wicked, before whom mountains quake, and who is a strong hold to those who trust him; he promises to break the yoke from Judah and cut off Nineveh's idols.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NAM 1:1-15"
+   ],
+   "evidence": [
+    "Read 1:2-3 and 1:7 and describe what they say about the LORD",
+    "Describe the good news to Judah in 1:12-15"
+   ],
+   "prompt": "Can {{name}} describe how Nahum 1 shows the LORD as both a judge and a stronghold?"
+  },
+  {
+   "id": "nam_nineveh_falls",
+   "type": "STORY",
+   "name": "The attack on Nineveh",
+   "description": "Nahum describes the assault on the city, with chariots, flooded gates and fleeing defenders, and its plunder, until the LORD of hosts declares himself against Nineveh and its lion's den.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NAM 2:1-13"
+   ],
+   "evidence": [
+    "Describe the attack scenes in 2:3-10",
+    "Read the LORD's declaration in 2:13"
+   ],
+   "prompt": "Can {{name}} describe how Nahum 2 pictures the fall of Nineveh and who is said to be against her?"
+  },
+  {
+   "id": "nam_woe_bloody_city",
+   "type": "THEME",
+   "name": "Woe to the bloody city",
+   "description": "Nahum pronounces woe on a city full of lies and blood and compares it with No, which also fell; its strongholds, merchants and captains will fail, and no healing remains for a wound that all who hear of her applaud.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NAM 3:1-19"
+   ],
+   "evidence": [
+    "Name the sins of the city in 3:1 and 3:4",
+    "Say what happened to No and why it is mentioned (3:8-10)",
+    "Read how the book ends (3:19)"
+   ],
+   "prompt": "Can {{name}} explain why Nahum 3 compares Nineveh with No and how the book ends?"
+  },
+  {
+   "id": "book_hab",
+   "type": "BOOK_OVERVIEW",
+   "name": "Habakkuk: overview",
+   "description": "The burden Habakkuk saw: his complaints about violence in Judah and the LORD's answers, the vision to wait for in which the just live by faith, woes on the proud, and a prayer ending in rejoicing in the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAB 1..3"
+   ],
+   "evidence": [
+    "Describe the pattern of complaint and answer in chapters 1-2",
+    "Say how the book ends (3:17-19)"
+   ],
+   "prompt": "Can {{name}} explain how Habakkuk moves from complaint to rejoicing?"
+  },
+  {
+   "id": "hab_complaint_chaldeans",
+   "type": "THEME",
+   "name": "How long? The LORD raises up the Chaldeans",
+   "description": "Habakkuk cries to the LORD about violence and perverted justice, and the LORD answers that he is raising up the fierce Chaldeans to sweep through the land.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAB 1:1-11"
+   ],
+   "evidence": [
+    "State Habakkuk's complaint (1:2-4)",
+    "Describe the LORD's answer (1:5-11)"
+   ],
+   "prompt": "Can {{name}} tell what Habakkuk complains about and how the LORD answers?"
+  },
+  {
+   "id": "hab_second_complaint",
+   "type": "THEME",
+   "name": "Why dost thou look on the treacherous?",
+   "description": "Habakkuk affirms that the LORD is everlasting and holy and has ordained the Chaldeans for judgment, but asks how a God of purer eyes than to see evil can look on the treacherous while they net the nations.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAB 1:12-17"
+   ],
+   "evidence": [
+    "Say what Habakkuk affirms about the LORD (1:12-13)",
+    "Describe the question he asks (1:13) and the picture of the net (1:14-17)"
+   ],
+   "prompt": "Can {{name}} state Habakkuk's second question and what he says about the LORD's character before asking it?"
+  },
+  {
+   "id": "hab_just_shall_live_by_faith",
+   "type": "DOCTRINE",
+   "name": "The vision to wait for; the just live by faith",
+   "description": "Habakkuk stands on his watch; the LORD tells him to write the vision, which will surely come though it tarries, and contrasts the proud, whose soul is not upright, with the just, who shall live by his faith.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAB 2:1-5"
+   ],
+   "evidence": [
+    "Say what Habakkuk does and what the LORD tells him to do (2:1-3)",
+    "Read 2:4 and state the contrast",
+    "Find where Paul cites it (Romans 1:17)"
+   ],
+   "prompt": "Can {{name}} explain the contrast of Habakkuk 2:4 and say what the LORD tells Habakkuk to do with the vision?"
+  },
+  {
+   "id": "hab_five_woes",
+   "type": "THEME",
+   "name": "Woes on the plunderer and idolater",
+   "description": "The LORD pronounces a series of woes on the one who increases what is not his, builds a town with blood, shames his neighbour and trusts speechless idols, and says the earth will be filled with the knowledge of the LORD's glory while he is in his holy temple.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAB 2:6-20"
+   ],
+   "evidence": [
+    "List the woes by their beginning words (2:6, 2:9, 2:12, 2:15, 2:19)",
+    "Read 2:14 and 2:20"
+   ],
+   "prompt": "Can {{name}} name some of the woes of Habakkuk 2 and the hope of 2:14?"
+  },
+  {
+   "id": "hab_prayer_lord_marches",
+   "type": "THEME",
+   "name": "Habakkuk's prayer: the LORD marches forth",
+   "description": "Habakkuk prays that the LORD in wrath remember mercy, then recalls the LORD coming in glory with the nations driven apart, the sea and mountains shaken, and the LORD going forth for the salvation of his people with his anointed.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAB 3:1-15"
+   ],
+   "evidence": [
+    "Read the request of 3:2",
+    "Describe the LORD's appearing (3:3-6, 3:10-11) and its purpose (3:13)"
+   ],
+   "prompt": "Can {{name}} describe what Habakkuk asks in 3:2 and what he recalls about the LORD in this prayer?"
+  },
+  {
+   "id": "hab_yet_will_i_rejoice",
+   "type": "THEME",
+   "name": "Yet I will rejoice in the LORD",
+   "description": "Habakkuk trembles at what he has heard, yet resolves that though fig tree, vine, olive, field and flock fail he will rejoice in the God of his salvation, who is his strength.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "HAB 3:16-19"
+   ],
+   "evidence": [
+    "List what fails in 3:17",
+    "Read the response in 3:18-19"
+   ],
+   "prompt": "Can {{name}} say what Habakkuk chooses to do in Habakkuk 3:17-18 even when everything fails?"
+  },
+  {
+   "id": "book_zep",
+   "type": "BOOK_OVERVIEW",
+   "name": "Zephaniah: overview",
+   "description": "The word of the LORD to Zephaniah in the days of Josiah: the great day of the LORD on Judah and the earth, a call to seek the LORD, judgment on nations and Jerusalem, and promised joy for a humble remnant.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEP 1..3"
+   ],
+   "evidence": [
+    "Say when the word came (1:1)",
+    "Outline: judgment (1), call and nations (2), Jerusalem and remnant (3)"
+   ],
+   "prompt": "Can {{name}} outline Zephaniah and say what the 'day of the LORD' is in this book?"
+  },
+  {
+   "id": "zep_day_of_lord_judah",
+   "type": "THEME",
+   "name": "The great day of the LORD on Judah",
+   "description": "The LORD says he will sweep away everything, stretching his hand against Judah and Jerusalem for Baal worship, mixed oaths and indifference; the day is near, a day of wrath and darkness that silver and gold cannot buy off.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEP 1:1-18"
+   ],
+   "evidence": [
+    "List the sins named in 1:4-6 and 1:12",
+    "Describe the day in 1:14-18"
+   ],
+   "prompt": "Can {{name}} describe the day of the LORD in Zephaniah 1 and why it comes on Judah?"
+  },
+  {
+   "id": "zep_seek_lord_nations",
+   "type": "THEME",
+   "name": "Seek the LORD; the nations judged",
+   "description": "Zephaniah calls the meek of the earth to seek the LORD, righteousness and meekness, perhaps to be hidden in the day of anger; he announces judgment on Philistia, Moab, Ammon, Ethiopia and Assyria's Nineveh, with a place left for Judah's remnant.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEP 2:1-15"
+   ],
+   "evidence": [
+    "Read 2:3",
+    "List the nations and what is said of each",
+    "Say who gains the coast in 2:7"
+   ],
+   "prompt": "Can {{name}} say what Zephaniah 2:3 tells the meek to do and which nations are judged in the chapter?"
+  },
+  {
+   "id": "zep_jerusalem_judged",
+   "type": "THEME",
+   "name": "The oppressing city and the LORD within",
+   "description": "Jerusalem is condemned as filthy and oppressing: she did not listen or trust the LORD, and her princes, judges, prophets and priests are corrupt, though the just LORD in her midst does no iniquity, and the LORD tells them to wait until he gathers the nations.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEP 3:1-8"
+   ],
+   "evidence": [
+    "List who is charged in 3:3-4",
+    "Say what the LORD hoped for in 3:7"
+   ],
+   "prompt": "Can {{name}} explain how Zephaniah 3:1-8 describes Jerusalem's leaders and the LORD in her midst?"
+  },
+  {
+   "id": "zep_the_lord_rejoices_over_you",
+   "type": "THEME",
+   "name": "The remnant restored; the LORD sings over you",
+   "description": "The LORD promises to purify the speech of the peoples, leave a humble remnant who trust in him, and cause Zion to sing, for the LORD their king is in her midst, mighty to save, rejoicing over her with singing, and gathering the outcast.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ZEP 3:9-20"
+   ],
+   "evidence": [
+    "Describe the remnant in 3:12-13",
+    "Read 3:17 and say what the LORD does for his people"
+   ],
+   "prompt": "Can {{name}} describe what Zephaniah 3:17 says the LORD does over his people?"
+  },
+  {
+   "id": "book_hag",
+   "type": "BOOK_OVERVIEW",
+   "name": "Haggai: overview",
+   "description": "Haggai's four messages in the second year of Darius to Zerubbabel and Joshua and the remnant: build the LORD's house, take courage for its glory, receive blessing from this day, and the LORD's choice of Zerubbabel.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "HAG 1..2"
+   ],
+   "evidence": [
+    "Name the four dated messages (1:1, 2:1, 2:10, 2:20)",
+    "Say what the first message asks (1:8)"
+   ],
+   "prompt": "Can {{name}} say what Haggai calls the people to do and name two of the messages?"
+  },
+  {
+   "id": "hag_consider_your_ways",
+   "type": "STORY",
+   "name": "Consider your ways: build the house",
+   "description": "Haggai tells Zerubbabel, Joshua and the people that it is not time to live in panelled houses while the LORD's house lies waste; they sow much and gain little, and when they obey the LORD says he is with them and stirs them to work.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "HAG 1:1-15"
+   ],
+   "evidence": [
+    "Say what the LORD says is wrong in 1:4 and 1:9",
+    "Describe how the people responded (1:12-14)"
+   ],
+   "prompt": "Can {{name}} retell what the people were told in Haggai 1 and what they did?"
+  },
+  {
+   "id": "hag_glory_of_latter_house",
+   "type": "THEME",
+   "name": "The glory of the latter house",
+   "description": "The LORD tells the builders to be strong, for his Spirit remains among them according to the word covenanted when they came out of Egypt; he will shake the nations and fill the house with glory, greater than the former, and give peace in this place.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAG 2:1-9"
+   ],
+   "evidence": [
+    "Read 2:3-5 and say how the LORD encourages them",
+    "Describe the promise of 2:6-9"
+   ],
+   "prompt": "Can {{name}} explain how the LORD encourages the builders in Haggai 2:1-9?"
+  },
+  {
+   "id": "hag_unclean_offering_blessing",
+   "type": "THEME",
+   "name": "Holy and unclean; blessing from this day",
+   "description": "Haggai asks the priests whether holiness or uncleanness spreads by touch and applies the answer to the people and their offerings, recalls their failed harvests, and says that from the day the temple foundation was laid the LORD will bless them.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAG 2:10-19"
+   ],
+   "evidence": [
+    "Retell the two questions to the priests (2:12-13)",
+    "Say what changes 'from this day' (2:18-19)"
+   ],
+   "prompt": "Can {{name}} retell the questions Haggai asked the priests and the promise that ends the section?"
+  },
+  {
+   "id": "hag_zerubbabel_signet",
+   "type": "THEME",
+   "name": "Zerubbabel the signet",
+   "description": "On the same day as the blessing the LORD says he will shake the heavens and earth and overthrow the thrones of kingdoms, and promises to take Zerubbabel his servant and make him as a signet, for he has chosen him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HAG 2:20-23"
+   ],
+   "evidence": [
+    "Say what the LORD says he will do to kingdoms (2:22)",
+    "Say what he promises Zerubbabel (2:23)"
+   ],
+   "prompt": "Can {{name}} tell what the LORD promises Zerubbabel in Haggai 2:23?"
+  },
+  {
+   "id": "book_zec",
+   "type": "BOOK_OVERVIEW",
+   "name": "Zechariah: overview",
+   "description": "Zechariah, prophet in the second year of Darius, receives a call to return, eight night visions about Jerusalem, Joshua and Zerubbabel, answers about fasting and promises for Zion, and two later burdens about the shepherd, the pierced one and the day of the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 1..14"
+   ],
+   "evidence": [
+    "Say that chapters 1-6 are visions and 7-8 answer a question about fasting",
+    "Name the two 'burdens' of 9-11 and 12-14 (9:1, 12:1)"
+   ],
+   "prompt": "Can {{name}} outline Zechariah as visions, a question about fasting and two later burdens?"
+  },
+  {
+   "id": "zec_return_to_me",
+   "type": "THEME",
+   "name": "Turn unto me, and I will turn unto you",
+   "description": "In the second year of Darius the LORD tells Zechariah to say that he was sore displeased with the fathers, who did not heed the former prophets, and calls the people to turn to him so that he will turn to them.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ZEC 1:1-6"
+   ],
+   "evidence": [
+    "Read the call of 1:3",
+    "Say what the fathers did when the prophets spoke (1:4-6)"
+   ],
+   "prompt": "Can {{name}} explain the invitation in Zechariah 1:3 and why the fathers are mentioned?"
+  },
+  {
+   "id": "zec_horsemen_myrtle_trees",
+   "type": "STORY",
+   "name": "The riders among the myrtle trees",
+   "description": "Zechariah sees a night vision of riders sent through the earth; the angel of the LORD asks how long the LORD will withhold mercy from Jerusalem, and the LORD answers with comfort that he is jealous for Zion, will return with mercies, and his house will be built.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 1:7-17"
+   ],
+   "evidence": [
+    "Describe the vision and the angel's question (1:8-12)",
+    "Describe the LORD's answer (1:13-17)"
+   ],
+   "prompt": "Can {{name}} tell what the angel of the LORD asks in Zechariah 1:12 and how the LORD replies?"
+  },
+  {
+   "id": "zec_four_horns_carpenters",
+   "type": "STORY",
+   "name": "Four horns and four carpenters",
+   "description": "Zechariah sees four horns that scattered Judah, Israel and Jerusalem, and four carpenters who come to terrify them and cast out the horns of the Gentiles.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 1:18-21"
+   ],
+   "evidence": [
+    "Say what the horns are explained to be (1:19, 1:21)",
+    "Say what the carpenters come to do (1:21)"
+   ],
+   "prompt": "Can {{name}} describe the vision of the four horns and the four carpenters?"
+  },
+  {
+   "id": "zec_measuring_line_jerusalem",
+   "type": "STORY",
+   "name": "The man with the measuring line",
+   "description": "A man goes to measure Jerusalem, but an angel says it will be inhabited like towns without walls, for the LORD will be a wall of fire and the glory in her midst; exiles are called to flee Babylon, and many nations will be joined to the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 2:1-13"
+   ],
+   "evidence": [
+    "Describe the vision and the message about walls (2:1-5)",
+    "Say what the LORD promises in 2:10-11"
+   ],
+   "prompt": "Can {{name}} explain what the LORD says about Jerusalem's walls in Zechariah 2:4-5?"
+  },
+  {
+   "id": "zec_joshua_cleansed",
+   "type": "STORY",
+   "name": "Joshua the high priest cleansed",
+   "description": "Joshua the high priest stands in filthy garments before the angel of the LORD with Satan accusing; the LORD rebukes Satan, has the filthy clothes removed, says he has caused Joshua's iniquity to pass, and promises his servant the Branch and the removal of the land's iniquity in one day.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 3:1-10"
+   ],
+   "evidence": [
+    "Retell what happens to Joshua's clothing (3:3-5)",
+    "Say what the LORD says about the Branch and 'one day' (3:8-9)"
+   ],
+   "prompt": "Can {{name}} retell the vision of Joshua in filthy garments and what the LORD does for him?"
+  },
+  {
+   "id": "zec_lampstand_zerubbabel",
+   "type": "STORY",
+   "name": "The lampstand and the two olive trees",
+   "description": "Zechariah sees a gold lampstand with two olive trees; the LORD tells Zerubbabel that it is not by might nor power but by his spirit, that Zerubbabel who laid the foundation will finish the house, and that none should despise the day of small things.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 4:1-14"
+   ],
+   "evidence": [
+    "Read 4:6 and say whom it is spoken to",
+    "Say what Zerubbabel's hands do (4:9)",
+    "Describe the two olive trees (4:14)"
+   ],
+   "prompt": "Can {{name}} explain what the LORD tells Zerubbabel in Zechariah 4:6 and 4:9-10?"
+  },
+  {
+   "id": "zec_flying_roll_ephah",
+   "type": "STORY",
+   "name": "The flying roll and the woman in the ephah",
+   "description": "Zechariah sees a flying scroll that is a curse on thieves and false swearers, and an ephah in which a woman called wickedness is shut with lead and carried by two women with wings to the land of Shinar.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 5:1-11"
+   ],
+   "evidence": [
+    "Say what the flying roll is and whom it enters (5:3-4)",
+    "Say what the woman in the ephah is called and where the ephah goes (5:8, 5:11)"
+   ],
+   "prompt": "Can {{name}} describe the two visions of Zechariah 5 and what each is said to mean?"
+  },
+  {
+   "id": "zec_four_chariots_branch_crowned",
+   "type": "STORY",
+   "name": "Four chariots; crowns for Joshua; the Branch",
+   "description": "Four chariots come out from between two bronze mountains as spirits of the heavens going throughout the earth; then Zechariah is told to make crowns and set them on Joshua the high priest, speaking of a man called the Branch who will build the temple and rule.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 6:1-15"
+   ],
+   "evidence": [
+    "Describe the vision of the chariots (6:1-8)",
+    "Describe the crown action and what it says of the Branch (6:11-13)"
+   ],
+   "prompt": "Can {{name}} tell what Zechariah is told to do with the crown and what is said about the Branch?"
+  },
+  {
+   "id": "zec_true_fasting_justice",
+   "type": "THEME",
+   "name": "Fasting question: did ye fast unto me?",
+   "description": "Messengers ask whether the people should continue the fast of the fifth month; the LORD asks whether they fasted for him and tells them to render true judgment and mercy, since the fathers hardened their hearts against the law and were scattered.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 7:1-14"
+   ],
+   "evidence": [
+    "State the question that is asked (7:3)",
+    "Read the commands of 7:9-10",
+    "Say what happened because the fathers would not hear (7:11-14)"
+   ],
+   "prompt": "Can {{name}} explain what the LORD says in Zechariah 7:9-10 in answer to the question about fasting?"
+  },
+  {
+   "id": "zec_zion_restored",
+   "type": "THEME",
+   "name": "The LORD returns to dwell in Jerusalem",
+   "description": "The LORD says he has returned to Zion and Jerusalem will be a city of truth with old people and playing children in her streets; he will save his people, make them a blessing, and tells them to speak truth and judge truly.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ZEC 8:1-17"
+   ],
+   "evidence": [
+    "Describe the picture of 8:4-5",
+    "Read the promise of 8:8",
+    "List the commands of 8:16-17"
+   ],
+   "prompt": "Can {{name}} describe how Zechariah 8:1-17 pictures Jerusalem when the LORD returns?"
+  },
+  {
+   "id": "zec_fasts_become_feasts",
+   "type": "THEME",
+   "name": "Fasts become feasts; nations seek the LORD",
+   "description": "The LORD says the fasts of the fourth, fifth, seventh and tenth months will become joy and cheerful feasts, and many peoples and strong nations will come to Jerusalem to seek the LORD, with ten men from all languages taking hold of a Jew.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ZEC 8:18-23"
+   ],
+   "evidence": [
+    "Name the fasts that become feasts (8:19)",
+    "Describe what the peoples say and do (8:20-23)"
+   ],
+   "prompt": "Can {{name}} say how the LORD answers the fasting question and what the nations will do?"
+  },
+  {
+   "id": "zec_king_comes_lowly",
+   "type": "THEME",
+   "name": "Thy King cometh, lowly and riding on an ass",
+   "description": "A burden against Hadrach, Damascus, Tyre and Philistia is followed by a call for Zion to rejoice because her just and saving King comes lowly on an ass; he cuts off chariot and bow, speaks peace to the nations, and the LORD saves his people.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ZEC 9:1-17"
+   ],
+   "evidence": [
+    "Say what is said of the King in 9:9",
+    "Describe his rule in 9:10",
+    "Read the promise to prisoners in 9:11-12"
+   ],
+   "prompt": "Can {{name}} describe the King of Zechariah 9:9-10 and what he does?"
+  },
+  {
+   "id": "zec_lord_visits_flock",
+   "type": "THEME",
+   "name": "The LORD visits his flock",
+   "description": "The LORD tells his people to ask him for rain, rejects idols and false shepherds, and promises to strengthen Judah and Joseph, gather and bring them back, and make them strong in him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 10:1-12"
+   ],
+   "evidence": [
+    "Say what Israel is told to ask (10:1)",
+    "Say what the LORD says of the shepherds and flock (10:2-3)",
+    "Describe the regathering (10:8-10)"
+   ],
+   "prompt": "Can {{name}} explain what the LORD promises his flock in Zechariah 10 and what he says about idols and shepherds?"
+  },
+  {
+   "id": "zec_two_staves_thirty_silver",
+   "type": "STORY",
+   "name": "Two staves and thirty pieces of silver",
+   "description": "Zechariah is told to shepherd the flock of the slaughter and takes two staves called Beauty and Bands; the flock rejects him, he breaks the staves, is paid thirty pieces of silver which the LORD tells him to cast to the potter, and a foolish shepherd is announced.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 11:1-17"
+   ],
+   "evidence": [
+    "Name the two staves and what breaking each means (11:10, 11:14)",
+    "Retell what happens to the thirty pieces of silver (11:12-13)"
+   ],
+   "prompt": "Can {{name}} retell what Zechariah does with the two staves and the thirty pieces of silver?"
+  },
+  {
+   "id": "zec_look_on_pierced",
+   "type": "THEME",
+   "name": "Jerusalem a burdensome stone; they look on the pierced",
+   "description": "The LORD will make Jerusalem a cup of trembling and a burdensome stone to the nations that gather against her, and will pour on David's house and Jerusalem the spirit of grace and supplications, so that they look on him whom they have pierced and mourn.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 12:1-14"
+   ],
+   "evidence": [
+    "Describe what happens to nations that attack Jerusalem (12:2-3, 12:9)",
+    "Read 12:10 and describe the mourning that follows (12:10-14)"
+   ],
+   "prompt": "Can {{name}} describe what Zechariah 12:10 says the LORD will pour out and what the people do?"
+  },
+  {
+   "id": "zec_fountain_smitten_shepherd",
+   "type": "THEME",
+   "name": "A fountain opened; the shepherd smitten",
+   "description": "In that day a fountain is opened for sin and uncleanness and idols and false prophets are cut off; the LORD calls the sword against his shepherd, the sheep are scattered, and a third part is refined as silver and calls on his name.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 13:1-9"
+   ],
+   "evidence": [
+    "Read 13:1",
+    "Say what the LORD calls the sword to do (13:7)",
+    "Describe the refining of the third part (13:9)"
+   ],
+   "prompt": "Can {{name}} explain the fountain of Zechariah 13:1 and what the LORD says about the shepherd and the refined third in 13:7-9?"
+  },
+  {
+   "id": "zec_day_of_lord_king_over_all",
+   "type": "THEME",
+   "name": "The day of the LORD: king over all the earth",
+   "description": "The LORD gathers all nations against Jerusalem, then goes forth to fight, standing on the mount of Olives; living waters flow, he is king over all the earth, the survivors keep the feast of tabernacles, and everything is holiness to the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ZEC 14:1-21"
+   ],
+   "evidence": [
+    "Describe the siege and the LORD's coming (14:2-5)",
+    "Read 14:9 and describe the closing picture (14:16-21)"
+   ],
+   "prompt": "Can {{name}} explain what Zechariah 14:9 says about the LORD and how the book ends?"
+  },
+  {
+   "id": "book_mal",
+   "type": "BOOK_OVERVIEW",
+   "name": "Malachi: overview",
+   "description": "The burden of the word of the LORD to Israel by Malachi: a series of disputes in which the LORD states a charge, the people ask how, and he answers, ending with the coming day of the LORD and the promise to send Elijah.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 1..4"
+   ],
+   "evidence": [
+    "Notice the pattern of 'Wherein?' questions (1:2, 1:6, 2:17, 3:7-8)",
+    "Say how the book ends (4:5-6)"
+   ],
+   "prompt": "Can {{name}} describe how Malachi's disputes work and how the book ends?"
+  },
+  {
+   "id": "mal_i_have_loved_you",
+   "type": "THEME",
+   "name": "I have loved you",
+   "description": "The LORD says he loved Israel, and when they ask how, he points to Jacob and Esau, saying he loved Jacob and hated Esau and laid waste Esau's mountains; he promises that he will be magnified from the border of Israel.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 1:1-5"
+   ],
+   "evidence": [
+    "Read the exchange of 1:2",
+    "Say what happens to Edom's plans (1:4)"
+   ],
+   "prompt": "Can {{name}} tell how the LORD answers the question 'Wherein hast thou loved us?' in Malachi 1:2-3?"
+  },
+  {
+   "id": "mal_polluted_offerings",
+   "type": "THEME",
+   "name": "Polluted offerings and a great name",
+   "description": "The LORD rebukes priests who despise his name by bringing blind, lame and sick animals as offerings and call his table contemptible; he says he has no pleasure in them and that his name will be great among the Gentiles everywhere.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 1:6-14"
+   ],
+   "evidence": [
+    "Describe the offerings and the priests' attitude (1:7-8, 1:12-13)",
+    "Read the promise of 1:11"
+   ],
+   "prompt": "Can {{name}} explain what was wrong with the offerings in Malachi 1 and what the LORD says about his name?"
+  },
+  {
+   "id": "mal_covenant_with_levi",
+   "type": "THEME",
+   "name": "The covenant with Levi corrupted",
+   "description": "The LORD sends a commandment to the priests: his covenant with Levi was of life and peace, and Levi feared him and turned many from iniquity, but the priests have departed from the way, caused many to stumble and been partial in the law.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 2:1-9"
+   ],
+   "evidence": [
+    "Describe what Levi was like (2:5-6)",
+    "Say what the priests did (2:8-9)"
+   ],
+   "prompt": "Can {{name}} contrast Levi and the priests of Malachi's day in chapter 2?"
+  },
+  {
+   "id": "mal_treachery_and_weary_words",
+   "type": "THEME",
+   "name": "Treachery against brother and wife",
+   "description": "Malachi charges Judah with profaning the covenant of the fathers and marrying the daughter of a strange god, and with dealing treacherously with the wife of their youth, since the LORD hates putting away; they also weary him by saying evildoers please him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 2:10-17"
+   ],
+   "evidence": [
+    "Read 2:10 and 2:14-16",
+    "Say what wearies the LORD in 2:17"
+   ],
+   "prompt": "Can {{name}} say what the LORD condemns in Malachi 2:10-16?"
+  },
+  {
+   "id": "mal_messenger_refiner",
+   "type": "THEME",
+   "name": "The messenger and the refiner",
+   "description": "The LORD announces a messenger to prepare the way before him and the LORD coming suddenly to his temple, like a refiner's fire who purifies the sons of Levi; he will be a swift witness against sinners, for he does not change.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 3:1-6"
+   ],
+   "evidence": [
+    "Say what is promised in 3:1",
+    "Describe the refiner (3:2-3)",
+    "Read 3:6"
+   ],
+   "prompt": "Can {{name}} describe who is coming in Malachi 3:1 and what he does in 3:2-3?"
+  },
+  {
+   "id": "mal_robbing_god_tithes",
+   "type": "THEME",
+   "name": "Return to me: tithes and offerings",
+   "description": "The LORD tells the people to return, and when they ask how, says they have robbed him in tithes and offerings; he calls them to bring the whole tithe into the storehouse and promises to open the windows of heaven and rebuke the devourer.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 3:7-12"
+   ],
+   "evidence": [
+    "Read the charge of 3:8-9",
+    "Describe the promises of 3:10-12"
+   ],
+   "prompt": "Can {{name}} explain what the LORD says about tithes and offerings in Malachi 3:7-12?"
+  },
+  {
+   "id": "mal_book_of_remembrance",
+   "type": "THEME",
+   "name": "Is it vain to serve God?",
+   "description": "The people say it is vain to serve God and call the proud happy; those who fear the LORD speak together and he writes a book of remembrance, and says they will be his jewels on the day he makes, spared as a son.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 3:13-18"
+   ],
+   "evidence": [
+    "Describe what the people complained (3:14-15)",
+    "Describe what the LORD does for those who fear him (3:16-17)"
+   ],
+   "prompt": "Can {{name}} explain the book of remembrance in Malachi 3:16-17?"
+  },
+  {
+   "id": "mal_day_cometh_elijah",
+   "type": "THEME",
+   "name": "The day that burns; the Sun of righteousness; Elijah",
+   "description": "The coming day burns the wicked like stubble, but for those who fear the LORD the Sun of righteousness arises with healing; the people are told to remember the law of Moses, and the LORD will send Elijah the prophet before the great day to turn hearts of fathers and children.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAL 4:1-6"
+   ],
+   "evidence": [
+    "Contrast the two outcomes of 4:1-3",
+    "Read the closing command and promise (4:4-6)"
+   ],
+   "prompt": "Can {{name}} describe the two outcomes on the day of the LORD in Malachi 4 and what the LORD promises to send?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "hos_gomer_children",
+   "prereq": "book_hos",
+   "strength": "soft",
+   "reason": "Hosea 1 opens the book with the word of the LORD to Hosea"
+  },
+  {
+   "topic": "hos_plead_with_mother",
+   "prereq": "hos_gomer_children",
+   "strength": "hard",
+   "reason": "Hosea 2:1 continues the naming of the children and 2:2 pleads with the mother of chapter 1"
+  },
+  {
+   "topic": "hos_buys_back_wife",
+   "prereq": "hos_gomer_children",
+   "strength": "hard",
+   "reason": "Hosea 3 is a further command about a wife after chapter 1's marriage to Gomer"
+  },
+  {
+   "topic": "hos_lord_controversy",
+   "prereq": "hos_plead_with_mother",
+   "strength": "soft",
+   "reason": "Hosea 4 gives the charges behind the lovers and idolatry of chapter 2"
+  },
+  {
+   "topic": "hos_israel_judah_fall",
+   "prereq": "hos_lord_controversy",
+   "strength": "soft",
+   "reason": "Hosea 5:3-4 repeats the whoredom named in chapter 4"
+  },
+  {
+   "topic": "hos_mercy_not_sacrifice",
+   "prereq": "hos_israel_judah_fall",
+   "strength": "hard",
+   "reason": "Hosea 6:1 answers 5:15, where the LORD waits until they seek him"
+  },
+  {
+   "topic": "hos_ephraim_oven_cake",
+   "prereq": "hos_mercy_not_sacrifice",
+   "strength": "soft",
+   "reason": "Hosea 7:1 speaks of healing Israel, picking up the healing language of 6:1"
+  },
+  {
+   "topic": "hos_sow_wind_reap_whirlwind",
+   "prereq": "hos_ephraim_oven_cake",
+   "strength": "soft",
+   "reason": "Hosea 8:9 continues the going to Assyria of 7:11"
+  },
+  {
+   "topic": "hos_no_joy_exile",
+   "prereq": "hos_sow_wind_reap_whirlwind",
+   "strength": "soft",
+   "reason": "Hosea 9:3 repeats the return to Egypt threatened in 8:13"
+  },
+  {
+   "topic": "hos_empty_vine",
+   "prereq": "hos_no_joy_exile",
+   "strength": "soft",
+   "reason": "Hosea 10:9 recalls Gibeah as in 9:9"
+  },
+  {
+   "topic": "hos_out_of_egypt",
+   "prereq": "hos_empty_vine",
+   "strength": "soft",
+   "reason": "Hosea 11 follows the judgment on Ephraim of chapter 10"
+  },
+  {
+   "topic": "hos_jacob_ephraim_lies",
+   "prereq": "hos_out_of_egypt",
+   "strength": "soft",
+   "reason": "Hosea 12:1 returns to Ephraim after chapter 11"
+  },
+  {
+   "topic": "hos_no_saviour_beside_me",
+   "prereq": "hos_jacob_ephraim_lies",
+   "strength": "soft",
+   "reason": "Hosea 13:1 continues the charge against Ephraim of chapter 12"
+  },
+  {
+   "topic": "hos_return_to_lord",
+   "prereq": "hos_no_saviour_beside_me",
+   "strength": "hard",
+   "reason": "Hosea 14:1 calls Israel to return after the fall described in chapter 13"
+  },
+  {
+   "topic": "jol_locusts",
+   "prereq": "book_jol",
+   "strength": "soft",
+   "reason": "Joel 1 opens the book after the heading in 1:1"
+  },
+  {
+   "topic": "jol_return_with_all_heart",
+   "prereq": "jol_locusts",
+   "strength": "hard",
+   "reason": "Joel 2:1 sounds the alarm for the day of the LORD announced at 1:15 and 2:25 recalls the locusts of chapter 1"
+  },
+  {
+   "topic": "jol_restoration_spirit",
+   "prereq": "jol_return_with_all_heart",
+   "strength": "hard",
+   "reason": "Joel 2:18 is the LORD's answer to the fast and plea of 2:12-17"
+  },
+  {
+   "topic": "jol_nations_judged",
+   "prereq": "jol_restoration_spirit",
+   "strength": "soft",
+   "reason": "Joel 3:1 follows the promised restoration of chapter 2 with 'in those days'"
+  },
+  {
+   "topic": "amo_nations_judged",
+   "prereq": "book_amo",
+   "strength": "soft",
+   "reason": "Amos 1:1 introduces the words that begin with the nations in 1:3"
+  },
+  {
+   "topic": "amo_israel_judged",
+   "prereq": "amo_nations_judged",
+   "strength": "hard",
+   "reason": "Amos 2:6 uses the same 'three transgressions, and for four' pattern, now against Israel"
+  },
+  {
+   "topic": "amo_you_only_have_i_known",
+   "prereq": "amo_israel_judged",
+   "strength": "soft",
+   "reason": "Amos 3:1 speaks to the family brought up from Egypt, as in 2:10"
+  },
+  {
+   "topic": "amo_yet_have_ye_not_returned",
+   "prereq": "amo_you_only_have_i_known",
+   "strength": "soft",
+   "reason": "Amos 4:1 continues the word against Samaria and Bethel from 3:9-15"
+  },
+  {
+   "topic": "amo_seek_the_lord_and_live",
+   "prereq": "amo_yet_have_ye_not_returned",
+   "strength": "soft",
+   "reason": "Amos 5 is a lamentation (5:1) following the refusals to return in 4:6-11"
+  },
+  {
+   "topic": "amo_at_ease_in_zion",
+   "prereq": "amo_seek_the_lord_and_live",
+   "strength": "soft",
+   "reason": "Amos 6:1 is a woe following the woe on the day of the LORD in 5:18"
+  },
+  {
+   "topic": "amo_visions_locusts_fire_plumbline",
+   "prereq": "amo_at_ease_in_zion",
+   "strength": "soft",
+   "reason": "Amos 7:1-9 introduces visions after the sermons of 3-6"
+  },
+  {
+   "topic": "amo_amaziah_and_amos",
+   "prereq": "amo_visions_locusts_fire_plumbline",
+   "strength": "hard",
+   "reason": "Amaziah's complaint in 7:11 refers to the judgment on Jeroboam announced in 7:9"
+  },
+  {
+   "topic": "amo_summer_fruit_famine_of_word",
+   "prereq": "amo_amaziah_and_amos",
+   "strength": "soft",
+   "reason": "Amos 8:1 begins the fourth vision after the dispute of 7:10-17"
+  },
+  {
+   "topic": "amo_no_escape",
+   "prereq": "amo_summer_fruit_famine_of_word",
+   "strength": "soft",
+   "reason": "Amos 9:1 is the fifth vision following 8:1"
+  },
+  {
+   "topic": "amo_tabernacle_of_david",
+   "prereq": "amo_no_escape",
+   "strength": "hard",
+   "reason": "Amos 9:11 'in that day' follows the sifting and the limit on destruction of 9:8-10"
+  },
+  {
+   "topic": "oba_edom_pride_brought_down",
+   "prereq": "book_oba",
+   "strength": "soft",
+   "reason": "Obadiah 1:1 opens the vision concerning Edom"
+  },
+  {
+   "topic": "oba_edom_violence_against_jacob",
+   "prereq": "oba_edom_pride_brought_down",
+   "strength": "hard",
+   "reason": "Obadiah 1:10 states the reason for the cutting off announced in 1:8-9"
+  },
+  {
+   "topic": "oba_day_of_lord_kingdom",
+   "prereq": "oba_edom_violence_against_jacob",
+   "strength": "hard",
+   "reason": "Obadiah 1:15 gives the principle 'as thou hast done' for the deeds described in 1:10-14"
+  },
+  {
+   "topic": "jon_flees_storm",
+   "prereq": "book_jon",
+   "strength": "soft",
+   "reason": "Jonah 1 opens the narrative with the word of the LORD to Jonah"
+  },
+  {
+   "topic": "jon_fish_prayer",
+   "prereq": "jon_flees_storm",
+   "strength": "hard",
+   "reason": "Jonah 1:17 follows Jonah being cast into the sea in 1:15"
+  },
+  {
+   "topic": "jon_nineveh_repents",
+   "prereq": "jon_fish_prayer",
+   "strength": "hard",
+   "reason": "Jonah 3:1 is the word to Jonah 'the second time' after the fish of chapter 2"
+  },
+  {
+   "topic": "jon_anger_and_gourd",
+   "prereq": "jon_nineveh_repents",
+   "strength": "hard",
+   "reason": "Jonah 4:1 is Jonah's reaction to God sparing Nineveh in 3:10"
+  },
+  {
+   "topic": "mic_samaria_jerusalem_judged",
+   "prereq": "book_mic",
+   "strength": "soft",
+   "reason": "Micah 1:1 introduces the vision concerning Samaria and Jerusalem"
+  },
+  {
+   "topic": "mic_covet_fields_remnant",
+   "prereq": "mic_samaria_jerusalem_judged",
+   "strength": "soft",
+   "reason": "Micah 2 follows the judgment on Jacob's sins in chapter 1"
+  },
+  {
+   "topic": "mic_leaders_prophets_judged",
+   "prereq": "mic_covet_fields_remnant",
+   "strength": "soft",
+   "reason": "Micah 3:1 begins 'And I said' addressing heads of Jacob after the oppression charged in chapter 2"
+  },
+  {
+   "topic": "mic_mountain_of_lord",
+   "prereq": "mic_leaders_prophets_judged",
+   "strength": "hard",
+   "reason": "Micah 4:1 begins 'But in the last days' after Zion is plowed as a field in 3:12"
+  },
+  {
+   "topic": "mic_zion_babylon_deliverance",
+   "prereq": "mic_mountain_of_lord",
+   "strength": "soft",
+   "reason": "Micah 4:6 'in that day' continues the future described in 4:1-5"
+  },
+  {
+   "topic": "mic_ruler_from_bethlehem",
+   "prereq": "mic_zion_babylon_deliverance",
+   "strength": "soft",
+   "reason": "Micah 5:1 continues the siege and nations gathered against Zion of 4:11-13"
+  },
+  {
+   "topic": "mic_lord_controversy_requires",
+   "prereq": "mic_ruler_from_bethlehem",
+   "strength": "soft",
+   "reason": "Micah 6:1 begins a new 'Hear' after chapter 5"
+  },
+  {
+   "topic": "mic_wait_for_the_lord",
+   "prereq": "mic_lord_controversy_requires",
+   "strength": "soft",
+   "reason": "Micah 7:1-6 laments the wicked rulers and lies charged in 6:10-12"
+  },
+  {
+   "topic": "mic_who_is_a_god",
+   "prereq": "mic_wait_for_the_lord",
+   "strength": "hard",
+   "reason": "Micah 7:14 is a prayer that follows the speaker's confession and hope in 7:7-13"
+  },
+  {
+   "topic": "nam_lord_jealous_and_good",
+   "prereq": "book_nam",
+   "strength": "soft",
+   "reason": "Nahum 1:1 gives the heading before the description of the LORD in 1:2"
+  },
+  {
+   "topic": "nam_nineveh_falls",
+   "prereq": "nam_lord_jealous_and_good",
+   "strength": "hard",
+   "reason": "Nahum 2 portrays the end of Nineveh that 1:8-14 announces"
+  },
+  {
+   "topic": "nam_woe_bloody_city",
+   "prereq": "nam_nineveh_falls",
+   "strength": "soft",
+   "reason": "Nahum 3 gives the reasons for the fall pictured in chapter 2"
+  },
+  {
+   "topic": "hab_complaint_chaldeans",
+   "prereq": "book_hab",
+   "strength": "soft",
+   "reason": "Habakkuk 1:1 introduces the burden that begins with his cry in 1:2"
+  },
+  {
+   "topic": "hab_second_complaint",
+   "prereq": "hab_complaint_chaldeans",
+   "strength": "hard",
+   "reason": "Habakkuk 1:12-13 responds to the Chaldeans raised up in 1:6"
+  },
+  {
+   "topic": "hab_just_shall_live_by_faith",
+   "prereq": "hab_second_complaint",
+   "strength": "hard",
+   "reason": "Habakkuk 2:1 says he will watch for the answer to the question in 1:12-17"
+  },
+  {
+   "topic": "hab_five_woes",
+   "prereq": "hab_just_shall_live_by_faith",
+   "strength": "soft",
+   "reason": "Habakkuk 2:6 begins the taunt against the proud man described in 2:4-5"
+  },
+  {
+   "topic": "hab_prayer_lord_marches",
+   "prereq": "hab_five_woes",
+   "strength": "soft",
+   "reason": "Habakkuk 3:2 responds to the LORD's speech given in chapters 1-2"
+  },
+  {
+   "topic": "hab_yet_will_i_rejoice",
+   "prereq": "hab_prayer_lord_marches",
+   "strength": "hard",
+   "reason": "Habakkuk 3:16 follows the hearing and the recollection of 3:2-15"
+  },
+  {
+   "topic": "zep_day_of_lord_judah",
+   "prereq": "book_zep",
+   "strength": "soft",
+   "reason": "Zephaniah 1:1 gives the heading before the word of judgment in 1:2"
+  },
+  {
+   "topic": "zep_seek_lord_nations",
+   "prereq": "zep_day_of_lord_judah",
+   "strength": "hard",
+   "reason": "Zephaniah 2:2-3 refers to the day of the LORD's anger described in chapter 1"
+  },
+  {
+   "topic": "zep_jerusalem_judged",
+   "prereq": "zep_seek_lord_nations",
+   "strength": "soft",
+   "reason": "Zephaniah 3:1 returns to Jerusalem after the nations of chapter 2"
+  },
+  {
+   "topic": "zep_the_lord_rejoices_over_you",
+   "prereq": "zep_jerusalem_judged",
+   "strength": "hard",
+   "reason": "Zephaniah 3:9 'for then' follows the gathering of nations in 3:8"
+  },
+  {
+   "topic": "hag_consider_your_ways",
+   "prereq": "book_hag",
+   "strength": "soft",
+   "reason": "Haggai 1:1 gives the date and the addressees of the first message"
+  },
+  {
+   "topic": "hag_glory_of_latter_house",
+   "prereq": "hag_consider_your_ways",
+   "strength": "hard",
+   "reason": "Haggai 2:3 speaks of 'this house' that the people began to rebuild in 1:14"
+  },
+  {
+   "topic": "hag_unclean_offering_blessing",
+   "prereq": "hag_glory_of_latter_house",
+   "strength": "soft",
+   "reason": "Haggai 2:15 and 2:18 refer to the laying of the temple's stones from the work begun in chapter 1"
+  },
+  {
+   "topic": "hag_zerubbabel_signet",
+   "prereq": "hag_glory_of_latter_house",
+   "strength": "soft",
+   "reason": "Haggai 2:21-22 repeats the shaking of heavens and earth from 2:6-7"
+  },
+  {
+   "topic": "zec_return_to_me",
+   "prereq": "book_zec",
+   "strength": "soft",
+   "reason": "Zechariah 1:1 opens the book with the word in the second year of Darius"
+  },
+  {
+   "topic": "zec_horsemen_myrtle_trees",
+   "prereq": "zec_return_to_me",
+   "strength": "soft",
+   "reason": "Zechariah 1:7 gives the next dated word in the same second year of Darius"
+  },
+  {
+   "topic": "zec_four_horns_carpenters",
+   "prereq": "zec_horsemen_myrtle_trees",
+   "strength": "soft",
+   "reason": "Zechariah 1:18 continues the night visions that begin in 1:8"
+  },
+  {
+   "topic": "zec_measuring_line_jerusalem",
+   "prereq": "zec_four_horns_carpenters",
+   "strength": "soft",
+   "reason": "Zechariah 2:1 says 'again' after the vision of 1:18-21"
+  },
+  {
+   "topic": "zec_joshua_cleansed",
+   "prereq": "zec_measuring_line_jerusalem",
+   "strength": "soft",
+   "reason": "Zechariah 3:1 continues the visions of chapters 1-2"
+  },
+  {
+   "topic": "zec_lampstand_zerubbabel",
+   "prereq": "zec_joshua_cleansed",
+   "strength": "soft",
+   "reason": "Zechariah 4:1 continues the visions after Joshua in chapter 3"
+  },
+  {
+   "topic": "zec_flying_roll_ephah",
+   "prereq": "zec_lampstand_zerubbabel",
+   "strength": "soft",
+   "reason": "Zechariah 5:1 'then I turned' continues the visions after chapter 4"
+  },
+  {
+   "topic": "zec_four_chariots_branch_crowned",
+   "prereq": "zec_joshua_cleansed",
+   "strength": "hard",
+   "reason": "Zechariah 6:11-13 crowns Joshua and repeats the BRANCH named in 3:8"
+  },
+  {
+   "topic": "zec_true_fasting_justice",
+   "prereq": "zec_four_chariots_branch_crowned",
+   "strength": "soft",
+   "reason": "Zechariah 7:1 is dated in Darius' fourth year, after the visions of chapters 1-6"
+  },
+  {
+   "topic": "zec_zion_restored",
+   "prereq": "zec_true_fasting_justice",
+   "strength": "hard",
+   "reason": "Zechariah 8 continues the word of the LORD to the fasting question and the fathers' refusal of chapter 7"
+  },
+  {
+   "topic": "zec_fasts_become_feasts",
+   "prereq": "zec_true_fasting_justice",
+   "strength": "hard",
+   "reason": "Zechariah 8:19 turns the fasts of 7:3-5 into feasts"
+  },
+  {
+   "topic": "zec_king_comes_lowly",
+   "prereq": "zec_fasts_become_feasts",
+   "strength": "soft",
+   "reason": "Zechariah 9 opens a new burden after the eight chapters of 1-8"
+  },
+  {
+   "topic": "zec_lord_visits_flock",
+   "prereq": "zec_king_comes_lowly",
+   "strength": "soft",
+   "reason": "Zechariah 10 continues the promise to Judah and Ephraim begun in 9:13-17"
+  },
+  {
+   "topic": "zec_two_staves_thirty_silver",
+   "prereq": "zec_lord_visits_flock",
+   "strength": "hard",
+   "reason": "Zechariah 11 answers the failing shepherds of 10:2-3"
+  },
+  {
+   "topic": "zec_look_on_pierced",
+   "prereq": "zec_two_staves_thirty_silver",
+   "strength": "soft",
+   "reason": "Zechariah 12:1 begins the second burden after chapter 11"
+  },
+  {
+   "topic": "zec_fountain_smitten_shepherd",
+   "prereq": "zec_look_on_pierced",
+   "strength": "hard",
+   "reason": "Zechariah 13:1 'in that day' continues the day of 12:3-14"
+  },
+  {
+   "topic": "zec_day_of_lord_king_over_all",
+   "prereq": "zec_fountain_smitten_shepherd",
+   "strength": "soft",
+   "reason": "Zechariah 14:1 continues the day of the LORD after chapter 13"
+  },
+  {
+   "topic": "mal_i_have_loved_you",
+   "prereq": "book_mal",
+   "strength": "soft",
+   "reason": "Malachi 1:1 introduces the burden to Israel before the first dispute"
+  },
+  {
+   "topic": "mal_polluted_offerings",
+   "prereq": "mal_i_have_loved_you",
+   "strength": "soft",
+   "reason": "Malachi 1:6 follows the LORD's love declared to Israel in 1:2"
+  },
+  {
+   "topic": "mal_covenant_with_levi",
+   "prereq": "mal_polluted_offerings",
+   "strength": "hard",
+   "reason": "Malachi 2:1 is a commandment to the priests addressed in 1:6"
+  },
+  {
+   "topic": "mal_treachery_and_weary_words",
+   "prereq": "mal_covenant_with_levi",
+   "strength": "soft",
+   "reason": "Malachi 2:10 widens the charge of faithlessness from the priests of 2:8"
+  },
+  {
+   "topic": "mal_messenger_refiner",
+   "prereq": "mal_treachery_and_weary_words",
+   "strength": "hard",
+   "reason": "Malachi 3:1 answers the question 'Where is the God of judgment?' in 2:17"
+  },
+  {
+   "topic": "mal_robbing_god_tithes",
+   "prereq": "mal_messenger_refiner",
+   "strength": "soft",
+   "reason": "Malachi 3:7 follows 3:6, ending the promise of the coming of the LORD"
+  },
+  {
+   "topic": "mal_book_of_remembrance",
+   "prereq": "mal_robbing_god_tithes",
+   "strength": "soft",
+   "reason": "Malachi 3:13 is the next of the 'Wherein?' disputes after 3:7-8"
+  },
+  {
+   "topic": "mal_day_cometh_elijah",
+   "prereq": "mal_book_of_remembrance",
+   "strength": "hard",
+   "reason": "Malachi 4:1-2 resolves the righteous and wicked distinction of 3:18"
+  }
+ ],
+ "relations": [
+  {
+   "from": "hos_plead_with_mother",
+   "to": "rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    "HOS 2:23",
+    "ROM 9:25"
+   ]
+  },
+  {
+   "from": "hos_gomer_children",
+   "to": "rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    "HOS 1:10",
+    "ROM 9:26"
+   ]
+  },
+  {
+   "from": "jol_restoration_spirit",
+   "to": "rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    "JOL 2:32",
+    "ROM 10:13"
+   ]
+  },
+  {
+   "from": "hab_just_shall_live_by_faith",
+   "to": "rom_gospel",
+   "kind": "quoted-in",
+   "refs": [
+    "HAB 2:4",
+    "ROM 1:17"
+   ]
+  },
+  {
+   "from": "mal_i_have_loved_you",
+   "to": "rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    "MAL 1:2-3",
+    "ROM 9:13"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+  "dataset": "bible-taxonomy",
+  "counts": {
+    "covenants": 6,
+    "topics": 1772,
+    "dependencies": 1811,
+    "relations": 197,
+    "teachers": 0,
+    "works": 0,
+    "citations": 0
+  },
+  "files": {
+    "topics.json": {
+      "sha256": "42f0179f651fdd40bfce90851814aeddb735e4ccf2fbbf68360f9f94857c0eef"
+    },
+    "dependencies.json": {
+      "sha256": "3931b461c5c591e053fb9e2b756cc6f24b6b25fc8e5728dcebae1b4e201b9c5d"
+    },
+    "relations.json": {
+      "sha256": "8369481265faf2d009ab3f4e918f55002c724e38c9b8e26d9ad95990c2d5efdc"
+    },
+    "covenants.json": {
+      "sha256": "88c763918e8d3c504c4985d5b69d57263b68646a3cd8182184a5eed8e2cd5a51"
+    },
+    "teachers.json": {
+      "sha256": "e9d87261da52676d1cf0ca34b0f5f11f8324941ce58388c5861705716a887983"
+    },
+    "works.json": {
+      "sha256": "6ff4f40466c5bc5b44dbff45323f457dbce90c5ace3d22149db829d164fed964"
+    },
+    "citations.json": {
+      "sha256": "3f75d685bb3eae4685c0992dc02c7ec23af729ea30e19c5448a7b9573ed36ec5"
+    },
+    "kjv.json": {
+      "sha256": "450552f1b870e1636ffe476e314e0a244eb3029fbc42f08ed1103a025c5a695c"
+    }
+  }
+}

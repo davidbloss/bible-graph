@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/bible-taxonomy/schema/teachers.schema.json",
+  "description": "Covers teachers.json, works.json and citations.json (one root key each). Bibliographic only: no quoted or paraphrased text.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "version": { "type": "string" },
+    "teachers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "sourceUrl"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^tc_" },
+          "name": { "type": "string" },
+          "born": { "type": ["integer", "null"] },
+          "died": { "type": ["integer", "null"] },
+          "sourceUrl": { "type": "string", "description": "Where the dates were verified" }
+        }
+      }
+    },
+    "works": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "teacherId", "title", "year", "yearBasis", "copyright", "sourceUrl"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^wk_" },
+          "teacherId": { "type": "string", "pattern": "^tc_" },
+          "title": { "type": "string" },
+          "year": { "type": ["integer", "null"] },
+          "yearBasis": { "enum": ["written", "first-published", "delivered", "edition"] },
+          "edition": { "type": ["string", "null"] },
+          "copyright": { "enum": ["public-domain", "in-copyright"] },
+          "sourceUrl": { "type": "string" }
+        }
+      }
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "workId", "location", "addresses", "url", "verified"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^ct_" },
+          "workId": { "type": "string", "pattern": "^wk_" },
+          "location": { "type": "string", "description": "Exact section/chapter/sermon/page as given by the source" },
+          "addresses": { "type": "array", "minItems": 1, "items": { "$ref": "topics.schema.json#/$defs/ref" } },
+          "url": { "type": "string" },
+          "verified": { "type": "boolean" },
+          "verifiedOn": { "type": ["string", "null"], "description": "ISO date a human or tool checked the URL against the location" }
+        }
+      }
+    }
+  }
+}

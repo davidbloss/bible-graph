@@ -1,0 +1,3147 @@
+{
+ "topics": [
+  {
+   "id": "book_jos",
+   "type": "BOOK_OVERVIEW",
+   "name": "Joshua: overview",
+   "description": "Joshua records Israel crossing the Jordan after Moses' death (1:1-2), taking and dividing the land, and Joshua's closing call to serve the LORD at Shechem, ending with his death (24:29).",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "JOS 1..24"
+   ],
+   "evidence": [
+    "Say how the book begins with the death of Moses and ends with the death of Joshua",
+    "Name the three parts: entering and conquering, dividing the land, and the farewell charges"
+   ],
+   "prompt": "Can {{name}} outline the book of Joshua from the crossing of the Jordan to the covenant at Shechem?"
+  },
+  {
+   "id": "jos_commission",
+   "type": "STORY",
+   "name": "The LORD commissions Joshua",
+   "description": "After Moses dies, the LORD tells Joshua to lead the people over the Jordan, promises to be with him, and charges him to keep the law; Joshua then orders the people to prepare and the eastern tribes pledge their help.",
+   "covenant": null,
+   "ages": [
+    6,
+    12
+   ],
+   "passages": [
+    "JOS 1"
+   ],
+   "evidence": [
+    "Retell what the LORD told Joshua after Moses died",
+    "Say what Joshua was told to do with the book of the law (1:7-8)",
+    "Explain what Reuben, Gad and half of Manasseh promised (1:12-18)"
+   ],
+   "prompt": "Can {{name}} tell what God said to Joshua at the start of the book?"
+  },
+  {
+   "id": "jos_rahab",
+   "type": "STORY",
+   "name": "Rahab hides the spies in Jericho",
+   "description": "Joshua sends two men to Jericho, where Rahab hides them, confesses that the LORD is God in heaven and earth, and secures their oath to spare her family, marked by a scarlet cord.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "JOS 2"
+   ],
+   "evidence": [
+    "Retell how Rahab hid the spies",
+    "Say what Rahab had heard about the LORD (2:9-11)",
+    "Describe the promise the men made and the sign of the scarlet line (2:12-21)"
+   ],
+   "prompt": "Can {{name}} tell what Rahab did for the spies and what they promised her?"
+  },
+  {
+   "id": "jos_jordan_crossing",
+   "type": "STORY",
+   "name": "Crossing the Jordan",
+   "description": "The priests carry the ark into the Jordan, its waters are cut off, and Israel crosses on dry ground; twelve stones are taken from the river as a memorial for children to ask about.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "JOS 3",
+    "JOS 4"
+   ],
+   "evidence": [
+    "Retell how Israel crossed the Jordan",
+    "Explain what the twelve stones were for (4:6-7, 4:21-24)",
+    "Say what Joshua 4:23 compares the crossing to"
+   ],
+   "prompt": "Can {{name}} tell how Israel crossed the Jordan and why the stones were set up?"
+  },
+  {
+   "id": "jos_gilgal",
+   "type": "STORY",
+   "name": "Circumcision, Passover and the captain of the LORD's host",
+   "description": "At Gilgal the new generation is circumcised, Israel keeps the passover and eats the produce of the land as the manna ceases, and Joshua meets the captain of the LORD's host near Jericho.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JOS 5"
+   ],
+   "evidence": [
+    "Explain why Joshua circumcised the people (5:4-7)",
+    "Say what happened to the manna (5:12)",
+    "Describe Joshua's meeting by Jericho and what he was told to do (5:13-15)"
+   ],
+   "prompt": "Can {{name}} explain what happened at Gilgal before Jericho?"
+  },
+  {
+   "id": "jos_jericho",
+   "type": "STORY",
+   "name": "The fall of Jericho",
+   "description": "Israel marches round Jericho for seven days with the ark and trumpets, the wall falls at the shout, the city is devoted to destruction, and Rahab and her household are saved.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "JOS 6"
+   ],
+   "evidence": [
+    "Retell the instructions for marching round Jericho (6:3-5)",
+    "Say what happened on the seventh day (6:15-20)",
+    "Explain why Rahab and her household were spared (6:22-25)"
+   ],
+   "prompt": "Can {{name}} tell how Jericho fell and who was saved?"
+  },
+  {
+   "id": "jos_achan",
+   "type": "STORY",
+   "name": "Achan's sin and defeat at Ai",
+   "description": "Israel is routed at Ai because Achan took devoted things from Jericho; Joshua prays, the LORD reveals the sin by lot, and Achan confesses and is stoned.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JOS 7"
+   ],
+   "evidence": [
+    "Retell why Israel lost at Ai (7:1, 7:10-12)",
+    "Describe how Achan was found out and what he confessed (7:16-21)",
+    "Say what the LORD calls the people's act in 7:11"
+   ],
+   "prompt": "Can {{name}} explain why Israel was defeated at Ai?"
+  },
+  {
+   "id": "jos_ai",
+   "type": "STORY",
+   "name": "The taking of Ai",
+   "description": "The LORD tells Joshua not to fear and to ambush Ai; the city is drawn out, burned, and taken, and Israel may take its spoil.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "JOS 8:1-29"
+   ],
+   "evidence": [
+    "Retell the ambush plan and how it worked",
+    "Say how this differs from Jericho regarding spoil (8:2)"
+   ],
+   "prompt": "Can {{name}} tell how Israel took Ai the second time?"
+  },
+  {
+   "id": "jos_ebal_law",
+   "type": "STORY",
+   "name": "The law read at Mount Ebal",
+   "description": "Joshua builds an altar on Mount Ebal as Moses commanded, writes a copy of the law on stones, and reads all its blessings and cursings to the whole assembly.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JOS 8:30-35"
+   ],
+   "evidence": [
+    "Say what Joshua built and wrote on Mount Ebal",
+    "Explain who heard the law read (8:33-35)"
+   ],
+   "prompt": "Can {{name}} tell what Israel did at Mount Ebal after Ai?"
+  },
+  {
+   "id": "jos_gibeonites",
+   "type": "STORY",
+   "name": "The Gibeonite deception",
+   "description": "The people of Gibeon pretend to come from a far country and trick Israel into a treaty without asking the LORD; when found out, they are made woodcutters and water carriers and spared because of the oath.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "JOS 9"
+   ],
+   "evidence": [
+    "Retell how Gibeon deceived Israel",
+    "Say what Israel failed to do (9:14)",
+    "Explain why Israel did not destroy them (9:18-21)"
+   ],
+   "prompt": "Can {{name}} tell how the Gibeonites tricked Joshua and what happened next?"
+  },
+  {
+   "id": "jos_sun_stands",
+   "type": "STORY",
+   "name": "The LORD fights at Gibeon",
+   "description": "Five Amorite kings attack Gibeon; Joshua marches all night, the LORD sends hailstones, the sun stands still at Joshua's word, and the five kings are caught in a cave at Makkedah and put to death.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JOS 10:1-27"
+   ],
+   "evidence": [
+    "Say why Israel went to help Gibeon",
+    "Describe what the LORD did in the battle (10:10-14)",
+    "Say what happened to the five kings (10:16-27)"
+   ],
+   "prompt": "Can {{name}} tell what happened when the five kings attacked Gibeon?"
+  },
+  {
+   "id": "jos_southern_campaign",
+   "type": "STORY",
+   "name": "The southern campaign",
+   "description": "Joshua takes Makkedah, Libnah, Lachish, Eglon, Hebron and Debir and the surrounding country, because the LORD God of Israel fought for Israel.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JOS 10:28-43"
+   ],
+   "evidence": [
+    "List some of the southern cities Joshua took",
+    "Say who fought for Israel (10:42)"
+   ],
+   "prompt": "Can {{name}} name some cities Joshua took in the south and say who gave the victory?"
+  },
+  {
+   "id": "jos_northern_campaign",
+   "type": "STORY",
+   "name": "The northern campaign and the whole land taken",
+   "description": "Jabin of Hazor gathers northern kings at the waters of Merom; the LORD delivers them to Israel, Hazor is burned, and the summary says Joshua took the land according to what the LORD told Moses and the land rested from war.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JOS 11"
+   ],
+   "evidence": [
+    "Say who gathered at Merom and what the LORD told Joshua",
+    "Explain what chapter 11 says about Gibeon being the only city to make peace (11:19)",
+    "Say how the chapter says Joshua obeyed Moses' commands (11:15)"
+   ],
+   "prompt": "Can {{name}} tell about the battle at Merom and the summary of Joshua's conquest?"
+  },
+  {
+   "id": "jos_defeated_kings",
+   "type": "THEME",
+   "name": "The list of defeated kings",
+   "description": "Joshua 12 lists the two kings Moses defeated east of the Jordan and thirty-one kings Joshua defeated to the west.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JOS 12"
+   ],
+   "evidence": [
+    "Name Sihon and Og as the kings on the east side (12:1-6)",
+    "Say how many kings are listed west of the Jordan (12:24)"
+   ],
+   "prompt": "Can {{name}} say what the list in Joshua 12 shows?"
+  },
+  {
+   "id": "jos_remaining_land",
+   "type": "THEME",
+   "name": "Land still to be possessed and the eastern tribes",
+   "description": "The LORD tells the aged Joshua that much land remains and orders it divided; the chapter recalls Moses' gifts east of the Jordan to Reuben, Gad and half of Manasseh, and that the Levites' inheritance was the LORD himself.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JOS 13"
+   ],
+   "evidence": [
+    "Say what the LORD told old Joshua (13:1, 13:6-7)",
+    "Name the tribes that received land from Moses east of the Jordan",
+    "Say what the Levites' inheritance was (13:14, 13:33)"
+   ],
+   "prompt": "Can {{name}} explain what Joshua 13 says remained and who already had land?"
+  },
+  {
+   "id": "jos_caleb",
+   "type": "STORY",
+   "name": "Caleb receives Hebron",
+   "description": "Caleb recalls Moses' oath at Kadesh and, at eighty-five, asks for the hill country of Hebron; Joshua blesses him, Caleb drives out the sons of Anak, and Othniel wins Debir and Achsah.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "JOS 14",
+    "JOS 15:13-19"
+   ],
+   "evidence": [
+    "Say why Caleb says he deserves Hebron (14:8-9)",
+    "Retell how Othniel won Achsah (15:16-17)"
+   ],
+   "prompt": "Can {{name}} tell why Caleb received Hebron?"
+  },
+  {
+   "id": "jos_judah_lot",
+   "type": "THEME",
+   "name": "Judah's inheritance",
+   "description": "The lot for Judah is described by its borders and cities, and the text notes that Judah could not drive out the Jebusites from Jerusalem.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JOS 15"
+   ],
+   "evidence": [
+    "Say what chapter 15 says about the Jebusites in Jerusalem (15:63)"
+   ],
+   "prompt": "Can {{name}} say what Joshua 15 describes and what Judah failed to do?"
+  },
+  {
+   "id": "jos_joseph_lot",
+   "type": "THEME",
+   "name": "Ephraim and Manasseh's inheritance",
+   "description": "The lots for Ephraim and Manasseh are described, the daughters of Zelophehad receive their inheritance, Canaanites in Gezer remain, and the house of Joseph complains of too little land and is told to clear the hill country.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JOS 16",
+    "JOS 17"
+   ],
+   "evidence": [
+    "Name the two tribes of the house of Joseph",
+    "Say what Zelophehad's daughters asked for (17:3-4)",
+    "Say what Joshua told the house of Joseph to do (17:14-18)"
+   ],
+   "prompt": "Can {{name}} explain what Ephraim and Manasseh received and what they were told to do?"
+  },
+  {
+   "id": "jos_shiloh_division",
+   "type": "STORY",
+   "name": "Shiloh and the seven remaining tribes",
+   "description": "Israel sets up the tabernacle at Shiloh; Joshua rebukes the seven tribes for delaying, sends men to describe the land in seven parts, and casts lots for Benjamin, Simeon, Zebulun, Issachar, Asher, Naphtali and Dan before receiving his own city.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JOS 18",
+    "JOS 19"
+   ],
+   "evidence": [
+    "Say what Joshua told the seven tribes (18:3)",
+    "List the remaining tribes who received lots",
+    "Say what city Joshua received (19:49-50)"
+   ],
+   "prompt": "Can {{name}} explain how the last seven tribes got their land?"
+  },
+  {
+   "id": "jos_refuge_cities",
+   "type": "THEME",
+   "name": "Cities of refuge",
+   "description": "The LORD tells Joshua to appoint cities of refuge where someone who killed unwittingly can flee from the avenger of blood; six cities are named, three on each side of the Jordan.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JOS 20"
+   ],
+   "evidence": [
+    "Say who could flee to a city of refuge and who could not be handed over to the avenger (20:3-5)",
+    "Name some of the six cities (20:7-8)"
+   ],
+   "prompt": "Can {{name}} explain what a city of refuge was for?"
+  },
+  {
+   "id": "jos_levite_cities",
+   "type": "THEME",
+   "name": "Cities for the Levites and the promises kept",
+   "description": "The Levites receive forty-eight cities from the tribes by lot, and the chapter ends by saying the LORD gave Israel all the land he swore to their fathers, gave them rest, and not one good word failed.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JOS 21"
+   ],
+   "evidence": [
+    "Say why the Levites got cities rather than a tribal territory (21:2)",
+    "Say what 21:43-45 says about the LORD's promises"
+   ],
+   "prompt": "Can {{name}} tell what Joshua 21:43-45 says about the LORD's promises?"
+  },
+  {
+   "id": "jos_eastern_altar",
+   "type": "STORY",
+   "name": "The altar of witness",
+   "description": "Joshua sends the eastern tribes home; they build a great altar by the Jordan, the western tribes prepare for war, and Phinehas and ten princes confront them, learning that the altar is a witness and not for sacrifice.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JOS 22"
+   ],
+   "evidence": [
+    "Say why the western tribes were alarmed (22:11-20)",
+    "Explain what the eastern tribes said the altar was for (22:24-29)",
+    "Say how the dispute ended and what the altar was named (22:30-34)"
+   ],
+   "prompt": "Can {{name}} tell the story of the altar by the Jordan and how Israel avoided war?"
+  },
+  {
+   "id": "jos_joshua_farewell",
+   "type": "STORY",
+   "name": "Joshua's farewell charge",
+   "description": "Old Joshua calls Israel to keep the law, cling to the LORD and avoid the remaining nations, warning that if they turn away and break the covenant, the LORD will bring evil on them.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JOS 23"
+   ],
+   "evidence": [
+    "Say what Joshua told Israel to cling to",
+    "Say what Joshua warned would happen if they served other gods (23:12-16)"
+   ],
+   "prompt": "Can {{name}} explain Joshua's warning in chapter 23?"
+  },
+  {
+   "id": "jos_shechem_covenant",
+   "type": "STORY",
+   "name": "Choose this day: the covenant at Shechem",
+   "description": "At Shechem Joshua recounts God's acts from Abraham to the conquest, urges Israel to choose whom to serve, makes a covenant with the people, and sets up a stone of witness before dying at 110.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "JOS 24"
+   ],
+   "evidence": [
+    "Say what Joshua and his house decided (24:15)",
+    "Retell the history Joshua recounted (24:2-13)",
+    "Say what Joshua did that day and where he was buried (24:25-30)"
+   ],
+   "prompt": "Can {{name}} tell what happened at Shechem and what Joshua said about choosing whom to serve?"
+  },
+  {
+   "id": "book_jdg",
+   "type": "BOOK_OVERVIEW",
+   "name": "Judges: overview",
+   "description": "Judges tells of Israel after Joshua's death, repeatedly falling into idolatry, being oppressed, crying out and being delivered by judges, and ends with the refrain that there was no king in Israel and everyone did what was right in his own eyes.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "JDG 1..21"
+   ],
+   "evidence": [
+    "Describe the repeating pattern in Judges 2:11-19",
+    "Name several judges and the enemies they faced",
+    "Say what 21:25 says about Israel at the end"
+   ],
+   "prompt": "Can {{name}} describe the cycle of sin, oppression, crying out and deliverance in Judges?"
+  },
+  {
+   "id": "jdg_incomplete_conquest",
+   "type": "STORY",
+   "name": "Judah's victories and tribes that failed to drive out the Canaanites",
+   "description": "After Joshua's death Judah and Simeon fight first, Othniel wins Achsah, and the chapter lists tribes that did not drive out the inhabitants; the angel of the LORD at Bochim says this disobedience will leave the nations as snares.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "JDG 1",
+    "JDG 2:1-5"
+   ],
+   "evidence": [
+    "Say who went up first against the Canaanites (1:1-2)",
+    "Name some tribes that did not drive out the inhabitants (1:27-33)",
+    "Say what the angel of the LORD said and how the people responded (2:1-5)"
+   ],
+   "prompt": "Can {{name}} tell what happened after Joshua died and why the angel spoke at Bochim?"
+  },
+  {
+   "id": "jdg_cycle",
+   "type": "THEME",
+   "name": "The cycle of the judges",
+   "description": "After Joshua's generation a new generation forgets the LORD and serves Baal; he gives them to enemies, raises up judges to deliver them, and leaves nations to test Israel, who also intermarry and serve their gods.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 2:6-23",
+    "JDG 3:1-6"
+   ],
+   "evidence": [
+    "Retell the pattern in 2:11-19",
+    "Say why the LORD left nations in the land (2:20-22, 3:1-4)"
+   ],
+   "prompt": "Can {{name}} explain the pattern that repeats through the book of Judges?"
+  },
+  {
+   "id": "jdg_othniel",
+   "type": "STORY",
+   "name": "Othniel delivers Israel",
+   "description": "Israel serves the king of Mesopotamia for eight years; when they cry out the LORD raises up Othniel, on whom the Spirit comes, and the land has rest forty years.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "JDG 3:7-11"
+   ],
+   "evidence": [
+    "Retell the first oppression and deliverance in Judges",
+    "Say what is said about the Spirit of the LORD and Othniel (3:10)"
+   ],
+   "prompt": "Can {{name}} tell how Othniel became Israel's first judge?"
+  },
+  {
+   "id": "jdg_ehud",
+   "type": "STORY",
+   "name": "Ehud and Shamgar",
+   "description": "Israel serves Eglon of Moab eighteen years; the left-handed Ehud kills Eglon with a hidden dagger, leads Israel to defeat Moab, and the land has rest eighty years; Shamgar also delivers Israel.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "JDG 3:12-31"
+   ],
+   "evidence": [
+    "Retell how Ehud killed Eglon",
+    "Say what Ehud did after escaping (3:27-30)",
+    "Say what Shamgar did (3:31)"
+   ],
+   "prompt": "Can {{name}} tell the story of Ehud and how Moab was subdued?"
+  },
+  {
+   "id": "jdg_deborah_barak",
+   "type": "STORY",
+   "name": "Deborah, Barak and Jael",
+   "description": "Under Jabin's oppression Deborah the prophetess calls Barak to fight Sisera; the LORD routs Sisera's chariots and Jael kills Sisera in her tent.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JDG 4"
+   ],
+   "evidence": [
+    "Retell why Deborah summoned Barak (4:6-7)",
+    "Say how the LORD gave victory (4:14-16)",
+    "Say what Jael did (4:17-22)"
+   ],
+   "prompt": "Can {{name}} tell how God gave victory over Sisera through Deborah, Barak and Jael?"
+  },
+  {
+   "id": "jdg_song_deborah",
+   "type": "STORY",
+   "name": "The song of Deborah and Barak",
+   "description": "Deborah and Barak sing praise to the LORD for the victory, honour the tribes that came and rebuke those that stayed away, bless Jael, and picture Sisera's mother waiting in vain.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 5"
+   ],
+   "evidence": [
+    "Say who sings the song and whom it praises (5:1-3)",
+    "Name tribes praised or blamed (5:14-18, 5:23)",
+    "Say how long the land had rest (5:31)"
+   ],
+   "prompt": "Can {{name}} say what the song of Deborah celebrates?"
+  },
+  {
+   "id": "jdg_gideon_call",
+   "type": "STORY",
+   "name": "The LORD calls Gideon",
+   "description": "Midian oppresses Israel seven years and Israel cries out; the angel of the LORD calls Gideon, who tears down his father's altar of Baal by night, and then asks for a fleece sign.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JDG 6"
+   ],
+   "evidence": [
+    "Retell how the angel of the LORD found Gideon",
+    "Say what Gideon did to the altar of Baal (6:25-32)",
+    "Describe the fleece sign (6:36-40)"
+   ],
+   "prompt": "Can {{name}} tell how God called Gideon and what signs he asked for?"
+  },
+  {
+   "id": "jdg_gideon_300",
+   "type": "STORY",
+   "name": "Gideon's three hundred",
+   "description": "The LORD reduces Gideon's army to three hundred; after hearing a Midianite dream, Gideon surrounds the camp with trumpets, pitchers and lamps and the LORD sets the Midianites against each other.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "JDG 7"
+   ],
+   "evidence": [
+    "Say why the LORD reduced the army (7:2)",
+    "Describe how the three hundred attacked (7:16-22)"
+   ],
+   "prompt": "Can {{name}} tell how Gideon defeated Midian with three hundred men?"
+  },
+  {
+   "id": "jdg_gideon_aftermath",
+   "type": "STORY",
+   "name": "Gideon pursues Midian and refuses to rule",
+   "description": "Gideon calms Ephraim, punishes Succoth and Penuel for refusing him bread, kills the kings Zebah and Zalmunna, declines Israel's offer to rule, but makes an ephod that becomes a snare; after his death Israel turns again to Baal.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JDG 8"
+   ],
+   "evidence": [
+    "Say how Gideon answered the offer to rule (8:22-23)",
+    "Say what became a snare (8:27)",
+    "Say what Israel did after Gideon died (8:33-35)"
+   ],
+   "prompt": "Can {{name}} explain what Gideon did after the victory and what happened when he died?"
+  },
+  {
+   "id": "jdg_abimelech_rise",
+   "type": "STORY",
+   "name": "Abimelech kills his brothers; Jotham's fable",
+   "description": "Abimelech persuades Shechem to make him king and kills Gideon's seventy sons except Jotham, who tells a fable of the trees and the bramble and pronounces a curse.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 9:1-21"
+   ],
+   "evidence": [
+    "Say how Abimelech became king (9:1-6)",
+    "Retell Jotham's fable and the curse (9:7-21)"
+   ],
+   "prompt": "Can {{name}} tell what Abimelech did and what Jotham said from Mount Gerizim?"
+  },
+  {
+   "id": "jdg_abimelech_fall",
+   "type": "STORY",
+   "name": "The fall of Abimelech",
+   "description": "God sends an evil spirit between Abimelech and Shechem; Abimelech destroys Shechem and its tower, and at Thebez a woman drops a millstone on his head; the text says God repaid his wickedness and Jotham's curse came.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 9:22-57"
+   ],
+   "evidence": [
+    "Say what happened between Abimelech and Shechem",
+    "Describe how Abimelech died (9:50-54)",
+    "Say how the text explains these events (9:56-57)"
+   ],
+   "prompt": "Can {{name}} explain how Jotham's curse came true for Abimelech and Shechem?"
+  },
+  {
+   "id": "jdg_minor_judges",
+   "type": "THEME",
+   "name": "Tola, Jair, Ibzan, Elon and Abdon",
+   "description": "Short notices list judges who ruled after Abimelech and Jephthah, with their tribes, years and burial places.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 10:1-5",
+    "JDG 12:8-15"
+   ],
+   "evidence": [
+    "Name two or more of these judges and say how long they judged"
+   ],
+   "prompt": "Can {{name}} name some of the judges mentioned briefly in Judges?"
+  },
+  {
+   "id": "jdg_ammon_cry",
+   "type": "STORY",
+   "name": "Israel cries to the LORD under the Philistines and Ammon",
+   "description": "Israel again serves other gods and is oppressed by the Philistines and Ammon; the LORD tells them to cry to their chosen gods, but when they confess and put away the foreign gods, his soul is grieved for their misery.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JDG 10:6-18"
+   ],
+   "evidence": [
+    "Say what the LORD answered first (10:11-14)",
+    "Say what Israel did next (10:15-16)"
+   ],
+   "prompt": "Can {{name}} explain how Israel responded when the LORD refused at first to deliver them?"
+  },
+  {
+   "id": "jdg_jephthah_rise",
+   "type": "STORY",
+   "name": "Jephthah is made head of Gilead",
+   "description": "Jephthah, driven out by his half-brothers, is asked back by the elders of Gilead to fight Ammon; he first sends messengers recounting how Israel came to the land.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JDG 11:1-28"
+   ],
+   "evidence": [
+    "Say why Jephthah was expelled and why he was recalled (11:1-8)",
+    "Summarise his message to the king of Ammon (11:12-27)"
+   ],
+   "prompt": "Can {{name}} tell how Jephthah became leader of Gilead?"
+  },
+  {
+   "id": "jdg_jephthah_vow",
+   "type": "STORY",
+   "name": "Jephthah's vow",
+   "description": "The Spirit of the LORD comes on Jephthah, who vows to offer whatever first comes from his house if the LORD gives victory; the LORD delivers Ammon, and his only daughter comes out to meet him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JDG 11:29-40"
+   ],
+   "evidence": [
+    "Say what Jephthah vowed (11:30-31)",
+    "Say who met him and how she answered (11:34-36)"
+   ],
+   "prompt": "Can {{name}} explain what Jephthah vowed and what followed?"
+  },
+  {
+   "id": "jdg_shibboleth",
+   "type": "STORY",
+   "name": "Jephthah and Ephraim",
+   "description": "The men of Ephraim complain that Jephthah did not call them; Gilead fights them and uses the word Shibboleth at the Jordan fords; Jephthah judges six years.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 12:1-7"
+   ],
+   "evidence": [
+    "Say why Ephraim was angry (12:1)",
+    "Say how the Gileadites identified Ephraimites (12:5-6)"
+   ],
+   "prompt": "Can {{name}} tell what the word Shibboleth was used for?"
+  },
+  {
+   "id": "jdg_samson_birth",
+   "type": "STORY",
+   "name": "The birth of Samson",
+   "description": "The angel of the LORD tells Manoah's barren wife that she will bear a son who will be a Nazarite and begin to deliver Israel from the Philistines; Manoah offers a burnt offering and Samson is born.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "JDG 13"
+   ],
+   "evidence": [
+    "Say what the son was to avoid (13:4-5, 13:7)",
+    "Say what Manoah and his wife saw at the offering (13:19-21)"
+   ],
+   "prompt": "Can {{name}} tell what the angel of the LORD promised Manoah's wife?"
+  },
+  {
+   "id": "jdg_samson_philistine_wife",
+   "type": "STORY",
+   "name": "Samson's wedding riddle",
+   "description": "Samson wants a Philistine wife, kills a lion by the Spirit, and poses a riddle at his feast; his wife tells the answer, and he kills thirty men at Ashkelon and leaves; she is given to his companion.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 14"
+   ],
+   "evidence": [
+    "Retell the riddle and how it was answered",
+    "Note that 14:4 says this was of the LORD, seeking occasion against the Philistines"
+   ],
+   "prompt": "Can {{name}} tell the story of Samson's riddle?"
+  },
+  {
+   "id": "jdg_samson_vengeance",
+   "type": "STORY",
+   "name": "Samson burns the fields and fights at Lehi",
+   "description": "Samson burns the Philistines' grain with foxes carrying firebrands after his wife is given away; Judah binds him and hands him over, but the Spirit comes on him and he kills a thousand with a jawbone; God provides water.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 15"
+   ],
+   "evidence": [
+    "Say why Samson burned the Philistine fields",
+    "Say what Judah did and what Samson did at Lehi (15:9-17)",
+    "Say how Samson's thirst was met (15:18-19)"
+   ],
+   "prompt": "Can {{name}} tell what happened between Samson, the Philistines and Judah?"
+  },
+  {
+   "id": "jdg_samson_delilah",
+   "type": "STORY",
+   "name": "Samson and Delilah",
+   "description": "Samson carries off the gates of Gaza, then loves Delilah, who is bribed by the Philistine lords; after three false answers he reveals his Nazarite hair, it is cut, the LORD departs from him, and he is blinded and imprisoned.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 16:1-22"
+   ],
+   "evidence": [
+    "Say what Delilah asked and how Samson answered",
+    "Say what Samson told Delilah about his hair (16:17)",
+    "Say what happened when his hair was cut (16:19-21)"
+   ],
+   "prompt": "Can {{name}} tell how Samson lost his strength?"
+  },
+  {
+   "id": "jdg_samson_death",
+   "type": "STORY",
+   "name": "The death of Samson",
+   "description": "At the Philistines' feast to Dagon, the blind Samson prays to the LORD and pulls down the pillars, killing more in his death than in his life.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 16:23-31"
+   ],
+   "evidence": [
+    "Say why the Philistines gathered (16:23-25)",
+    "Say what Samson prayed and did (16:28-30)"
+   ],
+   "prompt": "Can {{name}} tell how Samson died?"
+  },
+  {
+   "id": "jdg_micah_idols",
+   "type": "STORY",
+   "name": "Micah's idols and his Levite priest",
+   "description": "Micah of Ephraim returns stolen silver to his mother, makes images and an ephod, and hires a Levite from Bethlehem as his priest; the text notes there was no king and everyone did what was right in his own eyes.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 17"
+   ],
+   "evidence": [
+    "Say what Micah made and whom he hired as priest",
+    "Say what 17:6 says about Israel then"
+   ],
+   "prompt": "Can {{name}} explain what was wrong in Micah's house?"
+  },
+  {
+   "id": "jdg_dan_migration",
+   "type": "STORY",
+   "name": "The Danites take Micah's priest and settle Laish",
+   "description": "The tribe of Dan sends spies who meet Micah's Levite; six hundred armed Danites take Micah's images and priest, capture the peaceful city of Laish and rename it Dan.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JDG 18"
+   ],
+   "evidence": [
+    "Say what the Danites took from Micah",
+    "Say what they did to Laish (18:27-29)"
+   ],
+   "prompt": "Can {{name}} tell how the Danites came to live in the city of Dan?"
+  },
+  {
+   "id": "jdg_levite_concubine",
+   "type": "STORY",
+   "name": "The Levite and his concubine at Gibeah",
+   "description": "A Levite and his concubine lodge at Gibeah of Benjamin; men of the city assault the house, she is abused through the night and found dead at the door, and he sends her divided body through Israel; the text says no such deed had been seen since Egypt.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "JDG 19"
+   ],
+   "evidence": [
+    "Say where the events took place",
+    "Say how Israel reacted to the sign sent to all the tribes (19:29-30)"
+   ],
+   "prompt": "Can {{name}} explain what happened at Gibeah and what the Levite did?"
+  },
+  {
+   "id": "jdg_benjamin_war",
+   "type": "STORY",
+   "name": "Israel's war against Benjamin",
+   "description": "Israel assembles at Mizpeh and demands the guilty men of Gibeah; Benjamin refuses and defeats Israel twice, but after Israel inquires of the LORD and uses an ambush, Benjamin is nearly destroyed.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JDG 20"
+   ],
+   "evidence": [
+    "Say why Israel went to war with Benjamin",
+    "Say what happened in the first two battles and the third (20:21-25, 20:35)",
+    "Say how many Benjamite men escaped (20:47)"
+   ],
+   "prompt": "Can {{name}} tell how the war between Israel and Benjamin went?"
+  },
+  {
+   "id": "jdg_benjamin_wives",
+   "type": "STORY",
+   "name": "Wives for Benjamin",
+   "description": "Israel grieves that a tribe is missing; having sworn not to give their daughters to Benjamin, they take wives from Jabesh-gilead and from the daughters of Shiloh; the book ends noting there was no king in Israel.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JDG 21"
+   ],
+   "evidence": [
+    "Say what oath Israel had sworn (21:1)",
+    "Say how the remaining Benjamites got wives (21:10-23)",
+    "Say how the book ends (21:25)"
+   ],
+   "prompt": "Can {{name}} explain how Israel dealt with the tribe of Benjamin after the war?"
+  },
+  {
+   "id": "book_rut",
+   "type": "BOOK_OVERVIEW",
+   "name": "Ruth: overview",
+   "description": "Ruth, set in the days when the judges ruled, follows Naomi and her Moabite daughter-in-law Ruth from loss in Moab to marriage with Boaz in Bethlehem and the birth of Obed, the grandfather of David.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "RUT 1..4"
+   ],
+   "evidence": [
+    "Say where the story is set and when",
+    "Say how the book ends with David's line (4:17-22)"
+   ],
+   "prompt": "Can {{name}} summarise the book of Ruth from Moab to the birth of Obed?"
+  },
+  {
+   "id": "rut_moab_return",
+   "type": "STORY",
+   "name": "Naomi and Ruth return from Moab",
+   "description": "A famine drives Elimelech's family to Moab, where he and his sons die; Naomi returns to Bethlehem, and Ruth refuses to leave her, pledging that Naomi's people and God will be hers.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "RUT 1"
+   ],
+   "evidence": [
+    "Retell why Naomi's family went to Moab and what happened to them",
+    "Say what Ruth promised Naomi (1:16-17)",
+    "Say what Naomi asked to be called and why (1:20-21)"
+   ],
+   "prompt": "Can {{name}} tell what Ruth said to Naomi and why Naomi returned to Bethlehem?"
+  },
+  {
+   "id": "rut_gleaning",
+   "type": "STORY",
+   "name": "Ruth gleans in Boaz's field",
+   "description": "Ruth gleans barley and lands in the field of Boaz, a kinsman of Elimelech, who shows her kindness and protection and tells her to stay with his young women; Naomi calls him one of their near kinsmen.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "RUT 2"
+   ],
+   "evidence": [
+    "Say how Boaz treated Ruth (2:8-16)",
+    "Say what Boaz said about the LORD's reward for Ruth (2:12)",
+    "Say what Naomi said about Boaz (2:20)"
+   ],
+   "prompt": "Can {{name}} tell how Boaz showed kindness to Ruth?"
+  },
+  {
+   "id": "rut_threshing_floor",
+   "type": "STORY",
+   "name": "Ruth at the threshing floor",
+   "description": "At Naomi's direction Ruth goes to Boaz at the threshing floor and asks him as a near kinsman to spread his skirt over her; he praises her character, says there is a nearer kinsman, and promises to act.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "RUT 3"
+   ],
+   "evidence": [
+    "Say what Naomi told Ruth to do",
+    "Say what Boaz said about the nearer kinsman (3:12-13)"
+   ],
+   "prompt": "Can {{name}} explain what Ruth asked of Boaz and how he answered?"
+  },
+  {
+   "id": "rut_redemption",
+   "type": "STORY",
+   "name": "Boaz redeems and marries Ruth",
+   "description": "At the gate Boaz offers the nearer kinsman the right to redeem Elimelech's land and take Ruth; he declines, Boaz buys it and takes Ruth as his wife, and their son Obed is born, in the line leading to David.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "RUT 4"
+   ],
+   "evidence": [
+    "Describe what happened at the gate",
+    "Say what the people and women said (4:11-15)",
+    "Trace the line from Pharez to David (4:18-22)"
+   ],
+   "prompt": "Can {{name}} explain how Boaz redeemed Ruth and how the book links her to David?"
+  },
+  {
+   "id": "book_1sa",
+   "type": "BOOK_OVERVIEW",
+   "name": "1 Samuel: overview",
+   "description": "1 Samuel runs from the birth of Samuel to Saul's death on Mount Gilboa: Samuel as prophet and judge, Israel's request for a king, Saul's reign and rejection, and David's rise and flight from Saul.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1SA 1..31"
+   ],
+   "evidence": [
+    "Name the three main figures: Samuel, Saul and David",
+    "Say how the book begins and ends (1:1-20, 31:1-13)"
+   ],
+   "prompt": "Can {{name}} outline 1 Samuel from Hannah's prayer to the death of Saul?"
+  },
+  {
+   "id": "1sa_hannah_prayer",
+   "type": "STORY",
+   "name": "Hannah prays for a son",
+   "description": "Childless Hannah prays at Shiloh and vows to give a son to the LORD; Eli blesses her, Samuel is born, and after he is weaned she brings him to serve the LORD at Shiloh.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "1SA 1"
+   ],
+   "evidence": [
+    "Retell what Hannah asked and vowed (1:10-11)",
+    "Say what Hannah did when Samuel was weaned (1:24-28)"
+   ],
+   "prompt": "Can {{name}} tell how Hannah prayed for a child and what she did when God gave Samuel?"
+  },
+  {
+   "id": "1sa_hannah_song",
+   "type": "STORY",
+   "name": "Hannah's song",
+   "description": "Hannah praises the LORD as holy and a rock, who kills and makes alive, brings low and lifts up, raises the poor and breaks his adversaries, and gives strength to his king.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "1SA 2:1-11"
+   ],
+   "evidence": [
+    "Say what Hannah says about the LORD (2:2)",
+    "Name some reversals she describes (2:4-8)",
+    "Say what she says about the LORD's king and anointed (2:10)"
+   ],
+   "prompt": "Can {{name}} say what Hannah's song teaches about the LORD?"
+  },
+  {
+   "id": "1sa_eli_sons",
+   "type": "STORY",
+   "name": "Eli's wicked sons and the word against his house",
+   "description": "Hophni and Phinehas abuse the sacrifices and the women at the tabernacle while Samuel grows in favour; a man of God tells Eli that the LORD will cut off his house, and that both sons will die in one day.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 2:12-36"
+   ],
+   "evidence": [
+    "Say what Eli's sons did wrong (2:12-17, 2:22)",
+    "Say what sign was given to Eli (2:34)",
+    "Say what the LORD promises about a faithful priest (2:35)"
+   ],
+   "prompt": "Can {{name}} explain why God judged Eli's house?"
+  },
+  {
+   "id": "1sa_samuel_called",
+   "type": "STORY",
+   "name": "The LORD calls Samuel",
+   "description": "The LORD calls the boy Samuel three times before Eli tells him how to answer; the LORD tells him he will judge Eli's house, Samuel tells Eli everything, and all Israel knows he is a prophet.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "1SA 3"
+   ],
+   "evidence": [
+    "Retell how Samuel heard the LORD",
+    "Say what Samuel said when he finally answered (3:10)",
+    "Say what the LORD told Samuel and how Eli responded (3:11-18)"
+   ],
+   "prompt": "Can {{name}} tell how God called Samuel in the night?"
+  },
+  {
+   "id": "1sa_ark_captured",
+   "type": "STORY",
+   "name": "The ark is captured and Eli dies",
+   "description": "Israel is defeated by the Philistines, brings the ark of the covenant from Shiloh to the camp, loses it as Hophni and Phinehas are killed, and Eli dies on hearing the news; Phinehas' wife names her son Ichabod.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "1SA 4"
+   ],
+   "evidence": [
+    "Say why Israel fetched the ark and what happened (4:3-11)",
+    "Say what happened to Eli and his sons (4:11-18)",
+    "Say what Ichabod means in the text (4:21-22)"
+   ],
+   "prompt": "Can {{name}} tell how the ark was lost and what happened to Eli?"
+  },
+  {
+   "id": "1sa_ark_philistines",
+   "type": "STORY",
+   "name": "The ark in Philistine cities",
+   "description": "The Philistines set the ark beside Dagon in Ashdod, where Dagon falls before it; the LORD's hand strikes Ashdod, Gath and Ekron, and they want the ark sent away.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "1SA 5"
+   ],
+   "evidence": [
+    "Say what happened to Dagon (5:3-4)",
+    "Say what happened to the people of the cities that held the ark (5:6-12)"
+   ],
+   "prompt": "Can {{name}} tell what happened when the Philistines kept the ark?"
+  },
+  {
+   "id": "1sa_ark_returned",
+   "type": "STORY",
+   "name": "The ark comes back to Israel",
+   "description": "The Philistines send the ark home on a cart pulled by two cows with a trespass offering; the cows go straight to Beth-shemesh, where seventy men are struck for looking into the ark, and the ark is taken to Kirjath-jearim.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "1SA 6"
+   ],
+   "evidence": [
+    "Say what the Philistines sent with the ark (6:4-8)",
+    "Say what the cows did (6:12)",
+    "Say what happened at Beth-shemesh (6:19-21)"
+   ],
+   "prompt": "Can {{name}} tell how the ark went back to Israel?"
+  },
+  {
+   "id": "1sa_ebenezer",
+   "type": "STORY",
+   "name": "Samuel at Mizpeh and Ebenezer",
+   "description": "After twenty years, Samuel calls Israel to put away foreign gods; at Mizpeh they fast and confess, the LORD thunders on the Philistines, and Samuel sets up the stone Ebenezer, saying the LORD has helped them so far.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "1SA 7"
+   ],
+   "evidence": [
+    "Say what Samuel told Israel to do (7:3)",
+    "Explain what Ebenezer means (7:12)",
+    "Say how Samuel judged Israel (7:15-17)"
+   ],
+   "prompt": "Can {{name}} tell what happened at Mizpeh and why Samuel set up the stone Ebenezer?"
+  },
+  {
+   "id": "1sa_israel_asks_king",
+   "type": "STORY",
+   "name": "Israel asks for a king",
+   "description": "Samuel's sons take bribes, and the elders ask for a king like the nations; the LORD tells Samuel that they have rejected him, and Samuel warns what a king will take, but the people insist.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "1SA 8"
+   ],
+   "evidence": [
+    "Say why the elders asked for a king (8:4-5, 8:19-20)",
+    "Say what the LORD said the request meant (8:7-8)",
+    "List things Samuel said a king would take (8:11-17)"
+   ],
+   "prompt": "Can {{name}} explain why Israel asked for a king and what the LORD said about it?"
+  },
+  {
+   "id": "1sa_saul_found",
+   "type": "STORY",
+   "name": "Saul seeks his father's donkeys and meets Samuel",
+   "description": "Saul searches for lost donkeys, goes with his servant to the seer Samuel, whom the LORD had told the day before that he would send a man to be captain over Israel; Samuel hosts him at a meal.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "1SA 9"
+   ],
+   "evidence": [
+    "Say what Saul went to find",
+    "Say what the LORD told Samuel about Saul (9:15-17)"
+   ],
+   "prompt": "Can {{name}} tell how Saul came to meet Samuel?"
+  },
+  {
+   "id": "1sa_saul_anointed",
+   "type": "STORY",
+   "name": "Samuel anoints Saul",
+   "description": "Samuel pours oil on Saul as captain over the LORD's inheritance, gives him three signs, and God gives him another heart; Saul prophesies among the prophets but tells his uncle nothing of the kingdom.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "1SA 10:1-16"
+   ],
+   "evidence": [
+    "Say what Samuel did to Saul (10:1)",
+    "Name the signs that came to pass (10:2-10)",
+    "Say the proverb that arose (10:11-12)"
+   ],
+   "prompt": "Can {{name}} tell how Samuel anointed Saul?"
+  },
+  {
+   "id": "1sa_saul_chosen",
+   "type": "STORY",
+   "name": "Saul chosen king at Mizpeh",
+   "description": "Samuel gathers Israel at Mizpeh, reminds them they rejected God by asking for a king, and Saul is chosen by lot, found hiding among the baggage, and acclaimed; some worthless men despise him.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "1SA 10:17-27"
+   ],
+   "evidence": [
+    "Say how Saul was chosen (10:20-21)",
+    "Say where Saul was found and what the people shouted (10:22-24)"
+   ],
+   "prompt": "Can {{name}} tell how Saul was chosen as king in front of all the people?"
+  },
+  {
+   "id": "1sa_jabesh_gilead",
+   "type": "STORY",
+   "name": "Saul rescues Jabesh-gilead",
+   "description": "Nahash the Ammonite threatens Jabesh-gilead; the Spirit of God comes on Saul, who summons Israel, defeats the Ammonites, spares those who had despised him, and is confirmed as king at Gilgal.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "1SA 11"
+   ],
+   "evidence": [
+    "Say what Nahash demanded (11:2)",
+    "Say how Saul answered the call to spare his opponents (11:12-13)",
+    "Say who gets the credit Saul gives (11:13)"
+   ],
+   "prompt": "Can {{name}} tell how Saul saved Jabesh-gilead and what he said afterward?"
+  },
+  {
+   "id": "1sa_samuel_farewell",
+   "type": "STORY",
+   "name": "Samuel's farewell and warning",
+   "description": "Samuel asks Israel to witness his honesty, recounts the LORD's righteous acts, says their request for a king was wrong, sends thunder and rain, and tells them to fear the LORD, promising not to stop praying for them.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 12"
+   ],
+   "evidence": [
+    "Say what Samuel asked the people to testify (12:3-5)",
+    "Say what sign confirmed his words (12:16-18)",
+    "Say what Samuel promised and what he told them to do (12:20-25)"
+   ],
+   "prompt": "Can {{name}} explain Samuel's farewell speech and the warning at its end?"
+  },
+  {
+   "id": "1sa_saul_offering",
+   "type": "STORY",
+   "name": "Saul's unlawful offering at Gilgal",
+   "description": "Facing the Philistines, Saul waits seven days for Samuel, then offers the burnt offering himself; Samuel says he acted foolishly and his kingdom will not continue, because the LORD has sought a man after his own heart.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 13"
+   ],
+   "evidence": [
+    "Say what Saul did and why (13:8-12)",
+    "Say what Samuel said would happen (13:13-14)"
+   ],
+   "prompt": "Can {{name}} explain what Saul did wrong at Gilgal?"
+  },
+  {
+   "id": "1sa_jonathan_victory",
+   "type": "STORY",
+   "name": "Jonathan's victory and Saul's rash oath",
+   "description": "Jonathan and his armour-bearer attack a Philistine garrison, saying the LORD may work for them, and the Philistines panic; Saul's oath forbidding food nearly costs Jonathan his life until the people rescue him.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 14"
+   ],
+   "evidence": [
+    "Say what Jonathan said about the LORD saving by many or by few (14:6)",
+    "Explain Saul's oath and what Jonathan did (14:24-27)",
+    "Say how Jonathan was spared (14:43-45)"
+   ],
+   "prompt": "Can {{name}} tell what Jonathan did and what Saul's oath caused?"
+  },
+  {
+   "id": "1sa_saul_rejected",
+   "type": "STORY",
+   "name": "Saul rejected for sparing Amalek",
+   "description": "Samuel tells Saul to destroy Amalek; Saul spares King Agag and the best livestock, Samuel says obedience is better than sacrifice and that the LORD has rejected Saul as king, and the LORD repents of making Saul king.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 15"
+   ],
+   "evidence": [
+    "Say what the LORD commanded and what Saul did instead (15:3, 15:9)",
+    "Say what Samuel said about obedience and sacrifice (15:22-23)",
+    "Say what Samuel did to Agag (15:32-33)"
+   ],
+   "prompt": "Can {{name}} explain why the LORD rejected Saul as king?"
+  },
+  {
+   "id": "1sa_david_anointed",
+   "type": "STORY",
+   "name": "Samuel anoints David",
+   "description": "The LORD sends Samuel to Jesse of Bethlehem to anoint a new king; passing over the older sons because the LORD looks on the heart, Samuel anoints the youngest, David, and the Spirit comes on him while the Spirit leaves Saul.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "1SA 16:1-13"
+   ],
+   "evidence": [
+    "Say whom Samuel was sent to and why (16:1-3)",
+    "Say what the LORD said about outward appearance and the heart (16:7)",
+    "Say who was anointed and what followed (16:12-13)"
+   ],
+   "prompt": "Can {{name}} tell how David was chosen and anointed?"
+  },
+  {
+   "id": "1sa_david_harp",
+   "type": "STORY",
+   "name": "David plays for Saul",
+   "description": "An evil spirit from the LORD troubles Saul after the Spirit departs from him, and his servants bring David, who plays the harp, to ease him; Saul loves David and makes him his armour-bearer.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "1SA 16:14-23"
+   ],
+   "evidence": [
+    "Say why David was brought to Saul",
+    "Say what happened when David played (16:23)"
+   ],
+   "prompt": "Can {{name}} tell why David came to serve Saul?"
+  },
+  {
+   "id": "1sa_david_goliath",
+   "type": "STORY",
+   "name": "David and Goliath",
+   "description": "Goliath of Gath defies Israel for forty days; David, sent with food for his brothers, volunteers, refuses Saul's armour, and in the name of the LORD of hosts kills Goliath with a sling and stone, saying the battle is the LORD's.",
+   "covenant": null,
+   "ages": [
+    4,
+    12
+   ],
+   "passages": [
+    "1SA 17"
+   ],
+   "evidence": [
+    "Retell how David came to fight Goliath",
+    "Say what David told Goliath about the LORD (17:45-47)",
+    "Say how David killed Goliath (17:48-51)"
+   ],
+   "prompt": "Can {{name}} tell the story of David and Goliath and who David trusted?"
+  },
+  {
+   "id": "1sa_david_jonathan_saul",
+   "type": "STORY",
+   "name": "Jonathan's covenant and Saul's jealousy",
+   "description": "After Goliath, Jonathan loves David and makes a covenant with him; the women's song makes Saul jealous, and he hurls a javelin at David and sets him dangerous tasks, but sees that the LORD is with David.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "1SA 18"
+   ],
+   "evidence": [
+    "Say what Jonathan gave David (18:3-4)",
+    "Say what the women sang and how Saul reacted (18:6-9)",
+    "Say why Saul was afraid of David (18:12, 18:28-29)"
+   ],
+   "prompt": "Can {{name}} explain why Saul grew jealous of David?"
+  },
+  {
+   "id": "1sa_saul_seeks_david",
+   "type": "STORY",
+   "name": "Saul tries to kill David",
+   "description": "Saul orders David killed; Jonathan pleads for him and Saul swears an oath, but then throws his javelin again, Michal helps David escape through a window, and Saul himself prophesies when he follows David to Samuel at Ramah.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "1SA 19"
+   ],
+   "evidence": [
+    "Say how Jonathan and Michal each helped David",
+    "Say what happened to Saul's messengers and to Saul at Naioth (19:20-24)"
+   ],
+   "prompt": "Can {{name}} tell how David escaped from Saul?"
+  },
+  {
+   "id": "1sa_jonathan_david_arrows",
+   "type": "STORY",
+   "name": "Jonathan warns David with arrows",
+   "description": "David asks Jonathan to find out Saul's intent; Saul's anger at the new moon feast confirms he wants David dead, and Jonathan signals this with arrows, before the friends part in tears after renewing their oath.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "1SA 20"
+   ],
+   "evidence": [
+    "Say how Jonathan and David planned to learn Saul's mind (20:5-23)",
+    "Say what Saul did to Jonathan at the feast (20:30-34)",
+    "Say what the two friends swore at parting (20:42)"
+   ],
+   "prompt": "Can {{name}} tell how Jonathan warned David with the arrows?"
+  },
+  {
+   "id": "1sa_david_nob_gath",
+   "type": "STORY",
+   "name": "David at Nob and Gath",
+   "description": "David gets the holy bread and Goliath's sword from Ahimelech the priest at Nob, where Doeg the Edomite sees him, then flees to Achish king of Gath and pretends to be mad.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "1SA 21"
+   ],
+   "evidence": [
+    "Say what David received at Nob (21:6, 21:9)",
+    "Say who saw David there (21:7)",
+    "Say how David escaped from Gath (21:13-15)"
+   ],
+   "prompt": "Can {{name}} tell what David did at Nob and at Gath?"
+  },
+  {
+   "id": "1sa_nob_priests",
+   "type": "STORY",
+   "name": "Doeg kills the priests of Nob",
+   "description": "David gathers distressed men at the cave of Adullam; Saul, told by Doeg that Ahimelech helped David, has Doeg kill the priests of Nob, and Abiathar escapes to David.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1SA 22"
+   ],
+   "evidence": [
+    "Say who joined David at Adullam (22:1-2)",
+    "Say what Doeg did and who escaped (22:18-20)"
+   ],
+   "prompt": "Can {{name}} explain what happened to the priests at Nob?"
+  },
+  {
+   "id": "1sa_keilah_wilderness",
+   "type": "STORY",
+   "name": "David saves Keilah and is hunted in the wilderness",
+   "description": "David asks the LORD before rescuing Keilah and again about Saul, leaves before Saul arrives, and is pursued in the wilderness of Ziph and Maon until a Philistine raid recalls Saul; Jonathan strengthens David and they make a covenant.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 23"
+   ],
+   "evidence": [
+    "Say how David sought guidance from the LORD (23:2, 23:9-12)",
+    "Say what Jonathan told David (23:16-18)",
+    "Say how David escaped at Maon (23:26-28)"
+   ],
+   "prompt": "Can {{name}} tell how David escaped Saul in the wilderness and what he asked of the LORD?"
+  },
+  {
+   "id": "1sa_david_spares_saul",
+   "type": "STORY",
+   "name": "David spares Saul in the cave",
+   "description": "Saul enters the cave at Engedi where David and his men are hiding; David cuts off a corner of Saul's robe but refuses to harm the LORD's anointed, and Saul weeps and acknowledges David will be king.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "1SA 24"
+   ],
+   "evidence": [
+    "Say what David did and did not do in the cave (24:4-7)",
+    "Say what David told Saul afterward (24:9-15)",
+    "Say what Saul admitted (24:17-20)"
+   ],
+   "prompt": "Can {{name}} explain why David would not harm Saul?"
+  },
+  {
+   "id": "1sa_nabal_abigail",
+   "type": "STORY",
+   "name": "Nabal, Abigail and David",
+   "description": "Nabal insults David's men who had protected his flocks; David sets out to kill his household, but Abigail brings food and speaks to him, David is restrained from bloodshed, the LORD strikes Nabal dead, and Abigail becomes David's wife.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 25"
+   ],
+   "evidence": [
+    "Say how Nabal treated David's men (25:10-11)",
+    "Say what Abigail did and what David said to her (25:18-33)",
+    "Say what happened to Nabal (25:36-38)"
+   ],
+   "prompt": "Can {{name}} tell how Abigail kept David from shedding blood?"
+  },
+  {
+   "id": "1sa_david_spares_saul_again",
+   "type": "STORY",
+   "name": "David spares Saul a second time",
+   "description": "At Hachilah David and Abishai enter Saul's sleeping camp; David refuses Abishai's offer to kill Saul, takes his spear and water jar, and calls from a distance, and Saul admits he has sinned.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "1SA 26"
+   ],
+   "evidence": [
+    "Say what David and Abishai found in Saul's camp (26:7)",
+    "Say why David would not let Abishai strike (26:9-11)",
+    "Say what David took and what Saul said (26:12, 26:21)"
+   ],
+   "prompt": "Can {{name}} tell what happened when David found Saul sleeping at Hachilah?"
+  },
+  {
+   "id": "1sa_david_ziklag",
+   "type": "STORY",
+   "name": "David among the Philistines at Ziklag",
+   "description": "Fearing Saul, David goes with his six hundred men to Achish of Gath, is given Ziklag, and raids peoples in the south while making Achish think he is raiding Judah.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1SA 27"
+   ],
+   "evidence": [
+    "Say why David went to Gath (27:1)",
+    "Say what Achish gave David and what David told Achish about his raids (27:6-12)"
+   ],
+   "prompt": "Can {{name}} explain why David went to live among the Philistines?"
+  },
+  {
+   "id": "1sa_saul_endor",
+   "type": "STORY",
+   "name": "Saul and the medium at Endor",
+   "description": "With the Philistines camped against him, Saul gets no answer from the LORD and consults a medium at Endor, despite having banned them; the figure of Samuel tells him that the LORD has become his enemy and that he and his sons will die the next day.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1SA 28"
+   ],
+   "evidence": [
+    "Say why Saul went to the woman at Endor (28:5-7)",
+    "Say what Samuel told Saul (28:16-19)"
+   ],
+   "prompt": "Can {{name}} explain why going to the medium at Endor was wrong for Saul and what he was told?"
+  },
+  {
+   "id": "1sa_david_sent_back",
+   "type": "STORY",
+   "name": "The Philistine lords send David back",
+   "description": "The Philistine lords refuse to let David fight with them against Israel, so Achish sends David and his men back from Aphek.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 29"
+   ],
+   "evidence": [
+    "Say why the Philistine lords objected to David (29:3-5)",
+    "Say what Achish told David to do (29:7-11)"
+   ],
+   "prompt": "Can {{name}} tell why David did not fight with the Philistines against Israel?"
+  },
+  {
+   "id": "1sa_ziklag_amalekites",
+   "type": "STORY",
+   "name": "David recovers what was taken at Ziklag",
+   "description": "Amalekites burn Ziklag and take the families captive; David strengthens himself in the LORD, inquires through the ephod, pursues and recovers everyone and everything, and rules that those who stayed behind share equally in the spoil.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1SA 30"
+   ],
+   "evidence": [
+    "Say what David found at Ziklag and what he did first (30:3-8)",
+    "Say what David ruled about the spoil (30:23-25)"
+   ],
+   "prompt": "Can {{name}} tell how David got back the families taken from Ziklag?"
+  },
+  {
+   "id": "1sa_saul_death",
+   "type": "STORY",
+   "name": "The death of Saul and his sons",
+   "description": "Israel flees before the Philistines at Mount Gilboa; Jonathan and two brothers are killed, Saul takes his own life after being wounded, and the men of Jabesh-gilead recover and bury the bodies.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1SA 31"
+   ],
+   "evidence": [
+    "Say who died at Gilboa",
+    "Say what the men of Jabesh-gilead did (31:11-13)"
+   ],
+   "prompt": "Can {{name}} tell how Saul and Jonathan died?"
+  },
+  {
+   "id": "book_2sa",
+   "type": "BOOK_OVERVIEW",
+   "name": "2 Samuel: overview",
+   "description": "2 Samuel follows David from the news of Saul's death to his kingship over Judah and then all Israel, the LORD's promise of a lasting house, his sin with Bathsheba and its consequences in his own family, Absalom's and Sheba's revolts, and closing songs, warriors and a census.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2SA 1..24"
+   ],
+   "evidence": [
+    "Say how the book begins and what David did first",
+    "Name the promise in chapter 7",
+    "Name some consequences in David's family after chapter 11"
+   ],
+   "prompt": "Can {{name}} outline 2 Samuel from David's lament for Saul to the census at the end?"
+  },
+  {
+   "id": "2sa_lament_saul",
+   "type": "STORY",
+   "name": "David hears of Saul's death and laments",
+   "description": "An Amalekite brings David news of Saul's death and claims to have killed him; David has him put to death for slaying the LORD's anointed, and composes a lament for Saul and Jonathan.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 1"
+   ],
+   "evidence": [
+    "Say what the Amalekite claimed and what David did (1:8-16)",
+    "Say what David said about Jonathan in his lament (1:26)"
+   ],
+   "prompt": "Can {{name}} tell how David responded to the news that Saul was dead?"
+  },
+  {
+   "id": "2sa_david_hebron",
+   "type": "STORY",
+   "name": "David made king of Judah; war with Ishbosheth",
+   "description": "At Hebron the men of Judah anoint David king, while Abner makes Saul's son Ishbosheth king over the other tribes; a skirmish at Gibeon ends with Asahel killed by Abner.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 2"
+   ],
+   "evidence": [
+    "Say who anointed David at Hebron (2:4)",
+    "Say who Abner made king (2:8-9)",
+    "Say what happened to Asahel (2:18-23)"
+   ],
+   "prompt": "Can {{name}} explain how Israel was divided between David and Ishbosheth?"
+  },
+  {
+   "id": "2sa_abner_killed",
+   "type": "STORY",
+   "name": "Abner joins David and is killed by Joab",
+   "description": "Abner quarrels with Ishbosheth and offers to bring Israel to David; Joab kills Abner in revenge for Asahel, and David publicly mourns him.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 3"
+   ],
+   "evidence": [
+    "Say why Abner turned to David (3:7-12)",
+    "Say what Joab did and how David responded (3:27-39)"
+   ],
+   "prompt": "Can {{name}} tell what happened to Abner and what David said about it?"
+  },
+  {
+   "id": "2sa_ishbosheth_killed",
+   "type": "STORY",
+   "name": "The murder of Ishbosheth",
+   "description": "Two of Ishbosheth's captains kill him in his bed and bring his head to David, who has them put to death; Jonathan's lame son Mephibosheth is introduced.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 4"
+   ],
+   "evidence": [
+    "Say what Rechab and Baanah did and how David responded (4:5-12)"
+   ],
+   "prompt": "Can {{name}} explain what David did when Ishbosheth was murdered?"
+  },
+  {
+   "id": "2sa_david_king_jerusalem",
+   "type": "STORY",
+   "name": "David king over all Israel; Jerusalem and the Philistines",
+   "description": "The tribes come to Hebron and anoint David king over Israel; he takes Zion and makes it the city of David, Hiram sends help for his house, and David defeats the Philistines twice after inquiring of the LORD.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "2SA 5"
+   ],
+   "evidence": [
+    "Say who came to David at Hebron and what they said (5:1-3)",
+    "Say what city David took (5:6-9)",
+    "Say how David received guidance against the Philistines (5:19, 5:23-25)"
+   ],
+   "prompt": "Can {{name}} tell how David became king over all Israel and took Jerusalem?"
+  },
+  {
+   "id": "2sa_ark_jerusalem",
+   "type": "STORY",
+   "name": "David brings the ark to Jerusalem",
+   "description": "Uzzah dies when he touches the ark on the cart, so David leaves it at Obed-edom's house; after three months he brings it into the city with sacrifices and dancing, and Michal despises him.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "2SA 6"
+   ],
+   "evidence": [
+    "Say what happened to Uzzah (6:6-7)",
+    "Say what happened to Obed-edom's house (6:11)",
+    "Say how David and Michal reacted when the ark came in (6:14-16, 6:20-23)"
+   ],
+   "prompt": "Can {{name}} tell how the ark came to Jerusalem?"
+  },
+  {
+   "id": "2sa_davidic_promise",
+   "type": "STORY",
+   "name": "The LORD's promise to David",
+   "description": "David wishes to build a house for the ark; the LORD sends Nathan to say that he will make David a house, set up his offspring after him, establish his throne for ever, and be a father to his son; David then prays in thanks.",
+   "covenant": "cv_davidic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2SA 7"
+   ],
+   "evidence": [
+    "Say what David wanted to do (7:2)",
+    "List what the LORD promised David (7:8-16)",
+    "Say how David responded (7:18-29)"
+   ],
+   "prompt": "Can {{name}} explain what the LORD promised David through Nathan?"
+  },
+  {
+   "id": "2sa_david_victories",
+   "type": "THEME",
+   "name": "David's victories and officers",
+   "description": "David subdues the Philistines, Moab, Zobah, Syria and Edom, dedicates silver and gold to the LORD, and reigns over all Israel executing judgment and justice, with a list of officers.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 8"
+   ],
+   "evidence": [
+    "Name some peoples David defeated (8:1-14)",
+    "Say what David did with the gifts and spoil (8:11)"
+   ],
+   "prompt": "Can {{name}} name some of David's victories and say what he did with the silver and gold?"
+  },
+  {
+   "id": "2sa_mephibosheth",
+   "type": "STORY",
+   "name": "David shows kindness to Mephibosheth",
+   "description": "David asks if any of Saul's house remains to whom he can show kindness for Jonathan's sake, learns from Ziba of Mephibosheth, restores Saul's land to him, and has him eat at the king's table.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "2SA 9"
+   ],
+   "evidence": [
+    "Say why David sought someone from Saul's house (9:1)",
+    "Say what David gave Mephibosheth (9:7, 9:10-13)"
+   ],
+   "prompt": "Can {{name}} tell how David was kind to Mephibosheth and why?"
+  },
+  {
+   "id": "2sa_ammon_syria_war",
+   "type": "STORY",
+   "name": "The war with Ammon and Syria",
+   "description": "David's envoys to the new Ammonite king Hanun are humiliated, so Ammon hires Syrian troops; Joab and Abishai defeat Ammon's allies and David defeats the Syrians again.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 10"
+   ],
+   "evidence": [
+    "Say how Hanun treated David's servants (10:4)",
+    "Say how the war ended (10:13-19)"
+   ],
+   "prompt": "Can {{name}} tell why David went to war with Ammon and the Syrians?"
+  },
+  {
+   "id": "2sa_bathsheba_uriah",
+   "type": "STORY",
+   "name": "David, Bathsheba and Uriah",
+   "description": "While Israel fights at Rabbah, David takes Bathsheba, Uriah's wife, and when Uriah will not go home he has Joab place him where he will be killed, then marries Bathsheba; the text says this displeased the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2SA 11"
+   ],
+   "evidence": [
+    "Say what David did and then tried to cover up (11:4, 11:6-15)",
+    "Say what Uriah said about the ark and the army (11:11)",
+    "Say how the chapter ends (11:27)"
+   ],
+   "prompt": "Can {{name}} explain what David did wrong and how the chapter judges it?"
+  },
+  {
+   "id": "2sa_nathan_rebukes",
+   "type": "STORY",
+   "name": "Nathan rebukes David",
+   "description": "Nathan tells David a parable of a rich man and a poor man's lamb and says \"Thou art the man\"; David confesses, the LORD puts away his sin, but the sword will not leave his house and the child born dies; Solomon is then born.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2SA 12"
+   ],
+   "evidence": [
+    "Retell Nathan's parable and how David responded (12:1-7)",
+    "Say what David confessed and what Nathan answered (12:13)",
+    "Say what consequences were announced (12:10-14)",
+    "Say who was born to David and Bathsheba next (12:24-25)"
+   ],
+   "prompt": "Can {{name}} explain how Nathan showed David his sin and what followed?"
+  },
+  {
+   "id": "2sa_amnon_tamar",
+   "type": "STORY",
+   "name": "Amnon, Tamar and Absalom's revenge",
+   "description": "David's son Amnon forces his half-sister Tamar and then casts her out; David is angry but Absalom, after two years, has Amnon killed at a feast and flees to Geshur.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "2SA 13"
+   ],
+   "evidence": [
+    "Say what Amnon did to Tamar (13:11-17)",
+    "Say what Absalom did two years later (13:23-29)",
+    "Say where Absalom went (13:37-38)"
+   ],
+   "prompt": "Can {{name}} tell what happened among David's sons Amnon and Absalom?"
+  },
+  {
+   "id": "2sa_absalom_returns",
+   "type": "STORY",
+   "name": "Absalom brought back to Jerusalem",
+   "description": "Joab uses a wise woman of Tekoah with a parable to move David to bring Absalom back from Geshur; David lets him return but does not see him for two years, until Absalom forces Joab to arrange a meeting.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2SA 14"
+   ],
+   "evidence": [
+    "Say how Joab persuaded David (14:1-21)",
+    "Say how long Absalom did not see the king after returning (14:24-28)"
+   ],
+   "prompt": "Can {{name}} tell how Absalom came back to Jerusalem?"
+  },
+  {
+   "id": "2sa_absalom_revolt",
+   "type": "STORY",
+   "name": "Absalom's conspiracy and David's flight",
+   "description": "Absalom wins the hearts of Israel, has himself proclaimed king at Hebron, and David flees Jerusalem with his servants, sends the ark back, and plants Hushai to oppose Ahithophel; Ziba and Shimei meet him, and Absalom takes David's concubines.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2SA 15",
+    "2SA 16"
+   ],
+   "evidence": [
+    "Describe how Absalom won the people (15:1-6)",
+    "Say what David did with the ark and with Hushai (15:25-37)",
+    "Say how David answered Shimei's cursing (16:10-12)"
+   ],
+   "prompt": "Can {{name}} explain how Absalom turned the people against David and how David responded?"
+  },
+  {
+   "id": "2sa_hushai_counsel",
+   "type": "STORY",
+   "name": "Hushai's counsel defeats Ahithophel's",
+   "description": "Ahithophel advises Absalom to pursue David at once, but Hushai persuades him to wait and gather all Israel because the LORD had appointed to defeat Ahithophel's good counsel; messengers warn David, who crosses the Jordan, and Ahithophel hangs himself.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 17"
+   ],
+   "evidence": [
+    "Say what each counsellor advised (17:1-13)",
+    "Say why Absalom chose Hushai's advice (17:14)",
+    "Say what David received at Mahanaim (17:27-29)"
+   ],
+   "prompt": "Can {{name}} explain how Hushai's advice saved David?"
+  },
+  {
+   "id": "2sa_absalom_death",
+   "type": "STORY",
+   "name": "The death of Absalom",
+   "description": "David's army meets Absalom's in the wood of Ephraim; Absalom's head is caught in an oak and Joab kills him despite David's order to deal gently, and David weeps, \"O my son Absalom\".",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2SA 18"
+   ],
+   "evidence": [
+    "Say what David ordered about Absalom (18:5)",
+    "Say how Absalom died (18:9-15)",
+    "Say how David reacted to the news (18:33)"
+   ],
+   "prompt": "Can {{name}} tell how Absalom died and how David reacted?"
+  },
+  {
+   "id": "2sa_david_returns",
+   "type": "STORY",
+   "name": "David returns to Jerusalem",
+   "description": "Joab rebukes David's grief for Absalom; David returns toward Jerusalem, spares Shimei, hears Mephibosheth's account and divides the land between him and Ziba, honours Barzillai, and Israel and Judah quarrel over the king.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 19"
+   ],
+   "evidence": [
+    "Say what Joab told David (19:5-7)",
+    "Say what David did to Shimei (19:23)",
+    "Say what Barzillai asked and what David did (19:31-39)"
+   ],
+   "prompt": "Can {{name}} tell how David came back as king after Absalom's death?"
+  },
+  {
+   "id": "2sa_sheba_revolt",
+   "type": "STORY",
+   "name": "Sheba's revolt and Joab kills Amasa",
+   "description": "Sheba the Benjamite calls Israel to leave David; Joab kills Amasa and pursues Sheba to Abel, where a wise woman persuades the city to throw out Sheba's head.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2SA 20"
+   ],
+   "evidence": [
+    "Say what Sheba proclaimed (20:1)",
+    "Say what happened to Amasa (20:8-10)",
+    "Say what the wise woman of Abel did (20:16-22)"
+   ],
+   "prompt": "Can {{name}} tell how Sheba's revolt ended?"
+  },
+  {
+   "id": "2sa_gibeonite_famine",
+   "type": "STORY",
+   "name": "The famine and the Gibeonites",
+   "description": "A three-year famine comes, and the LORD says it is because Saul put the Gibeonites to death; at the Gibeonites' request seven of Saul's sons are hanged, Mephibosheth is spared for the sake of the oath with Jonathan, and Saul's and Jonathan's bones are buried in Kish's tomb.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2SA 21:1-14"
+   ],
+   "evidence": [
+    "Say what the LORD said was the cause of the famine (21:1)",
+    "Say why Mephibosheth was spared (21:7)",
+    "Say what David did with the bones of Saul and Jonathan (21:12-14)"
+   ],
+   "prompt": "Can {{name}} explain why the famine came and what David did about it?"
+  },
+  {
+   "id": "2sa_giants_slain",
+   "type": "THEME",
+   "name": "Philistine giants defeated",
+   "description": "Several descendants of the giant, including a brother of Goliath, are slain in battles at Gob and Gath by David's men after David grows faint.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "2SA 21:15-22"
+   ],
+   "evidence": [
+    "Say who rescued David when he grew faint (21:15-17)",
+    "Say who killed the brother of Goliath (21:19)"
+   ],
+   "prompt": "Can {{name}} name some of David's men who defeated the Philistine giants?"
+  },
+  {
+   "id": "2sa_david_song",
+   "type": "THEME",
+   "name": "David's song of deliverance",
+   "description": "David praises the LORD as rock, fortress and deliverer who answered his cry, rescued him from his enemies and Saul, and shows mercy to his anointed, to David and his seed for evermore.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2SA 22"
+   ],
+   "evidence": [
+    "Say the titles David gives the LORD (22:2-3)",
+    "Describe how the LORD answered David's cry (22:7-20)",
+    "Say what the song says about David's seed (22:51)"
+   ],
+   "prompt": "Can {{name}} say what David praises the LORD for in this song?"
+  },
+  {
+   "id": "2sa_david_last_words",
+   "type": "COVENANT",
+   "name": "David's last words and the everlasting covenant",
+   "description": "In his last words David says the Spirit of the LORD spoke by him that a ruler must be just and rule in the fear of God, and that although his house is not so with God, the LORD has made with him an everlasting covenant.",
+   "covenant": "cv_davidic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2SA 23:1-7"
+   ],
+   "evidence": [
+    "Say what David says a ruler must be (23:3)",
+    "Say how David describes his covenant with God (23:5)"
+   ],
+   "prompt": "Can {{name}} say what David says about God's covenant with him in his last words?"
+  },
+  {
+   "id": "2sa_mighty_men",
+   "type": "THEME",
+   "name": "David's mighty men",
+   "description": "The chapter lists David's mighty men and their deeds, including the three who fetched water from the well of Bethlehem, which David poured out to the LORD instead of drinking.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "2SA 23:8-39"
+   ],
+   "evidence": [
+    "Say what the three mighty men did for David (23:15-16)",
+    "Say what David did with the water (23:16-17)"
+   ],
+   "prompt": "Can {{name}} tell what David did with the water from Bethlehem's well?"
+  },
+  {
+   "id": "2sa_census_plague",
+   "type": "STORY",
+   "name": "David's census and the threshing floor",
+   "description": "David has Joab count Israel despite Joab's protest and afterward confesses he has sinned; the LORD gives him a choice of three punishments, a plague strikes Israel, and David buys Araunah's threshing floor and builds an altar, whereupon the plague is stayed.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2SA 24"
+   ],
+   "evidence": [
+    "Say what David did and how he felt afterward (24:2, 24:10)",
+    "Say which punishment David chose (24:14)",
+    "Say what David did at Araunah's threshing floor (24:24-25)"
+   ],
+   "prompt": "Can {{name}} tell what David did wrong in chapter 24 and how it ended?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "jos_commission",
+   "prereq": "book_jos",
+   "strength": "soft",
+   "reason": "The overview sets out the book that chapter 1 begins"
+  },
+  {
+   "topic": "jos_commission",
+   "prereq": "gen_abrahamic_covenant",
+   "strength": "soft",
+   "reason": "Joshua 1:6 speaks of the land the LORD swore to give to the fathers"
+  },
+  {
+   "topic": "jos_rahab",
+   "prereq": "jos_commission",
+   "strength": "soft",
+   "reason": "Joshua 2:1 describes Joshua sending the spies after the charge to enter the land in chapter 1"
+  },
+  {
+   "topic": "jos_jordan_crossing",
+   "prereq": "jos_commission",
+   "strength": "hard",
+   "reason": "Joshua 1:11 commands the people to prepare to pass over the Jordan within three days"
+  },
+  {
+   "topic": "jos_jordan_crossing",
+   "prereq": "jos_rahab",
+   "strength": "soft",
+   "reason": "Joshua 3:1 follows the spies' return to Joshua at Shittim in 2:23-24"
+  },
+  {
+   "topic": "jos_gilgal",
+   "prereq": "jos_jordan_crossing",
+   "strength": "hard",
+   "reason": "Joshua 4:19 puts Israel at Gilgal after the crossing and chapter 5 continues there"
+  },
+  {
+   "topic": "jos_jericho",
+   "prereq": "jos_gilgal",
+   "strength": "hard",
+   "reason": "Joshua 6:2 follows the meeting with the captain of the LORD's host in 5:13-15 near Jericho"
+  },
+  {
+   "topic": "jos_jericho",
+   "prereq": "jos_rahab",
+   "strength": "hard",
+   "reason": "Joshua 6:17 and 6:22-25 keep the oath given to Rahab in chapter 2"
+  },
+  {
+   "topic": "jos_achan",
+   "prereq": "jos_jericho",
+   "strength": "hard",
+   "reason": "Achan took of the accursed thing from Jericho, which was forbidden in Joshua 6:18"
+  },
+  {
+   "topic": "jos_ai",
+   "prereq": "jos_achan",
+   "strength": "hard",
+   "reason": "Joshua 8:1 follows the defeat at Ai and the removal of Achan in chapter 7"
+  },
+  {
+   "topic": "jos_ebal_law",
+   "prereq": "jos_ai",
+   "strength": "soft",
+   "reason": "Joshua 8:30 begins \"Then\" after the taking of Ai in 8:1-29"
+  },
+  {
+   "topic": "jos_gibeonites",
+   "prereq": "jos_ai",
+   "strength": "soft",
+   "reason": "Joshua 9:3 says Gibeon acted after hearing what Joshua had done to Jericho and Ai"
+  },
+  {
+   "topic": "jos_sun_stands",
+   "prereq": "jos_gibeonites",
+   "strength": "hard",
+   "reason": "Joshua 10:4-6 has the kings attack Gibeon because it made peace with Israel, and Gibeon calls on Joshua"
+  },
+  {
+   "topic": "jos_southern_campaign",
+   "prereq": "jos_sun_stands",
+   "strength": "hard",
+   "reason": "Joshua 10:28 begins with Makkedah, where the five kings were hanged in 10:16-27"
+  },
+  {
+   "topic": "jos_northern_campaign",
+   "prereq": "jos_southern_campaign",
+   "strength": "soft",
+   "reason": "Joshua 11:1 follows the southern victories reported in chapter 10"
+  },
+  {
+   "topic": "jos_defeated_kings",
+   "prereq": "jos_northern_campaign",
+   "strength": "soft",
+   "reason": "Joshua 12 sums up the victories described in chapters 6-11"
+  },
+  {
+   "topic": "jos_remaining_land",
+   "prereq": "jos_northern_campaign",
+   "strength": "soft",
+   "reason": "Joshua 13:1 follows the summary of conquest in chapters 11-12"
+  },
+  {
+   "topic": "jos_caleb",
+   "prereq": "jos_remaining_land",
+   "strength": "soft",
+   "reason": "Joshua 14:1-5 describes the land division by lot that begins after chapter 13"
+  },
+  {
+   "topic": "jos_judah_lot",
+   "prereq": "jos_caleb",
+   "strength": "soft",
+   "reason": "Caleb's portion in Judah is given in Joshua 14:13 and 15:13-14"
+  },
+  {
+   "topic": "jos_joseph_lot",
+   "prereq": "jos_judah_lot",
+   "strength": "soft",
+   "reason": "Joshua 16:1 gives the lot of the children of Joseph after Judah's lot in chapter 15"
+  },
+  {
+   "topic": "jos_shiloh_division",
+   "prereq": "jos_joseph_lot",
+   "strength": "hard",
+   "reason": "Joshua 18:2 says seven tribes still had no inheritance after Judah and Joseph's lots"
+  },
+  {
+   "topic": "jos_refuge_cities",
+   "prereq": "jos_shiloh_division",
+   "strength": "soft",
+   "reason": "Joshua 20:1-2 follows the land division and refers to what the LORD spoke by Moses"
+  },
+  {
+   "topic": "jos_levite_cities",
+   "prereq": "jos_refuge_cities",
+   "strength": "soft",
+   "reason": "Several Levite cities in chapter 21 are also cities of refuge named in chapter 20 (21:13, 21:21)"
+  },
+  {
+   "topic": "jos_levite_cities",
+   "prereq": "jos_remaining_land",
+   "strength": "soft",
+   "reason": "Joshua 13:14 and 13:33 say the Levites received no territory"
+  },
+  {
+   "topic": "jos_eastern_altar",
+   "prereq": "jos_levite_cities",
+   "strength": "soft",
+   "reason": "Joshua 22:1-4 sends the eastern tribes home after the LORD gave rest in 21:44"
+  },
+  {
+   "topic": "jos_joshua_farewell",
+   "prereq": "jos_eastern_altar",
+   "strength": "soft",
+   "reason": "Joshua 23:1 comes a long time after the LORD gave rest, following the events of chapters 21-22"
+  },
+  {
+   "topic": "jos_shechem_covenant",
+   "prereq": "jos_joshua_farewell",
+   "strength": "hard",
+   "reason": "Joshua 24 is Joshua's final assembly after the charge in chapter 23"
+  },
+  {
+   "topic": "jos_shechem_covenant",
+   "prereq": "gen_call_abram",
+   "strength": "soft",
+   "reason": "Joshua 24:2-3 recalls God taking Abraham from beyond the river and leading him through Canaan"
+  },
+  {
+   "topic": "book_jdg",
+   "prereq": "book_jos",
+   "strength": "soft",
+   "reason": "Judges 1:1 begins after the death of Joshua, with whom the book of Joshua ends"
+  },
+  {
+   "topic": "jdg_incomplete_conquest",
+   "prereq": "book_jdg",
+   "strength": "soft",
+   "reason": "The overview frames the book that chapter 1 opens"
+  },
+  {
+   "topic": "jdg_incomplete_conquest",
+   "prereq": "jos_shechem_covenant",
+   "strength": "soft",
+   "reason": "Judges 1:1 begins after Joshua's death, which is reported in Joshua 24:29"
+  },
+  {
+   "topic": "jdg_cycle",
+   "prereq": "jdg_incomplete_conquest",
+   "strength": "hard",
+   "reason": "Judges 2:6 resumes the story begun in chapter 1 and 2:1-5, and 2:21 refers to nations Joshua left"
+  },
+  {
+   "topic": "jdg_othniel",
+   "prereq": "jdg_cycle",
+   "strength": "hard",
+   "reason": "Judges 3:7-8 is the first example of the pattern set out in 2:11-19"
+  },
+  {
+   "topic": "jdg_othniel",
+   "prereq": "jdg_incomplete_conquest",
+   "strength": "soft",
+   "reason": "Othniel was already introduced in Judges 1:12-13 as Caleb's younger brother"
+  },
+  {
+   "topic": "jdg_ehud",
+   "prereq": "jdg_othniel",
+   "strength": "hard",
+   "reason": "Judges 3:12 says Israel did evil again after the rest following Othniel's death (3:11)"
+  },
+  {
+   "topic": "jdg_deborah_barak",
+   "prereq": "jdg_ehud",
+   "strength": "hard",
+   "reason": "Judges 4:1 says Israel did evil again after Ehud died"
+  },
+  {
+   "topic": "jdg_song_deborah",
+   "prereq": "jdg_deborah_barak",
+   "strength": "hard",
+   "reason": "Judges 5 is the song sung \"on that day\" about the battle told in chapter 4"
+  },
+  {
+   "topic": "jdg_gideon_call",
+   "prereq": "jdg_deborah_barak",
+   "strength": "soft",
+   "reason": "Judges 6:1 follows the forty years of rest in 5:31"
+  },
+  {
+   "topic": "jdg_gideon_300",
+   "prereq": "jdg_gideon_call",
+   "strength": "hard",
+   "reason": "Judges 7:1 follows Gideon gathering Israel in 6:33-35 and the fleece in 6:36-40"
+  },
+  {
+   "topic": "jdg_gideon_aftermath",
+   "prereq": "jdg_gideon_300",
+   "strength": "hard",
+   "reason": "Judges 8 continues the pursuit of the Midianites after the night attack in chapter 7"
+  },
+  {
+   "topic": "jdg_abimelech_rise",
+   "prereq": "jdg_gideon_aftermath",
+   "strength": "hard",
+   "reason": "Judges 9:1 introduces Abimelech, whose birth is told in 8:31, and the people's unkindness to Gideon's house in 8:35"
+  },
+  {
+   "topic": "jdg_abimelech_fall",
+   "prereq": "jdg_abimelech_rise",
+   "strength": "hard",
+   "reason": "Judges 9:57 says Jotham's curse from 9:20 came on them"
+  },
+  {
+   "topic": "jdg_minor_judges",
+   "prereq": "jdg_abimelech_fall",
+   "strength": "soft",
+   "reason": "Judges 10:1 says Tola arose after Abimelech"
+  },
+  {
+   "topic": "jdg_ammon_cry",
+   "prereq": "jdg_minor_judges",
+   "strength": "soft",
+   "reason": "Judges 10:6 follows the notices of Tola and Jair in 10:1-5"
+  },
+  {
+   "topic": "jdg_jephthah_rise",
+   "prereq": "jdg_ammon_cry",
+   "strength": "hard",
+   "reason": "Judges 11:4-6 continues the Ammonite war that began in 10:17-18"
+  },
+  {
+   "topic": "jdg_jephthah_vow",
+   "prereq": "jdg_jephthah_rise",
+   "strength": "hard",
+   "reason": "Judges 11:29 follows the failed negotiation with Ammon in 11:28"
+  },
+  {
+   "topic": "jdg_shibboleth",
+   "prereq": "jdg_jephthah_vow",
+   "strength": "soft",
+   "reason": "Judges 12:1 follows Jephthah's victory over Ammon"
+  },
+  {
+   "topic": "jdg_samson_birth",
+   "prereq": "jdg_shibboleth",
+   "strength": "soft",
+   "reason": "Judges 13:1 begins a new oppression, by the Philistines, after the judges of chapters 10-12"
+  },
+  {
+   "topic": "jdg_samson_philistine_wife",
+   "prereq": "jdg_samson_birth",
+   "strength": "hard",
+   "reason": "Judges 14 tells of the son born in chapter 13"
+  },
+  {
+   "topic": "jdg_samson_vengeance",
+   "prereq": "jdg_samson_philistine_wife",
+   "strength": "hard",
+   "reason": "Judges 15:1-2 follows his wife being given to his companion in 14:20"
+  },
+  {
+   "topic": "jdg_samson_delilah",
+   "prereq": "jdg_samson_vengeance",
+   "strength": "soft",
+   "reason": "Judges 16 continues the account of Samson judging Israel in the days of the Philistines (15:20)"
+  },
+  {
+   "topic": "jdg_samson_delilah",
+   "prereq": "jdg_samson_birth",
+   "strength": "soft",
+   "reason": "Samson's Nazarite status was announced in 13:5"
+  },
+  {
+   "topic": "jdg_samson_death",
+   "prereq": "jdg_samson_delilah",
+   "strength": "hard",
+   "reason": "Judges 16:23 follows Samson's capture and imprisonment in 16:21"
+  },
+  {
+   "topic": "jdg_micah_idols",
+   "prereq": "jdg_samson_death",
+   "strength": "soft",
+   "reason": "Judges 17 begins the closing narratives of the book after Samson's account ends in 16:31"
+  },
+  {
+   "topic": "jdg_dan_migration",
+   "prereq": "jdg_micah_idols",
+   "strength": "hard",
+   "reason": "Judges 18:2-4 find the Levite and 18:13-20 take the images from Micah's house described in chapter 17"
+  },
+  {
+   "topic": "jdg_levite_concubine",
+   "prereq": "jdg_dan_migration",
+   "strength": "soft",
+   "reason": "Judges 19:1 repeats the note that there was no king in Israel, as in 17:6 and 18:1"
+  },
+  {
+   "topic": "jdg_benjamin_war",
+   "prereq": "jdg_levite_concubine",
+   "strength": "hard",
+   "reason": "Judges 20:4-6 recounts the Levite's wrong at Gibeah in chapter 19 as the cause of the assembly"
+  },
+  {
+   "topic": "jdg_benjamin_wives",
+   "prereq": "jdg_benjamin_war",
+   "strength": "hard",
+   "reason": "Judges 21:1-3 reacts to the near destruction of Benjamin in chapter 20"
+  },
+  {
+   "topic": "book_rut",
+   "prereq": "book_jdg",
+   "strength": "soft",
+   "reason": "Ruth 1:1 places the story in the days when the judges ruled"
+  },
+  {
+   "topic": "rut_moab_return",
+   "prereq": "book_rut",
+   "strength": "soft",
+   "reason": "The overview frames the book that chapter 1 opens"
+  },
+  {
+   "topic": "rut_gleaning",
+   "prereq": "rut_moab_return",
+   "strength": "hard",
+   "reason": "Ruth 2:2 has Ruth go to glean after the return to Bethlehem at barley harvest in 1:22"
+  },
+  {
+   "topic": "rut_threshing_floor",
+   "prereq": "rut_gleaning",
+   "strength": "hard",
+   "reason": "Ruth 3:2 identifies Boaz as the kinsman in whose field Ruth had gleaned in chapter 2"
+  },
+  {
+   "topic": "rut_redemption",
+   "prereq": "rut_threshing_floor",
+   "strength": "hard",
+   "reason": "Ruth 4:1 carries out Boaz's promise about the nearer kinsman made in 3:12-13"
+  },
+  {
+   "topic": "book_1sa",
+   "prereq": "book_jdg",
+   "strength": "soft",
+   "reason": "1 Samuel opens in the period of the judges, where Judges and Ruth leave off, and Samuel judges Israel (7:15)"
+  },
+  {
+   "topic": "1sa_hannah_prayer",
+   "prereq": "book_1sa",
+   "strength": "soft",
+   "reason": "The overview frames the book that chapter 1 opens"
+  },
+  {
+   "topic": "1sa_hannah_song",
+   "prereq": "1sa_hannah_prayer",
+   "strength": "hard",
+   "reason": "1 Samuel 2:1 is Hannah's prayer after leaving Samuel at Shiloh in 1:24-28"
+  },
+  {
+   "topic": "1sa_eli_sons",
+   "prereq": "1sa_hannah_prayer",
+   "strength": "soft",
+   "reason": "Eli, Hophni and Phinehas are introduced as priests at Shiloh in 1:3 and 1:9"
+  },
+  {
+   "topic": "1sa_samuel_called",
+   "prereq": "1sa_eli_sons",
+   "strength": "hard",
+   "reason": "1 Samuel 3:11-14 repeats and confirms the judgment on Eli's house given in 2:27-36"
+  },
+  {
+   "topic": "1sa_ark_captured",
+   "prereq": "1sa_samuel_called",
+   "strength": "hard",
+   "reason": "1 Samuel 4:11 and 4:18 fulfil the word given to Samuel and Eli in chapter 3"
+  },
+  {
+   "topic": "1sa_ark_philistines",
+   "prereq": "1sa_ark_captured",
+   "strength": "hard",
+   "reason": "1 Samuel 5:1 says the Philistines took the ark from Ebenezer as told in 4:11"
+  },
+  {
+   "topic": "1sa_ark_returned",
+   "prereq": "1sa_ark_philistines",
+   "strength": "hard",
+   "reason": "1 Samuel 6:1-2 follows seven months with the ark in Philistine country after the plagues of chapter 5"
+  },
+  {
+   "topic": "1sa_ebenezer",
+   "prereq": "1sa_ark_returned",
+   "strength": "soft",
+   "reason": "1 Samuel 7:1-2 begins with the ark at Kirjath-jearim, where chapter 6 ends"
+  },
+  {
+   "topic": "1sa_israel_asks_king",
+   "prereq": "1sa_ebenezer",
+   "strength": "soft",
+   "reason": "1 Samuel 8:1 follows Samuel's long judging of Israel described in 7:15-17"
+  },
+  {
+   "topic": "1sa_saul_found",
+   "prereq": "1sa_israel_asks_king",
+   "strength": "hard",
+   "reason": "1 Samuel 9:16 has the LORD sending a captain, answering the request for a king in chapter 8"
+  },
+  {
+   "topic": "1sa_saul_anointed",
+   "prereq": "1sa_saul_found",
+   "strength": "hard",
+   "reason": "1 Samuel 10:1 follows the private talk in 9:25-27"
+  },
+  {
+   "topic": "1sa_saul_chosen",
+   "prereq": "1sa_saul_anointed",
+   "strength": "hard",
+   "reason": "1 Samuel 10:17 publicly presents the man privately anointed in 10:1"
+  },
+  {
+   "topic": "1sa_jabesh_gilead",
+   "prereq": "1sa_saul_chosen",
+   "strength": "hard",
+   "reason": "1 Samuel 11:12 refers to those who asked whether Saul should reign, the doubters of 10:27"
+  },
+  {
+   "topic": "1sa_samuel_farewell",
+   "prereq": "1sa_jabesh_gilead",
+   "strength": "hard",
+   "reason": "1 Samuel 12:1 follows Saul being made king at Gilgal (11:15), and 12:12 cites Nahash's attack"
+  },
+  {
+   "topic": "1sa_saul_offering",
+   "prereq": "1sa_samuel_farewell",
+   "strength": "soft",
+   "reason": "1 Samuel 13 continues Saul's reign after Samuel's speech in chapter 12"
+  },
+  {
+   "topic": "1sa_saul_offering",
+   "prereq": "1sa_saul_anointed",
+   "strength": "hard",
+   "reason": "1 Samuel 13:8 recalls the seven-day wait Samuel appointed in 10:8"
+  },
+  {
+   "topic": "1sa_jonathan_victory",
+   "prereq": "1sa_saul_offering",
+   "strength": "hard",
+   "reason": "1 Samuel 14 continues the Philistine war at Michmash described at the end of chapter 13"
+  },
+  {
+   "topic": "1sa_saul_rejected",
+   "prereq": "1sa_saul_offering",
+   "strength": "soft",
+   "reason": "1 Samuel 15 gives a second occasion of disobedience after 13:13-14"
+  },
+  {
+   "topic": "1sa_david_anointed",
+   "prereq": "1sa_saul_rejected",
+   "strength": "hard",
+   "reason": "1 Samuel 16:1 follows the LORD's rejection of Saul in chapter 15"
+  },
+  {
+   "topic": "1sa_david_harp",
+   "prereq": "1sa_david_anointed",
+   "strength": "hard",
+   "reason": "1 Samuel 16:14 says the Spirit left Saul as it came on David in 16:13"
+  },
+  {
+   "topic": "1sa_david_goliath",
+   "prereq": "1sa_david_harp",
+   "strength": "soft",
+   "reason": "David is already known to Saul as a harpist and shepherd (16:18-23), though 17:55-58 shows Saul asking whose son he is"
+  },
+  {
+   "topic": "1sa_david_goliath",
+   "prereq": "1sa_david_anointed",
+   "strength": "soft",
+   "reason": "Chapter 17 presents Jesse's youngest son David, anointed in 16:12-13, as the one who defeats Goliath"
+  },
+  {
+   "topic": "1sa_david_jonathan_saul",
+   "prereq": "1sa_david_goliath",
+   "strength": "hard",
+   "reason": "1 Samuel 18:1 and 18:6 follow David's victory over the Philistine in chapter 17"
+  },
+  {
+   "topic": "1sa_saul_seeks_david",
+   "prereq": "1sa_david_jonathan_saul",
+   "strength": "hard",
+   "reason": "1 Samuel 19:1 turns Saul's growing hostility in chapter 18 into an order to kill David"
+  },
+  {
+   "topic": "1sa_jonathan_david_arrows",
+   "prereq": "1sa_saul_seeks_david",
+   "strength": "hard",
+   "reason": "1 Samuel 20:1 begins as David flees from Naioth after the events of chapter 19"
+  },
+  {
+   "topic": "1sa_david_nob_gath",
+   "prereq": "1sa_jonathan_david_arrows",
+   "strength": "hard",
+   "reason": "1 Samuel 21:1 follows David's flight after Jonathan's signal in chapter 20"
+  },
+  {
+   "topic": "1sa_nob_priests",
+   "prereq": "1sa_david_nob_gath",
+   "strength": "hard",
+   "reason": "1 Samuel 22:9-10 report Doeg's sighting of David at Nob from 21:7"
+  },
+  {
+   "topic": "1sa_keilah_wilderness",
+   "prereq": "1sa_nob_priests",
+   "strength": "soft",
+   "reason": "1 Samuel 23:6 says Abiathar came to David with an ephod, after escaping Nob in 22:20"
+  },
+  {
+   "topic": "1sa_david_spares_saul",
+   "prereq": "1sa_keilah_wilderness",
+   "strength": "soft",
+   "reason": "1 Samuel 24:1 follows Saul's return from the Philistines and David's move to Engedi in 23:28-29"
+  },
+  {
+   "topic": "1sa_nabal_abigail",
+   "prereq": "1sa_david_spares_saul",
+   "strength": "soft",
+   "reason": "1 Samuel 25 follows the account of David in the wilderness of Engedi in chapter 24"
+  },
+  {
+   "topic": "1sa_david_spares_saul_again",
+   "prereq": "1sa_david_spares_saul",
+   "strength": "hard",
+   "reason": "1 Samuel 26 repeats the pattern of David sparing the LORD's anointed first shown in chapter 24, and 26:1 repeats the Ziphites' report from 23:19"
+  },
+  {
+   "topic": "1sa_david_ziklag",
+   "prereq": "1sa_david_spares_saul_again",
+   "strength": "hard",
+   "reason": "1 Samuel 27:1 reflects David's fear of Saul after the second sparing in chapter 26"
+  },
+  {
+   "topic": "1sa_saul_endor",
+   "prereq": "1sa_saul_rejected",
+   "strength": "hard",
+   "reason": "1 Samuel 28:17-18 cites Saul's failure against Amalek and the kingdom being rent, from 15:26-28"
+  },
+  {
+   "topic": "1sa_saul_endor",
+   "prereq": "1sa_david_ziklag",
+   "strength": "soft",
+   "reason": "1 Samuel 28:1-2 shows David with Achish while the Philistines gather against Israel"
+  },
+  {
+   "topic": "1sa_david_sent_back",
+   "prereq": "1sa_david_ziklag",
+   "strength": "hard",
+   "reason": "1 Samuel 29 has David marching with Achish, whom he joined in chapter 27"
+  },
+  {
+   "topic": "1sa_ziklag_amalekites",
+   "prereq": "1sa_david_sent_back",
+   "strength": "hard",
+   "reason": "1 Samuel 30:1 begins as David and his men come to Ziklag after being sent back in chapter 29"
+  },
+  {
+   "topic": "1sa_saul_death",
+   "prereq": "1sa_saul_endor",
+   "strength": "hard",
+   "reason": "1 Samuel 31 fulfils the word given at Endor in 28:19 that Saul and his sons would fall"
+  },
+  {
+   "topic": "1sa_saul_death",
+   "prereq": "1sa_jabesh_gilead",
+   "strength": "soft",
+   "reason": "Jabesh-gilead honours Saul in 31:11-13, which recalls his rescue of the city in chapter 11"
+  },
+  {
+   "topic": "book_2sa",
+   "prereq": "book_1sa",
+   "strength": "hard",
+   "reason": "2 Samuel 1:1 begins immediately after the death of Saul told in 1 Samuel 31"
+  },
+  {
+   "topic": "2sa_lament_saul",
+   "prereq": "1sa_saul_death",
+   "strength": "hard",
+   "reason": "2 Samuel 1:4 reports the battle and the deaths told in 1 Samuel 31"
+  },
+  {
+   "topic": "2sa_lament_saul",
+   "prereq": "book_2sa",
+   "strength": "soft",
+   "reason": "The overview frames the book that chapter 1 opens"
+  },
+  {
+   "topic": "2sa_david_hebron",
+   "prereq": "2sa_lament_saul",
+   "strength": "hard",
+   "reason": "2 Samuel 2:1 follows the events after Saul's death in chapter 1"
+  },
+  {
+   "topic": "2sa_abner_killed",
+   "prereq": "2sa_david_hebron",
+   "strength": "hard",
+   "reason": "2 Samuel 3:1 continues the war between David and Saul's house, and Joab's motive comes from Asahel's death in 2:23"
+  },
+  {
+   "topic": "2sa_ishbosheth_killed",
+   "prereq": "2sa_abner_killed",
+   "strength": "hard",
+   "reason": "2 Samuel 4:1 says Ishbosheth's hands were feeble after he heard that Abner was dead"
+  },
+  {
+   "topic": "2sa_david_king_jerusalem",
+   "prereq": "2sa_ishbosheth_killed",
+   "strength": "hard",
+   "reason": "2 Samuel 5:1 follows the death of Ishbosheth, the rival king, in chapter 4"
+  },
+  {
+   "topic": "2sa_ark_jerusalem",
+   "prereq": "2sa_david_king_jerusalem",
+   "strength": "hard",
+   "reason": "2 Samuel 6:12 brings the ark to the city of David, the stronghold David took in 5:7-9"
+  },
+  {
+   "topic": "2sa_ark_jerusalem",
+   "prereq": "1sa_ark_returned",
+   "strength": "soft",
+   "reason": "2 Samuel 6:2-3 fetches the ark from the house of Abinadab where it went in 1 Samuel 7:1"
+  },
+  {
+   "topic": "2sa_davidic_promise",
+   "prereq": "2sa_ark_jerusalem",
+   "strength": "hard",
+   "reason": "2 Samuel 7:2 speaks of the ark dwelling within curtains, the ark brought to David's city in chapter 6"
+  },
+  {
+   "topic": "2sa_david_victories",
+   "prereq": "2sa_davidic_promise",
+   "strength": "soft",
+   "reason": "2 Samuel 8:1 begins \"after this\", following the promise of rest from enemies in chapter 7"
+  },
+  {
+   "topic": "2sa_mephibosheth",
+   "prereq": "2sa_ishbosheth_killed",
+   "strength": "soft",
+   "reason": "Mephibosheth is introduced as Jonathan's lame son in 4:4"
+  },
+  {
+   "topic": "2sa_mephibosheth",
+   "prereq": "1sa_jonathan_david_arrows",
+   "strength": "soft",
+   "reason": "2 Samuel 9:1 acts on David's oath to Jonathan to show kindness to his house, given in 1 Samuel 20:15-17"
+  },
+  {
+   "topic": "2sa_ammon_syria_war",
+   "prereq": "2sa_david_victories",
+   "strength": "soft",
+   "reason": "2 Samuel 10 gives a further war after the victories summarised in chapter 8"
+  },
+  {
+   "topic": "2sa_bathsheba_uriah",
+   "prereq": "2sa_ammon_syria_war",
+   "strength": "hard",
+   "reason": "2 Samuel 11:1 continues the war with Ammon begun in chapter 10, where Joab is besieging Rabbah"
+  },
+  {
+   "topic": "2sa_nathan_rebukes",
+   "prereq": "2sa_bathsheba_uriah",
+   "strength": "hard",
+   "reason": "2 Samuel 12:1 has the LORD send Nathan after the displeasing deed of 11:27"
+  },
+  {
+   "topic": "2sa_amnon_tamar",
+   "prereq": "2sa_nathan_rebukes",
+   "strength": "soft",
+   "reason": "2 Samuel 13 begins the trouble in David's house that Nathan said would rise up in 12:10-11"
+  },
+  {
+   "topic": "2sa_absalom_returns",
+   "prereq": "2sa_amnon_tamar",
+   "strength": "hard",
+   "reason": "2 Samuel 14:1 says David's heart was toward Absalom, who fled to Geshur in 13:37-38"
+  },
+  {
+   "topic": "2sa_absalom_revolt",
+   "prereq": "2sa_absalom_returns",
+   "strength": "hard",
+   "reason": "2 Samuel 15:1 follows Absalom's restoration to the king's favour in 14:33"
+  },
+  {
+   "topic": "2sa_absalom_revolt",
+   "prereq": "2sa_mephibosheth",
+   "strength": "soft",
+   "reason": "2 Samuel 16:1-4 involves Ziba and Mephibosheth, whom David had restored in chapter 9"
+  },
+  {
+   "topic": "2sa_hushai_counsel",
+   "prereq": "2sa_absalom_revolt",
+   "strength": "hard",
+   "reason": "2 Samuel 17 describes the counsel of Ahithophel and Hushai planned in 15:31-37 and 16:15-23"
+  },
+  {
+   "topic": "2sa_absalom_death",
+   "prereq": "2sa_hushai_counsel",
+   "strength": "hard",
+   "reason": "2 Samuel 18 is the battle that follows Absalom's decision in chapter 17 to gather all Israel against David"
+  },
+  {
+   "topic": "2sa_david_returns",
+   "prereq": "2sa_absalom_death",
+   "strength": "hard",
+   "reason": "2 Samuel 19:1 follows the news that Absalom was dead and the king mourning in 18:33"
+  },
+  {
+   "topic": "2sa_sheba_revolt",
+   "prereq": "2sa_david_returns",
+   "strength": "hard",
+   "reason": "2 Samuel 20:1 arises from the quarrel between Israel and Judah in 19:41-43"
+  },
+  {
+   "topic": "2sa_gibeonite_famine",
+   "prereq": "jos_gibeonites",
+   "strength": "hard",
+   "reason": "2 Samuel 21:2 says Israel had sworn to the Gibeonites, as told in Joshua 9:15-19"
+  },
+  {
+   "topic": "2sa_gibeonite_famine",
+   "prereq": "2sa_mephibosheth",
+   "strength": "soft",
+   "reason": "2 Samuel 21:7 refers to Mephibosheth, whom David had restored in chapter 9"
+  },
+  {
+   "topic": "2sa_giants_slain",
+   "prereq": "1sa_david_goliath",
+   "strength": "soft",
+   "reason": "2 Samuel 21:19 mentions Goliath the Gittite, whom David killed in 1 Samuel 17"
+  },
+  {
+   "topic": "2sa_david_song",
+   "prereq": "2sa_david_victories",
+   "strength": "soft",
+   "reason": "2 Samuel 22:1 sets the song on the day the LORD delivered David from all his enemies and from Saul"
+  },
+  {
+   "topic": "2sa_david_last_words",
+   "prereq": "2sa_davidic_promise",
+   "strength": "hard",
+   "reason": "2 Samuel 23:5 speaks of the everlasting covenant with David, whose promise is given in 7:12-16"
+  },
+  {
+   "topic": "2sa_mighty_men",
+   "prereq": "2sa_david_last_words",
+   "strength": "soft",
+   "reason": "2 Samuel 23:8 follows David's last words in 23:1-7"
+  },
+  {
+   "topic": "2sa_census_plague",
+   "prereq": "2sa_sheba_revolt",
+   "strength": "soft",
+   "reason": "2 Samuel 24 is placed after the revolts of Absalom and Sheba, in the appendix of chapters 21-24"
+  }
+ ],
+ "relations": [
+  {
+   "from": "gen_abrahamic_covenant",
+   "to": "jos_levite_cities",
+   "kind": "fulfilled-in",
+   "refs": [
+    "GEN 15:18",
+    "JOS 21:43"
+   ]
+  },
+  {
+   "from": "jos_caleb",
+   "to": "jdg_incomplete_conquest",
+   "kind": "parallels",
+   "refs": [
+    "JOS 15:16-19",
+    "JDG 1:12-15"
+   ]
+  },
+  {
+   "from": "jos_shechem_covenant",
+   "to": "jdg_cycle",
+   "kind": "parallels",
+   "refs": [
+    "JOS 24:29-31",
+    "JDG 2:7-10"
+   ]
+  },
+  {
+   "from": "2sa_nathan_rebukes",
+   "to": "2sa_absalom_revolt",
+   "kind": "fulfilled-in",
+   "refs": [
+    "2SA 12:11",
+    "2SA 12:12",
+    "2SA 16:22"
+   ]
+  },
+  {
+   "from": "2sa_david_last_words",
+   "to": "2sa_davidic_promise",
+   "kind": "part-of-covenant",
+   "refs": [
+    "2SA 23:5",
+    "2SA 7:16"
+   ]
+  }
+ ]
+}

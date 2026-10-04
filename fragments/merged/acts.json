@@ -1,0 +1,1765 @@
+{
+ "topics": [
+  {
+   "id": "book_act",
+   "type": "BOOK_OVERVIEW",
+   "name": "Acts: overview",
+   "description": "Acts continues Luke's account from the ascension of Jesus (1:9) to Paul preaching at Rome (28:31): the Holy Ghost at Pentecost, the church in Jerusalem, the witness spreading to Judaea, Samaria and the Gentiles, and Paul's journeys, arrest and voyage to Rome.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "ACT 1..28"
+   ],
+   "evidence": [
+    "Say how Acts 1:8 gives the shape of the book (Jerusalem, Judaea, Samaria, the uttermost part)",
+    "Name the major sections: Peter in Jerusalem, Stephen and Philip, Saul's conversion, Cornelius, Paul's journeys, Paul's arrest and Rome"
+   ],
+   "prompt": "Can {{name}} outline how the gospel spreads in Acts from Jerusalem to Rome?"
+  },
+  {
+   "id": "act_ascension",
+   "type": "STORY",
+   "name": "Jesus is taken up and the apostles wait",
+   "description": "Luke begins by recalling Jesus teaching the apostles for forty days, promising the Holy Ghost, and being taken up in a cloud. Two men in white say he will return in the same way, and the disciples return to Jerusalem to pray.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "ACT 1:1-14"
+   ],
+   "evidence": [
+    "Retell what Jesus told the apostles to wait for and be witnesses of (1:4-8)",
+    "Say what the two men told the disciples about Jesus coming back (1:11)"
+   ],
+   "prompt": "Can {{name}} tell what Jesus said before he went up into heaven and what the apostles did next?"
+  },
+  {
+   "id": "act_matthias",
+   "type": "STORY",
+   "name": "Matthias takes the place of Judas",
+   "description": "Peter says the scripture about Judas had to be fulfilled and that a witness of the resurrection must replace him. The group prays and the lot falls on Matthias, who is numbered with the eleven.",
+   "covenant": null,
+   "ages": [
+    9,
+    15
+   ],
+   "passages": [
+    "ACT 1:15-26"
+   ],
+   "evidence": [
+    "State the requirement Peter gives for the one to be chosen (1:21-22)",
+    "Explain how Matthias was chosen (1:23-26)"
+   ],
+   "prompt": "Can {{name}} explain why the believers chose a replacement for Judas and how they chose him?"
+  },
+  {
+   "id": "act_pentecost",
+   "type": "STORY",
+   "name": "The Holy Ghost comes at Pentecost",
+   "description": "On the day of Pentecost a sound like a rushing wind fills the house, tongues like fire rest on each of them, and they speak in other languages. Jews from many nations each hear the wonderful works of God in their own tongue, and some mock.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "ACT 2:1-13"
+   ],
+   "evidence": [
+    "Describe the sound, the fire and the languages (2:2-4, 2:6-11)",
+    "Name the two reactions of the crowd (2:12-13)"
+   ],
+   "prompt": "Can {{name}} describe what happened at Pentecost and how the crowd responded?"
+  },
+  {
+   "id": "act_pentecost_sermon",
+   "type": "STORY",
+   "name": "Peter preaches at Pentecost",
+   "description": "Peter says the outpouring is what Joel spoke of, declares that God raised the crucified Jesus and made him Lord and Christ, and calls on the hearers to repent and be baptized. About three thousand are added that day.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ACT 2:14-41"
+   ],
+   "evidence": [
+    "Say how Peter uses Joel, and the Psalms of David, to explain Jesus (2:16-21, 2:25-35)",
+    "State what Peter tells the crowd to do and to whom the promise belongs (2:38-39)"
+   ],
+   "prompt": "Can {{name}} summarise Peter's argument at Pentecost and what he told the people to do?"
+  },
+  {
+   "id": "act_early_church",
+   "type": "THEME",
+   "name": "The life of the first church",
+   "description": "The new believers continue in the apostles' doctrine, fellowship, breaking of bread and prayers, share what they have with those in need, worship in the temple, and see the Lord add to the church daily.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "ACT 2:42-47"
+   ],
+   "evidence": [
+    "List the four things the believers continued in (2:42)",
+    "Describe how they treated their possessions and each other (2:44-46)"
+   ],
+   "prompt": "Can {{name}} list what the first believers did together and how the church grew?"
+  },
+  {
+   "id": "act_lame_man",
+   "type": "STORY",
+   "name": "The lame man at the Beautiful gate",
+   "description": "Peter and John meet a man lame from birth begging at the temple gate. Peter commands him in the name of Jesus Christ of Nazareth to rise and walk, and he enters the temple walking and praising God while the people look on in wonder.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "ACT 3:1-11"
+   ],
+   "evidence": [
+    "Retell the healing, including what Peter said he did and did not have (3:6)",
+    "Describe how the people reacted (3:9-11)"
+   ],
+   "prompt": "Can {{name}} tell how the lame man was healed and in whose name it was done?"
+  },
+  {
+   "id": "act_temple_sermon",
+   "type": "STORY",
+   "name": "Peter preaches in Solomon's porch",
+   "description": "Peter tells the amazed crowd that the God of Abraham, Isaac and Jacob glorified his Son Jesus, whom they delivered up, and that faith in his name made the man strong. He calls them to repent so that their sins may be blotted out, and reminds them of God's covenant with the fathers and the blessing promised to Abraham's seed.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ACT 3:12-26"
+   ],
+   "evidence": [
+    "Say whom Peter credits for the healing (3:12-16)",
+    "Explain what Peter calls the people to do and why (3:18-19, 3:25-26)"
+   ],
+   "prompt": "Can {{name}} explain what Peter said made the man walk and what he urged the crowd to do?"
+  },
+  {
+   "id": "act_council_peter_john",
+   "type": "STORY",
+   "name": "Peter and John before the council",
+   "description": "The priests, the captain of the temple and the Sadducees arrest Peter and John, and about five thousand have believed. Filled with the Holy Ghost, Peter tells the rulers there is salvation in no other name than Jesus, and when ordered to stop speaking they answer that they cannot but speak what they have seen and heard.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ACT 4:1-22"
+   ],
+   "evidence": [
+    "State what Peter says about the name of Jesus (4:10-12)",
+    "Explain how Peter and John answered the order to stop (4:19-20)"
+   ],
+   "prompt": "Can {{name}} explain what Peter said to the rulers and why he and John would not stop preaching?"
+  },
+  {
+   "id": "act_church_prays",
+   "type": "STORY",
+   "name": "The church prays for boldness",
+   "description": "Released, Peter and John report to their own company, and together they pray to God the maker of heaven and earth, recalling that rulers gathered against his Christ according to his counsel. They ask for boldness, the place is shaken, and they are filled with the Holy Ghost.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "ACT 4:23-31"
+   ],
+   "evidence": [
+    "Say what the believers asked God for (4:29-30)",
+    "Describe how God answered (4:31)"
+   ],
+   "prompt": "Can {{name}} tell what the church prayed for after the threats and what happened next?"
+  },
+  {
+   "id": "act_sharing",
+   "type": "THEME",
+   "name": "One heart and one soul: sharing with the needy",
+   "description": "The multitude of believers are of one heart and soul, and owners of lands and houses sell them and lay the money at the apostles' feet for distribution to those in need. Joses, called Barnabas, is named as one who sold land and gave the money.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "ACT 4:32-37"
+   ],
+   "evidence": [
+    "Describe how the believers met one another's needs (4:34-35)",
+    "Name the man given as an example and what he did (4:36-37)"
+   ],
+   "prompt": "Can {{name}} describe how the early believers shared and who Barnabas was?"
+  },
+  {
+   "id": "act_ananias_sapphira",
+   "type": "STORY",
+   "name": "Ananias and Sapphira",
+   "description": "Ananias and Sapphira sell a possession and keep back part of the price while laying the rest at the apostles' feet. Peter says they lied to the Holy Ghost and to God; both fall down dead and great fear comes on the church.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ACT 5:1-11"
+   ],
+   "evidence": [
+    "Say what the couple did and what Peter said it really was (5:2-4, 5:9)",
+    "Describe the effect on the church (5:11)"
+   ],
+   "prompt": "Can {{name}} explain what Ananias and Sapphira did wrong and what happened?"
+  },
+  {
+   "id": "act_apostles_prison",
+   "type": "STORY",
+   "name": "The apostles freed and brought before the council",
+   "description": "Many signs are done and multitudes are healed, so the high priest and Sadducees imprison the apostles. An angel of the Lord opens the prison and sends them back to teach in the temple; before the council they say they must obey God rather than men, Gamaliel advises caution, and they leave rejoicing and keep teaching Jesus Christ.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ACT 5:12-42"
+   ],
+   "evidence": [
+    "Describe how the apostles were freed and what the angel told them (5:19-20)",
+    "Summarise Gamaliel's advice and the apostles' response (5:29, 5:38-42)"
+   ],
+   "prompt": "Can {{name}} tell how the apostles escaped prison and why they kept preaching after being beaten?"
+  },
+  {
+   "id": "act_seven_chosen",
+   "type": "STORY",
+   "name": "Seven men are chosen to serve",
+   "description": "When Grecian widows are neglected in the daily distribution, the twelve ask the disciples to choose seven men of good report, full of the Holy Ghost and wisdom, so that the apostles can give themselves to prayer and the word. Stephen and six others are chosen and prayed for, and the word of God increases.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "ACT 6:1-7"
+   ],
+   "evidence": [
+    "Say what problem arose and what the apostles proposed (6:1-4)",
+    "Name the first of the seven chosen (6:5)"
+   ],
+   "prompt": "Can {{name}} explain why the seven were chosen and what the apostles kept doing?"
+  },
+  {
+   "id": "act_stephen_arrested",
+   "type": "STORY",
+   "name": "Stephen is seized and accused",
+   "description": "Stephen, full of faith and power, does wonders among the people; men from several synagogues dispute with him and cannot resist his wisdom. They bring false witnesses before the council who say he spoke against the temple and Moses' customs, and the council sees his face like the face of an angel.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "ACT 6:8-15"
+   ],
+   "evidence": [
+    "State the charges brought against Stephen (6:11-14)",
+    "Describe how the council saw Stephen (6:15)"
+   ],
+   "prompt": "Can {{name}} explain what Stephen was accused of and who accused him?"
+  },
+  {
+   "id": "act_stephen_patriarchs",
+   "type": "STORY",
+   "name": "Stephen's speech: Abraham, the patriarchs and Joseph",
+   "description": "Asked by the high priest if the charges are true, Stephen begins with the God of glory appearing to Abraham, the promise of the land, the covenant of circumcision and the sons of Jacob. He tells how the patriarchs sold Joseph in envy, yet God was with him and raised him up in Egypt, and how Jacob and his family came down there.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ACT 7:1-16"
+   ],
+   "evidence": [
+    "Say what God promised Abraham and how long his seed would be in a strange land (7:3-7)",
+    "Retell what Stephen says about Joseph and his brothers (7:9-14)"
+   ],
+   "prompt": "Can {{name}} outline how Stephen begins his speech from Abraham to Joseph?"
+  },
+  {
+   "id": "act_stephen_moses",
+   "type": "STORY",
+   "name": "Stephen's speech: Moses and the people's refusal",
+   "description": "Stephen recounts Israel's growth in Egypt, the birth and upbringing of Moses, his first attempt to help his brethren and their rejection, and God's call from the burning bush. He says the people refused Moses, turned back in their hearts to Egypt, and made a calf.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ACT 7:17-43"
+   ],
+   "evidence": [
+    "Retell the stages of Moses' life Stephen names (7:20-36)",
+    "Say how Stephen says the fathers treated Moses (7:35, 7:39-41)"
+   ],
+   "prompt": "Can {{name}} explain how Stephen says Israel treated Moses, whom God sent as ruler and deliverer?"
+  },
+  {
+   "id": "act_stephen_temple",
+   "type": "STORY",
+   "name": "Stephen's speech: tabernacle, temple and stiffnecked people",
+   "description": "Stephen recalls the tabernacle in the wilderness and David and Solomon's house, then says the Most High does not dwell in temples made with hands. He charges the council with resisting the Holy Ghost like their fathers, who persecuted the prophets and now betrayed and murdered the Just One.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 7:44-53"
+   ],
+   "evidence": [
+    "Say what Stephen says about where God dwells (7:48-50)",
+    "State the charge Stephen makes against the council (7:51-53)"
+   ],
+   "prompt": "Can {{name}} explain how Stephen answers the charge about the temple and what he accuses the council of?"
+  },
+  {
+   "id": "act_stephen_martyred",
+   "type": "STORY",
+   "name": "Stephen sees Jesus and is stoned",
+   "description": "The council is cut to the heart, but Stephen, full of the Holy Ghost, sees the glory of God and Jesus standing at God's right hand. They stone him outside the city, with the witnesses laying their clothes at the feet of a young man named Saul, and Stephen prays that the Lord Jesus receive his spirit and that this sin not be laid to their charge.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 7:54-60"
+   ],
+   "evidence": [
+    "Say what Stephen saw and said before he died (7:55-56)",
+    "Give his two prayers as he was stoned (7:59-60)"
+   ],
+   "prompt": "Can {{name}} tell what Stephen saw, how he died, and what he asked for his killers?"
+  },
+  {
+   "id": "act_church_scattered",
+   "type": "STORY",
+   "name": "Persecution scatters the church",
+   "description": "Saul consents to Stephen's death and a great persecution scatters the church in Jerusalem throughout Judaea and Samaria, except the apostles. Saul ravages the church, entering houses and imprisoning men and women, while the scattered believers go everywhere preaching the word.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "ACT 8:1-4"
+   ],
+   "evidence": [
+    "Say what Saul did to the church (8:3)",
+    "Explain what the scattered believers did (8:4)"
+   ],
+   "prompt": "Can {{name}} explain how the persecution after Stephen spread the word?"
+  },
+  {
+   "id": "act_philip_samaria",
+   "type": "STORY",
+   "name": "Philip in Samaria and Simon the sorcerer",
+   "description": "Philip preaches Christ in Samaria with miracles, and many believe and are baptized, including Simon who had practised sorcery. Peter and John come, pray, and lay hands on them so they receive the Holy Ghost; when Simon offers money for this power, Peter rebukes him and tells him to repent.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 8:5-25"
+   ],
+   "evidence": [
+    "Describe what happened in Samaria through Philip (8:5-8, 8:12)",
+    "Explain why Peter rebuked Simon (8:18-23)"
+   ],
+   "prompt": "Can {{name}} tell what Philip did in Samaria and why Peter rebuked Simon?"
+  },
+  {
+   "id": "act_ethiopian_eunuch",
+   "type": "STORY",
+   "name": "Philip and the Ethiopian eunuch",
+   "description": "An angel and the Spirit send Philip to a chariot on the road to Gaza, where an Ethiopian officer is reading Isaiah. Philip begins at that scripture and preaches Jesus; the man believes, is baptized, and goes on his way rejoicing.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "ACT 8:26-40"
+   ],
+   "evidence": [
+    "Say what the eunuch was reading and what Philip did with it (8:28-35)",
+    "Describe the baptism and what happened to Philip (8:36-40)"
+   ],
+   "prompt": "Can {{name}} retell how Philip explained the scripture to the Ethiopian and what happened afterward?"
+  },
+  {
+   "id": "act_damascus_road",
+   "type": "STORY",
+   "name": "Saul meets Jesus on the road to Damascus",
+   "description": "Saul, breathing threats against the disciples, is stopped near Damascus by a light from heaven and the voice of Jesus asking why he persecutes him. Struck blind, he is led into the city, and Ananias, sent by the Lord, lays hands on him; he receives sight, is filled with the Holy Ghost, and is baptized.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "ACT 9:1-19"
+   ],
+   "evidence": [
+    "Say what Jesus said to Saul and what Saul asked (9:4-6)",
+    "Explain what the Lord told Ananias about Saul (9:15-16)"
+   ],
+   "prompt": "Can {{name}} tell what happened to Saul on the Damascus road and how Ananias helped him?"
+  },
+  {
+   "id": "act_saul_preaches",
+   "type": "STORY",
+   "name": "Saul preaches and escapes from Damascus",
+   "description": "Saul immediately preaches in the synagogues that Jesus is the Son of God, and the Jews plot to kill him, so the disciples let him down the wall in a basket. In Jerusalem Barnabas brings him to the apostles, and when the Grecians try to kill him he is sent to Tarsus while the churches have rest.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "ACT 9:20-31"
+   ],
+   "evidence": [
+    "Describe how Saul escaped Damascus (9:23-25)",
+    "Say what Barnabas did for Saul (9:26-27)"
+   ],
+   "prompt": "Can {{name}} explain how Saul was accepted by the disciples in Jerusalem?"
+  },
+  {
+   "id": "act_aeneas_dorcas",
+   "type": "STORY",
+   "name": "Peter heals Aeneas and raises Dorcas",
+   "description": "Peter heals the paralysed Aeneas at Lydda in the name of Jesus Christ and many turn to the Lord. At Joppa he kneels, prays, and says \"Tabitha, arise\" to the disciple Dorcas, who is presented alive, and many believe.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "ACT 9:32-43"
+   ],
+   "evidence": [
+    "Describe the two miracles Peter did (9:34, 9:40)",
+    "Say what Dorcas was known for (9:36, 9:39)"
+   ],
+   "prompt": "Can {{name}} tell the stories of Aeneas and Dorcas and what people did afterward?"
+  },
+  {
+   "id": "act_cornelius_peter_visions",
+   "type": "STORY",
+   "name": "Cornelius and Peter see visions",
+   "description": "Cornelius, a devout centurion at Caesarea, is told by an angel to send for Simon Peter at Joppa. Meanwhile Peter sees a sheet of animals let down from heaven and is told what God has cleansed not to call common, and the Spirit tells him to go with the three men.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "ACT 10:1-23"
+   ],
+   "evidence": [
+    "Describe Cornelius' vision and what he did (10:3-8)",
+    "Say what the voice told Peter and what it meant for his actions (10:13-20)"
+   ],
+   "prompt": "Can {{name}} explain the two visions and how they brought Peter and Cornelius together?"
+  },
+  {
+   "id": "act_gentiles_receive_spirit",
+   "type": "STORY",
+   "name": "Peter preaches to Cornelius and the Gentiles receive the Spirit",
+   "description": "Peter tells Cornelius' household that God is no respecter of persons and that everyone who believes in Jesus receives remission of sins. While he is speaking the Holy Ghost falls on the Gentiles, and Peter commands them to be baptized.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ACT 10:24-48"
+   ],
+   "evidence": [
+    "State what Peter says about God and every nation (10:34-35)",
+    "Explain why Peter orders the Gentiles to be baptized (10:44-48)"
+   ],
+   "prompt": "Can {{name}} explain what Peter preached to Cornelius and why he baptized the Gentiles?"
+  },
+  {
+   "id": "act_peter_defends_gentiles",
+   "type": "STORY",
+   "name": "Peter explains himself in Jerusalem",
+   "description": "Believers in Judaea criticise Peter for eating with uncircumcised men, so he retells the vision and the Spirit falling on the Gentiles. Hearing it, they glorify God and say he has granted repentance unto life to the Gentiles also.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ACT 11:1-18"
+   ],
+   "evidence": [
+    "Say what the believers objected to (11:2-3)",
+    "State the conclusion the church reached (11:17-18)"
+   ],
+   "prompt": "Can {{name}} explain how Peter answered those who criticised him about the Gentiles?"
+  },
+  {
+   "id": "act_antioch_church",
+   "type": "STORY",
+   "name": "The church at Antioch and the first Christians",
+   "description": "Scattered believers preach the Lord Jesus to Greeks at Antioch and a great number believe; Barnabas is sent, finds Saul at Tarsus, and they teach there a year, where the disciples are first called Christians. The Antioch disciples send relief to Judaea after Agabus foretells a famine.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 11:19-30"
+   ],
+   "evidence": [
+    "Say where the disciples were first called Christians (11:26)",
+    "Describe what the Antioch church did when famine was foretold (11:27-30)"
+   ],
+   "prompt": "Can {{name}} tell how the Antioch church began and what it did for the brethren in Judaea?"
+  },
+  {
+   "id": "act_peter_freed",
+   "type": "STORY",
+   "name": "James killed and Peter freed from prison",
+   "description": "Herod kills James and imprisons Peter, but the church prays unceasingly. An angel leads Peter out past the guards at night, and he comes to the house of Mary, where Rhoda is so glad she forgets to open the gate and the astonished believers at last let him in.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "ACT 12:1-19"
+   ],
+   "evidence": [
+    "Describe how Peter was brought out of prison (12:6-10)",
+    "Say what the church was doing and how they reacted (12:5, 12:12-16)"
+   ],
+   "prompt": "Can {{name}} tell how God rescued Peter and what the church was doing at the time?"
+  },
+  {
+   "id": "act_herod_dies",
+   "type": "STORY",
+   "name": "Herod's death and the word of God grows",
+   "description": "Herod, in royal apparel, receives the people's shout that he speaks as a god; the angel of the Lord strikes him because he gave not God the glory. The word of God grows and multiplies, and Barnabas and Saul return with John Mark.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "ACT 12:20-25"
+   ],
+   "evidence": [
+    "Say why Herod was struck down (12:22-23)",
+    "Contrast Herod's end with what happened to the word of God (12:24)"
+   ],
+   "prompt": "Can {{name}} explain why Herod died and what happened to the word of God?"
+  },
+  {
+   "id": "act_antioch_sends",
+   "type": "STORY",
+   "name": "Barnabas and Saul are sent out from Antioch",
+   "description": "The Holy Ghost tells the Antioch prophets and teachers to separate Barnabas and Saul for the work, and the church fasts, prays and sends them. On Cyprus, Saul (also called Paul) strikes the sorcerer Elymas blind and the deputy Sergius Paulus believes.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "ACT 13:1-12"
+   ],
+   "evidence": [
+    "Say how Barnabas and Saul were sent (13:2-4)",
+    "Describe what happened to Elymas and the deputy (13:8-12)"
+   ],
+   "prompt": "Can {{name}} explain who sent Barnabas and Saul out and what happened on Cyprus?"
+  },
+  {
+   "id": "act_pisidian_sermon",
+   "type": "STORY",
+   "name": "Paul preaches in the synagogue at Pisidian Antioch",
+   "description": "Invited to speak after the reading of the law and prophets, Paul traces Israel's story from Egypt through the judges and David to Jesus, whom God raised from the dead. He declares forgiveness of sins and that by Jesus all who believe are justified from what the law of Moses could not justify.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ACT 13:13-41"
+   ],
+   "evidence": [
+    "Outline the history Paul recounts to reach Jesus (13:17-23)",
+    "State what Paul says is preached through Jesus (13:38-39)"
+   ],
+   "prompt": "Can {{name}} summarise Paul's sermon from Israel's history to forgiveness through Jesus?"
+  },
+  {
+   "id": "act_turn_to_gentiles",
+   "type": "STORY",
+   "name": "Paul and Barnabas turn to the Gentiles",
+   "description": "Gentiles ask to hear more, and the next sabbath almost the whole city gathers; the envious Jews contradict, so Paul and Barnabas say they turn to the Gentiles, citing the Lord's command to be a light to them. The Gentiles rejoice, those ordained to eternal life believe, and the apostles are expelled.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ACT 13:42-52"
+   ],
+   "evidence": [
+    "Say why Paul and Barnabas turned to the Gentiles (13:45-47)",
+    "Describe how the Gentiles and the disciples responded (13:48, 13:52)"
+   ],
+   "prompt": "Can {{name}} explain why Paul and Barnabas turned to the Gentiles at Antioch?"
+  },
+  {
+   "id": "act_iconium_lystra",
+   "type": "STORY",
+   "name": "Iconium and Lystra: healing, worship refused, stoning",
+   "description": "At Iconium many believe but the city is divided and the apostles flee. At Lystra Paul heals a man lame from birth and the crowd calls them gods; the apostles stop the sacrifice and preach the living God who made heaven and earth, but Jews from Antioch and Iconium turn the people and stone Paul, who rises up and goes on.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 14:1-20"
+   ],
+   "evidence": [
+    "Say how Paul and Barnabas responded when the people wanted to sacrifice to them (14:14-18)",
+    "Describe what happened to Paul after the healing (14:19-20)"
+   ],
+   "prompt": "Can {{name}} tell what happened at Lystra and what the apostles said to the crowd?"
+  },
+  {
+   "id": "act_first_journey_return",
+   "type": "STORY",
+   "name": "The return to Antioch: elders appointed",
+   "description": "Paul and Barnabas return through the cities, confirming the disciples, warning that entering the kingdom is through much tribulation, and ordaining elders in every church with prayer and fasting. Back at Antioch they report that God had opened the door of faith to the Gentiles.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "ACT 14:21-28"
+   ],
+   "evidence": [
+    "Say what the apostles told the disciples about tribulation (14:22)",
+    "Describe the report given at Antioch (14:26-27)"
+   ],
+   "prompt": "Can {{name}} explain what Paul and Barnabas did on their way back and what they reported?"
+  },
+  {
+   "id": "act_jerusalem_council",
+   "type": "STORY",
+   "name": "The Jerusalem council on circumcision",
+   "description": "Men from Judaea teach that Gentiles must be circumcised to be saved, so Paul and Barnabas go to Jerusalem. Peter recalls God giving the Gentiles the Holy Ghost and says salvation is through the grace of the Lord Jesus Christ; James cites the prophets and judges that Gentile believers should not be troubled, only asked to abstain from idols, fornication, strangled things and blood.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 15:1-21"
+   ],
+   "evidence": [
+    "State the question that began the dispute (15:1, 15:5)",
+    "Say what Peter and James each concluded (15:7-11, 15:13-19)"
+   ],
+   "prompt": "Can {{name}} explain the question the Jerusalem council settled and how they answered it?"
+  },
+  {
+   "id": "act_council_letter",
+   "type": "STORY",
+   "name": "The letter to the Gentile churches",
+   "description": "The apostles and elders send Judas Barsabas and Silas with Paul and Barnabas, carrying a letter saying that it seemed good to the Holy Ghost and to them to lay no greater burden than the necessary things. The Antioch believers read it and rejoice.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "ACT 15:22-35"
+   ],
+   "evidence": [
+    "Say who delivered the letter and what it asked of Gentile believers (15:22-29)",
+    "Describe how Antioch received it (15:30-32)"
+   ],
+   "prompt": "Can {{name}} explain what the letter from Jerusalem said and how Antioch responded?"
+  },
+  {
+   "id": "act_paul_barnabas_part",
+   "type": "STORY",
+   "name": "Paul and Barnabas part ways",
+   "description": "Paul proposes revisiting the churches, and Barnabas wants to take John Mark, whom Paul will not take since he left them in Pamphylia. The contention is so sharp that they separate; Barnabas takes Mark to Cyprus and Paul takes Silas through Syria and Cilicia, strengthening the churches.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ACT 15:36-41"
+   ],
+   "evidence": [
+    "Say what the disagreement was about (15:37-38)",
+    "Describe where each pair went (15:39-41)"
+   ],
+   "prompt": "Can {{name}} tell why Paul and Barnabas separated and who went with each?"
+  },
+  {
+   "id": "act_timothy_macedonia",
+   "type": "STORY",
+   "name": "Timothy joins and the call to Macedonia",
+   "description": "At Lystra Paul takes Timothy, whose mother is a believing Jewess and whose father is Greek, and circumcises him because of the Jews there, while delivering the Jerusalem decrees. Forbidden by the Spirit to go to Asia or Bithynia, Paul sees a vision of a man of Macedonia and concludes the Lord has called them to preach there.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 16:1-10"
+   ],
+   "evidence": [
+    "Say why Paul circumcised Timothy (16:3)",
+    "Describe how the Spirit directed the journey (16:6-10)"
+   ],
+   "prompt": "Can {{name}} explain how Paul was led to go to Macedonia?"
+  },
+  {
+   "id": "act_lydia",
+   "type": "STORY",
+   "name": "Lydia's heart is opened at Philippi",
+   "description": "At Philippi on the sabbath Paul speaks to women by the river, and the Lord opens the heart of Lydia, a seller of purple who worshipped God. She and her household are baptized, and she constrains the missionaries to stay in her house.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "ACT 16:11-15"
+   ],
+   "evidence": [
+    "Say who Lydia was and how she came to believe (16:14)",
+    "Describe what she did after being baptized (16:15)"
+   ],
+   "prompt": "Can {{name}} tell how Lydia came to believe at Philippi?"
+  },
+  {
+   "id": "act_philippi_jailer",
+   "type": "STORY",
+   "name": "Paul and Silas in the Philippian jail",
+   "description": "After Paul casts a spirit out of a slave girl, her owners have Paul and Silas beaten and jailed. At midnight they pray and sing, an earthquake opens the doors, and the jailer asks what he must do to be saved; they tell him to believe on the Lord Jesus Christ, and he and his household are baptized.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "ACT 16:16-34"
+   ],
+   "evidence": [
+    "Describe what Paul and Silas did in the prison at midnight (16:25)",
+    "Give the jailer's question and the answer (16:30-31)"
+   ],
+   "prompt": "Can {{name}} tell what happened in the Philippian jail and how the jailer was saved?"
+  },
+  {
+   "id": "act_roman_citizens_philippi",
+   "type": "STORY",
+   "name": "Paul insists on his rights as a Roman",
+   "description": "The magistrates send word to let Paul and Silas go, but Paul says they were beaten openly uncondemned, being Romans, and demands that the magistrates come themselves. The magistrates fear and ask them to leave, and the pair visit Lydia's house and encourage the brethren before departing.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ACT 16:35-40"
+   ],
+   "evidence": [
+    "Say what Paul demanded and why (16:37)",
+    "Describe the magistrates' reaction (16:38-39)"
+   ],
+   "prompt": "Can {{name}} explain why Paul would not leave the Philippian prison quietly?"
+  },
+  {
+   "id": "act_thessalonica_berea",
+   "type": "STORY",
+   "name": "Thessalonica and Berea: reasoning from the scriptures",
+   "description": "At Thessalonica Paul reasons from the scriptures for three sabbaths that Christ must suffer and rise again; some believe but jealous Jews raise an uproar against Jason's house. At Berea the Jews receive the word readily and search the scriptures daily to see whether these things are so, but opponents from Thessalonica follow.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 17:1-15"
+   ],
+   "evidence": [
+    "Say what Paul argued from the scriptures (17:2-3)",
+    "Explain what made the Bereans noble (17:11)"
+   ],
+   "prompt": "Can {{name}} explain what the Bereans did with Paul's message?"
+  },
+  {
+   "id": "act_areopagus",
+   "type": "STORY",
+   "name": "Paul at the Areopagus in Athens",
+   "description": "Distressed by the idols of Athens, Paul is brought to the Areopagus, where he speaks of the altar to the unknown God. He says God who made the world does not dwell in temples, gave life and breath to all, made all nations of one blood, commands all men to repent, and will judge the world by the man he raised from the dead; some mock, and some believe.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 17:16-34"
+   ],
+   "evidence": [
+    "Say what Paul tells the Athenians about the God who made the world (17:24-28)",
+    "State the command and the warning in 17:30-31"
+   ],
+   "prompt": "Can {{name}} summarise what Paul said to the Athenians about God, repentance and judgment?"
+  },
+  {
+   "id": "act_corinth",
+   "type": "STORY",
+   "name": "Paul at Corinth",
+   "description": "At Corinth Paul works with Aquila and Priscilla and reasons in the synagogue; when the Jews oppose, he goes to the Gentiles, and Crispus the synagogue ruler believes. The Lord tells him in a night vision not to be afraid, for he has much people in the city, and Gallio dismisses the Jews' charge against him.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 18:1-17"
+   ],
+   "evidence": [
+    "Say what the Lord told Paul in the night (18:9-10)",
+    "Describe how Gallio handled the accusation (18:14-16)"
+   ],
+   "prompt": "Can {{name}} tell what happened to Paul at Corinth and what the Lord told him?"
+  },
+  {
+   "id": "act_apollos",
+   "type": "STORY",
+   "name": "Apollos is taught more perfectly",
+   "description": "Paul sails to Ephesus, Caesarea and Antioch and then strengthens the disciples in Galatia and Phrygia. Apollos, an eloquent man mighty in the scriptures who knows only the baptism of John, is taken aside by Aquila and Priscilla, who expound the way of God to him more perfectly, and he helps the believers in Achaia.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ACT 18:18-28"
+   ],
+   "evidence": [
+    "Say what Apollos knew and lacked (18:24-25)",
+    "Describe what Aquila and Priscilla did for him (18:26)"
+   ],
+   "prompt": "Can {{name}} explain how Apollos was helped by Priscilla and Aquila?"
+  },
+  {
+   "id": "act_ephesus_twelve",
+   "type": "STORY",
+   "name": "Paul at Ephesus: the twelve disciples and the school of Tyrannus",
+   "description": "Paul finds about twelve disciples at Ephesus who know only John's baptism; they are baptized in the name of the Lord Jesus, and when Paul lays hands on them the Holy Ghost comes and they speak with tongues and prophesy. Paul then reasons for two years, so that all in Asia hear the word of the Lord Jesus.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ACT 19:1-10"
+   ],
+   "evidence": [
+    "Say what the disciples had and had not received (19:2-5)",
+    "Describe where and how long Paul taught after leaving the synagogue (19:9-10)"
+   ],
+   "prompt": "Can {{name}} tell what happened to the twelve disciples at Ephesus?"
+  },
+  {
+   "id": "act_ephesus_miracles",
+   "type": "STORY",
+   "name": "Miracles at Ephesus and the burning of the books",
+   "description": "God works special miracles through Paul, and the seven sons of Sceva who try to use the name of Jesus over an evil spirit are overpowered. Fear falls on Ephesus, the name of the Lord Jesus is magnified, and believers burn their magic books worth fifty thousand pieces of silver.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 19:11-20"
+   ],
+   "evidence": [
+    "Say what happened to the sons of Sceva (19:13-16)",
+    "Describe how the believers responded (19:17-19)"
+   ],
+   "prompt": "Can {{name}} tell what happened to the sons of Sceva and what the believers did with their books?"
+  },
+  {
+   "id": "act_ephesus_riot",
+   "type": "STORY",
+   "name": "The riot of the silversmiths at Ephesus",
+   "description": "Demetrius the silversmith, whose trade in shrines for Diana is threatened by Paul's teaching that gods made with hands are no gods, stirs up the craftsmen. The whole city rushes into the theatre shouting \"Great is Diana\", until the town clerk quiets the crowd and says that disputes belong to the law courts and a lawful assembly.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 19:21-41"
+   ],
+   "evidence": [
+    "Say what Demetrius said was at stake (19:24-27)",
+    "Explain how the town clerk calmed the crowd (19:35-41)"
+   ],
+   "prompt": "Can {{name}} explain why the craftsmen at Ephesus were angry and how the riot ended?"
+  },
+  {
+   "id": "act_eutychus",
+   "type": "STORY",
+   "name": "Eutychus falls from the window at Troas",
+   "description": "Paul travels through Macedonia and Greece to Troas, where the disciples meet on the first day of the week to break bread. Paul speaks until midnight, young Eutychus falls from a third-floor window and is taken up dead, and Paul embraces him and tells them his life is in him.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "ACT 20:1-16"
+   ],
+   "evidence": [
+    "Describe what happened to Eutychus (20:9-10)",
+    "Say what the disciples were doing when Paul preached (20:7)"
+   ],
+   "prompt": "Can {{name}} retell what happened to Eutychus while Paul was preaching?"
+  },
+  {
+   "id": "act_miletus_farewell",
+   "type": "STORY",
+   "name": "Paul's farewell to the Ephesian elders",
+   "description": "At Miletus Paul calls the Ephesian elders and recalls his service and teaching in Asia, telling them he goes bound in the Spirit to Jerusalem. He charges them to feed the church of God, warns of grievous wolves arising even from among them, commends them to God and the word of his grace, and recalls that it is more blessed to give than to receive.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 20:17-38"
+   ],
+   "evidence": [
+    "Say what Paul told the elders to do and why (20:28-31)",
+    "Describe how the elders and Paul parted (20:36-38)"
+   ],
+   "prompt": "Can {{name}} explain Paul's charge to the Ephesian elders and the warnings he gave?"
+  },
+  {
+   "id": "act_toward_jerusalem",
+   "type": "STORY",
+   "name": "Warnings along the road to Jerusalem",
+   "description": "Paul sails to Tyre, where disciples tell him through the Spirit not to go up to Jerusalem, and stays at Caesarea with Philip the evangelist. The prophet Agabus binds his own hands and feet with Paul's girdle and says the Jews will bind him; Paul replies that he is ready to die for the name of the Lord Jesus, and they say the will of the Lord be done.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ACT 21:1-16"
+   ],
+   "evidence": [
+    "Say what Agabus did and said (21:10-11)",
+    "Explain Paul's answer to those who begged him not to go (21:13-14)"
+   ],
+   "prompt": "Can {{name}} explain the warnings Paul received on his way to Jerusalem and how he answered?"
+  },
+  {
+   "id": "act_paul_vow_jerusalem",
+   "type": "STORY",
+   "name": "Paul and the vow in the temple",
+   "description": "At Jerusalem James and the elders glorify God for Paul's report, but tell him that thousands of Jews zealous for the law have heard he teaches against Moses. They advise him to join four men with a vow, and restate that Gentile believers need keep only the things in the earlier letter; Paul does so in the temple.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 21:17-26"
+   ],
+   "evidence": [
+    "Say what rumour the elders mention and what they advised (21:20-24)",
+    "Restate the instruction about Gentile believers (21:25)"
+   ],
+   "prompt": "Can {{name}} explain why James and the elders advised Paul to take part in the vow?"
+  },
+  {
+   "id": "act_paul_arrested_temple",
+   "type": "STORY",
+   "name": "Paul is seized in the temple and arrested",
+   "description": "Jews from Asia stir up the people against Paul, saying he teaches against the people, the law and the place and has brought Greeks into the temple. They drag him out to kill him, the chief captain rescues him and binds him with chains, and Paul asks leave to speak to the people.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 21:27-40"
+   ],
+   "evidence": [
+    "Describe the charges of the Asian Jews (21:28-29)",
+    "Say how Paul was saved from the mob (21:31-33)"
+   ],
+   "prompt": "Can {{name}} tell why Paul was seized in the temple and how he was rescued?"
+  },
+  {
+   "id": "act_paul_defence_crowd",
+   "type": "STORY",
+   "name": "Paul tells his story to the crowd",
+   "description": "Speaking in Hebrew from the stairs, Paul tells of his upbringing under Gamaliel, his persecution of the Way, the vision on the Damascus road, and Ananias' words. He says that in the temple the Lord told him to depart because he would be sent far to the Gentiles, and at that word the crowd cries out for his death.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 22:1-21"
+   ],
+   "evidence": [
+    "Summarise the parts of his life Paul describes (22:3-5, 22:6-16)",
+    "Say which word made the crowd shout (22:21-22)"
+   ],
+   "prompt": "Can {{name}} retell Paul's own account of how he came to follow Jesus and why the crowd shouted?"
+  },
+  {
+   "id": "act_roman_citizen",
+   "type": "STORY",
+   "name": "Paul declares he is a Roman",
+   "description": "As the chief captain orders Paul to be examined by scourging, Paul asks the centurion whether it is lawful to scourge a Roman uncondemned. The chief captain is afraid on learning that Paul is a Roman, freeborn, and next day sets him before the chief priests and council.",
+   "covenant": null,
+   "ages": [
+    11,
+    17
+   ],
+   "passages": [
+    "ACT 22:22-30"
+   ],
+   "evidence": [
+    "Say what Paul asked the centurion (22:25)",
+    "Describe how the chief captain reacted (22:26-29)"
+   ],
+   "prompt": "Can {{name}} explain how Paul's Roman citizenship affected his treatment?"
+  },
+  {
+   "id": "act_paul_sanhedrin",
+   "type": "STORY",
+   "name": "Paul before the council: the resurrection",
+   "description": "Paul tells the council he has lived in all good conscience, and when the high priest orders him struck, he rebukes him and then says he did not know he was the high priest. Perceiving Sadducees and Pharisees, he says he is called in question for the hope of the resurrection, the council divides, and the Lord stands by him that night to say he must bear witness at Rome.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 23:1-11"
+   ],
+   "evidence": [
+    "Say how Paul divided the council (23:6-9)",
+    "State what the Lord told Paul that night (23:11)"
+   ],
+   "prompt": "Can {{name}} explain how Paul used the question of the resurrection before the council?"
+  },
+  {
+   "id": "act_plot_caesarea",
+   "type": "STORY",
+   "name": "The plot against Paul and his transfer to Caesarea",
+   "description": "More than forty Jews bind themselves by a curse to neither eat nor drink till they have killed Paul. Paul's sister's son tells the chief captain, who sends Paul by night with a large escort and a letter to Felix at Caesarea.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 23:12-35"
+   ],
+   "evidence": [
+    "Describe the plot and who uncovered it (23:12-16)",
+    "Say what the chief captain's letter reports (23:26-30)"
+   ],
+   "prompt": "Can {{name}} tell how the plot against Paul was discovered and how he was kept safe?"
+  },
+  {
+   "id": "act_paul_felix",
+   "type": "STORY",
+   "name": "Paul before Felix",
+   "description": "The high priest and the orator Tertullus accuse Paul before Felix; Paul answers that he worships the God of his fathers, believes the law and the prophets, and hopes for a resurrection of the just and unjust. Felix trembles when Paul reasons of righteousness, temperance and judgment to come, but defers him and leaves him bound for two years.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 24:1-27"
+   ],
+   "evidence": [
+    "Say what Paul confessed about the way he worships (24:14-16)",
+    "Describe Felix's response and how long Paul stayed bound (24:25-27)"
+   ],
+   "prompt": "Can {{name}} explain how Paul defended himself before Felix and how Felix responded?"
+  },
+  {
+   "id": "act_paul_appeals_caesar",
+   "type": "STORY",
+   "name": "Paul appeals to Caesar",
+   "description": "Festus succeeds Felix and the Jews ask that Paul be sent to Jerusalem, intending an ambush. Paul says he has not offended against the law, the temple or Caesar, refuses to be handed over, and appeals to Caesar; Festus answers that he will go to Caesar.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 25:1-12"
+   ],
+   "evidence": [
+    "Say what Paul said when Festus proposed a trial at Jerusalem (25:9-11)",
+    "Give Festus' decision (25:12)"
+   ],
+   "prompt": "Can {{name}} explain why Paul appealed to Caesar?"
+  },
+  {
+   "id": "act_festus_agrippa",
+   "type": "STORY",
+   "name": "Festus lays Paul's case before King Agrippa",
+   "description": "King Agrippa and Bernice visit Festus, who explains that the accusers brought no charge he expected, only questions about their religion and about one Jesus who was dead whom Paul affirmed to be alive. Agrippa wishes to hear Paul and Festus brings him forth, saying he has no certain thing to write to Caesar.",
+   "covenant": null,
+   "ages": [
+    11,
+    17
+   ],
+   "passages": [
+    "ACT 25:13-27"
+   ],
+   "evidence": [
+    "Say how Festus summarised the case (25:18-19)",
+    "State why Festus brought Paul before Agrippa (25:26-27)"
+   ],
+   "prompt": "Can {{name}} explain what Festus told Agrippa about Paul's case?"
+  },
+  {
+   "id": "act_paul_agrippa",
+   "type": "STORY",
+   "name": "Paul's defence before Agrippa",
+   "description": "Paul tells Agrippa of his life as a Pharisee, his persecution of the saints and the vision on the road to Damascus, where Jesus sends him to open eyes and turn Gentiles from darkness to light. He says he says nothing beyond what Moses and the prophets said, that Christ should suffer and rise first, and Agrippa answers \"Almost thou persuadest me to be a Christian\".",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 26"
+   ],
+   "evidence": [
+    "State the commission Jesus gave Paul (26:16-18)",
+    "Say what Paul says the prophets and Moses foretold (26:22-23)"
+   ],
+   "prompt": "Can {{name}} retell Paul's speech to Agrippa and how Agrippa replied?"
+  },
+  {
+   "id": "act_voyage_storm",
+   "type": "STORY",
+   "name": "The voyage to Rome and the storm",
+   "description": "Paul and other prisoners are delivered to the centurion Julius and sail for Italy; Paul warns of danger but the centurion trusts the master of the ship. A tempest drives the ship for many days until all hope is lost, then an angel tells Paul he must stand before Caesar and that God has given him all who sail with him.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 27:1-26"
+   ],
+   "evidence": [
+    "Say what Paul warned and who was believed (27:9-11)",
+    "Give the angel's message to Paul (27:23-25)"
+   ],
+   "prompt": "Can {{name}} tell how the storm began and what God told Paul in it?"
+  },
+  {
+   "id": "act_shipwreck",
+   "type": "STORY",
+   "name": "The shipwreck and the escape to land",
+   "description": "On the fourteenth night the sailors try to flee and Paul tells the centurion they must stay in the ship; Paul urges all to eat and gives thanks to God before them. The ship runs aground and breaks up, the centurion stops the soldiers from killing the prisoners, and all 276 reach land safe.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "ACT 27:27-44"
+   ],
+   "evidence": [
+    "Describe what Paul urged before the wreck (27:31, 27:33-36)",
+    "Say what happened to the people on board (27:42-44)"
+   ],
+   "prompt": "Can {{name}} explain how everyone on the ship came safely to land?"
+  },
+  {
+   "id": "act_malta",
+   "type": "STORY",
+   "name": "Paul on Malta",
+   "description": "The islanders show kindness; when a viper fastens on Paul's hand he shakes it off unharmed, and they change their minds and say he is a god. Paul prays for and heals the father of Publius and others on the island.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "ACT 28:1-10"
+   ],
+   "evidence": [
+    "Describe the viper and the islanders' two opinions (28:3-6)",
+    "Say what Paul did for Publius' father (28:8)"
+   ],
+   "prompt": "Can {{name}} tell what happened to Paul on Malta?"
+  },
+  {
+   "id": "act_arrival_rome",
+   "type": "STORY",
+   "name": "Paul arrives at Rome",
+   "description": "After three months the party sails in a ship of Alexandria and lands at Puteoli, where they find brethren. Believers from Rome come to meet Paul on the road, and he thanks God and takes courage; at Rome he is allowed to dwell by himself with a soldier.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "ACT 28:11-16"
+   ],
+   "evidence": [
+    "Say how the Roman brethren met Paul (28:15)",
+    "Describe the conditions of his stay at Rome (28:16)"
+   ],
+   "prompt": "Can {{name}} explain how Paul arrived at Rome and who welcomed him?"
+  },
+  {
+   "id": "act_paul_rome_testimony",
+   "type": "STORY",
+   "name": "Paul preaches in Rome",
+   "description": "Paul tells the Jewish leaders at Rome that he is bound for the hope of Israel and expounds the kingdom of God from Moses and the prophets, with some believing and others not. He quotes Isaiah on hardened hearts, says salvation is sent to the Gentiles, and for two years receives all who come, preaching with all confidence, no man forbidding him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ACT 28:17-31"
+   ],
+   "evidence": [
+    "Say how the Jews divided in response (28:24-25)",
+    "Describe how the book ends (28:30-31)"
+   ],
+   "prompt": "Can {{name}} explain what Paul did and said at Rome and how Acts ends?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "act_ascension",
+   "prereq": "book_act",
+   "strength": "soft",
+   "reason": "The overview gives the shape of Acts, which begins at 1:1 with the ascension"
+  },
+  {
+   "topic": "act_matthias",
+   "prereq": "act_ascension",
+   "strength": "soft",
+   "reason": "The 120 gather in Jerusalem after the ascension (1:12-15)"
+  },
+  {
+   "topic": "act_pentecost",
+   "prereq": "act_ascension",
+   "strength": "hard",
+   "reason": "Jesus told them to wait in Jerusalem for the promise of the Father (1:4-5), which is fulfilled in 2:1-4"
+  },
+  {
+   "topic": "act_pentecost_sermon",
+   "prereq": "act_pentecost",
+   "strength": "hard",
+   "reason": "Peter answers the question \"what meaneth this?\" and the charge of drunkenness raised in 2:12-13"
+  },
+  {
+   "topic": "act_early_church",
+   "prereq": "act_pentecost_sermon",
+   "strength": "soft",
+   "reason": "The believers described are the three thousand baptized in 2:41"
+  },
+  {
+   "topic": "act_lame_man",
+   "prereq": "act_early_church",
+   "strength": "soft",
+   "reason": "Many wonders and signs were being done by the apostles (2:43)"
+  },
+  {
+   "topic": "act_temple_sermon",
+   "prereq": "act_lame_man",
+   "strength": "hard",
+   "reason": "Peter speaks to the people gathered in Solomon's porch because of the healing (3:11-12)"
+  },
+  {
+   "topic": "act_council_peter_john",
+   "prereq": "act_temple_sermon",
+   "strength": "hard",
+   "reason": "The arrest happens while Peter and John are speaking to the people after the healing (4:1-2)"
+  },
+  {
+   "topic": "act_church_prays",
+   "prereq": "act_council_peter_john",
+   "strength": "hard",
+   "reason": "They pray about the threatenings reported in 4:23 from the council scene"
+  },
+  {
+   "topic": "act_sharing",
+   "prereq": "act_early_church",
+   "strength": "soft",
+   "reason": "Continues the description of believers having all things common (2:44-45)"
+  },
+  {
+   "topic": "act_ananias_sapphira",
+   "prereq": "act_sharing",
+   "strength": "hard",
+   "reason": "Follows Barnabas' gift of sold land (4:36-37) with a couple who sell land and keep back part (5:1-2)"
+  },
+  {
+   "topic": "act_apostles_prison",
+   "prereq": "act_ananias_sapphira",
+   "strength": "soft",
+   "reason": "Chapter 5 continues with the apostles' signs among the people after the fear on the church (5:11-12)"
+  },
+  {
+   "topic": "act_seven_chosen",
+   "prereq": "act_apostles_prison",
+   "strength": "soft",
+   "reason": "The number of disciples has multiplied (6:1) after the growth recorded in chapters 2 to 5"
+  },
+  {
+   "topic": "act_stephen_arrested",
+   "prereq": "act_seven_chosen",
+   "strength": "hard",
+   "reason": "Stephen is the first-named of the seven chosen in 6:5"
+  },
+  {
+   "topic": "act_stephen_patriarchs",
+   "prereq": "act_stephen_arrested",
+   "strength": "hard",
+   "reason": "The high priest asks \"Are these things so?\" in answer to the charges of 6:11-14 (7:1)"
+  },
+  {
+   "topic": "act_stephen_moses",
+   "prereq": "act_stephen_patriarchs",
+   "strength": "hard",
+   "reason": "Stephen continues the story from Israel in Egypt (7:15-17)"
+  },
+  {
+   "topic": "act_stephen_temple",
+   "prereq": "act_stephen_moses",
+   "strength": "hard",
+   "reason": "The speech moves directly from the wilderness generation (7:41-43) to the tabernacle (7:44)"
+  },
+  {
+   "topic": "act_stephen_martyred",
+   "prereq": "act_stephen_temple",
+   "strength": "hard",
+   "reason": "The council's reaction in 7:54 is to Stephen's charge in 7:51-53"
+  },
+  {
+   "topic": "act_church_scattered",
+   "prereq": "act_stephen_martyred",
+   "strength": "hard",
+   "reason": "Chapter 8 begins with Saul consenting to Stephen's death (8:1; 7:58)"
+  },
+  {
+   "topic": "act_philip_samaria",
+   "prereq": "act_church_scattered",
+   "strength": "hard",
+   "reason": "Philip, one of the seven (6:5), goes to Samaria among the scattered believers (8:1, 8:4-5)"
+  },
+  {
+   "topic": "act_ethiopian_eunuch",
+   "prereq": "act_philip_samaria",
+   "strength": "soft",
+   "reason": "Philip continues his ministry after Samaria (8:25-26)"
+  },
+  {
+   "topic": "act_damascus_road",
+   "prereq": "act_church_scattered",
+   "strength": "hard",
+   "reason": "Saul is introduced as persecutor of the church in 8:1-3 and now goes to Damascus with letters (9:1-2)"
+  },
+  {
+   "topic": "act_saul_preaches",
+   "prereq": "act_damascus_road",
+   "strength": "hard",
+   "reason": "Saul has just been baptized and stayed with the disciples in Damascus (9:18-19)"
+  },
+  {
+   "topic": "act_aeneas_dorcas",
+   "prereq": "act_saul_preaches",
+   "strength": "soft",
+   "reason": "Peter travels among the churches that now have rest (9:31-32)"
+  },
+  {
+   "topic": "act_cornelius_peter_visions",
+   "prereq": "act_aeneas_dorcas",
+   "strength": "hard",
+   "reason": "Peter is staying at Joppa in the house of Simon the tanner (9:43), where Cornelius' messengers come (10:5-6)"
+  },
+  {
+   "topic": "act_gentiles_receive_spirit",
+   "prereq": "act_cornelius_peter_visions",
+   "strength": "hard",
+   "reason": "Peter goes to Caesarea with the men after his vision (10:23-24)"
+  },
+  {
+   "topic": "act_peter_defends_gentiles",
+   "prereq": "act_gentiles_receive_spirit",
+   "strength": "hard",
+   "reason": "Peter retells the events of chapter 10 (11:4-17)"
+  },
+  {
+   "topic": "act_antioch_church",
+   "prereq": "act_church_scattered",
+   "strength": "hard",
+   "reason": "Those scattered by the persecution about Stephen travel to Antioch (11:19)"
+  },
+  {
+   "topic": "act_peter_freed",
+   "prereq": "act_antioch_church",
+   "strength": "soft",
+   "reason": "Herod's persecution occurs about the time Barnabas and Saul bring relief to Judaea (11:30; 12:1)"
+  },
+  {
+   "topic": "act_herod_dies",
+   "prereq": "act_peter_freed",
+   "strength": "soft",
+   "reason": "Herod is the king who killed James and imprisoned Peter (12:1-4)"
+  },
+  {
+   "topic": "act_antioch_sends",
+   "prereq": "act_herod_dies",
+   "strength": "soft",
+   "reason": "Barnabas and Saul return to Antioch with John Mark (12:25) before being sent (13:1-3)"
+  },
+  {
+   "topic": "act_pisidian_sermon",
+   "prereq": "act_antioch_sends",
+   "strength": "hard",
+   "reason": "Paul and Barnabas come to Antioch in Pisidia on their journey from Cyprus and Perga (13:13-14)"
+  },
+  {
+   "topic": "act_turn_to_gentiles",
+   "prereq": "act_pisidian_sermon",
+   "strength": "hard",
+   "reason": "The Gentiles ask for these words to be preached again after Paul's sermon (13:42)"
+  },
+  {
+   "topic": "act_iconium_lystra",
+   "prereq": "act_turn_to_gentiles",
+   "strength": "hard",
+   "reason": "The apostles come to Iconium after being expelled from Antioch (13:50-51; 14:1)"
+  },
+  {
+   "topic": "act_first_journey_return",
+   "prereq": "act_iconium_lystra",
+   "strength": "hard",
+   "reason": "They return to Lystra, Iconium and Antioch after Derbe (14:20-21)"
+  },
+  {
+   "topic": "act_jerusalem_council",
+   "prereq": "act_first_journey_return",
+   "strength": "hard",
+   "reason": "Paul and Barnabas had reported that God opened the door of faith to the Gentiles (14:27), and the dispute follows in 15:1-2"
+  },
+  {
+   "topic": "act_council_letter",
+   "prereq": "act_jerusalem_council",
+   "strength": "hard",
+   "reason": "The letter reports the decision of the council in 15:19-20"
+  },
+  {
+   "topic": "act_paul_barnabas_part",
+   "prereq": "act_council_letter",
+   "strength": "soft",
+   "reason": "Paul and Barnabas had stayed at Antioch teaching (15:35); John Mark left them earlier (13:13)"
+  },
+  {
+   "topic": "act_timothy_macedonia",
+   "prereq": "act_paul_barnabas_part",
+   "strength": "hard",
+   "reason": "Paul is now travelling with Silas through the cities of Syria, Cilicia, Derbe and Lystra (15:40-41; 16:1)"
+  },
+  {
+   "topic": "act_lydia",
+   "prereq": "act_timothy_macedonia",
+   "strength": "hard",
+   "reason": "The party sails to Macedonia in response to the vision (16:10-12)"
+  },
+  {
+   "topic": "act_philippi_jailer",
+   "prereq": "act_lydia",
+   "strength": "hard",
+   "reason": "The slave girl meets them as they go to prayer at Philippi (16:16), the city of 16:12"
+  },
+  {
+   "topic": "act_roman_citizens_philippi",
+   "prereq": "act_philippi_jailer",
+   "strength": "hard",
+   "reason": "Follows the night in the jail, when the magistrates send officers the next morning (16:35)"
+  },
+  {
+   "topic": "act_thessalonica_berea",
+   "prereq": "act_roman_citizens_philippi",
+   "strength": "soft",
+   "reason": "Paul and Silas travel on from Philippi through Amphipolis and Apollonia (16:40; 17:1)"
+  },
+  {
+   "topic": "act_areopagus",
+   "prereq": "act_thessalonica_berea",
+   "strength": "hard",
+   "reason": "Paul waited at Athens after being sent away from Berea (17:14-16)"
+  },
+  {
+   "topic": "act_corinth",
+   "prereq": "act_areopagus",
+   "strength": "hard",
+   "reason": "Paul leaves Athens and comes to Corinth (18:1)"
+  },
+  {
+   "topic": "act_apollos",
+   "prereq": "act_corinth",
+   "strength": "hard",
+   "reason": "Priscilla and Aquila leave Corinth with Paul and are left at Ephesus (18:18-19)"
+  },
+  {
+   "topic": "act_ephesus_twelve",
+   "prereq": "act_apollos",
+   "strength": "hard",
+   "reason": "Paul comes to Ephesus while Apollos is at Corinth (19:1), and Apollos had known only John's baptism (18:25)"
+  },
+  {
+   "topic": "act_ephesus_miracles",
+   "prereq": "act_ephesus_twelve",
+   "strength": "soft",
+   "reason": "Both occur during Paul's two years at Ephesus (19:10-11)"
+  },
+  {
+   "topic": "act_ephesus_riot",
+   "prereq": "act_ephesus_miracles",
+   "strength": "soft",
+   "reason": "The riot comes after the word has prevailed in Asia (19:10, 19:20) and Paul has planned to leave (19:21-23)"
+  },
+  {
+   "topic": "act_eutychus",
+   "prereq": "act_ephesus_riot",
+   "strength": "hard",
+   "reason": "Paul leaves for Macedonia after the uproar at Ephesus ceased (20:1)"
+  },
+  {
+   "topic": "act_miletus_farewell",
+   "prereq": "act_eutychus",
+   "strength": "hard",
+   "reason": "Paul hastens toward Jerusalem and stops at Miletus on the way (20:16-17)"
+  },
+  {
+   "topic": "act_toward_jerusalem",
+   "prereq": "act_miletus_farewell",
+   "strength": "hard",
+   "reason": "Paul parts from the Ephesian elders to sail toward Jerusalem (20:38; 21:1)"
+  },
+  {
+   "topic": "act_paul_vow_jerusalem",
+   "prereq": "act_toward_jerusalem",
+   "strength": "hard",
+   "reason": "Paul arrives at Jerusalem and goes to James (21:15-18)"
+  },
+  {
+   "topic": "act_paul_arrested_temple",
+   "prereq": "act_paul_vow_jerusalem",
+   "strength": "hard",
+   "reason": "The seizure occurs as the seven days of the vow are almost ended (21:27)"
+  },
+  {
+   "topic": "act_paul_defence_crowd",
+   "prereq": "act_paul_arrested_temple",
+   "strength": "hard",
+   "reason": "Paul speaks after being given leave on the stairs (21:40)"
+  },
+  {
+   "topic": "act_roman_citizen",
+   "prereq": "act_paul_defence_crowd",
+   "strength": "hard",
+   "reason": "The crowd's outcry leads to the order to examine Paul by scourging (22:22-24)"
+  },
+  {
+   "topic": "act_paul_sanhedrin",
+   "prereq": "act_roman_citizen",
+   "strength": "hard",
+   "reason": "The chief captain brings Paul before the council (22:30)"
+  },
+  {
+   "topic": "act_plot_caesarea",
+   "prereq": "act_paul_sanhedrin",
+   "strength": "hard",
+   "reason": "The conspiracy begins the day after the Lord's word to Paul (23:11-12)"
+  },
+  {
+   "topic": "act_paul_felix",
+   "prereq": "act_plot_caesarea",
+   "strength": "hard",
+   "reason": "Felix is the governor to whom Paul was sent at Caesarea (23:24, 23:33-35)"
+  },
+  {
+   "topic": "act_paul_appeals_caesar",
+   "prereq": "act_paul_felix",
+   "strength": "hard",
+   "reason": "Festus took Felix's place and Paul remained bound (24:27; 25:1)"
+  },
+  {
+   "topic": "act_festus_agrippa",
+   "prereq": "act_paul_appeals_caesar",
+   "strength": "hard",
+   "reason": "Festus has already decided to send Paul to Caesar (25:12, 25:21)"
+  },
+  {
+   "topic": "act_paul_agrippa",
+   "prereq": "act_festus_agrippa",
+   "strength": "hard",
+   "reason": "Paul speaks at the hearing arranged in 25:22-27"
+  },
+  {
+   "topic": "act_voyage_storm",
+   "prereq": "act_paul_agrippa",
+   "strength": "hard",
+   "reason": "Agrippa said Paul could have been freed if he had not appealed to Caesar (26:32), so he is now sent to Italy (27:1)"
+  },
+  {
+   "topic": "act_shipwreck",
+   "prereq": "act_voyage_storm",
+   "strength": "hard",
+   "reason": "Continues the storm in which God promised Paul that none would be lost (27:22-26)"
+  },
+  {
+   "topic": "act_malta",
+   "prereq": "act_shipwreck",
+   "strength": "hard",
+   "reason": "Those who escaped the wreck learn the island is Melita (27:44; 28:1)"
+  },
+  {
+   "topic": "act_arrival_rome",
+   "prereq": "act_malta",
+   "strength": "hard",
+   "reason": "They leave Malta after three months (28:11)"
+  },
+  {
+   "topic": "act_paul_rome_testimony",
+   "prereq": "act_arrival_rome",
+   "strength": "hard",
+   "reason": "Paul calls the chief of the Jews together three days after arriving in Rome (28:16-17)"
+  }
+ ],
+ "relations": [
+  {
+   "from": "gen_call_abram",
+   "to": "act_stephen_patriarchs",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 12:1",
+    "ACT 7:3"
+   ]
+  },
+  {
+   "from": "gen_abrahamic_covenant",
+   "to": "act_stephen_patriarchs",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 15:13-14",
+    "ACT 7:6-7"
+   ]
+  },
+  {
+   "from": "gen_circumcision",
+   "to": "act_stephen_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    "GEN 17:10-11",
+    "ACT 7:8"
+   ]
+  },
+  {
+   "from": "gen_joseph_sold",
+   "to": "act_stephen_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    "GEN 37:28",
+    "ACT 7:9"
+   ]
+  },
+  {
+   "from": "gen_joseph_exalted",
+   "to": "act_stephen_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    "GEN 41:41-43",
+    "ACT 7:10"
+   ]
+  },
+  {
+   "from": "gen_jacob_to_egypt",
+   "to": "act_stephen_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    "GEN 46:27",
+    "ACT 7:14-15"
+   ]
+  },
+  {
+   "from": "gen_abraham_isaac",
+   "to": "act_temple_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 22:18",
+    "ACT 3:25"
+   ]
+  }
+ ]
+}

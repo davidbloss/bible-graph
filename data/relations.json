@@ -1,0 +1,3767 @@
+{
+ "version": "v0",
+ "relationCount": 197,
+ "relations": [
+  {
+   "from": "bt_gen_abraham_believed",
+   "to": "bt_rom_abraham",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "ROM",
+     "chapter": 4,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_circumcision",
+   "to": "bt_rom_abraham",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 17,
+     "verseStart": 10,
+     "verseEnd": 11
+    },
+    {
+     "book": "ROM",
+     "chapter": 4,
+     "verseStart": 11,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_circumcision",
+   "to": "bt_rom_abraham",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 17,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "ROM",
+     "chapter": 4,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abrahamic_covenant",
+   "to": "bt_rom_abraham",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "ROM",
+     "chapter": 4,
+     "verseStart": 18,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_isaac_born",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 21,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 7,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_jacob_esau",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 25,
+     "verseStart": 23,
+     "verseEnd": 23
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 12,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_fall",
+   "to": "bt_rom_adam_christ",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 3,
+     "verseStart": 1,
+     "verseEnd": 13
+    },
+    {
+     "book": "ROM",
+     "chapter": 5,
+     "verseStart": 12,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_providence",
+   "to": "bt_rom_golden_chain",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 50,
+     "verseStart": 20,
+     "verseEnd": 20
+    },
+    {
+     "book": "ROM",
+     "chapter": 8,
+     "verseStart": 28,
+     "verseEnd": 28
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_noahic_covenant",
+   "to": "bt_gen_flood",
+   "kind": "part-of-covenant",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 6,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "GEN",
+     "chapter": 9,
+     "verseStart": 8,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abrahamic_covenant",
+   "to": "bt_gen_call_abram",
+   "kind": "part-of-covenant",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 12,
+     "verseStart": 1,
+     "verseEnd": 3
+    },
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 18,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_circumcision",
+   "to": "bt_gen_abrahamic_covenant",
+   "kind": "part-of-covenant",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 17,
+     "verseStart": 1,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_hagar_sent_away",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 21,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 7,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_three_visitors",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 18,
+     "verseStart": 10,
+     "verseEnd": 10
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_joseph_revealed",
+   "to": "bt_gen_providence",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 45,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "GEN",
+     "chapter": 50,
+     "verseStart": 20,
+     "verseEnd": 20
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_joseph_sold",
+   "to": "bt_gen_brothers_first_trip",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 37,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "GEN",
+     "chapter": 42,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "GEN",
+     "chapter": 42,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_creation",
+   "to": "bt_exo_sabbath",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 2,
+     "verseEnd": 3
+    },
+    {
+     "book": "EXO",
+     "chapter": 20,
+     "verseStart": 11,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_exo_moses_asks_glory",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 33,
+     "verseStart": 19,
+     "verseEnd": 19
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 15,
+     "verseEnd": 15
+    }
+   ]
+  },
+  {
+   "from": "bt_exo_plague_hail",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 9,
+     "verseStart": 16,
+     "verseEnd": 16
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_exo_covenant_renewed",
+   "to": "bt_exo_ten_commandments",
+   "kind": "part-of-covenant",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 34,
+     "verseStart": 28,
+     "verseEnd": 28
+    },
+    {
+     "book": "EXO",
+     "chapter": 20,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_exo_covenant_ratified",
+   "to": "bt_exo_kingdom_of_priests",
+   "kind": "part-of-covenant",
+   "refs": [
+    {
+     "book": "EXO",
+     "chapter": 19,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "EXO",
+     "chapter": 24,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abrahamic_covenant",
+   "to": "bt_exo_firstborn_exodus",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 13,
+     "verseEnd": 14
+    },
+    {
+     "book": "EXO",
+     "chapter": 12,
+     "verseStart": 35,
+     "verseEnd": 36
+    },
+    {
+     "book": "EXO",
+     "chapter": 12,
+     "verseStart": 40,
+     "verseEnd": 41
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_providence",
+   "to": "bt_exo_pillar",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 50,
+     "verseStart": 24,
+     "verseEnd": 25
+    },
+    {
+     "book": "EXO",
+     "chapter": 13,
+     "verseStart": 19,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abrahamic_covenant",
+   "to": "bt_jos_levite_cities",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "JOS",
+     "chapter": 21,
+     "verseStart": 43,
+     "verseEnd": 43
+    }
+   ]
+  },
+  {
+   "from": "bt_jos_caleb",
+   "to": "bt_jdg_incomplete_conquest",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JOS",
+     "chapter": 15,
+     "verseStart": 16,
+     "verseEnd": 19
+    },
+    {
+     "book": "JDG",
+     "chapter": 1,
+     "verseStart": 12,
+     "verseEnd": 15
+    }
+   ]
+  },
+  {
+   "from": "bt_jos_shechem_covenant",
+   "to": "bt_jdg_cycle",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JOS",
+     "chapter": 24,
+     "verseStart": 29,
+     "verseEnd": 31
+    },
+    {
+     "book": "JDG",
+     "chapter": 2,
+     "verseStart": 7,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_2sa_nathan_rebukes",
+   "to": "bt_2sa_absalom_revolt",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "2SA",
+     "chapter": 12,
+     "verseStart": 11,
+     "verseEnd": 11
+    },
+    {
+     "book": "2SA",
+     "chapter": 12,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "2SA",
+     "chapter": 16,
+     "verseStart": 22,
+     "verseEnd": 22
+    }
+   ]
+  },
+  {
+   "from": "bt_2sa_david_last_words",
+   "to": "bt_2sa_davidic_promise",
+   "kind": "part-of-covenant",
+   "refs": [
+    {
+     "book": "2SA",
+     "chapter": 23,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "2SA",
+     "chapter": 7,
+     "verseStart": 16,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_lev_unlawful_unions",
+   "to": "bt_rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "LEV",
+     "chapter": 18,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "ROM",
+     "chapter": 10,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_lev_be_holy",
+   "to": "bt_rom_authorities",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "LEV",
+     "chapter": 19,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "ROM",
+     "chapter": 13,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_ten_words",
+   "to": "bt_rom_authorities",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 5,
+     "verseStart": 17,
+     "verseEnd": 21
+    },
+    {
+     "book": "ROM",
+     "chapter": 13,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_ten_words",
+   "to": "bt_rom_law_sin",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 5,
+     "verseStart": 21,
+     "verseEnd": 21
+    },
+    {
+     "book": "ROM",
+     "chapter": 7,
+     "verseStart": 7,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_choose_life",
+   "to": "bt_rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 30,
+     "verseStart": 12,
+     "verseEnd": 14
+    },
+    {
+     "book": "ROM",
+     "chapter": 10,
+     "verseStart": 6,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_song_of_moses",
+   "to": "bt_rom_living_sacrifice",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 32,
+     "verseStart": 35,
+     "verseEnd": 35
+    },
+    {
+     "book": "ROM",
+     "chapter": 12,
+     "verseStart": 19,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_song_of_moses",
+   "to": "bt_rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 32,
+     "verseStart": 21,
+     "verseEnd": 21
+    },
+    {
+     "book": "ROM",
+     "chapter": 10,
+     "verseStart": 19,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_song_of_moses",
+   "to": "bt_rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 32,
+     "verseStart": 43,
+     "verseEnd": 43
+    },
+    {
+     "book": "ROM",
+     "chapter": 15,
+     "verseStart": 10,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_ten_words",
+   "to": "bt_deu_hear_statutes",
+   "kind": "part-of-covenant",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 4,
+     "verseStart": 13,
+     "verseEnd": 13
+    },
+    {
+     "book": "DEU",
+     "chapter": 5,
+     "verseStart": 2,
+     "verseEnd": 2
+    }
+   ]
+  },
+  {
+   "from": "bt_deu_ten_words",
+   "to": "bt_deu_golden_calf_recalled",
+   "kind": "part-of-covenant",
+   "refs": [
+    {
+     "book": "DEU",
+     "chapter": 9,
+     "verseStart": 9,
+     "verseEnd": 9
+    },
+    {
+     "book": "DEU",
+     "chapter": 10,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_call_abram",
+   "to": "bt_act_stephen_patriarchs",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 12,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "ACT",
+     "chapter": 7,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abrahamic_covenant",
+   "to": "bt_act_stephen_patriarchs",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 13,
+     "verseEnd": 14
+    },
+    {
+     "book": "ACT",
+     "chapter": 7,
+     "verseStart": 6,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_circumcision",
+   "to": "bt_act_stephen_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 17,
+     "verseStart": 10,
+     "verseEnd": 11
+    },
+    {
+     "book": "ACT",
+     "chapter": 7,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_joseph_sold",
+   "to": "bt_act_stephen_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 37,
+     "verseStart": 28,
+     "verseEnd": 28
+    },
+    {
+     "book": "ACT",
+     "chapter": 7,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_joseph_exalted",
+   "to": "bt_act_stephen_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 41,
+     "verseStart": 41,
+     "verseEnd": 43
+    },
+    {
+     "book": "ACT",
+     "chapter": 7,
+     "verseStart": 10,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_jacob_to_egypt",
+   "to": "bt_act_stephen_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 46,
+     "verseStart": 27,
+     "verseEnd": 27
+    },
+    {
+     "book": "ACT",
+     "chapter": 7,
+     "verseStart": 14,
+     "verseEnd": 15
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abraham_isaac",
+   "to": "bt_act_temple_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 22,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "ACT",
+     "chapter": 3,
+     "verseStart": 25,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_jas_faith_works",
+   "to": "bt_gen_abraham_believed",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JAS",
+     "chapter": 2,
+     "verseStart": 21,
+     "verseEnd": 23
+    },
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_jas_faith_works",
+   "to": "bt_gen_abraham_isaac",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JAS",
+     "chapter": 2,
+     "verseStart": 21,
+     "verseEnd": 21
+    },
+    {
+     "book": "GEN",
+     "chapter": 22,
+     "verseStart": 9,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_1pe_christ_suffered_once",
+   "to": "bt_gen_flood",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1PE",
+     "chapter": 3,
+     "verseStart": 20,
+     "verseEnd": 20
+    },
+    {
+     "book": "GEN",
+     "chapter": 7,
+     "verseStart": 7,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_1pe_wives_husbands",
+   "to": "bt_gen_three_visitors",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1PE",
+     "chapter": 3,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "GEN",
+     "chapter": 18,
+     "verseStart": 12,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_2pe_false_teachers",
+   "to": "bt_gen_flood",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2PE",
+     "chapter": 2,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "GEN",
+     "chapter": 7,
+     "verseStart": 23,
+     "verseEnd": 23
+    }
+   ]
+  },
+  {
+   "from": "bt_2pe_false_teachers",
+   "to": "bt_gen_sodom_destroyed",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2PE",
+     "chapter": 2,
+     "verseStart": 6,
+     "verseEnd": 7
+    },
+    {
+     "book": "GEN",
+     "chapter": 19,
+     "verseStart": 24,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_2pe_scoffers",
+   "to": "bt_gen_flood",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2PE",
+     "chapter": 3,
+     "verseStart": 5,
+     "verseEnd": 6
+    },
+    {
+     "book": "GEN",
+     "chapter": 7,
+     "verseStart": 23,
+     "verseEnd": 23
+    }
+   ]
+  },
+  {
+   "from": "bt_1jn_love_in_deed",
+   "to": "bt_gen_cain_abel",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1JN",
+     "chapter": 3,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "GEN",
+     "chapter": 4,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_jud_examples_of_judgment",
+   "to": "bt_gen_sodom_destroyed",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JUD",
+     "chapter": 1,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "GEN",
+     "chapter": 19,
+     "verseStart": 24,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_2pe_false_teachers",
+   "to": "bt_jud_examples_of_judgment",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2PE",
+     "chapter": 2,
+     "verseStart": 4,
+     "verseEnd": 6
+    },
+    {
+     "book": "JUD",
+     "chapter": 1,
+     "verseStart": 6,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_rev_lamb_scroll",
+   "to": "bt_gen_judah_blessing",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "REV",
+     "chapter": 5,
+     "verseStart": 5,
+     "verseEnd": 5
+    },
+    {
+     "book": "GEN",
+     "chapter": 49,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_rev_river_tree_of_life",
+   "to": "bt_gen_eden",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "REV",
+     "chapter": 22,
+     "verseStart": 2,
+     "verseEnd": 2
+    },
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_rev_river_tree_of_life",
+   "to": "bt_gen_curse_promise",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "REV",
+     "chapter": 22,
+     "verseStart": 3,
+     "verseEnd": 3
+    },
+    {
+     "book": "GEN",
+     "chapter": 3,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_rev_river_tree_of_life",
+   "to": "bt_gen_curse_promise",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "REV",
+     "chapter": 22,
+     "verseStart": 2,
+     "verseEnd": 2
+    },
+    {
+     "book": "GEN",
+     "chapter": 3,
+     "verseStart": 22,
+     "verseEnd": 24
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_cain_abel",
+   "to": "bt_heb_faith_defined",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 4,
+     "verseStart": 3,
+     "verseEnd": 5
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_adam_to_noah",
+   "to": "bt_heb_faith_defined",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 5,
+     "verseStart": 24,
+     "verseEnd": 24
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_flood",
+   "to": "bt_heb_faith_defined",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 6,
+     "verseStart": 14,
+     "verseEnd": 22
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 7,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_call_abram",
+   "to": "bt_heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 12,
+     "verseStart": 1,
+     "verseEnd": 4
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_sarah_buried",
+   "to": "bt_heb_faith_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 23,
+     "verseStart": 4,
+     "verseEnd": 4
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_isaac_born",
+   "to": "bt_heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 21,
+     "verseStart": 1,
+     "verseEnd": 2
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 11,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abraham_isaac",
+   "to": "bt_heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 22,
+     "verseStart": 1,
+     "verseEnd": 12
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 17,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_hagar_sent_away",
+   "to": "bt_heb_faith_patriarchs",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 21,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 18,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_jacob_esau",
+   "to": "bt_heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 27,
+     "verseStart": 27,
+     "verseEnd": 29
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 20,
+     "verseEnd": 20
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_israel_blesses_ephraim_manasseh",
+   "to": "bt_heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 48,
+     "verseStart": 15,
+     "verseEnd": 20
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 21,
+     "verseEnd": 21
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_providence",
+   "to": "bt_heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 50,
+     "verseStart": 24,
+     "verseEnd": 25
+    },
+    {
+     "book": "HEB",
+     "chapter": 11,
+     "verseStart": 22,
+     "verseEnd": 22
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_melchizedek",
+   "to": "bt_heb_melchizedek",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 14,
+     "verseStart": 18,
+     "verseEnd": 20
+    },
+    {
+     "book": "HEB",
+     "chapter": 7,
+     "verseStart": 1,
+     "verseEnd": 2
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abraham_isaac",
+   "to": "bt_heb_oath_anchor",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 22,
+     "verseStart": 16,
+     "verseEnd": 17
+    },
+    {
+     "book": "HEB",
+     "chapter": 6,
+     "verseStart": 13,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_jacob_esau",
+   "to": "bt_heb_holiness_esau",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 25,
+     "verseStart": 29,
+     "verseEnd": 34
+    },
+    {
+     "book": "HEB",
+     "chapter": 12,
+     "verseStart": 16,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_creation",
+   "to": "bt_heb_sabbath_rest",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 2,
+     "verseEnd": 2
+    },
+    {
+     "book": "HEB",
+     "chapter": 4,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_eden",
+   "to": "bt_1co_body_temple",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 24,
+     "verseEnd": 24
+    },
+    {
+     "book": "1CO",
+     "chapter": 6,
+     "verseStart": 16,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_eden",
+   "to": "bt_1co_resurrection_body",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "1CO",
+     "chapter": 15,
+     "verseStart": 45,
+     "verseEnd": 45
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_fall",
+   "to": "bt_2co_false_apostles",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 3,
+     "verseStart": 1,
+     "verseEnd": 13
+    },
+    {
+     "book": "2CO",
+     "chapter": 11,
+     "verseStart": 3,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_creation",
+   "to": "bt_2co_treasure_clay",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 1,
+     "verseStart": 3,
+     "verseEnd": 3
+    },
+    {
+     "book": "2CO",
+     "chapter": 4,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abraham_believed",
+   "to": "bt_gal_abraham_faith",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 6,
+     "verseEnd": 6
+    },
+    {
+     "book": "GAL",
+     "chapter": 3,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_call_abram",
+   "to": "bt_gal_abraham_faith",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 12,
+     "verseStart": 3,
+     "verseEnd": 3
+    },
+    {
+     "book": "GAL",
+     "chapter": 3,
+     "verseStart": 8,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abrahamic_covenant",
+   "to": "bt_gal_promise_law",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 15,
+     "verseStart": 18,
+     "verseEnd": 18
+    },
+    {
+     "book": "GAL",
+     "chapter": 3,
+     "verseStart": 16,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_hagar_sent_away",
+   "to": "bt_gal_hagar_sarah",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 21,
+     "verseStart": 10,
+     "verseEnd": 10
+    },
+    {
+     "book": "GAL",
+     "chapter": 4,
+     "verseStart": 30,
+     "verseEnd": 30
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_eden",
+   "to": "bt_eph_marriage_christ_church",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 24,
+     "verseEnd": 24
+    },
+    {
+     "book": "EPH",
+     "chapter": 5,
+     "verseStart": 31,
+     "verseEnd": 31
+    }
+   ]
+  },
+  {
+   "from": "bt_hos_plead_with_mother",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HOS",
+     "chapter": 2,
+     "verseStart": 23,
+     "verseEnd": 23
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 25,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_hos_gomer_children",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HOS",
+     "chapter": 1,
+     "verseStart": 10,
+     "verseEnd": 10
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 26,
+     "verseEnd": 26
+    }
+   ]
+  },
+  {
+   "from": "bt_jol_restoration_spirit",
+   "to": "bt_rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "JOL",
+     "chapter": 2,
+     "verseStart": 32,
+     "verseEnd": 32
+    },
+    {
+     "book": "ROM",
+     "chapter": 10,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_hab_just_shall_live_by_faith",
+   "to": "bt_rom_gospel",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "HAB",
+     "chapter": 2,
+     "verseStart": 4,
+     "verseEnd": 4
+    },
+    {
+     "book": "ROM",
+     "chapter": 1,
+     "verseStart": 17,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_mal_i_have_loved_you",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "MAL",
+     "chapter": 1,
+     "verseStart": 2,
+     "verseEnd": 3
+    },
+    {
+     "book": "ROM",
+     "chapter": 9,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_creation",
+   "to": "bt_jhn_word",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 1,
+     "verseStart": 1,
+     "verseEnd": 3
+    },
+    {
+     "book": "JHN",
+     "chapter": 1,
+     "verseStart": 1,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_bethel",
+   "to": "bt_jhn_first_disciples",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 28,
+     "verseStart": 12,
+     "verseEnd": 12
+    },
+    {
+     "book": "JHN",
+     "chapter": 1,
+     "verseStart": 51,
+     "verseEnd": 51
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_abraham_isaac",
+   "to": "bt_luk_john_born",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 22,
+     "verseStart": 16,
+     "verseEnd": 18
+    },
+    {
+     "book": "LUK",
+     "chapter": 1,
+     "verseStart": 72,
+     "verseEnd": 73
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_cain_abel",
+   "to": "bt_luk_woes_pharisees",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 4,
+     "verseStart": 8,
+     "verseEnd": 10
+    },
+    {
+     "book": "LUK",
+     "chapter": 11,
+     "verseStart": 51,
+     "verseEnd": 51
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_flood",
+   "to": "bt_luk_days_son_of_man",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 7,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "LUK",
+     "chapter": 17,
+     "verseStart": 26,
+     "verseEnd": 27
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_sodom_destroyed",
+   "to": "bt_luk_days_son_of_man",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 19,
+     "verseStart": 24,
+     "verseEnd": 26
+    },
+    {
+     "book": "LUK",
+     "chapter": 17,
+     "verseStart": 28,
+     "verseEnd": 32
+    }
+   ]
+  },
+  {
+   "from": "bt_1ki_man_of_god_bethel",
+   "to": "bt_2ki_josiah_reforms",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 13,
+     "verseStart": 1,
+     "verseEnd": 3
+    },
+    {
+     "book": "2KI",
+     "chapter": 23,
+     "verseStart": 15,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_1ki_ahab_judged_humbles",
+   "to": "bt_2ki_jezebel_dies",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 21,
+     "verseStart": 23,
+     "verseEnd": 23
+    },
+    {
+     "book": "2KI",
+     "chapter": 9,
+     "verseStart": 36,
+     "verseEnd": 36
+    }
+   ]
+  },
+  {
+   "from": "bt_1ki_widow_son_raised",
+   "to": "bt_2ki_shunammite_son",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 17,
+     "verseStart": 17,
+     "verseEnd": 24
+    },
+    {
+     "book": "2KI",
+     "chapter": 4,
+     "verseStart": 32,
+     "verseEnd": 37
+    }
+   ]
+  },
+  {
+   "from": "bt_1ki_horeb_still_small_voice",
+   "to": "bt_2ki_jehu_anointed",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 19,
+     "verseStart": 16,
+     "verseEnd": 16
+    },
+    {
+     "book": "2KI",
+     "chapter": 9,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_1ki_solomon_dedication_prayer",
+   "to": "bt_2ch_dedication_prayer",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 8,
+     "verseStart": 22,
+     "verseEnd": 26
+    },
+    {
+     "book": "2CH",
+     "chapter": 6,
+     "verseStart": 12,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_1ki_lord_appears_again",
+   "to": "bt_2ch_lord_appears_promise",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 9,
+     "verseStart": 3,
+     "verseEnd": 9
+    },
+    {
+     "book": "2CH",
+     "chapter": 7,
+     "verseStart": 17,
+     "verseEnd": 22
+    }
+   ]
+  },
+  {
+   "from": "bt_1ki_kingdom_divides",
+   "to": "bt_2ch_rehoboam_israel_rebels",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 12,
+     "verseStart": 1,
+     "verseEnd": 19
+    },
+    {
+     "book": "2CH",
+     "chapter": 10,
+     "verseStart": 1,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_1ki_micaiah",
+   "to": "bt_2ch_jehoshaphat_ahab_ramoth",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "1KI",
+     "chapter": 22,
+     "verseStart": 19,
+     "verseEnd": 23
+    },
+    {
+     "book": "2CH",
+     "chapter": 18,
+     "verseStart": 18,
+     "verseEnd": 22
+    }
+   ]
+  },
+  {
+   "from": "bt_1ch_davidic_covenant",
+   "to": "bt_1ki_solomon_blessing_david",
+   "kind": "fulfilled-in",
+   "refs": [
+    {
+     "book": "1CH",
+     "chapter": 17,
+     "verseStart": 11,
+     "verseEnd": 12
+    },
+    {
+     "book": "1KI",
+     "chapter": 8,
+     "verseStart": 20,
+     "verseEnd": 20
+    }
+   ]
+  },
+  {
+   "from": "bt_2ki_athaliah_joash",
+   "to": "bt_2ch_joash_crowned",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2KI",
+     "chapter": 11,
+     "verseStart": 1,
+     "verseEnd": 3
+    },
+    {
+     "book": "2CH",
+     "chapter": 22,
+     "verseStart": 10,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_2ki_amaziah_judah",
+   "to": "bt_2ch_amaziah",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2KI",
+     "chapter": 14,
+     "verseStart": 11,
+     "verseEnd": 14
+    },
+    {
+     "book": "2CH",
+     "chapter": 25,
+     "verseStart": 21,
+     "verseEnd": 24
+    }
+   ]
+  },
+  {
+   "from": "bt_2ki_sennacherib_defeated",
+   "to": "bt_2ch_hezekiah_sennacherib",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2KI",
+     "chapter": 19,
+     "verseStart": 35,
+     "verseEnd": 37
+    },
+    {
+     "book": "2CH",
+     "chapter": 32,
+     "verseStart": 21,
+     "verseEnd": 21
+    }
+   ]
+  },
+  {
+   "from": "bt_2ki_book_of_law_found",
+   "to": "bt_2ch_josiah_book_covenant",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2KI",
+     "chapter": 22,
+     "verseStart": 8,
+     "verseEnd": 11
+    },
+    {
+     "book": "2CH",
+     "chapter": 34,
+     "verseStart": 14,
+     "verseEnd": 19
+    }
+   ]
+  },
+  {
+   "from": "bt_2ki_josiah_death_successors",
+   "to": "bt_2ch_josiah_death",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2KI",
+     "chapter": 23,
+     "verseStart": 29,
+     "verseEnd": 30
+    },
+    {
+     "book": "2CH",
+     "chapter": 35,
+     "verseStart": 20,
+     "verseEnd": 24
+    }
+   ]
+  },
+  {
+   "from": "bt_2ch_cyrus_decree",
+   "to": "bt_ezr_cyrus_return",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "2CH",
+     "chapter": 36,
+     "verseStart": 22,
+     "verseEnd": 23
+    },
+    {
+     "book": "EZR",
+     "chapter": 1,
+     "verseStart": 1,
+     "verseEnd": 3
+    }
+   ]
+  },
+  {
+   "from": "bt_ezr_returnees_list",
+   "to": "bt_neh_register",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EZR",
+     "chapter": 2,
+     "verseStart": 1,
+     "verseEnd": 2
+    },
+    {
+     "book": "NEH",
+     "chapter": 7,
+     "verseStart": 6,
+     "verseEnd": 7
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_14_53",
+   "to": "bt_rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 14,
+     "verseStart": 1,
+     "verseEnd": 3
+    },
+    {
+     "book": "PSA",
+     "chapter": 53,
+     "verseStart": 1,
+     "verseEnd": 3
+    },
+    {
+     "book": "ROM",
+     "chapter": 3,
+     "verseStart": 10,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_5_7",
+   "to": "bt_rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 5,
+     "verseStart": 9,
+     "verseEnd": 9
+    },
+    {
+     "book": "ROM",
+     "chapter": 3,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_140_142",
+   "to": "bt_rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 140,
+     "verseStart": 3,
+     "verseEnd": 3
+    },
+    {
+     "book": "ROM",
+     "chapter": 3,
+     "verseStart": 13,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_9_10",
+   "to": "bt_rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 10,
+     "verseStart": 7,
+     "verseEnd": 7
+    },
+    {
+     "book": "ROM",
+     "chapter": 3,
+     "verseStart": 14,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_36",
+   "to": "bt_rom_all_sinned",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 36,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "ROM",
+     "chapter": 3,
+     "verseStart": 18,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_32",
+   "to": "bt_rom_abraham",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 32,
+     "verseStart": 1,
+     "verseEnd": 2
+    },
+    {
+     "book": "ROM",
+     "chapter": 4,
+     "verseStart": 7,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_44",
+   "to": "bt_rom_no_separation",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 44,
+     "verseStart": 22,
+     "verseEnd": 22
+    },
+    {
+     "book": "ROM",
+     "chapter": 8,
+     "verseStart": 36,
+     "verseEnd": 36
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_19",
+   "to": "bt_rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 19,
+     "verseStart": 3,
+     "verseEnd": 4
+    },
+    {
+     "book": "ROM",
+     "chapter": 10,
+     "verseStart": 18,
+     "verseEnd": 18
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_69",
+   "to": "bt_rom_remnant",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 69,
+     "verseStart": 22,
+     "verseEnd": 23
+    },
+    {
+     "book": "ROM",
+     "chapter": 11,
+     "verseStart": 9,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_18",
+   "to": "bt_rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 18,
+     "verseStart": 49,
+     "verseEnd": 49
+    },
+    {
+     "book": "ROM",
+     "chapter": 15,
+     "verseStart": 9,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_psa_117_118",
+   "to": "bt_rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "PSA",
+     "chapter": 117,
+     "verseStart": 1,
+     "verseEnd": 1
+    },
+    {
+     "book": "ROM",
+     "chapter": 15,
+     "verseStart": 11,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_baptism_of_jesus",
+   "to": "bt_mrk_baptism_temptation",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 3,
+     "verseStart": 16,
+     "verseEnd": 17
+    },
+    {
+     "book": "MRK",
+     "chapter": 1,
+     "verseStart": 10,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_temptation",
+   "to": "bt_mrk_baptism_temptation",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 4,
+     "verseStart": 1,
+     "verseEnd": 2
+    },
+    {
+     "book": "MRK",
+     "chapter": 1,
+     "verseStart": 12,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_ministry_begins",
+   "to": "bt_mrk_calling_first_disciples",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 4,
+     "verseStart": 18,
+     "verseEnd": 22
+    },
+    {
+     "book": "MRK",
+     "chapter": 1,
+     "verseStart": 16,
+     "verseEnd": 20
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_peters_mother_in_law",
+   "to": "bt_mrk_healings_at_capernaum",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 8,
+     "verseStart": 14,
+     "verseEnd": 16
+    },
+    {
+     "book": "MRK",
+     "chapter": 1,
+     "verseStart": 29,
+     "verseEnd": 34
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_leper_centurion",
+   "to": "bt_mrk_leper_cleansed",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 8,
+     "verseStart": 2,
+     "verseEnd": 4
+    },
+    {
+     "book": "MRK",
+     "chapter": 1,
+     "verseStart": 40,
+     "verseEnd": 44
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_paralytic",
+   "to": "bt_mrk_paralytic_roof",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 9,
+     "verseStart": 2,
+     "verseEnd": 6
+    },
+    {
+     "book": "MRK",
+     "chapter": 2,
+     "verseStart": 5,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_matthew_called",
+   "to": "bt_mrk_levi_called",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 9,
+     "verseStart": 9,
+     "verseEnd": 13
+    },
+    {
+     "book": "MRK",
+     "chapter": 2,
+     "verseStart": 14,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_new_wine",
+   "to": "bt_mrk_levi_called",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 9,
+     "verseStart": 14,
+     "verseEnd": 17
+    },
+    {
+     "book": "MRK",
+     "chapter": 2,
+     "verseStart": 18,
+     "verseEnd": 22
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_sabbath_grainfield",
+   "to": "bt_mrk_sabbath_grain",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 12,
+     "verseStart": 1,
+     "verseEnd": 8
+    },
+    {
+     "book": "MRK",
+     "chapter": 2,
+     "verseStart": 23,
+     "verseEnd": 28
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_withered_hand",
+   "to": "bt_mrk_withered_hand",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 12,
+     "verseStart": 9,
+     "verseEnd": 14
+    },
+    {
+     "book": "MRK",
+     "chapter": 3,
+     "verseStart": 1,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_beelzebub",
+   "to": "bt_mrk_beelzebub",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 12,
+     "verseStart": 24,
+     "verseEnd": 32
+    },
+    {
+     "book": "MRK",
+     "chapter": 3,
+     "verseStart": 22,
+     "verseEnd": 29
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_true_family",
+   "to": "bt_mrk_beelzebub",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 12,
+     "verseStart": 46,
+     "verseEnd": 50
+    },
+    {
+     "book": "MRK",
+     "chapter": 3,
+     "verseStart": 31,
+     "verseEnd": 35
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_sower",
+   "to": "bt_mrk_sower",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 13,
+     "verseStart": 3,
+     "verseEnd": 9
+    },
+    {
+     "book": "MRK",
+     "chapter": 4,
+     "verseStart": 3,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_mustard_leaven",
+   "to": "bt_mrk_lamp_seed_mustard",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 13,
+     "verseStart": 31,
+     "verseEnd": 32
+    },
+    {
+     "book": "MRK",
+     "chapter": 4,
+     "verseStart": 30,
+     "verseEnd": 32
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_calming_storm",
+   "to": "bt_mrk_storm_stilled",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 8,
+     "verseStart": 23,
+     "verseEnd": 27
+    },
+    {
+     "book": "MRK",
+     "chapter": 4,
+     "verseStart": 35,
+     "verseEnd": 41
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_gadarene_demoniacs",
+   "to": "bt_mrk_legion",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 8,
+     "verseStart": 28,
+     "verseEnd": 34
+    },
+    {
+     "book": "MRK",
+     "chapter": 5,
+     "verseStart": 1,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_jairus_daughter",
+   "to": "bt_mrk_jairus",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 9,
+     "verseStart": 18,
+     "verseEnd": 26
+    },
+    {
+     "book": "MRK",
+     "chapter": 5,
+     "verseStart": 22,
+     "verseEnd": 43
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_nazareth_rejects",
+   "to": "bt_mrk_nazareth_unbelief",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 13,
+     "verseStart": 54,
+     "verseEnd": 58
+    },
+    {
+     "book": "MRK",
+     "chapter": 6,
+     "verseStart": 1,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_twelve_sent",
+   "to": "bt_mrk_twelve_sent",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 10,
+     "verseStart": 5,
+     "verseEnd": 14
+    },
+    {
+     "book": "MRK",
+     "chapter": 6,
+     "verseStart": 7,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_john_beheaded",
+   "to": "bt_mrk_herod_john",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 14,
+     "verseStart": 3,
+     "verseEnd": 12
+    },
+    {
+     "book": "MRK",
+     "chapter": 6,
+     "verseStart": 17,
+     "verseEnd": 29
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_feeding_five_thousand",
+   "to": "bt_mrk_feeding_five_thousand",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 14,
+     "verseStart": 15,
+     "verseEnd": 21
+    },
+    {
+     "book": "MRK",
+     "chapter": 6,
+     "verseStart": 35,
+     "verseEnd": 44
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_walking_on_water",
+   "to": "bt_mrk_walking_on_sea",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 14,
+     "verseStart": 22,
+     "verseEnd": 27
+    },
+    {
+     "book": "MRK",
+     "chapter": 6,
+     "verseStart": 45,
+     "verseEnd": 50
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_tradition_defilement",
+   "to": "bt_mrk_tradition_defilement",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 15,
+     "verseStart": 1,
+     "verseEnd": 11
+    },
+    {
+     "book": "MRK",
+     "chapter": 7,
+     "verseStart": 1,
+     "verseEnd": 15
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_canaanite_woman",
+   "to": "bt_mrk_syrophenician_woman",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 15,
+     "verseStart": 22,
+     "verseEnd": 28
+    },
+    {
+     "book": "MRK",
+     "chapter": 7,
+     "verseStart": 25,
+     "verseEnd": 30
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_feeding_four_thousand",
+   "to": "bt_mrk_feeding_four_thousand",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 15,
+     "verseStart": 32,
+     "verseEnd": 38
+    },
+    {
+     "book": "MRK",
+     "chapter": 8,
+     "verseStart": 1,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_sign_and_leaven",
+   "to": "bt_mrk_sign_leaven",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 16,
+     "verseStart": 1,
+     "verseEnd": 12
+    },
+    {
+     "book": "MRK",
+     "chapter": 8,
+     "verseStart": 11,
+     "verseEnd": 21
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_peters_confession",
+   "to": "bt_mrk_peters_confession",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 16,
+     "verseStart": 13,
+     "verseEnd": 17
+    },
+    {
+     "book": "MRK",
+     "chapter": 8,
+     "verseStart": 27,
+     "verseEnd": 29
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_take_up_cross",
+   "to": "bt_mrk_peters_confession",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 16,
+     "verseStart": 21,
+     "verseEnd": 26
+    },
+    {
+     "book": "MRK",
+     "chapter": 8,
+     "verseStart": 31,
+     "verseEnd": 37
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_transfiguration",
+   "to": "bt_mrk_transfiguration",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 17,
+     "verseStart": 1,
+     "verseEnd": 13
+    },
+    {
+     "book": "MRK",
+     "chapter": 9,
+     "verseStart": 2,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_demon_boy_temple_tax",
+   "to": "bt_mrk_demon_boy",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 17,
+     "verseStart": 14,
+     "verseEnd": 21
+    },
+    {
+     "book": "MRK",
+     "chapter": 9,
+     "verseStart": 14,
+     "verseEnd": 29
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_greatest_in_kingdom",
+   "to": "bt_mrk_greatest_little_ones",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 18,
+     "verseStart": 1,
+     "verseEnd": 6
+    },
+    {
+     "book": "MRK",
+     "chapter": 9,
+     "verseStart": 33,
+     "verseEnd": 42
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_marriage_divorce",
+   "to": "bt_mrk_divorce_children",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 19,
+     "verseStart": 3,
+     "verseEnd": 9
+    },
+    {
+     "book": "MRK",
+     "chapter": 10,
+     "verseStart": 2,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_children_blessed",
+   "to": "bt_mrk_divorce_children",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 19,
+     "verseStart": 13,
+     "verseEnd": 15
+    },
+    {
+     "book": "MRK",
+     "chapter": 10,
+     "verseStart": 13,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_rich_young_man",
+   "to": "bt_mrk_rich_man",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 19,
+     "verseStart": 16,
+     "verseEnd": 30
+    },
+    {
+     "book": "MRK",
+     "chapter": 10,
+     "verseStart": 17,
+     "verseEnd": 31
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_third_prediction_service",
+   "to": "bt_mrk_third_prediction_ransom",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 20,
+     "verseStart": 17,
+     "verseEnd": 28
+    },
+    {
+     "book": "MRK",
+     "chapter": 10,
+     "verseStart": 32,
+     "verseEnd": 45
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_blind_men_jericho",
+   "to": "bt_mrk_bartimaeus",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 20,
+     "verseStart": 29,
+     "verseEnd": 34
+    },
+    {
+     "book": "MRK",
+     "chapter": 10,
+     "verseStart": 46,
+     "verseEnd": 52
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_triumphal_entry",
+   "to": "bt_mrk_triumphal_entry",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 21,
+     "verseStart": 1,
+     "verseEnd": 11
+    },
+    {
+     "book": "MRK",
+     "chapter": 11,
+     "verseStart": 1,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_temple_cleansing",
+   "to": "bt_mrk_fig_tree_temple",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 21,
+     "verseStart": 12,
+     "verseEnd": 13
+    },
+    {
+     "book": "MRK",
+     "chapter": 11,
+     "verseStart": 15,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_fig_tree",
+   "to": "bt_mrk_fig_tree_temple",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 21,
+     "verseStart": 18,
+     "verseEnd": 22
+    },
+    {
+     "book": "MRK",
+     "chapter": 11,
+     "verseStart": 12,
+     "verseEnd": 14
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_authority_question",
+   "to": "bt_mrk_authority_question",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 21,
+     "verseStart": 23,
+     "verseEnd": 27
+    },
+    {
+     "book": "MRK",
+     "chapter": 11,
+     "verseStart": 27,
+     "verseEnd": 33
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_wicked_tenants",
+   "to": "bt_mrk_wicked_husbandmen",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 21,
+     "verseStart": 33,
+     "verseEnd": 46
+    },
+    {
+     "book": "MRK",
+     "chapter": 12,
+     "verseStart": 1,
+     "verseEnd": 12
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_tribute_to_caesar",
+   "to": "bt_mrk_tribute_money",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 22,
+     "verseStart": 15,
+     "verseEnd": 22
+    },
+    {
+     "book": "MRK",
+     "chapter": 12,
+     "verseStart": 13,
+     "verseEnd": 17
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_resurrection_question",
+   "to": "bt_mrk_resurrection_question",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 22,
+     "verseStart": 23,
+     "verseEnd": 33
+    },
+    {
+     "book": "MRK",
+     "chapter": 12,
+     "verseStart": 18,
+     "verseEnd": 27
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_great_commandment",
+   "to": "bt_mrk_first_commandment",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 22,
+     "verseStart": 34,
+     "verseEnd": 40
+    },
+    {
+     "book": "MRK",
+     "chapter": 12,
+     "verseStart": 28,
+     "verseEnd": 31
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_son_of_david_question",
+   "to": "bt_mrk_son_of_david_scribes",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 22,
+     "verseStart": 41,
+     "verseEnd": 46
+    },
+    {
+     "book": "MRK",
+     "chapter": 12,
+     "verseStart": 35,
+     "verseEnd": 37
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_woes_scribes_pharisees",
+   "to": "bt_mrk_son_of_david_scribes",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 23,
+     "verseStart": 5,
+     "verseEnd": 7
+    },
+    {
+     "book": "MRK",
+     "chapter": 12,
+     "verseStart": 38,
+     "verseEnd": 39
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_olivet_signs",
+   "to": "bt_mrk_olivet_signs",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 24,
+     "verseStart": 1,
+     "verseEnd": 14
+    },
+    {
+     "book": "MRK",
+     "chapter": 13,
+     "verseStart": 1,
+     "verseEnd": 13
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_great_tribulation",
+   "to": "bt_mrk_olivet_signs",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 24,
+     "verseStart": 15,
+     "verseEnd": 24
+    },
+    {
+     "book": "MRK",
+     "chapter": 13,
+     "verseStart": 14,
+     "verseEnd": 22
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_coming_of_son_of_man",
+   "to": "bt_mrk_coming_and_watching",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 24,
+     "verseStart": 29,
+     "verseEnd": 35
+    },
+    {
+     "book": "MRK",
+     "chapter": 13,
+     "verseStart": 24,
+     "verseEnd": 31
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_watchfulness",
+   "to": "bt_mrk_coming_and_watching",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 24,
+     "verseStart": 36,
+     "verseEnd": 44
+    },
+    {
+     "book": "MRK",
+     "chapter": 13,
+     "verseStart": 32,
+     "verseEnd": 37
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_plot_and_anointing",
+   "to": "bt_mrk_plot_and_anointing",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 26,
+     "verseStart": 1,
+     "verseEnd": 16
+    },
+    {
+     "book": "MRK",
+     "chapter": 14,
+     "verseStart": 1,
+     "verseEnd": 11
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_last_supper",
+   "to": "bt_mrk_last_supper",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 26,
+     "verseStart": 26,
+     "verseEnd": 29
+    },
+    {
+     "book": "MRK",
+     "chapter": 14,
+     "verseStart": 22,
+     "verseEnd": 25
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_gethsemane",
+   "to": "bt_mrk_gethsemane",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 26,
+     "verseStart": 31,
+     "verseEnd": 46
+    },
+    {
+     "book": "MRK",
+     "chapter": 14,
+     "verseStart": 27,
+     "verseEnd": 42
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_arrest",
+   "to": "bt_mrk_arrest",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 26,
+     "verseStart": 47,
+     "verseEnd": 56
+    },
+    {
+     "book": "MRK",
+     "chapter": 14,
+     "verseStart": 43,
+     "verseEnd": 50
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_trial_caiaphas",
+   "to": "bt_mrk_trial_sanhedrin",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 26,
+     "verseStart": 57,
+     "verseEnd": 68
+    },
+    {
+     "book": "MRK",
+     "chapter": 14,
+     "verseStart": 53,
+     "verseEnd": 65
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_peter_denies",
+   "to": "bt_mrk_peter_denial",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 26,
+     "verseStart": 69,
+     "verseEnd": 75
+    },
+    {
+     "book": "MRK",
+     "chapter": 14,
+     "verseStart": 66,
+     "verseEnd": 72
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_pilate_barabbas",
+   "to": "bt_mrk_pilate",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 27,
+     "verseStart": 11,
+     "verseEnd": 26
+    },
+    {
+     "book": "MRK",
+     "chapter": 15,
+     "verseStart": 1,
+     "verseEnd": 15
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_crucifixion",
+   "to": "bt_mrk_crucifixion",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 27,
+     "verseStart": 27,
+     "verseEnd": 44
+    },
+    {
+     "book": "MRK",
+     "chapter": 15,
+     "verseStart": 16,
+     "verseEnd": 32
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_death_of_jesus",
+   "to": "bt_mrk_death_of_jesus",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 27,
+     "verseStart": 45,
+     "verseEnd": 56
+    },
+    {
+     "book": "MRK",
+     "chapter": 15,
+     "verseStart": 33,
+     "verseEnd": 41
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_burial_and_guard",
+   "to": "bt_mrk_burial",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 27,
+     "verseStart": 57,
+     "verseEnd": 61
+    },
+    {
+     "book": "MRK",
+     "chapter": 15,
+     "verseStart": 42,
+     "verseEnd": 47
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_resurrection",
+   "to": "bt_mrk_empty_tomb",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 28,
+     "verseStart": 1,
+     "verseEnd": 8
+    },
+    {
+     "book": "MRK",
+     "chapter": 16,
+     "verseStart": 1,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_mat_great_commission",
+   "to": "bt_mrk_appearances_commission",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "MAT",
+     "chapter": 28,
+     "verseStart": 19,
+     "verseEnd": 20
+    },
+    {
+     "book": "MRK",
+     "chapter": 16,
+     "verseStart": 15,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_eden",
+   "to": "bt_mat_marriage_divorce",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 24,
+     "verseEnd": 24
+    },
+    {
+     "book": "MAT",
+     "chapter": 19,
+     "verseStart": 5,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_image",
+   "to": "bt_mat_marriage_divorce",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 1,
+     "verseStart": 27,
+     "verseEnd": 27
+    },
+    {
+     "book": "MAT",
+     "chapter": 19,
+     "verseStart": 4,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_eden",
+   "to": "bt_mrk_divorce_children",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 2,
+     "verseStart": 24,
+     "verseEnd": 24
+    },
+    {
+     "book": "MRK",
+     "chapter": 10,
+     "verseStart": 7,
+     "verseEnd": 8
+    }
+   ]
+  },
+  {
+   "from": "bt_gen_image",
+   "to": "bt_mrk_divorce_children",
+   "kind": "quoted-in",
+   "refs": [
+    {
+     "book": "GEN",
+     "chapter": 1,
+     "verseStart": 27,
+     "verseEnd": 27
+    },
+    {
+     "book": "MRK",
+     "chapter": 10,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_jer_righteous_branch",
+   "to": "bt_jer_david_covenant_branch",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 23,
+     "verseStart": 5,
+     "verseEnd": 6
+    },
+    {
+     "book": "JER",
+     "chapter": 33,
+     "verseStart": 15,
+     "verseEnd": 16
+    }
+   ]
+  },
+  {
+   "from": "bt_jer_seventy_years",
+   "to": "bt_jer_letter_exiles",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 25,
+     "verseStart": 11,
+     "verseEnd": 12
+    },
+    {
+     "book": "JER",
+     "chapter": 29,
+     "verseStart": 10,
+     "verseEnd": 10
+    }
+   ]
+  },
+  {
+   "from": "bt_jer_temple_sermon",
+   "to": "bt_jer_temple_trial",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 7,
+     "verseStart": 12,
+     "verseEnd": 14
+    },
+    {
+     "book": "JER",
+     "chapter": 26,
+     "verseStart": 6,
+     "verseEnd": 6
+    }
+   ]
+  },
+  {
+   "from": "bt_ezk_watchman",
+   "to": "bt_ezk_watchman_repeat",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EZK",
+     "chapter": 3,
+     "verseStart": 17,
+     "verseEnd": 19
+    },
+    {
+     "book": "EZK",
+     "chapter": 33,
+     "verseStart": 7,
+     "verseEnd": 9
+    }
+   ]
+  },
+  {
+   "from": "bt_ezk_new_heart",
+   "to": "bt_ezk_new_heart_clean_water",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EZK",
+     "chapter": 11,
+     "verseStart": 19,
+     "verseEnd": 20
+    },
+    {
+     "book": "EZK",
+     "chapter": 36,
+     "verseStart": 26,
+     "verseEnd": 28
+    }
+   ]
+  },
+  {
+   "from": "bt_jer_new_covenant",
+   "to": "bt_ezk_new_heart_clean_water",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 31,
+     "verseStart": 33,
+     "verseEnd": 33
+    },
+    {
+     "book": "EZK",
+     "chapter": 36,
+     "verseStart": 26,
+     "verseEnd": 28
+    }
+   ]
+  },
+  {
+   "from": "bt_jer_israel_restored",
+   "to": "bt_ezk_soul_that_sins",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 31,
+     "verseStart": 29,
+     "verseEnd": 30
+    },
+    {
+     "book": "EZK",
+     "chapter": 18,
+     "verseStart": 2,
+     "verseEnd": 4
+    }
+   ]
+  },
+  {
+   "from": "bt_ezk_glory_departs",
+   "to": "bt_ezk_glory_returns",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "EZK",
+     "chapter": 10,
+     "verseStart": 18,
+     "verseEnd": 19
+    },
+    {
+     "book": "EZK",
+     "chapter": 43,
+     "verseStart": 2,
+     "verseEnd": 5
+    }
+   ]
+  },
+  {
+   "from": "bt_dan_tree_humbled",
+   "to": "bt_dan_writing_wall",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 4,
+     "verseStart": 31,
+     "verseEnd": 33
+    },
+    {
+     "book": "DAN",
+     "chapter": 5,
+     "verseStart": 20,
+     "verseEnd": 21
+    }
+   ]
+  },
+  {
+   "from": "bt_jer_seventy_years",
+   "to": "bt_dan_prayer_confession",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "JER",
+     "chapter": 25,
+     "verseStart": 11,
+     "verseEnd": 12
+    },
+    {
+     "book": "DAN",
+     "chapter": 9,
+     "verseStart": 2,
+     "verseEnd": 2
+    }
+   ]
+  },
+  {
+   "from": "bt_dan_diet_test",
+   "to": "bt_dan_writing_wall",
+   "kind": "parallels",
+   "refs": [
+    {
+     "book": "DAN",
+     "chapter": 1,
+     "verseStart": 1,
+     "verseEnd": 2
+    },
+    {
+     "book": "DAN",
+     "chapter": 5,
+     "verseStart": 2,
+     "verseEnd": 3
+    }
+   ]
+  }
+ ]
+}

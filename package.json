@@ -1,0 +1,11 @@
+{
+  "name": "bible-taxonomy",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Bible learning path and knowledge graph: topics, prerequisites, covenant history, and bibliographic tracking of reformed teachers.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build:teachers": "node scripts/build-teachers-md.mjs"
+  }
+}

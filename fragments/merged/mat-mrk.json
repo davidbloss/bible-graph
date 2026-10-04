@@ -1,0 +1,4530 @@
+{
+ "topics": [
+  {
+   "id": "book_mat",
+   "type": "BOOK_OVERVIEW",
+   "name": "Matthew: overview",
+   "description": "The gospel of Matthew, from the genealogy of Jesus Christ, son of David and son of Abraham (1:1), through the five great discourses, the passion and the resurrection, to the closing commission (28:16-20).",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MAT 1..28"
+   ],
+   "evidence": [
+    "Describe the movement of the book: birth and preparation (1-4), the Sermon on the Mount (5-7), miracles and mission (8-12), parables of the kingdom (13), teaching on the way to Jerusalem (14-23), the coming kingdom (24-25), the passion and resurrection (26-28)",
+    "Name where the book starts and ends"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what Matthew is about and how it begins and ends?"
+  },
+  {
+   "id": "book_mrk",
+   "type": "BOOK_OVERVIEW",
+   "name": "Mark: overview",
+   "description": "The gospel of Mark, from “the beginning of the gospel of Jesus Christ, the Son of God” (1:1) through Jesus’ ministry in Galilee, the road to Jerusalem and his death, to the empty tomb and commission.",
+   "covenant": null,
+   "ages": [
+    9,
+    18
+   ],
+   "passages": [
+    "MRK 1..16"
+   ],
+   "evidence": [
+    "Describe the movement of the book: John and the start of ministry (1), Galilee (1-8), the way to Jerusalem (8-10), the last week and passion (11-15), the empty tomb (16)",
+    "Say what Mark calls the book in 1:1"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what Mark is about and where it begins and ends?"
+  },
+  {
+   "id": "mat_genealogy",
+   "type": "STORY",
+   "name": "Matthew opens with Jesus’ genealogy",
+   "description": "Matthew begins by tracing Jesus Christ as son of David and son of Abraham through three sets of fourteen generations, naming Tamar, Rahab, Ruth and Bathsheba along the way.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "MAT 1:1-17"
+   ],
+   "evidence": [
+    "Say whose son Jesus is called in 1:1",
+    "Name the three groups of fourteen generations (1:17)"
+   ],
+   "prompt": "Can {{name}} explain why Matthew starts with Abraham and David?"
+  },
+  {
+   "id": "mat_virgin_birth",
+   "type": "STORY",
+   "name": "The birth of Jesus announced to Joseph",
+   "description": "Joseph finds Mary with child by the Holy Ghost, and an angel tells him in a dream to take her as wife and name the child Jesus, who will save his people from their sins.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MAT 1:18-25"
+   ],
+   "evidence": [
+    "Retell what the angel told Joseph",
+    "Say what the name Jesus is linked to in 1:21"
+   ],
+   "prompt": "Can {{name}} tell what Joseph was told in his dream and why the child was named Jesus?"
+  },
+  {
+   "id": "mat_wise_men",
+   "type": "STORY",
+   "name": "The wise men and Herod",
+   "description": "Wise men from the east come to Jerusalem to worship the newborn King of the Jews, and Herod learns from the scribes that Bethlehem is the place; the star leads them to the child and they bring gifts.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "MAT 2:1-12"
+   ],
+   "evidence": [
+    "Retell why the wise men came and where they found Jesus",
+    "Describe Herod’s reaction"
+   ],
+   "prompt": "Can {{name}} tell the story of the wise men and name their gifts?"
+  },
+  {
+   "id": "mat_flight_to_egypt",
+   "type": "STORY",
+   "name": "Flight to Egypt and return to Nazareth",
+   "description": "Warned in dreams, Joseph takes the child to Egypt away from Herod, who has the children of Bethlehem killed; after Herod dies the family returns and settles in Nazareth.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MAT 2:13-23"
+   ],
+   "evidence": [
+    "Trace the family’s journey: Bethlehem, Egypt, Nazareth",
+    "Name the three places where Matthew says a prophecy was fulfilled (2:15, 17-18, 23)"
+   ],
+   "prompt": "Can {{name}} retell the escape from Herod and where the family finally lived?"
+  },
+  {
+   "id": "mat_john_baptist",
+   "type": "STORY",
+   "name": "John the Baptist prepares the way",
+   "description": "John preaches repentance in the wilderness, baptizes in the Jordan, warns Pharisees and Sadducees to bear fruit, and says one mightier will baptize with the Holy Ghost and fire.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MAT 3:1-12"
+   ],
+   "evidence": [
+    "Say what John preached",
+    "Explain the difference John draws between his baptism and the coming one’s"
+   ],
+   "prompt": "Can {{name}} explain what John the Baptist told people to do and who he said was coming?"
+  },
+  {
+   "id": "mat_baptism_of_jesus",
+   "type": "STORY",
+   "name": "The baptism of Jesus",
+   "description": "Jesus comes from Galilee to be baptized by John to fulfil all righteousness; the heavens open, the Spirit descends like a dove and a voice calls him beloved Son.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "MAT 3:13-17"
+   ],
+   "evidence": [
+    "Describe what was seen and heard at the Jordan",
+    "Say what Jesus told John in 3:15"
+   ],
+   "prompt": "Can {{name}} tell what happened when Jesus was baptized?"
+  },
+  {
+   "id": "mat_temptation",
+   "type": "STORY",
+   "name": "The temptation in the wilderness",
+   "description": "After forty days of fasting Jesus is tempted three times by the devil and answers each with “it is written”; the devil leaves and angels minister to him.",
+   "covenant": null,
+   "ages": [
+    7,
+    15
+   ],
+   "passages": [
+    "MAT 4:1-11"
+   ],
+   "evidence": [
+    "List the three temptations",
+    "Say what Jesus answered each time"
+   ],
+   "prompt": "Can {{name}} tell what the devil offered Jesus and how Jesus replied?"
+  },
+  {
+   "id": "mat_ministry_begins",
+   "type": "STORY",
+   "name": "Jesus begins in Galilee and calls fishermen",
+   "description": "Hearing John is imprisoned, Jesus moves to Capernaum, preaches repentance for the kingdom of heaven, calls Peter, Andrew, James and John from their nets, and heals great crowds.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MAT 4:12-25"
+   ],
+   "evidence": [
+    "Name the four fishermen Jesus called",
+    "Summarise what Jesus did throughout Galilee (4:23-25)"
+   ],
+   "prompt": "Can {{name}} tell how Jesus called his first disciples?"
+  },
+  {
+   "id": "mat_beatitudes",
+   "type": "THEME",
+   "name": "The Beatitudes and salt and light",
+   "description": "Seated on a mountain, Jesus pronounces blessings on the poor in spirit, mourners, meek, merciful and others, then calls his disciples the salt of the earth and light of the world.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 5:1-16"
+   ],
+   "evidence": [
+    "Recite or paraphrase several Beatitudes",
+    "Explain the images of salt and light"
+   ],
+   "prompt": "Can {{name}} explain two of the blessings and what it means to be light of the world?"
+  },
+  {
+   "id": "mat_law_and_prophets",
+   "type": "THEME",
+   "name": "Jesus and the law and the prophets",
+   "description": "Jesus says he has not come to destroy the law or the prophets but to fulfil them, that not a jot or tittle will pass, and that righteousness must exceed that of the scribes and Pharisees.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 5:17-20"
+   ],
+   "evidence": [
+    "State what Jesus says he came to do with the law",
+    "Explain what is required for entering the kingdom (5:20)"
+   ],
+   "prompt": "Can {{name}} explain what Jesus says about the law in 5:17-20?"
+  },
+  {
+   "id": "mat_anger_and_lust",
+   "type": "THEME",
+   "name": "Murder, anger, adultery and lust",
+   "description": "Jesus takes the commandments against killing and adultery to the heart: anger and contempt, and lustful looks, are judged, and reconciliation and cutting off sin are urged.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 5:21-30"
+   ],
+   "evidence": [
+    "Contrast “ye have heard” with “I say unto you” in 5:21-22 and 27-28",
+    "Describe what Jesus says to do before offering a gift at the altar"
+   ],
+   "prompt": "Can {{name}} explain how Jesus deepens the commands about murder and adultery?"
+  },
+  {
+   "id": "mat_divorce_oaths_enemies",
+   "type": "THEME",
+   "name": "Divorce, oaths, retaliation and love for enemies",
+   "description": "Jesus teaches on divorce, on plain speech instead of oaths, on not resisting evil with evil, and on loving and praying for enemies, as the Father gives sun and rain to evil and good.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 5:31-48"
+   ],
+   "evidence": [
+    "Say what Jesus teaches about oaths (5:33-37)",
+    "Explain the command about enemies and the reason given in 5:45"
+   ],
+   "prompt": "Can {{name}} explain what Jesus says about loving enemies and why?"
+  },
+  {
+   "id": "mat_secret_righteousness",
+   "type": "THEME",
+   "name": "Giving and prayer in secret",
+   "description": "Jesus warns against giving, praying and fasting to be seen by people and tells his hearers to do these before the Father who sees in secret.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "MAT 6:1-8",
+    "MAT 6:16-18"
+   ],
+   "evidence": [
+    "Name the three practices Jesus mentions",
+    "Explain what Jesus says about those who do them to be seen"
+   ],
+   "prompt": "Can {{name}} explain why Jesus says to give and pray in secret?"
+  },
+  {
+   "id": "mat_lords_prayer",
+   "type": "THEME",
+   "name": "The Lord’s Prayer",
+   "description": "Jesus gives a pattern for prayer addressed to “Our Father which art in heaven”, with petitions for his name, kingdom and will, daily bread, forgiveness and deliverance from evil, and adds a saying on forgiving others.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "MAT 6:9-15"
+   ],
+   "evidence": [
+    "Recite the prayer or list its petitions",
+    "Say what 6:14-15 teaches about forgiveness"
+   ],
+   "prompt": "Can {{name}} say the Lord’s Prayer and explain one petition?"
+  },
+  {
+   "id": "mat_treasure_and_anxiety",
+   "type": "THEME",
+   "name": "Treasure in heaven and not being anxious",
+   "description": "Jesus contrasts earthly and heavenly treasure, says no one can serve God and mammon, and tells disciples not to be anxious since the Father feeds the birds and clothes the lilies; seek first his kingdom.",
+   "covenant": null,
+   "ages": [
+    7,
+    16
+   ],
+   "passages": [
+    "MAT 6:19-34"
+   ],
+   "evidence": [
+    "Explain the two kinds of treasure",
+    "Use the birds and lilies to say why not to worry"
+   ],
+   "prompt": "Can {{name}} explain why Jesus says not to worry and what to seek first?"
+  },
+  {
+   "id": "mat_judging_asking",
+   "type": "THEME",
+   "name": "Judging, asking and the golden rule",
+   "description": "Jesus warns against judging while a beam is in one’s own eye, urges asking, seeking and knocking since the Father gives good gifts, and sums up the law and prophets in doing to others as you would have done to you.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 7:1-12"
+   ],
+   "evidence": [
+    "Retell the beam and the mote",
+    "State the golden rule from 7:12"
+   ],
+   "prompt": "Can {{name}} explain 7:1-5 and 7:12 in their own words?"
+  },
+  {
+   "id": "mat_two_ways_builders",
+   "type": "THEME",
+   "name": "The two ways, false prophets and the two builders",
+   "description": "Jesus calls hearers to the narrow gate, warns of false prophets known by fruit, says not everyone who says “Lord, Lord” enters, and closes with the wise man on rock and the foolish man on sand; the crowds are astonished.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 7:13-29"
+   ],
+   "evidence": [
+    "Contrast the two gates and the two houses",
+    "Say how the crowds responded (7:28-29)"
+   ],
+   "prompt": "Can {{name}} tell the story of the two builders and what it teaches?"
+  },
+  {
+   "id": "mat_leper_centurion",
+   "type": "STORY",
+   "name": "Healing a leper and the centurion’s servant",
+   "description": "Coming down from the mountain, Jesus cleanses a leper by a touch and heals a centurion’s servant with a word, marvelling at the centurion’s faith and saying many will come from east and west to the kingdom.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "MAT 8:1-13"
+   ],
+   "evidence": [
+    "Describe the two healings",
+    "Say what Jesus said about the centurion’s faith"
+   ],
+   "prompt": "Can {{name}} tell what the centurion said and how Jesus responded?"
+  },
+  {
+   "id": "mat_peters_mother_in_law",
+   "type": "STORY",
+   "name": "Healing Peter’s mother-in-law and many others",
+   "description": "Jesus heals Peter’s wife’s mother of a fever and, that evening, casts out spirits and heals all who are brought; Matthew links this to a word of Isaiah.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MAT 8:14-17"
+   ],
+   "evidence": [
+    "Retell the healing in Peter’s house",
+    "Say what Matthew says was fulfilled in 8:17"
+   ],
+   "prompt": "Can {{name}} describe what Jesus did in Peter’s house and that evening?"
+  },
+  {
+   "id": "mat_cost_of_following",
+   "type": "THEME",
+   "name": "The cost of following Jesus",
+   "description": "Two would-be followers hear that the Son of man has nowhere to lay his head and that following him comes before burying one’s father.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "MAT 8:18-22"
+   ],
+   "evidence": [
+    "Summarise what Jesus says to each man",
+    "Explain what these sayings show about discipleship"
+   ],
+   "prompt": "Can {{name}} explain what Jesus told the scribe and the other disciple?"
+  },
+  {
+   "id": "mat_calming_storm",
+   "type": "STORY",
+   "name": "Jesus calms the storm",
+   "description": "A great tempest swamps the boat while Jesus sleeps; the disciples wake him, he rebukes winds and sea, and they marvel.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "MAT 8:23-27"
+   ],
+   "evidence": [
+    "Retell the storm in order",
+    "Say what the disciples asked in 8:27"
+   ],
+   "prompt": "Can {{name}} tell what happened on the boat and what the disciples wondered?"
+  },
+  {
+   "id": "mat_gadarene_demoniacs",
+   "type": "STORY",
+   "name": "The two demon-possessed men and the swine",
+   "description": "On the far shore two fierce men from the tombs meet Jesus; the demons ask to enter a herd of swine, which run into the sea, and the city begs Jesus to leave.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MAT 8:28-34"
+   ],
+   "evidence": [
+    "Retell what happened to the swine",
+    "Describe the town’s response"
+   ],
+   "prompt": "Can {{name}} tell what the demons asked and how the townspeople responded?"
+  },
+  {
+   "id": "mat_paralytic",
+   "type": "STORY",
+   "name": "Forgiving and healing the paralytic",
+   "description": "Seeing faith, Jesus tells a paralysed man his sins are forgiven; when scribes call it blasphemy, he heals the man to show the Son of man has power on earth to forgive sins.",
+   "covenant": null,
+   "ages": [
+    7,
+    15
+   ],
+   "passages": [
+    "MAT 9:1-8"
+   ],
+   "evidence": [
+    "Explain why the scribes objected",
+    "Say how Jesus showed his authority"
+   ],
+   "prompt": "Can {{name}} retell the healing and what Jesus said about forgiving sins?"
+  },
+  {
+   "id": "mat_matthew_called",
+   "type": "STORY",
+   "name": "Matthew called and eating with sinners",
+   "description": "Jesus calls Matthew the tax collector, eats with publicans and sinners, and answers the Pharisees that the sick need a physician and that he came to call sinners.",
+   "covenant": null,
+   "ages": [
+    7,
+    15
+   ],
+   "passages": [
+    "MAT 9:9-13"
+   ],
+   "evidence": [
+    "Say who Jesus called and where he found him",
+    "Explain the “physician” saying"
+   ],
+   "prompt": "Can {{name}} explain why Jesus ate with publicans and sinners?"
+  },
+  {
+   "id": "mat_new_wine",
+   "type": "THEME",
+   "name": "The bridegroom and new wine",
+   "description": "Asked why his disciples do not fast, Jesus speaks of the bridegroom being taken away, and of new cloth on old garments and new wine in old bottles.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "MAT 9:14-17"
+   ],
+   "evidence": [
+    "State the question from John’s disciples",
+    "Explain one of the two pictures in 9:16-17"
+   ],
+   "prompt": "Can {{name}} explain Jesus’ answer about fasting?"
+  },
+  {
+   "id": "mat_jairus_daughter",
+   "type": "STORY",
+   "name": "The ruler’s daughter and the woman with the issue of blood",
+   "description": "On his way to a ruler’s dead daughter, Jesus is touched by a woman with a twelve-year bleeding, whom he calls daughter and heals; then he raises the girl.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MAT 9:18-26"
+   ],
+   "evidence": [
+    "Retell both healings in order",
+    "Say what Jesus told the woman"
+   ],
+   "prompt": "Can {{name}} tell how Jesus helped the woman and the ruler’s daughter?"
+  },
+  {
+   "id": "mat_blind_men_mute",
+   "type": "STORY",
+   "name": "Two blind men and a mute man",
+   "description": "Two blind men call him Son of David and are healed according to their faith; a mute demoniac speaks, and the Pharisees say he casts out devils by the prince of devils.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MAT 9:27-34"
+   ],
+   "evidence": [
+    "Describe the two healings",
+    "Say what the Pharisees claimed"
+   ],
+   "prompt": "Can {{name}} tell what the blind men asked and how the Pharisees reacted to the mute man?"
+  },
+  {
+   "id": "mat_harvest_labourers",
+   "type": "THEME",
+   "name": "The plenteous harvest",
+   "description": "Seeing the multitudes like sheep without a shepherd, Jesus is moved with compassion and tells his disciples to pray that the Lord of the harvest send labourers.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MAT 9:35-38"
+   ],
+   "evidence": [
+    "Say what moved Jesus to compassion",
+    "Explain the harvest saying"
+   ],
+   "prompt": "Can {{name}} explain what Jesus asked his disciples to pray for?"
+  },
+  {
+   "id": "mat_twelve_sent",
+   "type": "STORY",
+   "name": "The twelve named and sent out",
+   "description": "Jesus gives the twelve authority to heal and cast out spirits, names them, and sends them to the lost sheep of Israel to preach the kingdom, with instructions about provision and receiving.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "MAT 10:1-15"
+   ],
+   "evidence": [
+    "Name several of the twelve",
+    "List the instructions about what to take and what to say"
+   ],
+   "prompt": "Can {{name}} tell who Jesus sent and what he told them to do?"
+  },
+  {
+   "id": "mat_persecution_warning",
+   "type": "THEME",
+   "name": "Warnings of persecution and the Spirit’s help",
+   "description": "Jesus sends the twelve as sheep among wolves, warns of courts and family betrayal, promises the Spirit of the Father will speak in them, and says he who endures to the end is saved.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 10:16-25"
+   ],
+   "evidence": [
+    "List the troubles Jesus foretells",
+    "Say what promise he gives about what to speak"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said disciples should expect and what help they would have?"
+  },
+  {
+   "id": "mat_fear_not_confess",
+   "type": "THEME",
+   "name": "Fear not, confess Christ, and the cost",
+   "description": "Jesus tells his disciples to fear God not men, notes the Father’s care for sparrows, says to confess him before men, that he brings a sword that divides households, and that those who lose their life for him will find it.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 10:26-42"
+   ],
+   "evidence": [
+    "Explain why disciples need not fear (10:29-31)",
+    "Describe what confessing and denying him leads to"
+   ],
+   "prompt": "Can {{name}} explain what Jesus says about fear, confessing him, and taking up the cross?"
+  },
+  {
+   "id": "mat_john_asks",
+   "type": "STORY",
+   "name": "John’s question and Jesus’ witness to John",
+   "description": "John in prison sends disciples to ask whether Jesus is the one to come; Jesus points to the works done and then speaks of John as more than a prophet, the messenger of whom it is written “I send my messenger before thy face”, and of an unresponsive generation.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 11:1-19"
+   ],
+   "evidence": [
+    "Say what Jesus told John’s disciples to report",
+    "Explain how Jesus describes John"
+   ],
+   "prompt": "Can {{name}} explain how Jesus answered John’s question and what he said about John?"
+  },
+  {
+   "id": "mat_woes_to_cities",
+   "type": "THEME",
+   "name": "Woes on the unrepentant cities",
+   "description": "Jesus denounces Chorazin, Bethsaida and Capernaum for not repenting despite his mighty works and says it will be more tolerable for Tyre, Sidon and Sodom in the day of judgment.",
+   "covenant": null,
+   "ages": [
+    11,
+    17
+   ],
+   "passages": [
+    "MAT 11:20-24"
+   ],
+   "evidence": [
+    "Name the three cities",
+    "Explain why judgment is greater on them"
+   ],
+   "prompt": "Can {{name}} explain why Jesus rebuked those cities?"
+  },
+  {
+   "id": "mat_come_unto_me",
+   "type": "THEME",
+   "name": "The Father’s revelation and “Come unto me”",
+   "description": "Jesus thanks the Father for revealing these things to babes, says no one knows the Son but the Father and those to whom the Son reveals him, and invites the weary to take his yoke and find rest.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "MAT 11:25-30"
+   ],
+   "evidence": [
+    "Say who Jesus says he is known by",
+    "Explain the invitation of 11:28-30"
+   ],
+   "prompt": "Can {{name}} explain what Jesus invites the weary to do and what he promises?"
+  },
+  {
+   "id": "mat_sabbath_grainfield",
+   "type": "STORY",
+   "name": "Plucking grain on the sabbath",
+   "description": "Pharisees object that the disciples pluck grain on the sabbath; Jesus cites David eating the shewbread and the priests in the temple, and says the Son of man is Lord of the sabbath.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "MAT 12:1-8"
+   ],
+   "evidence": [
+    "Explain the Pharisees’ objection",
+    "Say what examples Jesus gave"
+   ],
+   "prompt": "Can {{name}} tell what Jesus said about David and the sabbath?"
+  },
+  {
+   "id": "mat_withered_hand",
+   "type": "STORY",
+   "name": "Healing the withered hand and the chosen servant",
+   "description": "In the synagogue Jesus heals a man’s withered hand on the sabbath after saying it is lawful to do good; the Pharisees plot, and Matthew says his gentle ministry fulfils Isaiah’s word of the chosen servant.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "MAT 12:9-21"
+   ],
+   "evidence": [
+    "Retell the healing and the reason Jesus gave",
+    "Say what the Pharisees did next"
+   ],
+   "prompt": "Can {{name}} explain why Jesus healed on the sabbath and what the Pharisees planned?"
+  },
+  {
+   "id": "mat_beelzebub",
+   "type": "STORY",
+   "name": "The Beelzebub accusation and the unpardonable word",
+   "description": "After a blind and mute man is healed, the Pharisees say Jesus casts out devils by Beelzebub; he answers that a divided kingdom falls, that he casts out by the Spirit of God, and warns of blasphemy against the Holy Ghost and of the words people speak.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 12:22-37"
+   ],
+   "evidence": [
+    "Summarise Jesus’ reply about a divided kingdom",
+    "Say what he teaches about the heart and words"
+   ],
+   "prompt": "Can {{name}} explain what the Pharisees claimed and how Jesus answered?"
+  },
+  {
+   "id": "mat_sign_of_jonah",
+   "type": "THEME",
+   "name": "The sign of Jonah",
+   "description": "Asked for a sign, Jesus says only the sign of Jonah will be given, the three days in the whale, and that Nineveh and the queen of the south will condemn that generation; he adds a saying about an unclean spirit returning.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 12:38-45"
+   ],
+   "evidence": [
+    "State the one sign Jesus promises",
+    "Explain why Nineveh and the queen of the south are mentioned"
+   ],
+   "prompt": "Can {{name}} explain what Jesus meant by the sign of Jonah?"
+  },
+  {
+   "id": "mat_true_family",
+   "type": "STORY",
+   "name": "Jesus’ true family",
+   "description": "When his mother and brothers wait outside, Jesus points to his disciples and says whoever does the will of his Father in heaven is his brother, sister and mother.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "MAT 12:46-50"
+   ],
+   "evidence": [
+    "Retell the scene",
+    "Say who Jesus names as his family"
+   ],
+   "prompt": "Can {{name}} explain who Jesus calls his mother and brothers?"
+  },
+  {
+   "id": "mat_sower",
+   "type": "STORY",
+   "name": "The parable of the sower",
+   "description": "Jesus tells of seed falling on the path, stony ground, thorns and good ground, explains why he speaks in parables, and interprets the sower for his disciples.",
+   "covenant": null,
+   "ages": [
+    7,
+    16
+   ],
+   "passages": [
+    "MAT 13:1-23"
+   ],
+   "evidence": [
+    "Retell the four soils",
+    "Give the explanation Jesus gave for each"
+   ],
+   "prompt": "Can {{name}} explain what each soil in the parable stands for?"
+  },
+  {
+   "id": "mat_wheat_and_tares",
+   "type": "STORY",
+   "name": "The parable of the wheat and tares",
+   "description": "An enemy sows tares among wheat; the householder lets both grow until harvest, and Jesus explains the field is the world and the reapers are angels at the end of the world.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 13:24-30",
+    "MAT 13:36-43"
+   ],
+   "evidence": [
+    "Retell the parable",
+    "Give Jesus’ interpretation of the field, seed, enemy and harvest"
+   ],
+   "prompt": "Can {{name}} explain the parable of the tares and what happens at harvest?"
+  },
+  {
+   "id": "mat_mustard_leaven",
+   "type": "STORY",
+   "name": "The mustard seed and the leaven",
+   "description": "Jesus compares the kingdom of heaven to a tiny mustard seed that becomes a tree and to leaven hidden in three measures of meal, and Matthew says he spoke only in parables to the crowd.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "MAT 13:31-35"
+   ],
+   "evidence": [
+    "Retell the two parables",
+    "Say what Matthew says in 13:34-35"
+   ],
+   "prompt": "Can {{name}} tell the mustard seed and leaven parables and what they say about the kingdom?"
+  },
+  {
+   "id": "mat_hidden_treasure_net",
+   "type": "STORY",
+   "name": "Hidden treasure, the pearl and the net",
+   "description": "Jesus likens the kingdom to treasure in a field, a pearl of great price and a net gathering good and bad fish, and tells the scribe instructed in the kingdom to bring out things new and old.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 13:44-52"
+   ],
+   "evidence": [
+    "Describe what each man did on finding what he sought",
+    "Explain the net parable’s picture of the end"
+   ],
+   "prompt": "Can {{name}} explain the treasure and pearl parables?"
+  },
+  {
+   "id": "mat_nazareth_rejects",
+   "type": "STORY",
+   "name": "Rejected in his own country",
+   "description": "In his home synagogue Jesus is questioned as the carpenter’s son whose family they know; they are offended, and he does few mighty works there because of unbelief.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MAT 13:53-58"
+   ],
+   "evidence": [
+    "Say why the people were offended",
+    "Explain Jesus’ saying about a prophet’s honour"
+   ],
+   "prompt": "Can {{name}} explain why Jesus was not honoured in his own country?"
+  },
+  {
+   "id": "mat_john_beheaded",
+   "type": "STORY",
+   "name": "The death of John the Baptist",
+   "description": "Herod, hearing of Jesus, thinks John is risen; Matthew recounts how Herod imprisoned John over Herodias and, because of an oath at his birthday, had him beheaded; John’s disciples bury him and tell Jesus.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "MAT 14:1-12"
+   ],
+   "evidence": [
+    "Retell why John was imprisoned",
+    "Describe how Herod came to order the execution"
+   ],
+   "prompt": "Can {{name}} tell what happened to John the Baptist?"
+  },
+  {
+   "id": "mat_feeding_five_thousand",
+   "type": "STORY",
+   "name": "Feeding the five thousand",
+   "description": "Hearing of John, Jesus withdraws; the crowds follow, he heals them, and with five loaves and two fishes he feeds about five thousand men with twelve baskets left over.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "MAT 14:13-21"
+   ],
+   "evidence": [
+    "Say how much food there was and how much remained",
+    "Describe what Jesus did with the loaves"
+   ],
+   "prompt": "Can {{name}} retell how Jesus fed the crowd?"
+  },
+  {
+   "id": "mat_walking_on_water",
+   "type": "STORY",
+   "name": "Jesus walks on the sea and Peter sinks",
+   "description": "Jesus comes to the disciples on the sea in the fourth watch; Peter walks toward him, fears the wind and begins to sink, and Jesus saves him, after which they worship him and he heals at Gennesaret.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "MAT 14:22-36"
+   ],
+   "evidence": [
+    "Retell what Peter did and why he sank",
+    "Say what the disciples said when the wind ceased"
+   ],
+   "prompt": "Can {{name}} tell the story of Jesus and Peter on the water?"
+  },
+  {
+   "id": "mat_tradition_defilement",
+   "type": "THEME",
+   "name": "Tradition and what defiles",
+   "description": "Pharisees accuse the disciples of breaking the tradition of the elders; Jesus charges them with voiding God’s commandment by tradition and says what comes out of the heart, not what goes into the mouth, defiles.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 15:1-20"
+   ],
+   "evidence": [
+    "Give Jesus’ example of tradition overriding a commandment",
+    "List what comes out of the heart (15:19)"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said defiles a person?"
+  },
+  {
+   "id": "mat_canaanite_woman",
+   "type": "STORY",
+   "name": "The Canaanite woman’s faith",
+   "description": "Near Tyre and Sidon a woman of Canaan begs for her daughter; Jesus is at first silent and speaks of the children’s bread, but she answers about crumbs and he praises her faith and heals the girl.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "MAT 15:21-28"
+   ],
+   "evidence": [
+    "Retell the conversation",
+    "Say what Jesus said about her faith"
+   ],
+   "prompt": "Can {{name}} tell what the woman asked and how Jesus responded?"
+  },
+  {
+   "id": "mat_feeding_four_thousand",
+   "type": "STORY",
+   "name": "Feeding the four thousand",
+   "description": "After healing many at the Galilee mountain, Jesus has compassion on a crowd that has been with him three days and feeds four thousand with seven loaves and a few fishes, with seven baskets left.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "MAT 15:29-39"
+   ],
+   "evidence": [
+    "Compare this feeding with the earlier one (14:13-21)",
+    "Give the numbers of loaves, fishes and baskets"
+   ],
+   "prompt": "Can {{name}} retell this feeding and say how it differs from the five thousand?"
+  },
+  {
+   "id": "mat_sign_and_leaven",
+   "type": "THEME",
+   "name": "The demand for a sign and the leaven of the Pharisees",
+   "description": "Pharisees and Sadducees seek a sign from heaven and Jesus again points to Jonah; he then warns his disciples against the leaven of the Pharisees and Sadducees, which they take to mean bread but he says is their doctrine.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 16:1-12"
+   ],
+   "evidence": [
+    "Explain what Jesus meant by leaven",
+    "Recall the feedings he reminds them of"
+   ],
+   "prompt": "Can {{name}} explain what the leaven of the Pharisees and Sadducees is?"
+  },
+  {
+   "id": "mat_peters_confession",
+   "type": "STORY",
+   "name": "Peter’s confession at Caesarea Philippi",
+   "description": "Asked who they say he is, Peter answers that Jesus is the Christ, the Son of the living God; Jesus calls him blessed, speaks of building his church on this rock, and gives the keys of the kingdom.",
+   "covenant": null,
+   "ages": [
+    9,
+    18
+   ],
+   "passages": [
+    "MAT 16:13-20"
+   ],
+   "evidence": [
+    "State what the people said and what Peter said",
+    "Say what Jesus told Peter in 16:17-19"
+   ],
+   "prompt": "Can {{name}} tell who Peter said Jesus is and how Jesus replied?"
+  },
+  {
+   "id": "mat_take_up_cross",
+   "type": "THEME",
+   "name": "The Son of man must suffer; take up your cross",
+   "description": "Jesus begins to tell the disciples he must go to Jerusalem, suffer, be killed and raised the third day; Peter rebukes him and is rebuked, and Jesus calls his followers to deny themselves and take up the cross.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MAT 16:21-28"
+   ],
+   "evidence": [
+    "State what Jesus foretold about himself",
+    "Explain the call to deny oneself"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said following him costs?"
+  },
+  {
+   "id": "mat_transfiguration",
+   "type": "STORY",
+   "name": "The transfiguration",
+   "description": "On a high mountain Jesus is transfigured before Peter, James and John, Moses and Elias appear, and a voice from the cloud says to hear his beloved Son; coming down he speaks of Elias as already come.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 17:1-13"
+   ],
+   "evidence": [
+    "Describe what the three disciples saw and heard",
+    "Say what Jesus told them to keep silent"
+   ],
+   "prompt": "Can {{name}} retell the transfiguration and what the voice said?"
+  },
+  {
+   "id": "mat_demon_boy_temple_tax",
+   "type": "STORY",
+   "name": "The boy with a demon, a second prediction and the temple tax",
+   "description": "Jesus heals a boy the disciples could not heal, saying unbelief is the reason and faith like a mustard seed can move mountains; he again foretells his betrayal and resurrection and arranges payment of the tribute through a coin in a fish.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 17:14-27"
+   ],
+   "evidence": [
+    "Say why the disciples could not cast the spirit out",
+    "Retell the coin in the fish"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said about faith like a mustard seed?"
+  },
+  {
+   "id": "mat_greatest_in_kingdom",
+   "type": "THEME",
+   "name": "Who is greatest, offences and the lost sheep",
+   "description": "Asked who is greatest, Jesus sets a child in their midst and calls for conversion and humility, warns against causing little ones to stumble, and tells of the shepherd seeking one lost sheep.",
+   "covenant": null,
+   "ages": [
+    7,
+    16
+   ],
+   "passages": [
+    "MAT 18:1-14"
+   ],
+   "evidence": [
+    "Explain what Jesus says about becoming like a child",
+    "Retell the lost sheep"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said makes someone greatest in the kingdom?"
+  },
+  {
+   "id": "mat_church_discipline",
+   "type": "THEME",
+   "name": "Reproving a brother and agreeing in prayer",
+   "description": "Jesus gives steps for a brother who sins: tell him alone, then with witnesses, then the church; he speaks of binding and loosing and of his presence where two or three gather in his name.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 18:15-20"
+   ],
+   "evidence": [
+    "List the steps in 18:15-17",
+    "Say what Jesus promises in 18:20"
+   ],
+   "prompt": "Can {{name}} explain the steps Jesus gives for a brother who sins?"
+  },
+  {
+   "id": "mat_unforgiving_servant",
+   "type": "STORY",
+   "name": "The unforgiving servant",
+   "description": "Peter asks how often to forgive; Jesus says seventy times seven and tells of a servant forgiven a huge debt who refuses to forgive a fellow servant a small one, so is delivered to the tormentors.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 18:21-35"
+   ],
+   "evidence": [
+    "Compare the two debts",
+    "Explain the final verse (18:35)"
+   ],
+   "prompt": "Can {{name}} tell this parable and what Jesus says it means for forgiving others?"
+  },
+  {
+   "id": "mat_marriage_divorce",
+   "type": "THEME",
+   "name": "Jesus on marriage and divorce",
+   "description": "Tested by Pharisees, Jesus points back to male and female at the beginning and “one flesh”, says what God joined man must not separate, speaks of Moses’ allowance because of hard hearts, and says not all can receive the saying about eunuchs.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 19:1-12"
+   ],
+   "evidence": [
+    "Say what Jesus cites from the beginning",
+    "Explain why Moses allowed divorce according to 19:8"
+   ],
+   "prompt": "Can {{name}} explain what Jesus teaches about marriage and why?"
+  },
+  {
+   "id": "mat_children_blessed",
+   "type": "STORY",
+   "name": "Jesus blesses the little children",
+   "description": "People bring children for Jesus to lay hands on and pray; the disciples rebuke them, but Jesus says to let them come, for the kingdom of heaven belongs to such.",
+   "covenant": null,
+   "ages": [
+    4,
+    10
+   ],
+   "passages": [
+    "MAT 19:13-15"
+   ],
+   "evidence": [
+    "Retell what the disciples did and Jesus said",
+    "Say whose is the kingdom of heaven"
+   ],
+   "prompt": "Can {{name}} tell what Jesus said about children coming to him?"
+  },
+  {
+   "id": "mat_rich_young_man",
+   "type": "STORY",
+   "name": "The rich young man and rewards of following",
+   "description": "A young man asks what good thing earns eternal life; told to keep the commandments and then to sell all and follow, he goes away sorrowful; Jesus speaks of the camel and needle and promises rewards to those who left all.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 19:16-30"
+   ],
+   "evidence": [
+    "Say why the young man left sorrowful",
+    "Explain “with God all things are possible”"
+   ],
+   "prompt": "Can {{name}} tell what Jesus asked the young man to do and why it was hard?"
+  },
+  {
+   "id": "mat_labourers_vineyard",
+   "type": "STORY",
+   "name": "The labourers in the vineyard",
+   "description": "A householder hires workers at different hours and pays all the same; the first complain, and he answers that he does no wrong and may be generous with his own; the last will be first and the first last.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 20:1-16"
+   ],
+   "evidence": [
+    "Retell the parable",
+    "Say what the householder answered the complaint"
+   ],
+   "prompt": "Can {{name}} explain the householder’s answer and Jesus’ closing line?"
+  },
+  {
+   "id": "mat_third_prediction_service",
+   "type": "THEME",
+   "name": "Third prediction and the call to serve",
+   "description": "Going up to Jerusalem Jesus again foretells his betrayal, mockery, crucifixion and rising; the mother of Zebedee’s sons asks for places for them, and Jesus teaches that the great must serve, for the Son of man came to give his life a ransom for many.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MAT 20:17-28"
+   ],
+   "evidence": [
+    "Describe what Jesus foretold",
+    "Explain what he says about greatness and the ransom"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said it means to be great among his followers?"
+  },
+  {
+   "id": "mat_blind_men_jericho",
+   "type": "STORY",
+   "name": "Two blind men near Jericho",
+   "description": "Leaving Jericho, two blind men cry out “Lord, thou son of David”; the crowd tells them to be quiet, but Jesus stops, touches their eyes and they see and follow him.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MAT 20:29-34"
+   ],
+   "evidence": [
+    "Retell what the blind men cried and Jesus did",
+    "Say what they did after receiving sight"
+   ],
+   "prompt": "Can {{name}} tell what the blind men asked and what happened?"
+  },
+  {
+   "id": "mat_triumphal_entry",
+   "type": "STORY",
+   "name": "Jesus enters Jerusalem",
+   "description": "Jesus sends two disciples for an ass and colt, and rides toward Jerusalem while crowds spread garments and branches and cry Hosanna to the son of David; Matthew says this fulfils a word about the King coming meek on an ass.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MAT 21:1-11"
+   ],
+   "evidence": [
+    "Describe the entry",
+    "Say what the crowds shouted"
+   ],
+   "prompt": "Can {{name}} retell how Jesus came into Jerusalem and what the crowds said?"
+  },
+  {
+   "id": "mat_temple_cleansing",
+   "type": "STORY",
+   "name": "Cleansing the temple",
+   "description": "Jesus drives out the buyers and sellers, overturns tables and seats, says the house of prayer has become a den of thieves, heals the blind and lame, and answers the priests about children’s praise.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "MAT 21:12-17"
+   ],
+   "evidence": [
+    "Say what Jesus did and quoted",
+    "Describe what the children cried and the priests’ reaction"
+   ],
+   "prompt": "Can {{name}} explain why Jesus overturned the tables?"
+  },
+  {
+   "id": "mat_fig_tree",
+   "type": "STORY",
+   "name": "The withered fig tree",
+   "description": "Hungry, Jesus finds only leaves on a fig tree and it withers; he tells the astonished disciples that faith without doubt can even move a mountain and that believing prayer receives.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 21:18-22"
+   ],
+   "evidence": [
+    "Retell what happened to the tree",
+    "Say what Jesus taught about faith and prayer"
+   ],
+   "prompt": "Can {{name}} tell what happened to the fig tree and what Jesus taught?"
+  },
+  {
+   "id": "mat_authority_question",
+   "type": "STORY",
+   "name": "By what authority?",
+   "description": "Priests and elders ask by what authority Jesus acts; he asks whether John’s baptism was from heaven or men, and when they will not answer he will not answer them.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 21:23-27"
+   ],
+   "evidence": [
+    "State their question and Jesus’ counter-question",
+    "Explain why they would not answer"
+   ],
+   "prompt": "Can {{name}} explain how Jesus replied to the question about his authority?"
+  },
+  {
+   "id": "mat_two_sons",
+   "type": "STORY",
+   "name": "The parable of the two sons",
+   "description": "A father tells two sons to work in his vineyard; the one who refused repents and goes, the one who agreed does not. Jesus says tax collectors and harlots go into the kingdom before the priests because they believed John.",
+   "covenant": null,
+   "ages": [
+    7,
+    15
+   ],
+   "passages": [
+    "MAT 21:28-32"
+   ],
+   "evidence": [
+    "Retell the parable",
+    "Say whom Jesus compares to each son"
+   ],
+   "prompt": "Can {{name}} explain which son did his father’s will?"
+  },
+  {
+   "id": "mat_wicked_tenants",
+   "type": "STORY",
+   "name": "The parable of the wicked tenants",
+   "description": "Tenants of a vineyard beat and kill the owner’s servants and then his son; Jesus cites the rejected stone made head of the corner, says the kingdom will be taken from them, and the priests perceive he speaks of them.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MAT 21:33-46"
+   ],
+   "evidence": [
+    "Retell the parable",
+    "Say what the priests understood"
+   ],
+   "prompt": "Can {{name}} explain who the servants, son and tenants stand for in the parable?"
+  },
+  {
+   "id": "mat_wedding_feast",
+   "type": "STORY",
+   "name": "The wedding feast and the man without a garment",
+   "description": "A king prepares a wedding for his son; invited guests refuse and are destroyed, others from the highways are gathered, and a man without a wedding garment is cast into outer darkness; many are called, few chosen.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MAT 22:1-14"
+   ],
+   "evidence": [
+    "Retell the parable",
+    "Explain the closing line, “many are called, but few are chosen”"
+   ],
+   "prompt": "Can {{name}} tell what happened to those invited and the man without a garment?"
+  },
+  {
+   "id": "mat_tribute_to_caesar",
+   "type": "STORY",
+   "name": "Tribute to Caesar",
+   "description": "Pharisees and Herodians ask whether it is lawful to pay tribute to Caesar; Jesus asks for a coin, asks whose image is on it, and says to render to Caesar what is Caesar’s and to God what is God’s.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "MAT 22:15-22"
+   ],
+   "evidence": [
+    "Say why they asked",
+    "Explain Jesus’ answer"
+   ],
+   "prompt": "Can {{name}} explain Jesus’ reply about the coin?"
+  },
+  {
+   "id": "mat_resurrection_question",
+   "type": "STORY",
+   "name": "The Sadducees and the resurrection",
+   "description": "Sadducees pose a puzzle about a woman married to seven brothers; Jesus says they err not knowing the scriptures or God’s power, that in the resurrection they are as angels, and that God is God of the living.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 22:23-33"
+   ],
+   "evidence": [
+    "Say what the Sadducees denied",
+    "Explain how Jesus uses the words about Abraham, Isaac and Jacob"
+   ],
+   "prompt": "Can {{name}} explain Jesus’ answer about the resurrection?"
+  },
+  {
+   "id": "mat_great_commandment",
+   "type": "THEME",
+   "name": "The great commandment",
+   "description": "Asked which is the great commandment, Jesus answers love the Lord with all heart, soul and mind, and love your neighbour as yourself, and says all the law and the prophets hang on these two.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "MAT 22:34-40"
+   ],
+   "evidence": [
+    "State the two commandments",
+    "Explain “on these two hang all the law and the prophets”"
+   ],
+   "prompt": "Can {{name}} say the two great commandments and what they cover?"
+  },
+  {
+   "id": "mat_son_of_david_question",
+   "type": "THEME",
+   "name": "David’s son and David’s Lord",
+   "description": "Jesus asks the Pharisees whose son Christ is; they say David’s, and he asks how David in spirit calls him Lord; no one can answer.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 22:41-46"
+   ],
+   "evidence": [
+    "Retell the question Jesus asked",
+    "Say what the Pharisees could not answer"
+   ],
+   "prompt": "Can {{name}} explain the puzzle Jesus raised about David and the Christ?"
+  },
+  {
+   "id": "mat_woes_scribes_pharisees",
+   "type": "THEME",
+   "name": "Woes on the scribes and Pharisees",
+   "description": "Jesus tells the crowds to do what the scribes and Pharisees say but not what they do, warns against titles and pride, pronounces seven woes for hypocrisy, and laments over Jerusalem.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 23:1-39"
+   ],
+   "evidence": [
+    "List several hypocrisies Jesus names",
+    "Describe the lament over Jerusalem (23:37-39)"
+   ],
+   "prompt": "Can {{name}} explain what Jesus criticised in the scribes and Pharisees?"
+  },
+  {
+   "id": "mat_olivet_signs",
+   "type": "THEME",
+   "name": "The Olivet discourse: signs and persecution",
+   "description": "Leaving the temple, Jesus foretells its destruction; on the Mount of Olives he warns of deceivers, wars, famines and persecution, and says the gospel of the kingdom will be preached to all nations before the end.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MAT 24:1-14"
+   ],
+   "evidence": [
+    "State what the disciples asked in 24:3",
+    "Name the events Jesus says are not yet the end"
+   ],
+   "prompt": "Can {{name}} list the warnings Jesus gave in 24:4-14?"
+  },
+  {
+   "id": "mat_great_tribulation",
+   "type": "THEME",
+   "name": "The abomination of desolation and the great tribulation",
+   "description": "Jesus tells those in Judaea to flee when they see the abomination of desolation spoken of by Daniel, describes great tribulation and warns against false Christs.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAT 24:15-28"
+   ],
+   "evidence": [
+    "Say what Jesus tells those in Judaea to do",
+    "Explain the warning about false Christs"
+   ],
+   "prompt": "Can {{name}} explain what Jesus told his disciples to do when they see the abomination of desolation?"
+  },
+  {
+   "id": "mat_coming_of_son_of_man",
+   "type": "THEME",
+   "name": "The coming of the Son of man",
+   "description": "Jesus says after the tribulation the sun will darken and the Son of man will appear in the clouds and send angels to gather the elect; he gives the fig tree parable and says his words will not pass away.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "MAT 24:29-35"
+   ],
+   "evidence": [
+    "Describe the signs and the coming",
+    "Explain the fig tree lesson"
+   ],
+   "prompt": "Can {{name}} describe what Jesus said will happen when the Son of man comes?"
+  },
+  {
+   "id": "mat_watchfulness",
+   "type": "THEME",
+   "name": "Watch, for no one knows the day",
+   "description": "Jesus says no one but the Father knows the day, compares the coming to the days of Noah, and tells disciples to watch and be ready, with the picture of the faithful and evil servant.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MAT 24:36-51"
+   ],
+   "evidence": [
+    "State who knows the day and hour",
+    "Contrast the faithful and the evil servant"
+   ],
+   "prompt": "Can {{name}} explain why Jesus told his disciples to be ready?"
+  },
+  {
+   "id": "mat_ten_virgins",
+   "type": "STORY",
+   "name": "The parable of the ten virgins",
+   "description": "Five wise and five foolish virgins await the bridegroom; the foolish lack oil, are away when he comes, and find the door shut. Jesus concludes: watch.",
+   "covenant": null,
+   "ages": [
+    7,
+    15
+   ],
+   "passages": [
+    "MAT 25:1-13"
+   ],
+   "evidence": [
+    "Retell the parable",
+    "State the lesson in 25:13"
+   ],
+   "prompt": "Can {{name}} tell what made five virgins wise and five foolish?"
+  },
+  {
+   "id": "mat_talents",
+   "type": "STORY",
+   "name": "The parable of the talents",
+   "description": "A man entrusts talents to three servants; two trade and double them and are praised, but the one who hid his talent is called wicked and slothful and cast out.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 25:14-30"
+   ],
+   "evidence": [
+    "Retell the three servants’ responses",
+    "Say what the master told each"
+   ],
+   "prompt": "Can {{name}} explain what the master said to each servant?"
+  },
+  {
+   "id": "mat_sheep_and_goats",
+   "type": "STORY",
+   "name": "The judgment of the sheep and the goats",
+   "description": "The Son of man sits on his throne and separates the nations as sheep and goats; the King says what was done to the least of his brethren was done to him, and the two groups go to life eternal and everlasting punishment.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MAT 25:31-46"
+   ],
+   "evidence": [
+    "List the deeds named",
+    "Say what the King says about “the least of these”"
+   ],
+   "prompt": "Can {{name}} explain on what basis the sheep and goats are separated?"
+  },
+  {
+   "id": "mat_plot_and_anointing",
+   "type": "STORY",
+   "name": "The plot, the anointing at Bethany and Judas’ bargain",
+   "description": "Two days before Passover the rulers plot to kill Jesus; a woman anoints him at Simon the leper’s house and Jesus calls it for his burial; Judas goes to the chief priests for thirty pieces of silver.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "MAT 26:1-16"
+   ],
+   "evidence": [
+    "Retell the anointing and the disciples’ objection",
+    "Say what Judas did"
+   ],
+   "prompt": "Can {{name}} tell what the woman did and what Judas agreed to do?"
+  },
+  {
+   "id": "mat_last_supper",
+   "type": "STORY",
+   "name": "The Passover and the Lord’s Supper",
+   "description": "At the Passover meal Jesus says one of the twelve will betray him; he gives the bread as his body and the cup as his blood of the new testament shed for many for the remission of sins.",
+   "covenant": "cv_new",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MAT 26:17-30"
+   ],
+   "evidence": [
+    "Describe what Jesus said over the bread and the cup",
+    "Explain “blood of the new testament” in 26:28"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said at the Passover meal about the cup and bread?"
+  },
+  {
+   "id": "mat_gethsemane",
+   "type": "STORY",
+   "name": "Peter’s boast and Gethsemane",
+   "description": "Jesus foretells that the disciples will scatter and Peter will deny him; in Gethsemane he prays three times that the cup may pass but not his will, while the disciples sleep.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MAT 26:31-46"
+   ],
+   "evidence": [
+    "Retell what Jesus prayed",
+    "Say what happened to the disciples in the garden"
+   ],
+   "prompt": "Can {{name}} tell what Jesus prayed in Gethsemane?"
+  },
+  {
+   "id": "mat_arrest",
+   "type": "STORY",
+   "name": "Jesus is arrested",
+   "description": "Judas arrives with a crowd and betrays Jesus with a kiss; a disciple cuts off an ear, Jesus tells him to put up the sword and says the scriptures must be fulfilled, and the disciples flee.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MAT 26:47-56"
+   ],
+   "evidence": [
+    "Describe the betrayal",
+    "Say what Jesus said about the sword"
+   ],
+   "prompt": "Can {{name}} explain what happened in the garden when Jesus was arrested?"
+  },
+  {
+   "id": "mat_trial_caiaphas",
+   "type": "STORY",
+   "name": "Jesus before Caiaphas and the council",
+   "description": "False witnesses speak against Jesus about the temple; asked if he is the Christ the Son of God he answers and speaks of the Son of man sitting on the right hand of power; the high priest cries blasphemy and they condemn him.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 26:57-68"
+   ],
+   "evidence": [
+    "Say what the false witnesses claimed",
+    "Explain the charge of blasphemy"
+   ],
+   "prompt": "Can {{name}} tell what the council asked Jesus and what they decided?"
+  },
+  {
+   "id": "mat_peter_denies",
+   "type": "STORY",
+   "name": "Peter denies Jesus",
+   "description": "Peter follows to the high priest’s palace and, challenged three times, denies knowing Jesus; the cock crows, he remembers Jesus’ word and weeps bitterly.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MAT 26:69-75"
+   ],
+   "evidence": [
+    "Retell the three denials",
+    "Say what Peter did when the cock crew"
+   ],
+   "prompt": "Can {{name}} tell how Peter denied Jesus and what he did afterwards?"
+  },
+  {
+   "id": "mat_judas_death",
+   "type": "STORY",
+   "name": "Judas repents and the field of blood",
+   "description": "Seeing Jesus condemned, Judas returns the thirty silver pieces, confesses innocent blood and hangs himself; the priests buy the potter’s field, and Matthew links this to a word of Jeremy.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MAT 27:1-10"
+   ],
+   "evidence": [
+    "Say what Judas did with the money",
+    "Say what the priests did with it"
+   ],
+   "prompt": "Can {{name}} explain what happened to Judas and the silver?"
+  },
+  {
+   "id": "mat_pilate_barabbas",
+   "type": "STORY",
+   "name": "Jesus before Pilate and Barabbas",
+   "description": "Pilate asks if Jesus is King of the Jews; Jesus answers little; offered the choice, the crowd demands Barabbas and calls for Jesus to be crucified, and Pilate washes his hands.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MAT 27:11-26"
+   ],
+   "evidence": [
+    "Say who the crowd chose",
+    "Describe what Pilate and his wife said about Jesus"
+   ],
+   "prompt": "Can {{name}} retell Pilate’s trial and the choice of Barabbas?"
+  },
+  {
+   "id": "mat_crucifixion",
+   "type": "STORY",
+   "name": "The mocking and crucifixion",
+   "description": "Soldiers mock Jesus with a robe and thorns, Simon of Cyrene carries his cross, he is crucified at Golgotha with two thieves under the title King of the Jews, and passers-by taunt him.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MAT 27:27-44"
+   ],
+   "evidence": [
+    "Describe the mocking",
+    "List the details of the crucifixion"
+   ],
+   "prompt": "Can {{name}} tell how Jesus was mocked and crucified?"
+  },
+  {
+   "id": "mat_death_of_jesus",
+   "type": "STORY",
+   "name": "The death of Jesus",
+   "description": "Darkness covers the land, Jesus cries “My God, my God, why hast thou forsaken me?” and yields up the ghost; the temple veil tears, the earth quakes, graves open, and the centurion says truly this was the Son of God.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MAT 27:45-56"
+   ],
+   "evidence": [
+    "List the signs at his death",
+    "Say what the centurion said"
+   ],
+   "prompt": "Can {{name}} describe what happened when Jesus died?"
+  },
+  {
+   "id": "mat_burial_and_guard",
+   "type": "STORY",
+   "name": "The burial and the guard at the tomb",
+   "description": "Joseph of Arimathaea buries Jesus in his new rock tomb; the next day the chief priests ask Pilate to make the tomb secure and set a sealed stone and a watch.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MAT 27:57-66"
+   ],
+   "evidence": [
+    "Say who buried Jesus and where",
+    "Explain why the priests wanted a guard"
+   ],
+   "prompt": "Can {{name}} tell where Jesus was buried and what the priests did about the tomb?"
+  },
+  {
+   "id": "mat_resurrection",
+   "type": "STORY",
+   "name": "The resurrection and the guards’ report",
+   "description": "At dawn an angel rolls back the stone and tells the women Jesus is risen and will meet his disciples in Galilee; Jesus meets the women, and the guards are paid to say the disciples stole the body.",
+   "covenant": null,
+   "ages": [
+    7,
+    18
+   ],
+   "passages": [
+    "MAT 28:1-15"
+   ],
+   "evidence": [
+    "Retell what the angel said",
+    "Describe what the guards were told to say"
+   ],
+   "prompt": "Can {{name}} tell what happened at the tomb on the first day of the week?"
+  },
+  {
+   "id": "mat_great_commission",
+   "type": "THEME",
+   "name": "The Great Commission",
+   "description": "On a mountain in Galilee the eleven see the risen Jesus, some doubt, and he says all power is given to him and tells them to make disciples of all nations, baptizing in the name of the Father, Son and Holy Ghost, with his presence always.",
+   "covenant": null,
+   "ages": [
+    7,
+    18
+   ],
+   "passages": [
+    "MAT 28:16-20"
+   ],
+   "evidence": [
+    "Say what Jesus commanded in 28:19-20",
+    "Say what he promises"
+   ],
+   "prompt": "Can {{name}} explain what Jesus told his disciples to do and what he promised?"
+  },
+  {
+   "id": "mrk_john_prepares_way",
+   "type": "STORY",
+   "name": "John prepares the way",
+   "description": "Mark opens with the beginning of the gospel of Jesus Christ, the Son of God; John baptizes in the wilderness for repentance and says one mightier will baptize with the Holy Ghost.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MRK 1:1-8"
+   ],
+   "evidence": [
+    "Say how Mark begins his book",
+    "Describe John’s message and appearance"
+   ],
+   "prompt": "Can {{name}} explain who John was and what he said about the one coming after him?"
+  },
+  {
+   "id": "mrk_baptism_temptation",
+   "type": "STORY",
+   "name": "The baptism and temptation of Jesus",
+   "description": "Jesus is baptized by John, the Spirit descends like a dove and a voice calls him beloved Son; the Spirit then drives him into the wilderness, where he is tempted forty days by Satan.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "MRK 1:9-13"
+   ],
+   "evidence": [
+    "Describe what happened at the Jordan",
+    "Say where Jesus went next and for how long"
+   ],
+   "prompt": "Can {{name}} tell what happened at Jesus’ baptism and in the wilderness?"
+  },
+  {
+   "id": "mrk_calling_first_disciples",
+   "type": "STORY",
+   "name": "Jesus preaches the kingdom and calls four fishermen",
+   "description": "After John is imprisoned Jesus preaches in Galilee that the time is fulfilled and the kingdom of God is at hand, and calls Simon, Andrew, James and John from their nets.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MRK 1:14-20"
+   ],
+   "evidence": [
+    "Say what Jesus preached",
+    "Name the four fishermen"
+   ],
+   "prompt": "Can {{name}} tell how Jesus called his first disciples?"
+  },
+  {
+   "id": "mrk_capernaum_synagogue",
+   "type": "STORY",
+   "name": "The man with an unclean spirit in the synagogue",
+   "description": "At Capernaum Jesus teaches with authority and commands an unclean spirit, which cries that he is the Holy One of God, to come out, and the people are amazed.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MRK 1:21-28"
+   ],
+   "evidence": [
+    "Retell what the unclean spirit said",
+    "Say how the people responded"
+   ],
+   "prompt": "Can {{name}} tell what Jesus did in the Capernaum synagogue?"
+  },
+  {
+   "id": "mrk_healings_at_capernaum",
+   "type": "STORY",
+   "name": "Healing Peter’s mother-in-law and the crowds",
+   "description": "Jesus heals Simon’s wife’s mother, then at evening heals many and casts out devils; before dawn he prays alone in a solitary place and says he must preach in other towns.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MRK 1:29-39"
+   ],
+   "evidence": [
+    "Retell the evening at the door",
+    "Say why Jesus left Capernaum"
+   ],
+   "prompt": "Can {{name}} explain what Jesus did that evening and next morning?"
+  },
+  {
+   "id": "mrk_leper_cleansed",
+   "type": "STORY",
+   "name": "Jesus cleanses a leper",
+   "description": "A leper kneels and asks to be made clean; Jesus, moved with compassion, touches him and heals him, telling him to show himself to the priest, but the man spreads the news.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MRK 1:40-45"
+   ],
+   "evidence": [
+    "Retell the healing",
+    "Say what happened after the man disobeyed"
+   ],
+   "prompt": "Can {{name}} tell what the leper asked and what Jesus did?"
+  },
+  {
+   "id": "mrk_paralytic_roof",
+   "type": "STORY",
+   "name": "The paralytic let down through the roof",
+   "description": "Four men break through a roof to lower a paralysed man to Jesus, who forgives his sins; when scribes call it blasphemy he heals the man to show that the Son of man has power on earth to forgive sins.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "MRK 2:1-12"
+   ],
+   "evidence": [
+    "Retell how the man reached Jesus",
+    "Say why the scribes objected"
+   ],
+   "prompt": "Can {{name}} tell what Jesus did for the man lowered through the roof?"
+  },
+  {
+   "id": "mrk_levi_called",
+   "type": "STORY",
+   "name": "Levi called and the question about fasting",
+   "description": "Jesus calls Levi the tax collector and eats with publicans and sinners, saying he came to call sinners; asked about fasting, he speaks of the bridegroom, new cloth and new wine.",
+   "covenant": null,
+   "ages": [
+    7,
+    15
+   ],
+   "passages": [
+    "MRK 2:13-22"
+   ],
+   "evidence": [
+    "Say whom Jesus called and what Pharisees objected to",
+    "Explain the bridegroom saying"
+   ],
+   "prompt": "Can {{name}} explain why Jesus ate with sinners and what he said about fasting?"
+  },
+  {
+   "id": "mrk_sabbath_grain",
+   "type": "STORY",
+   "name": "Lord of the sabbath: the grainfield",
+   "description": "When disciples pluck grain on the sabbath, Jesus cites David eating the shewbread and says the sabbath was made for man and the Son of man is Lord of it.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "MRK 2:23-28"
+   ],
+   "evidence": [
+    "State the objection and Jesus’ example",
+    "Explain “the sabbath was made for man”"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said about the sabbath?"
+  },
+  {
+   "id": "mrk_withered_hand",
+   "type": "STORY",
+   "name": "Healing the withered hand",
+   "description": "In the synagogue Jesus asks whether it is lawful to do good or evil on the sabbath, heals a man’s withered hand, and the Pharisees and Herodians plot to destroy him.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "MRK 3:1-6"
+   ],
+   "evidence": [
+    "Retell the healing and Jesus’ question",
+    "Say what the Pharisees did"
+   ],
+   "prompt": "Can {{name}} explain why the Pharisees plotted against Jesus after this healing?"
+  },
+  {
+   "id": "mrk_twelve_appointed",
+   "type": "STORY",
+   "name": "The multitudes and the appointing of the twelve",
+   "description": "Crowds from many regions come to Jesus; he goes up a mountain and appoints twelve to be with him, to preach and to have power to heal and cast out devils, and Mark names them.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MRK 3:7-19"
+   ],
+   "evidence": [
+    "Name several of the twelve",
+    "Say what the twelve were appointed to do"
+   ],
+   "prompt": "Can {{name}} tell what Jesus appointed the twelve for?"
+  },
+  {
+   "id": "mrk_beelzebub",
+   "type": "STORY",
+   "name": "The Beelzebub charge and Jesus’ family",
+   "description": "Scribes from Jerusalem say Jesus casts out devils by the prince of devils; he answers that a divided kingdom cannot stand, warns of blaspheming the Holy Ghost, and says whoever does God’s will is his brother, sister and mother.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MRK 3:20-35"
+   ],
+   "evidence": [
+    "Summarise Jesus’ reply about a divided house",
+    "Say who Jesus calls his family"
+   ],
+   "prompt": "Can {{name}} explain what the scribes said and how Jesus answered?"
+  },
+  {
+   "id": "mrk_sower",
+   "type": "STORY",
+   "name": "The parable of the sower",
+   "description": "Teaching from a boat, Jesus tells the parable of the sower and explains it privately to his disciples: the word sown on the path, stony ground, thorns and good ground.",
+   "covenant": null,
+   "ages": [
+    7,
+    16
+   ],
+   "passages": [
+    "MRK 4:1-20"
+   ],
+   "evidence": [
+    "Retell the four soils",
+    "Give Jesus’ explanation of each"
+   ],
+   "prompt": "Can {{name}} explain what the four soils stand for?"
+  },
+  {
+   "id": "mrk_lamp_seed_mustard",
+   "type": "THEME",
+   "name": "The lamp, the growing seed and the mustard seed",
+   "description": "Jesus says what is hidden will be made known, speaks of the measure you give, tells of seed growing by itself until harvest and of the mustard seed, and explains all things privately to his disciples.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MRK 4:21-34"
+   ],
+   "evidence": [
+    "Explain the lamp saying",
+    "Compare the growing seed and the mustard seed"
+   ],
+   "prompt": "Can {{name}} describe what Jesus says the kingdom of God is like in 4:26-32?"
+  },
+  {
+   "id": "mrk_storm_stilled",
+   "type": "STORY",
+   "name": "Jesus stills the storm",
+   "description": "Crossing the sea in the evening, the disciples are swamped by a storm while Jesus sleeps; he rebukes the wind and says to the sea “Peace, be still”, and they ask what manner of man this is.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "MRK 4:35-41"
+   ],
+   "evidence": [
+    "Retell the storm",
+    "State the disciples’ question in 4:41"
+   ],
+   "prompt": "Can {{name}} tell what Jesus did in the storm?"
+  },
+  {
+   "id": "mrk_legion",
+   "type": "STORY",
+   "name": "The man called Legion",
+   "description": "Jesus meets a man living among tombs with an unclean spirit; the many spirits (Legion) are sent into two thousand swine, and the healed man is told to tell his friends what the Lord has done and proclaims it in Decapolis.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MRK 5:1-20"
+   ],
+   "evidence": [
+    "Describe the man’s condition",
+    "Say what Jesus told him to do after healing"
+   ],
+   "prompt": "Can {{name}} tell what happened to the man called Legion?"
+  },
+  {
+   "id": "mrk_jairus",
+   "type": "STORY",
+   "name": "Jairus’ daughter and the woman who touched his garment",
+   "description": "Jairus begs Jesus to heal his dying daughter; on the way a woman bleeding for twelve years touches his garment and is healed; Jesus then raises the girl, telling Jairus not to fear but to believe.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MRK 5:21-43"
+   ],
+   "evidence": [
+    "Retell both healings",
+    "Say what Jesus said to Jairus when news came the girl was dead"
+   ],
+   "prompt": "Can {{name}} tell what Jesus did for the woman and for Jairus’ daughter?"
+  },
+  {
+   "id": "mrk_nazareth_unbelief",
+   "type": "STORY",
+   "name": "Rejected at Nazareth",
+   "description": "Jesus teaches in his home synagogue; people are offended that he is the carpenter, Mary’s son, and he can do few mighty works there, marvelling at their unbelief.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "MRK 6:1-6"
+   ],
+   "evidence": [
+    "Say why they took offence",
+    "Quote or paraphrase the saying about a prophet’s honour"
+   ],
+   "prompt": "Can {{name}} explain what happened when Jesus taught at Nazareth?"
+  },
+  {
+   "id": "mrk_twelve_sent",
+   "type": "STORY",
+   "name": "The twelve sent out two by two",
+   "description": "Jesus sends the twelve out in pairs with power over unclean spirits and instructions to take little; they preach repentance, cast out devils and anoint many sick with oil.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "MRK 6:7-13"
+   ],
+   "evidence": [
+    "List the instructions about what to take",
+    "Say what the twelve did"
+   ],
+   "prompt": "Can {{name}} explain how Jesus sent out the twelve?"
+  },
+  {
+   "id": "mrk_herod_john",
+   "type": "STORY",
+   "name": "Herod and the death of John the Baptist",
+   "description": "Hearing of Jesus, Herod fears John has risen; Mark recounts John’s imprisonment for rebuking Herod over Herodias, and how Herod’s oath at his birthday supper led to John’s beheading.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "MRK 6:14-29"
+   ],
+   "evidence": [
+    "Retell why John was imprisoned",
+    "Describe the oath and its result"
+   ],
+   "prompt": "Can {{name}} tell how John the Baptist died?"
+  },
+  {
+   "id": "mrk_feeding_five_thousand",
+   "type": "STORY",
+   "name": "Feeding the five thousand",
+   "description": "The apostles return and Jesus takes them apart, but crowds follow; Jesus teaches them, then feeds about five thousand with five loaves and two fishes, with twelve baskets of fragments.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "MRK 6:30-44"
+   ],
+   "evidence": [
+    "Say what Jesus did with the loaves and fishes",
+    "Give the numbers fed and left over"
+   ],
+   "prompt": "Can {{name}} retell the feeding of the five thousand?"
+  },
+  {
+   "id": "mrk_walking_on_sea",
+   "type": "STORY",
+   "name": "Jesus walks on the sea",
+   "description": "Jesus sends the disciples by ship while he prays on the mountain; in the fourth watch he comes to them walking on the sea, tells them not to be afraid, and the wind ceases; Mark says their hearts were hardened about the loaves.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "MRK 6:45-56"
+   ],
+   "evidence": [
+    "Retell what Jesus did and said",
+    "Say what Mark says the disciples had not understood"
+   ],
+   "prompt": "Can {{name}} tell the story of Jesus walking on the sea?"
+  },
+  {
+   "id": "mrk_tradition_defilement",
+   "type": "THEME",
+   "name": "Tradition of the elders and what defiles",
+   "description": "Pharisees fault the disciples for eating with unwashed hands; Jesus quotes Isaiah on lip service, charges them with setting aside God’s commandment through Corban, and says what comes out of the heart defiles.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MRK 7:1-23"
+   ],
+   "evidence": [
+    "Explain Jesus’ Corban example",
+    "List what proceeds from the heart (7:21-22)"
+   ],
+   "prompt": "Can {{name}} explain what Jesus says defiles a person?"
+  },
+  {
+   "id": "mrk_syrophenician_woman",
+   "type": "STORY",
+   "name": "The Syrophenician woman",
+   "description": "In the region of Tyre a Greek woman begs Jesus to cast a spirit out of her daughter; after his word about the children’s bread she replies about crumbs, and he tells her the devil has gone out.",
+   "covenant": null,
+   "ages": [
+    8,
+    15
+   ],
+   "passages": [
+    "MRK 7:24-30"
+   ],
+   "evidence": [
+    "Retell the conversation",
+    "Say how the daughter was healed"
+   ],
+   "prompt": "Can {{name}} tell what the woman said and what Jesus did?"
+  },
+  {
+   "id": "mrk_deaf_mute",
+   "type": "STORY",
+   "name": "Healing the deaf man",
+   "description": "In Decapolis people bring a deaf man with a speech impediment; Jesus takes him aside, touches his ears and tongue, says “Ephphatha”, and he hears and speaks.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MRK 7:31-37"
+   ],
+   "evidence": [
+    "Describe what Jesus did and said",
+    "Say what the crowd said (7:37)"
+   ],
+   "prompt": "Can {{name}} retell the healing of the deaf man?"
+  },
+  {
+   "id": "mrk_feeding_four_thousand",
+   "type": "STORY",
+   "name": "Feeding the four thousand",
+   "description": "Jesus has compassion on a crowd three days without food and feeds about four thousand with seven loaves and a few fishes, leaving seven baskets.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "MRK 8:1-10"
+   ],
+   "evidence": [
+    "Give the numbers of loaves and baskets",
+    "Compare with the five thousand"
+   ],
+   "prompt": "Can {{name}} retell the feeding of the four thousand?"
+  },
+  {
+   "id": "mrk_sign_leaven",
+   "type": "THEME",
+   "name": "Seeking a sign and the leaven of the Pharisees and Herod",
+   "description": "Pharisees seek a sign from heaven and Jesus refuses; in the boat he warns against the leaven of the Pharisees and Herod and reminds the disciples of the loaves and baskets in the two feedings.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MRK 8:11-21"
+   ],
+   "evidence": [
+    "Say what Jesus refused to give",
+    "Recall the numbers Jesus asked the disciples about"
+   ],
+   "prompt": "Can {{name}} explain why Jesus asked the disciples to remember the baskets?"
+  },
+  {
+   "id": "mrk_blind_man_bethsaida",
+   "type": "STORY",
+   "name": "The blind man of Bethsaida",
+   "description": "At Bethsaida Jesus leads a blind man outside the town, lays hands on him twice, and he sees clearly.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MRK 8:22-26"
+   ],
+   "evidence": [
+    "Describe the two stages of the healing",
+    "Say what Jesus told the man afterwards"
+   ],
+   "prompt": "Can {{name}} tell how Jesus healed the blind man at Bethsaida?"
+  },
+  {
+   "id": "mrk_peters_confession",
+   "type": "STORY",
+   "name": "Peter’s confession and the first prediction of the cross",
+   "description": "At Caesarea Philippi Peter says Jesus is the Christ; Jesus begins to teach that the Son of man must suffer, be killed and rise after three days, rebukes Peter, and calls followers to deny themselves and take up the cross.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MRK 8:27-38",
+    "MRK 9:1"
+   ],
+   "evidence": [
+    "State what the people and Peter said of Jesus",
+    "Explain the call to take up the cross"
+   ],
+   "prompt": "Can {{name}} explain who Peter said Jesus is and what Jesus said must happen?"
+  },
+  {
+   "id": "mrk_transfiguration",
+   "type": "STORY",
+   "name": "The transfiguration",
+   "description": "Jesus is transfigured before Peter, James and John on a high mountain with Elias and Moses; a voice from the cloud calls him beloved Son and says hear him; he tells them not to speak of it until he rises.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MRK 9:2-13"
+   ],
+   "evidence": [
+    "Describe what the disciples saw and heard",
+    "Say what Jesus said about Elias"
+   ],
+   "prompt": "Can {{name}} retell the transfiguration?"
+  },
+  {
+   "id": "mrk_demon_boy",
+   "type": "STORY",
+   "name": "The boy with a dumb spirit",
+   "description": "A father brings his son tormented by a spirit; Jesus says all things are possible to him that believes, the father cries “Lord, I believe; help thou mine unbelief”, and Jesus casts the spirit out, saying this kind comes out by prayer.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MRK 9:14-29"
+   ],
+   "evidence": [
+    "Retell the father’s plea and Jesus’ answer",
+    "Say what Jesus told the disciples about prayer"
+   ],
+   "prompt": "Can {{name}} tell what the father said and how Jesus helped the boy?"
+  },
+  {
+   "id": "mrk_greatest_little_ones",
+   "type": "THEME",
+   "name": "Second prediction, who is greatest and stumbling blocks",
+   "description": "Jesus again foretells his death and rising; the disciples argue who is greatest, and he sets a child among them, says whoever is not against them is for them, warns against offending little ones and speaks of the fire that is not quenched and having salt.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MRK 9:30-50"
+   ],
+   "evidence": [
+    "Say what Jesus taught about being first",
+    "Explain the warning about offences"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said about greatness and little ones?"
+  },
+  {
+   "id": "mrk_divorce_children",
+   "type": "THEME",
+   "name": "Marriage and divorce, and blessing the children",
+   "description": "Tested about divorce, Jesus points to creation: male and female, leaving father and mother and becoming one flesh; later he welcomes children, saying the kingdom of God belongs to such and must be received as a child.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MRK 10:1-16"
+   ],
+   "evidence": [
+    "Say what Jesus cites from creation about marriage",
+    "Explain what he says about the children"
+   ],
+   "prompt": "Can {{name}} explain what Jesus taught about marriage and about children?"
+  },
+  {
+   "id": "mrk_rich_man",
+   "type": "STORY",
+   "name": "The rich man who went away sorrowful",
+   "description": "A man runs to ask what he must do to inherit eternal life; Jesus loves him and tells him to sell all and follow, and he leaves sad; Jesus teaches about the difficulty of riches and what God can do and promises to those who leave all.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MRK 10:17-31"
+   ],
+   "evidence": [
+    "Say what Jesus lists and then asks of the man",
+    "Explain “with God all things are possible”"
+   ],
+   "prompt": "Can {{name}} tell what Jesus asked of the rich man and why he left sad?"
+  },
+  {
+   "id": "mrk_third_prediction_ransom",
+   "type": "THEME",
+   "name": "Third prediction, James and John, and the ransom",
+   "description": "On the way to Jerusalem Jesus foretells his betrayal, mocking and rising; James and John ask for seats at his right and left, and Jesus says whoever would be great must serve, for the Son of man came to give his life a ransom for many.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MRK 10:32-45"
+   ],
+   "evidence": [
+    "Describe what Jesus foretold",
+    "Explain 10:45"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said about serving and about his life as a ransom?"
+  },
+  {
+   "id": "mrk_bartimaeus",
+   "type": "STORY",
+   "name": "Blind Bartimaeus",
+   "description": "Leaving Jericho, blind Bartimaeus cries out to Jesus as son of David; told to be silent he cries more, Jesus calls him, asks what he wants, and he receives his sight and follows Jesus.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MRK 10:46-52"
+   ],
+   "evidence": [
+    "Retell what Bartimaeus said and did",
+    "Say what Jesus told him"
+   ],
+   "prompt": "Can {{name}} tell how Bartimaeus was healed?"
+  },
+  {
+   "id": "mrk_triumphal_entry",
+   "type": "STORY",
+   "name": "The entry into Jerusalem",
+   "description": "Jesus sends two disciples for a colt that no one has ridden; he rides it as people spread garments and branches and shout Hosanna, blessing him that comes in the name of the Lord and the kingdom of David.",
+   "covenant": null,
+   "ages": [
+    6,
+    13
+   ],
+   "passages": [
+    "MRK 11:1-11"
+   ],
+   "evidence": [
+    "Retell how the colt was found",
+    "Say what the people shouted"
+   ],
+   "prompt": "Can {{name}} tell how Jesus entered Jerusalem?"
+  },
+  {
+   "id": "mrk_fig_tree_temple",
+   "type": "STORY",
+   "name": "The fig tree and the cleansing of the temple",
+   "description": "Jesus curses a leafy fig tree without fruit, drives out sellers and moneychangers saying the house is for prayer for all nations, and next day the disciples see the fig tree withered; he teaches faith and forgiving when praying.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MRK 11:12-26"
+   ],
+   "evidence": [
+    "Retell the order of events",
+    "Say what Jesus taught about prayer"
+   ],
+   "prompt": "Can {{name}} explain what Jesus did in the temple and what he taught about prayer?"
+  },
+  {
+   "id": "mrk_authority_question",
+   "type": "STORY",
+   "name": "The question about Jesus’ authority",
+   "description": "Chief priests, scribes and elders ask by what authority Jesus acts; he asks them whether John’s baptism was from heaven or of men, and when they will not answer he declines to answer them.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MRK 11:27-33"
+   ],
+   "evidence": [
+    "State the question and counter-question",
+    "Explain why they would not answer"
+   ],
+   "prompt": "Can {{name}} explain how Jesus answered the authority question?"
+  },
+  {
+   "id": "mrk_wicked_husbandmen",
+   "type": "STORY",
+   "name": "The parable of the vineyard tenants",
+   "description": "A man plants a vineyard and lets it to husbandmen who beat and kill his servants and then his beloved son; Jesus cites the rejected stone that became head of the corner, and the rulers know the parable is against them.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MRK 12:1-12"
+   ],
+   "evidence": [
+    "Retell the parable",
+    "Say what the rulers understood"
+   ],
+   "prompt": "Can {{name}} explain who the servants, son and husbandmen stand for?"
+  },
+  {
+   "id": "mrk_tribute_money",
+   "type": "STORY",
+   "name": "Render to Caesar",
+   "description": "Pharisees and Herodians ask if tribute to Caesar is lawful; Jesus asks for a penny, asks whose image it bears, and says to render to Caesar what is Caesar’s and to God what is God’s.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "MRK 12:13-17"
+   ],
+   "evidence": [
+    "Say why they asked",
+    "Explain Jesus’ answer"
+   ],
+   "prompt": "Can {{name}} explain what Jesus said about the coin?"
+  },
+  {
+   "id": "mrk_resurrection_question",
+   "type": "STORY",
+   "name": "The Sadducees and the resurrection",
+   "description": "Sadducees who deny the resurrection ask about a woman married to seven brothers; Jesus says they err not knowing the scriptures or God’s power, that the risen are as angels, and that God is God of the living, citing the bush.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MRK 12:18-27"
+   ],
+   "evidence": [
+    "Say what the Sadducees asked",
+    "Explain Jesus’ use of the words from the bush"
+   ],
+   "prompt": "Can {{name}} explain Jesus’ answer about the resurrection?"
+  },
+  {
+   "id": "mrk_first_commandment",
+   "type": "THEME",
+   "name": "The first commandment",
+   "description": "A scribe asks which commandment is first; Jesus answers the Lord is one and to love him with all heart, soul, mind and strength, and second to love your neighbour as yourself; the scribe agrees and Jesus says he is not far from the kingdom.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "MRK 12:28-34"
+   ],
+   "evidence": [
+    "State the two commandments",
+    "Say what the scribe added and what Jesus replied"
+   ],
+   "prompt": "Can {{name}} say the two great commandments?"
+  },
+  {
+   "id": "mrk_son_of_david_scribes",
+   "type": "THEME",
+   "name": "David’s Lord and warning against the scribes",
+   "description": "Teaching in the temple, Jesus asks how the Christ can be David’s son when David calls him Lord, and warns the people against scribes who love honour and devour widows’ houses.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MRK 12:35-40"
+   ],
+   "evidence": [
+    "State the puzzle Jesus raised about David",
+    "List what he warns about the scribes"
+   ],
+   "prompt": "Can {{name}} explain what Jesus asked about David and the Christ?"
+  },
+  {
+   "id": "mrk_widows_mites",
+   "type": "STORY",
+   "name": "The widow’s two mites",
+   "description": "Sitting by the treasury, Jesus sees rich people give much and a poor widow give two mites, and says she has given more than all because she gave all her living.",
+   "covenant": null,
+   "ages": [
+    5,
+    13
+   ],
+   "passages": [
+    "MRK 12:41-44"
+   ],
+   "evidence": [
+    "Describe what the widow gave",
+    "Explain why Jesus said she gave more"
+   ],
+   "prompt": "Can {{name}} explain why Jesus praised the widow?"
+  },
+  {
+   "id": "mrk_olivet_signs",
+   "type": "THEME",
+   "name": "The Olivet discourse: signs and the abomination",
+   "description": "Leaving the temple, Jesus foretells the buildings’ destruction and on the Mount of Olives warns of deceivers, wars, persecution and the gospel preached to all nations; he warns of the abomination of desolation, great affliction and false Christs.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MRK 13:1-23"
+   ],
+   "evidence": [
+    "State the disciples’ question (13:4)",
+    "List the warnings Jesus gave"
+   ],
+   "prompt": "Can {{name}} list what Jesus said to watch for?"
+  },
+  {
+   "id": "mrk_coming_and_watching",
+   "type": "THEME",
+   "name": "The coming of the Son of man and the call to watch",
+   "description": "After the tribulation the Son of man will be seen coming in clouds and gather the elect; Jesus gives the fig tree parable, says no one but the Father knows the day, and tells everyone to watch.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "MRK 13:24-37"
+   ],
+   "evidence": [
+    "Describe the coming of the Son of man",
+    "Say what Jesus commands in 13:37"
+   ],
+   "prompt": "Can {{name}} explain why Jesus told his disciples to watch?"
+  },
+  {
+   "id": "mrk_plot_and_anointing",
+   "type": "STORY",
+   "name": "The plot, the anointing at Bethany and Judas’ offer",
+   "description": "Two days before Passover the priests seek to take Jesus; a woman pours spikenard on his head at Simon the leper’s house and Jesus says she anointed his body for burial; Judas goes to the chief priests.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "MRK 14:1-11"
+   ],
+   "evidence": [
+    "Retell the anointing and the objection",
+    "Say what Judas offered"
+   ],
+   "prompt": "Can {{name}} tell what the woman did and what Jesus said about it?"
+  },
+  {
+   "id": "mrk_last_supper",
+   "type": "STORY",
+   "name": "The Passover meal and the Lord’s Supper",
+   "description": "Disciples prepare the Passover in an upper room; Jesus says one of the twelve will betray him, gives them bread as his body and the cup as his blood of the new testament shed for many, and says he will drink new in the kingdom of God.",
+   "covenant": "cv_new",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MRK 14:12-26"
+   ],
+   "evidence": [
+    "Describe what Jesus said over the bread and cup",
+    "Say what he said about the new testament"
+   ],
+   "prompt": "Can {{name}} explain what Jesus did with the bread and cup at the Passover?"
+  },
+  {
+   "id": "mrk_gethsemane",
+   "type": "STORY",
+   "name": "Peter’s boast and Gethsemane",
+   "description": "Jesus foretells that the sheep will be scattered and Peter will deny him; in Gethsemane he prays “Abba, Father” that the cup might pass yet not his will, and finds the disciples asleep.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MRK 14:27-42"
+   ],
+   "evidence": [
+    "Retell Jesus’ prayer",
+    "Say what Peter said and what Jesus answered"
+   ],
+   "prompt": "Can {{name}} tell what Jesus prayed in Gethsemane?"
+  },
+  {
+   "id": "mrk_arrest",
+   "type": "STORY",
+   "name": "Jesus is betrayed and arrested",
+   "description": "Judas comes with a crowd and betrays Jesus with a kiss; one drawn sword cuts off a servant’s ear; Jesus says the scriptures must be fulfilled, all the disciples flee, and a young man runs away leaving a linen cloth.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MRK 14:43-52"
+   ],
+   "evidence": [
+    "Describe the betrayal",
+    "Say what the disciples did"
+   ],
+   "prompt": "Can {{name}} explain how Jesus was arrested?"
+  },
+  {
+   "id": "mrk_trial_sanhedrin",
+   "type": "STORY",
+   "name": "Jesus before the council",
+   "description": "False witnesses disagree; asked if he is the Christ the Son of the Blessed, Jesus says “I am” and speaks of the Son of man at the right hand of power; the high priest charges blasphemy and they condemn him.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "MRK 14:53-65"
+   ],
+   "evidence": [
+    "Say what Jesus answered the high priest",
+    "Describe how the council treated him"
+   ],
+   "prompt": "Can {{name}} tell what the high priest asked and the council decided?"
+  },
+  {
+   "id": "mrk_peter_denial",
+   "type": "STORY",
+   "name": "Peter’s denial",
+   "description": "In the high priest’s courtyard Peter denies Jesus three times; the cock crows twice, he remembers Jesus’ word and weeps.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MRK 14:66-72"
+   ],
+   "evidence": [
+    "Retell the three denials",
+    "Say what Peter did when he remembered"
+   ],
+   "prompt": "Can {{name}} tell how Peter denied Jesus?"
+  },
+  {
+   "id": "mrk_pilate",
+   "type": "STORY",
+   "name": "Jesus before Pilate and Barabbas",
+   "description": "The council delivers Jesus to Pilate, who asks if he is King of the Jews; the crowd, moved by the priests, asks for Barabbas and cries for Jesus to be crucified; Pilate scourges Jesus and delivers him to be crucified.",
+   "covenant": null,
+   "ages": [
+    9,
+    17
+   ],
+   "passages": [
+    "MRK 15:1-15"
+   ],
+   "evidence": [
+    "Say who was released",
+    "Say why Pilate gave in"
+   ],
+   "prompt": "Can {{name}} retell the trial before Pilate?"
+  },
+  {
+   "id": "mrk_crucifixion",
+   "type": "STORY",
+   "name": "The mocking and crucifixion",
+   "description": "Soldiers dress Jesus in purple and a crown of thorns and mock him; Simon of Cyrene carries his cross; he is crucified at Golgotha between two thieves under the title King of the Jews while others mock.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MRK 15:16-32"
+   ],
+   "evidence": [
+    "Describe the mockery",
+    "List what is said of the crucifixion"
+   ],
+   "prompt": "Can {{name}} tell how Jesus was crucified?"
+  },
+  {
+   "id": "mrk_death_of_jesus",
+   "type": "STORY",
+   "name": "The death of Jesus",
+   "description": "Darkness covers the land; Jesus cries “My God, my God, why hast thou forsaken me?” and dies; the temple veil tears, and the centurion says truly this man was the Son of God; women watch from afar.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "MRK 15:33-41"
+   ],
+   "evidence": [
+    "List the signs and the centurion’s words",
+    "Name the women who watched"
+   ],
+   "prompt": "Can {{name}} describe what happened when Jesus died?"
+  },
+  {
+   "id": "mrk_burial",
+   "type": "STORY",
+   "name": "The burial of Jesus",
+   "description": "Joseph of Arimathaea asks Pilate for the body, wraps it in fine linen, lays it in a rock tomb and rolls a stone to the door; Mary Magdalene and Mary see where he is laid.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "MRK 15:42-47"
+   ],
+   "evidence": [
+    "Say who buried Jesus and where",
+    "Say who saw where he was laid"
+   ],
+   "prompt": "Can {{name}} tell how Jesus was buried?"
+  },
+  {
+   "id": "mrk_empty_tomb",
+   "type": "STORY",
+   "name": "The empty tomb",
+   "description": "Early on the first day the women find the stone rolled away and a young man in white tells them Jesus is risen, and that he goes before them into Galilee; they flee in fear and say nothing to anyone.",
+   "covenant": null,
+   "ages": [
+    7,
+    16
+   ],
+   "passages": [
+    "MRK 16:1-8"
+   ],
+   "evidence": [
+    "Retell what the women found and were told",
+    "Say how they responded"
+   ],
+   "prompt": "Can {{name}} tell what the women found at the tomb?"
+  },
+  {
+   "id": "mrk_appearances_commission",
+   "type": "STORY",
+   "name": "The appearances and commission (longer ending)",
+   "description": "The longer ending tells that Jesus appeared first to Mary Magdalene, then to two and then to the eleven, rebuking their unbelief; he sends them to preach the gospel to every creature and is received up to the right hand of God.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "MRK 16:9-20"
+   ],
+   "evidence": [
+    "List those to whom Jesus appeared",
+    "State the commission in 16:15-16"
+   ],
+   "prompt": "Can {{name}} explain what Jesus told the eleven to do and what happened to him afterwards?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "book_mat",
+   "prereq": "mat_genealogy",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the gospel beginning with the genealogy of 1:1-17"
+  },
+  {
+   "topic": "book_mrk",
+   "prereq": "mrk_john_prepares_way",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the gospel beginning with 1:1-8"
+  },
+  {
+   "topic": "mat_genealogy",
+   "prereq": "gen_abrahamic_covenant",
+   "strength": "soft",
+   "reason": "Matthew 1:1-2 begins the list with Abraham, whose story is in Genesis 12-17"
+  },
+  {
+   "topic": "mat_genealogy",
+   "prereq": "gen_judah_tamar",
+   "strength": "soft",
+   "reason": "Matthew 1:3 names Judah, Phares and Zara “of Thamar”, whose story is in Genesis 38"
+  },
+  {
+   "topic": "mat_virgin_birth",
+   "prereq": "mat_genealogy",
+   "strength": "soft",
+   "reason": "The account of the birth (1:18) follows the genealogy ending with “Joseph the husband of Mary” (1:16)"
+  },
+  {
+   "topic": "mat_wise_men",
+   "prereq": "mat_virgin_birth",
+   "strength": "soft",
+   "reason": "Matthew 2:1 says Jesus was born in Bethlehem, following the birth account of chapter 1"
+  },
+  {
+   "topic": "mat_flight_to_egypt",
+   "prereq": "mat_wise_men",
+   "strength": "soft",
+   "reason": "Herod seeks the child (2:13) after the wise men leave without reporting back (2:12)"
+  },
+  {
+   "topic": "mat_john_baptist",
+   "prereq": "mat_flight_to_egypt",
+   "strength": "soft",
+   "reason": "Chapter 3 begins “in those days”, after Jesus has grown up in Nazareth (2:23)"
+  },
+  {
+   "topic": "mat_baptism_of_jesus",
+   "prereq": "mat_john_baptist",
+   "strength": "hard",
+   "reason": "Jesus comes to the Jordan to John (3:13) in the setting of John’s baptizing described in 3:1-12"
+  },
+  {
+   "topic": "mat_temptation",
+   "prereq": "mat_baptism_of_jesus",
+   "strength": "hard",
+   "reason": "Matthew 4:1 (“then”) follows the Spirit and the Father’s words at the baptism (3:16-17); the devil begins “If thou be the Son of God”"
+  },
+  {
+   "topic": "mat_ministry_begins",
+   "prereq": "mat_temptation",
+   "strength": "soft",
+   "reason": "Jesus withdraws to Galilee (4:12) after the wilderness temptation"
+  },
+  {
+   "topic": "mat_beatitudes",
+   "prereq": "mat_ministry_begins",
+   "strength": "soft",
+   "reason": "Matthew 5:1 begins as he sees the multitudes of 4:25 and his disciples come to him"
+  },
+  {
+   "topic": "mat_law_and_prophets",
+   "prereq": "mat_beatitudes",
+   "strength": "soft",
+   "reason": "The statement continues the Sermon on the Mount begun in 5:1-2"
+  },
+  {
+   "topic": "mat_anger_and_lust",
+   "prereq": "mat_law_and_prophets",
+   "strength": "hard",
+   "reason": "The “Ye have heard… but I say” sayings illustrate the fulfilment and greater righteousness of 5:17-20"
+  },
+  {
+   "topic": "mat_divorce_oaths_enemies",
+   "prereq": "mat_anger_and_lust",
+   "strength": "soft",
+   "reason": "The sayings continue the series of “ye have heard” contrasts begun at 5:21"
+  },
+  {
+   "topic": "mat_secret_righteousness",
+   "prereq": "mat_divorce_oaths_enemies",
+   "strength": "soft",
+   "reason": "Chapter 6 continues the same sermon on righteousness (6:1 follows 5:48)"
+  },
+  {
+   "topic": "mat_lords_prayer",
+   "prereq": "mat_secret_righteousness",
+   "strength": "hard",
+   "reason": "6:9 begins “After this manner therefore pray ye”, following the teaching about how not to pray (6:5-8)"
+  },
+  {
+   "topic": "mat_treasure_and_anxiety",
+   "prereq": "mat_lords_prayer",
+   "strength": "soft",
+   "reason": "Matthew 6:19 continues the sermon after the prayer and sayings on forgiveness"
+  },
+  {
+   "topic": "mat_judging_asking",
+   "prereq": "mat_treasure_and_anxiety",
+   "strength": "soft",
+   "reason": "Chapter 7 continues the Sermon on the Mount"
+  },
+  {
+   "topic": "mat_two_ways_builders",
+   "prereq": "mat_judging_asking",
+   "strength": "soft",
+   "reason": "The sermon concludes with warnings (7:13-27) after the teaching of 7:1-12"
+  },
+  {
+   "topic": "mat_leper_centurion",
+   "prereq": "mat_two_ways_builders",
+   "strength": "soft",
+   "reason": "Matthew 8:1 begins “When he was come down from the mountain”, after the Sermon on the Mount (5:1 - 7:29)"
+  },
+  {
+   "topic": "mat_peters_mother_in_law",
+   "prereq": "mat_leper_centurion",
+   "strength": "soft",
+   "reason": "The scene is set in Capernaum (8:5, 14)"
+  },
+  {
+   "topic": "mat_cost_of_following",
+   "prereq": "mat_peters_mother_in_law",
+   "strength": "soft",
+   "reason": "Jesus orders departure because of the multitudes (8:18) after the evening healings (8:16)"
+  },
+  {
+   "topic": "mat_calming_storm",
+   "prereq": "mat_cost_of_following",
+   "strength": "soft",
+   "reason": "The disciples follow him into the boat (8:23) after he speaks of following him (8:19-22)"
+  },
+  {
+   "topic": "mat_gadarene_demoniacs",
+   "prereq": "mat_calming_storm",
+   "strength": "soft",
+   "reason": "They come to the “other side” (8:28), the destination of the crossing begun in 8:18, 23"
+  },
+  {
+   "topic": "mat_paralytic",
+   "prereq": "mat_gadarene_demoniacs",
+   "strength": "soft",
+   "reason": "Jesus crosses back by ship to his own city (9:1) after leaving the Gergesenes’ coast (8:34)"
+  },
+  {
+   "topic": "mat_matthew_called",
+   "prereq": "mat_paralytic",
+   "strength": "soft",
+   "reason": "The call follows the healing as Jesus “passed forth from thence” (9:9)"
+  },
+  {
+   "topic": "mat_new_wine",
+   "prereq": "mat_matthew_called",
+   "strength": "soft",
+   "reason": "John’s disciples “then” come with the question (9:14) after the meal with publicans and sinners"
+  },
+  {
+   "topic": "mat_jairus_daughter",
+   "prereq": "mat_new_wine",
+   "strength": "soft",
+   "reason": "The ruler comes “while he spake these things” (9:18)"
+  },
+  {
+   "topic": "mat_blind_men_mute",
+   "prereq": "mat_jairus_daughter",
+   "strength": "soft",
+   "reason": "Jesus departs thence (9:27), after the raising of the ruler’s daughter"
+  },
+  {
+   "topic": "mat_harvest_labourers",
+   "prereq": "mat_blind_men_mute",
+   "strength": "soft",
+   "reason": "9:35 summarises the teaching and healing seen in 9:18-34"
+  },
+  {
+   "topic": "mat_twelve_sent",
+   "prereq": "mat_harvest_labourers",
+   "strength": "hard",
+   "reason": "Chapter 10 begins with Jesus calling his twelve disciples to be sent into the harvest of 9:37-38"
+  },
+  {
+   "topic": "mat_persecution_warning",
+   "prereq": "mat_twelve_sent",
+   "strength": "soft",
+   "reason": "10:16 continues the commission to the twelve (10:5-15)"
+  },
+  {
+   "topic": "mat_fear_not_confess",
+   "prereq": "mat_persecution_warning",
+   "strength": "soft",
+   "reason": "The same address; 10:26 begins “Fear them not therefore”"
+  },
+  {
+   "topic": "mat_john_asks",
+   "prereq": "mat_fear_not_confess",
+   "strength": "soft",
+   "reason": "11:1 follows the end of his commands to the twelve"
+  },
+  {
+   "topic": "mat_woes_to_cities",
+   "prereq": "mat_john_asks",
+   "strength": "soft",
+   "reason": "Jesus “then began” to upbraid the cities (11:20) in the same discourse"
+  },
+  {
+   "topic": "mat_come_unto_me",
+   "prereq": "mat_woes_to_cities",
+   "strength": "soft",
+   "reason": "11:25 follows “at that time” after the woes"
+  },
+  {
+   "topic": "mat_sabbath_grainfield",
+   "prereq": "mat_come_unto_me",
+   "strength": "soft",
+   "reason": "12:1 “at that time” follows the rest Jesus speaks of in 11:28-29"
+  },
+  {
+   "topic": "mat_withered_hand",
+   "prereq": "mat_sabbath_grainfield",
+   "strength": "hard",
+   "reason": "12:9-14 continues the dispute about what is lawful on the sabbath days (12:2, 10)"
+  },
+  {
+   "topic": "mat_beelzebub",
+   "prereq": "mat_withered_hand",
+   "strength": "soft",
+   "reason": "The Pharisees’ hostility (12:14) continues in 12:24"
+  },
+  {
+   "topic": "mat_sign_of_jonah",
+   "prereq": "mat_beelzebub",
+   "strength": "soft",
+   "reason": "Scribes and Pharisees ask for a sign (12:38) after the exchange of 12:22-37"
+  },
+  {
+   "topic": "mat_true_family",
+   "prereq": "mat_sign_of_jonah",
+   "strength": "soft",
+   "reason": "His mother and brothers arrive while he is still speaking to the people (12:46)"
+  },
+  {
+   "topic": "mat_sower",
+   "prereq": "mat_true_family",
+   "strength": "soft",
+   "reason": "13:1 “the same day” Jesus went out of the house, after 12:46-50"
+  },
+  {
+   "topic": "mat_wheat_and_tares",
+   "prereq": "mat_sower",
+   "strength": "soft",
+   "reason": "13:24 “another parable put he forth”, following the sower"
+  },
+  {
+   "topic": "mat_mustard_leaven",
+   "prereq": "mat_wheat_and_tares",
+   "strength": "soft",
+   "reason": "13:31 is another parable in the same series"
+  },
+  {
+   "topic": "mat_hidden_treasure_net",
+   "prereq": "mat_mustard_leaven",
+   "strength": "soft",
+   "reason": "The parables continue in 13:44 (“Again, the kingdom of heaven is like…”)"
+  },
+  {
+   "topic": "mat_nazareth_rejects",
+   "prereq": "mat_hidden_treasure_net",
+   "strength": "soft",
+   "reason": "13:53 “when Jesus had finished these parables, he departed”"
+  },
+  {
+   "topic": "mat_john_beheaded",
+   "prereq": "mat_nazareth_rejects",
+   "strength": "soft",
+   "reason": "14:1 “at that time” Herod hears of the fame of Jesus"
+  },
+  {
+   "topic": "mat_feeding_five_thousand",
+   "prereq": "mat_john_beheaded",
+   "strength": "hard",
+   "reason": "14:13 “when Jesus heard of it” refers to John’s death (14:12)"
+  },
+  {
+   "topic": "mat_walking_on_water",
+   "prereq": "mat_feeding_five_thousand",
+   "strength": "soft",
+   "reason": "14:22 “straightway” follows the feeding as Jesus sends the crowds away"
+  },
+  {
+   "topic": "mat_tradition_defilement",
+   "prereq": "mat_walking_on_water",
+   "strength": "soft",
+   "reason": "Scribes and Pharisees come “then” (15:1) after the Gennesaret healings (14:34-36)"
+  },
+  {
+   "topic": "mat_canaanite_woman",
+   "prereq": "mat_tradition_defilement",
+   "strength": "soft",
+   "reason": "Jesus departs (15:21) from the dispute with the Pharisees"
+  },
+  {
+   "topic": "mat_feeding_four_thousand",
+   "prereq": "mat_canaanite_woman",
+   "strength": "soft",
+   "reason": "15:29 Jesus leaves Tyre and Sidon and comes to the sea of Galilee"
+  },
+  {
+   "topic": "mat_sign_and_leaven",
+   "prereq": "mat_feeding_four_thousand",
+   "strength": "hard",
+   "reason": "16:9-10 refers back to the five thousand and four thousand fed in chapters 14-15"
+  },
+  {
+   "topic": "mat_peters_confession",
+   "prereq": "mat_sign_and_leaven",
+   "strength": "soft",
+   "reason": "16:13 follows their journey to the other side (16:5) and the warning about leaven"
+  },
+  {
+   "topic": "mat_take_up_cross",
+   "prereq": "mat_peters_confession",
+   "strength": "hard",
+   "reason": "16:21 “from that time forth” he teaches the suffering and death of the Christ Peter has just confessed"
+  },
+  {
+   "topic": "mat_transfiguration",
+   "prereq": "mat_take_up_cross",
+   "strength": "soft",
+   "reason": "17:1 “after six days” follows the sayings of 16:21-28"
+  },
+  {
+   "topic": "mat_demon_boy_temple_tax",
+   "prereq": "mat_transfiguration",
+   "strength": "soft",
+   "reason": "17:14 follows their coming down from the mountain (17:9) to the multitude"
+  },
+  {
+   "topic": "mat_greatest_in_kingdom",
+   "prereq": "mat_demon_boy_temple_tax",
+   "strength": "soft",
+   "reason": "18:1 “at the same time” follows the events in Capernaum (17:24)"
+  },
+  {
+   "topic": "mat_church_discipline",
+   "prereq": "mat_greatest_in_kingdom",
+   "strength": "soft",
+   "reason": "The teaching continues in the same discourse on relationships among disciples (18:15, “Moreover if thy brother shall trespass”)"
+  },
+  {
+   "topic": "mat_unforgiving_servant",
+   "prereq": "mat_church_discipline",
+   "strength": "soft",
+   "reason": "Peter asks about forgiveness (18:21) after the instruction on a brother who sins (18:15-17)"
+  },
+  {
+   "topic": "mat_marriage_divorce",
+   "prereq": "mat_unforgiving_servant",
+   "strength": "soft",
+   "reason": "19:1 “when Jesus had finished these sayings” he leaves Galilee for Judaea"
+  },
+  {
+   "topic": "mat_children_blessed",
+   "prereq": "mat_marriage_divorce",
+   "strength": "soft",
+   "reason": "19:13 “then” follows the discussion in Judaea with great multitudes (19:1-2)"
+  },
+  {
+   "topic": "mat_rich_young_man",
+   "prereq": "mat_children_blessed",
+   "strength": "soft",
+   "reason": "19:16 “behold, one came” immediately after the blessing of the children"
+  },
+  {
+   "topic": "mat_labourers_vineyard",
+   "prereq": "mat_rich_young_man",
+   "strength": "hard",
+   "reason": "20:16 repeats the saying of 19:30, “the last shall be first”, which the parable illustrates"
+  },
+  {
+   "topic": "mat_third_prediction_service",
+   "prereq": "mat_labourers_vineyard",
+   "strength": "soft",
+   "reason": "20:17 Jesus goes up to Jerusalem; 20:16 ends the parable that precedes it"
+  },
+  {
+   "topic": "mat_blind_men_jericho",
+   "prereq": "mat_third_prediction_service",
+   "strength": "soft",
+   "reason": "20:29 they depart from Jericho on the way to Jerusalem (20:17-18)"
+  },
+  {
+   "topic": "mat_triumphal_entry",
+   "prereq": "mat_blind_men_jericho",
+   "strength": "hard",
+   "reason": "21:1 “when they drew nigh unto Jerusalem” continues the journey from Jericho (20:29)"
+  },
+  {
+   "topic": "mat_temple_cleansing",
+   "prereq": "mat_triumphal_entry",
+   "strength": "soft",
+   "reason": "21:12 Jesus goes into the temple after entering Jerusalem"
+  },
+  {
+   "topic": "mat_fig_tree",
+   "prereq": "mat_temple_cleansing",
+   "strength": "soft",
+   "reason": "21:18 the next morning as he returns to the city after lodging at Bethany (21:17)"
+  },
+  {
+   "topic": "mat_authority_question",
+   "prereq": "mat_fig_tree",
+   "strength": "soft",
+   "reason": "21:23 in the temple, after the events of 21:12-22"
+  },
+  {
+   "topic": "mat_two_sons",
+   "prereq": "mat_authority_question",
+   "strength": "hard",
+   "reason": "21:32 depends on the question about John’s baptism in 21:25-26"
+  },
+  {
+   "topic": "mat_wicked_tenants",
+   "prereq": "mat_two_sons",
+   "strength": "soft",
+   "reason": "21:33 “Hear another parable” after the two sons"
+  },
+  {
+   "topic": "mat_wedding_feast",
+   "prereq": "mat_wicked_tenants",
+   "strength": "soft",
+   "reason": "22:1 Jesus “spake unto them again by parables” after the chief priests’ reaction in 21:45"
+  },
+  {
+   "topic": "mat_tribute_to_caesar",
+   "prereq": "mat_wedding_feast",
+   "strength": "soft",
+   "reason": "22:15 “then” the Pharisees took counsel how to entangle him"
+  },
+  {
+   "topic": "mat_resurrection_question",
+   "prereq": "mat_tribute_to_caesar",
+   "strength": "soft",
+   "reason": "22:23 “the same day” the Sadducees come after the Herodians and Pharisees"
+  },
+  {
+   "topic": "mat_great_commandment",
+   "prereq": "mat_resurrection_question",
+   "strength": "soft",
+   "reason": "22:34 the Pharisees hear he had silenced the Sadducees"
+  },
+  {
+   "topic": "mat_son_of_david_question",
+   "prereq": "mat_great_commandment",
+   "strength": "soft",
+   "reason": "22:41 happens while the Pharisees are gathered after the lawyer’s question"
+  },
+  {
+   "topic": "mat_woes_scribes_pharisees",
+   "prereq": "mat_son_of_david_question",
+   "strength": "soft",
+   "reason": "23:1 “then” he speaks to the multitude after silencing questioners (22:46)"
+  },
+  {
+   "topic": "mat_olivet_signs",
+   "prereq": "mat_woes_scribes_pharisees",
+   "strength": "soft",
+   "reason": "24:1 Jesus departs from the temple after 23:38-39"
+  },
+  {
+   "topic": "mat_great_tribulation",
+   "prereq": "mat_olivet_signs",
+   "strength": "hard",
+   "reason": "24:15 continues the answer begun in 24:4"
+  },
+  {
+   "topic": "mat_coming_of_son_of_man",
+   "prereq": "mat_great_tribulation",
+   "strength": "soft",
+   "reason": "24:29 “immediately after the tribulation of those days”"
+  },
+  {
+   "topic": "mat_watchfulness",
+   "prereq": "mat_coming_of_son_of_man",
+   "strength": "soft",
+   "reason": "24:36 follows “this generation” sayings with the day and hour unknown"
+  },
+  {
+   "topic": "mat_ten_virgins",
+   "prereq": "mat_watchfulness",
+   "strength": "soft",
+   "reason": "25:1 “then shall the kingdom of heaven be likened” continues the theme of readiness"
+  },
+  {
+   "topic": "mat_talents",
+   "prereq": "mat_ten_virgins",
+   "strength": "soft",
+   "reason": "25:14 “For the kingdom of heaven is as a man travelling” follows the virgins"
+  },
+  {
+   "topic": "mat_sheep_and_goats",
+   "prereq": "mat_talents",
+   "strength": "soft",
+   "reason": "25:31 closes the series of parables on the Son of man’s coming"
+  },
+  {
+   "topic": "mat_plot_and_anointing",
+   "prereq": "mat_sheep_and_goats",
+   "strength": "soft",
+   "reason": "26:1 “when Jesus had finished all these sayings”, the end of the discourse"
+  },
+  {
+   "topic": "mat_last_supper",
+   "prereq": "mat_plot_and_anointing",
+   "strength": "soft",
+   "reason": "26:17 the preparation of the passover follows Judas’ bargain (26:14-16)"
+  },
+  {
+   "topic": "mat_gethsemane",
+   "prereq": "mat_last_supper",
+   "strength": "soft",
+   "reason": "26:31 follows the supper and the hymn on the way to the Mount of Olives (26:30)"
+  },
+  {
+   "topic": "mat_arrest",
+   "prereq": "mat_gethsemane",
+   "strength": "soft",
+   "reason": "26:47 “while he yet spake” follows his third prayer and the words of 26:45-46"
+  },
+  {
+   "topic": "mat_trial_caiaphas",
+   "prereq": "mat_arrest",
+   "strength": "soft",
+   "reason": "26:57 those who took him lead him to Caiaphas"
+  },
+  {
+   "topic": "mat_peter_denies",
+   "prereq": "mat_trial_caiaphas",
+   "strength": "hard",
+   "reason": "26:58, 69 Peter sits in the palace where the trial takes place"
+  },
+  {
+   "topic": "mat_judas_death",
+   "prereq": "mat_peter_denies",
+   "strength": "soft",
+   "reason": "27:1 the morning comes after the night of the trial and denial"
+  },
+  {
+   "topic": "mat_pilate_barabbas",
+   "prereq": "mat_judas_death",
+   "strength": "soft",
+   "reason": "27:2 Jesus is delivered to Pilate; 27:11 he stands before the governor"
+  },
+  {
+   "topic": "mat_crucifixion",
+   "prereq": "mat_pilate_barabbas",
+   "strength": "soft",
+   "reason": "27:26 Pilate delivers him to be crucified"
+  },
+  {
+   "topic": "mat_death_of_jesus",
+   "prereq": "mat_crucifixion",
+   "strength": "soft",
+   "reason": "27:45 from the sixth hour while he hangs on the cross"
+  },
+  {
+   "topic": "mat_burial_and_guard",
+   "prereq": "mat_death_of_jesus",
+   "strength": "soft",
+   "reason": "27:57 Joseph asks for the body of Jesus after his death"
+  },
+  {
+   "topic": "mat_resurrection",
+   "prereq": "mat_burial_and_guard",
+   "strength": "hard",
+   "reason": "28:1-2 the women come to the sepulchre sealed in 27:60-66"
+  },
+  {
+   "topic": "mat_great_commission",
+   "prereq": "mat_resurrection",
+   "strength": "soft",
+   "reason": "28:16 the eleven go to Galilee as the women were told to say (28:7, 10)"
+  },
+  {
+   "topic": "mrk_baptism_temptation",
+   "prereq": "mrk_john_prepares_way",
+   "strength": "hard",
+   "reason": "Mark 1:9 “in those days” Jesus comes to be baptized of John, whose ministry is described in 1:4-8"
+  },
+  {
+   "topic": "mrk_calling_first_disciples",
+   "prereq": "mrk_baptism_temptation",
+   "strength": "soft",
+   "reason": "1:14 follows the temptation and John’s imprisonment"
+  },
+  {
+   "topic": "mrk_capernaum_synagogue",
+   "prereq": "mrk_calling_first_disciples",
+   "strength": "soft",
+   "reason": "1:21 they go into Capernaum with the newly called disciples"
+  },
+  {
+   "topic": "mrk_healings_at_capernaum",
+   "prereq": "mrk_capernaum_synagogue",
+   "strength": "soft",
+   "reason": "1:29 “forthwith, when they were come out of the synagogue”"
+  },
+  {
+   "topic": "mrk_leper_cleansed",
+   "prereq": "mrk_healings_at_capernaum",
+   "strength": "soft",
+   "reason": "1:40 happens as Jesus preaches through the Galilean synagogues (1:39)"
+  },
+  {
+   "topic": "mrk_paralytic_roof",
+   "prereq": "mrk_leper_cleansed",
+   "strength": "soft",
+   "reason": "2:1 he again enters Capernaum after the spreading of the leper’s report (1:45)"
+  },
+  {
+   "topic": "mrk_levi_called",
+   "prereq": "mrk_paralytic_roof",
+   "strength": "soft",
+   "reason": "2:13 “again” beside the sea after the healing in Capernaum"
+  },
+  {
+   "topic": "mrk_sabbath_grain",
+   "prereq": "mrk_levi_called",
+   "strength": "soft",
+   "reason": "2:23 continues Pharisaic questioning about what his disciples do or do not do (2:16, 18)"
+  },
+  {
+   "topic": "mrk_withered_hand",
+   "prereq": "mrk_sabbath_grain",
+   "strength": "hard",
+   "reason": "3:2 “they watched him” to accuse him on the sabbath, as in the dispute of 2:24-28"
+  },
+  {
+   "topic": "mrk_twelve_appointed",
+   "prereq": "mrk_withered_hand",
+   "strength": "soft",
+   "reason": "3:7 Jesus withdraws with his disciples after the plot (3:6)"
+  },
+  {
+   "topic": "mrk_beelzebub",
+   "prereq": "mrk_twelve_appointed",
+   "strength": "soft",
+   "reason": "3:19-20 they go into a house after the twelve are appointed"
+  },
+  {
+   "topic": "mrk_sower",
+   "prereq": "mrk_beelzebub",
+   "strength": "soft",
+   "reason": "4:1 he again teaches by the sea after the controversies of chapter 3"
+  },
+  {
+   "topic": "mrk_lamp_seed_mustard",
+   "prereq": "mrk_sower",
+   "strength": "soft",
+   "reason": "4:21 continues the teaching begun in the sower discourse"
+  },
+  {
+   "topic": "mrk_storm_stilled",
+   "prereq": "mrk_lamp_seed_mustard",
+   "strength": "soft",
+   "reason": "4:35 “the same day”, after the day of parables by the sea"
+  },
+  {
+   "topic": "mrk_legion",
+   "prereq": "mrk_storm_stilled",
+   "strength": "soft",
+   "reason": "5:1 they come to the other side of the sea, as Jesus said in 4:35"
+  },
+  {
+   "topic": "mrk_jairus",
+   "prereq": "mrk_legion",
+   "strength": "soft",
+   "reason": "5:21 Jesus passes over again by ship after the Decapolis episode"
+  },
+  {
+   "topic": "mrk_nazareth_unbelief",
+   "prereq": "mrk_jairus",
+   "strength": "soft",
+   "reason": "6:1 he goes out from thence into his own country after the events of chapter 5"
+  },
+  {
+   "topic": "mrk_twelve_sent",
+   "prereq": "mrk_twelve_appointed",
+   "strength": "hard",
+   "reason": "6:7 sends forth the twelve whom he had appointed to be sent to preach (3:14)"
+  },
+  {
+   "topic": "mrk_herod_john",
+   "prereq": "mrk_twelve_sent",
+   "strength": "soft",
+   "reason": "6:14 King Herod hears of Jesus’ name spread abroad as the twelve go out"
+  },
+  {
+   "topic": "mrk_feeding_five_thousand",
+   "prereq": "mrk_herod_john",
+   "strength": "soft",
+   "reason": "6:30 the apostles gather to Jesus after their mission (6:12-13, 30)"
+  },
+  {
+   "topic": "mrk_walking_on_sea",
+   "prereq": "mrk_feeding_five_thousand",
+   "strength": "soft",
+   "reason": "6:45 “straightway” after the feeding"
+  },
+  {
+   "topic": "mrk_tradition_defilement",
+   "prereq": "mrk_walking_on_sea",
+   "strength": "soft",
+   "reason": "7:1 Pharisees and scribes come from Jerusalem after Gennesaret (6:53-56)"
+  },
+  {
+   "topic": "mrk_syrophenician_woman",
+   "prereq": "mrk_tradition_defilement",
+   "strength": "soft",
+   "reason": "7:24 he arises and goes to Tyre and Sidon after the dispute"
+  },
+  {
+   "topic": "mrk_deaf_mute",
+   "prereq": "mrk_syrophenician_woman",
+   "strength": "soft",
+   "reason": "7:31 he leaves Tyre and Sidon for the sea of Galilee"
+  },
+  {
+   "topic": "mrk_feeding_four_thousand",
+   "prereq": "mrk_deaf_mute",
+   "strength": "soft",
+   "reason": "8:1 “in those days” the great multitude with nothing to eat"
+  },
+  {
+   "topic": "mrk_sign_leaven",
+   "prereq": "mrk_feeding_four_thousand",
+   "strength": "hard",
+   "reason": "8:19-20 recalls the five thousand and the four thousand fed"
+  },
+  {
+   "topic": "mrk_blind_man_bethsaida",
+   "prereq": "mrk_sign_leaven",
+   "strength": "soft",
+   "reason": "8:22 he comes to Bethsaida after the crossing (8:13-21)"
+  },
+  {
+   "topic": "mrk_peters_confession",
+   "prereq": "mrk_blind_man_bethsaida",
+   "strength": "soft",
+   "reason": "8:27 Jesus goes on to the towns of Caesarea Philippi"
+  },
+  {
+   "topic": "mrk_transfiguration",
+   "prereq": "mrk_peters_confession",
+   "strength": "soft",
+   "reason": "9:2 “after six days” follows 8:27 - 9:1"
+  },
+  {
+   "topic": "mrk_demon_boy",
+   "prereq": "mrk_transfiguration",
+   "strength": "soft",
+   "reason": "9:14 follows their coming down from the mountain (9:9)"
+  },
+  {
+   "topic": "mrk_greatest_little_ones",
+   "prereq": "mrk_demon_boy",
+   "strength": "soft",
+   "reason": "9:30 they depart thence and pass through Galilee after the healing"
+  },
+  {
+   "topic": "mrk_divorce_children",
+   "prereq": "mrk_greatest_little_ones",
+   "strength": "soft",
+   "reason": "10:1 he goes from Capernaum toward Judaea beyond Jordan"
+  },
+  {
+   "topic": "mrk_rich_man",
+   "prereq": "mrk_divorce_children",
+   "strength": "soft",
+   "reason": "10:17 “when he was gone forth into the way” after blessing the children"
+  },
+  {
+   "topic": "mrk_third_prediction_ransom",
+   "prereq": "mrk_rich_man",
+   "strength": "soft",
+   "reason": "10:32 on the way going up to Jerusalem after the sayings of 10:17-31"
+  },
+  {
+   "topic": "mrk_bartimaeus",
+   "prereq": "mrk_third_prediction_ransom",
+   "strength": "soft",
+   "reason": "10:46 they come to Jericho on the way to Jerusalem (10:32)"
+  },
+  {
+   "topic": "mrk_triumphal_entry",
+   "prereq": "mrk_bartimaeus",
+   "strength": "soft",
+   "reason": "11:1 they come nigh to Jerusalem after Jericho (10:46)"
+  },
+  {
+   "topic": "mrk_fig_tree_temple",
+   "prereq": "mrk_triumphal_entry",
+   "strength": "soft",
+   "reason": "11:12 “on the morrow” after the entry and the night at Bethany (11:11)"
+  },
+  {
+   "topic": "mrk_authority_question",
+   "prereq": "mrk_fig_tree_temple",
+   "strength": "soft",
+   "reason": "11:27 in the temple after the cleansing (11:15-17)"
+  },
+  {
+   "topic": "mrk_wicked_husbandmen",
+   "prereq": "mrk_authority_question",
+   "strength": "soft",
+   "reason": "12:1 he begins to speak to them by parables, addressing the same chief priests, scribes and elders (11:27)"
+  },
+  {
+   "topic": "mrk_tribute_money",
+   "prereq": "mrk_wicked_husbandmen",
+   "strength": "soft",
+   "reason": "12:13 they send men to catch him in his words after the parable (12:12)"
+  },
+  {
+   "topic": "mrk_resurrection_question",
+   "prereq": "mrk_tribute_money",
+   "strength": "soft",
+   "reason": "12:18 the Sadducees come next after the Pharisees and Herodians"
+  },
+  {
+   "topic": "mrk_first_commandment",
+   "prereq": "mrk_resurrection_question",
+   "strength": "soft",
+   "reason": "12:28 a scribe hears them reasoning and asks his question"
+  },
+  {
+   "topic": "mrk_son_of_david_scribes",
+   "prereq": "mrk_first_commandment",
+   "strength": "soft",
+   "reason": "12:35 he teaches in the temple after no man durst ask him more (12:34)"
+  },
+  {
+   "topic": "mrk_widows_mites",
+   "prereq": "mrk_son_of_david_scribes",
+   "strength": "soft",
+   "reason": "12:41 follows the warning about scribes who devour widows’ houses (12:40)"
+  },
+  {
+   "topic": "mrk_olivet_signs",
+   "prereq": "mrk_widows_mites",
+   "strength": "soft",
+   "reason": "13:1 he goes out of the temple where he has been teaching"
+  },
+  {
+   "topic": "mrk_coming_and_watching",
+   "prereq": "mrk_olivet_signs",
+   "strength": "soft",
+   "reason": "13:24 “in those days, after that tribulation” continues the same discourse"
+  },
+  {
+   "topic": "mrk_plot_and_anointing",
+   "prereq": "mrk_coming_and_watching",
+   "strength": "soft",
+   "reason": "14:1 “after two days” the Passover begins, following the discourse of chapter 13"
+  },
+  {
+   "topic": "mrk_last_supper",
+   "prereq": "mrk_plot_and_anointing",
+   "strength": "soft",
+   "reason": "14:12 the first day of unleavened bread follows Judas’ offer (14:10-11)"
+  },
+  {
+   "topic": "mrk_gethsemane",
+   "prereq": "mrk_last_supper",
+   "strength": "soft",
+   "reason": "14:27 follows the hymn and the walk to the Mount of Olives (14:26)"
+  },
+  {
+   "topic": "mrk_arrest",
+   "prereq": "mrk_gethsemane",
+   "strength": "soft",
+   "reason": "14:43 “while he yet spake” after the third coming to the sleeping disciples (14:41-42)"
+  },
+  {
+   "topic": "mrk_trial_sanhedrin",
+   "prereq": "mrk_arrest",
+   "strength": "soft",
+   "reason": "14:53 they lead Jesus to the high priest"
+  },
+  {
+   "topic": "mrk_peter_denial",
+   "prereq": "mrk_trial_sanhedrin",
+   "strength": "hard",
+   "reason": "14:54, 66 Peter is in the palace of the high priest where Jesus is tried"
+  },
+  {
+   "topic": "mrk_pilate",
+   "prereq": "mrk_peter_denial",
+   "strength": "soft",
+   "reason": "15:1 “straightway in the morning” after the night of the trial and denials"
+  },
+  {
+   "topic": "mrk_crucifixion",
+   "prereq": "mrk_pilate",
+   "strength": "soft",
+   "reason": "15:15 Pilate delivers Jesus to be crucified"
+  },
+  {
+   "topic": "mrk_death_of_jesus",
+   "prereq": "mrk_crucifixion",
+   "strength": "soft",
+   "reason": "15:33 from the sixth hour darkness comes while he hangs on the cross"
+  },
+  {
+   "topic": "mrk_burial",
+   "prereq": "mrk_death_of_jesus",
+   "strength": "soft",
+   "reason": "15:42 evening comes after his death"
+  },
+  {
+   "topic": "mrk_empty_tomb",
+   "prereq": "mrk_burial",
+   "strength": "hard",
+   "reason": "16:1-3 the women come to the sepulchre where Jesus was laid and the stone rolled to its door (15:46-47)"
+  },
+  {
+   "topic": "mrk_appearances_commission",
+   "prereq": "mrk_empty_tomb",
+   "strength": "soft",
+   "reason": "16:9 follows the women’s report of the empty tomb (16:1-8)"
+  }
+ ],
+ "relations": [
+  {
+   "from": "mat_baptism_of_jesus",
+   "to": "mrk_baptism_temptation",
+   "kind": "parallels",
+   "refs": [
+    "MAT 3:16-17",
+    "MRK 1:10-11"
+   ]
+  },
+  {
+   "from": "mat_temptation",
+   "to": "mrk_baptism_temptation",
+   "kind": "parallels",
+   "refs": [
+    "MAT 4:1-2",
+    "MRK 1:12-13"
+   ]
+  },
+  {
+   "from": "mat_ministry_begins",
+   "to": "mrk_calling_first_disciples",
+   "kind": "parallels",
+   "refs": [
+    "MAT 4:18-22",
+    "MRK 1:16-20"
+   ]
+  },
+  {
+   "from": "mat_peters_mother_in_law",
+   "to": "mrk_healings_at_capernaum",
+   "kind": "parallels",
+   "refs": [
+    "MAT 8:14-16",
+    "MRK 1:29-34"
+   ]
+  },
+  {
+   "from": "mat_leper_centurion",
+   "to": "mrk_leper_cleansed",
+   "kind": "parallels",
+   "refs": [
+    "MAT 8:2-4",
+    "MRK 1:40-44"
+   ]
+  },
+  {
+   "from": "mat_paralytic",
+   "to": "mrk_paralytic_roof",
+   "kind": "parallels",
+   "refs": [
+    "MAT 9:2-6",
+    "MRK 2:5-11"
+   ]
+  },
+  {
+   "from": "mat_matthew_called",
+   "to": "mrk_levi_called",
+   "kind": "parallels",
+   "refs": [
+    "MAT 9:9-13",
+    "MRK 2:14-17"
+   ]
+  },
+  {
+   "from": "mat_new_wine",
+   "to": "mrk_levi_called",
+   "kind": "parallels",
+   "refs": [
+    "MAT 9:14-17",
+    "MRK 2:18-22"
+   ]
+  },
+  {
+   "from": "mat_sabbath_grainfield",
+   "to": "mrk_sabbath_grain",
+   "kind": "parallels",
+   "refs": [
+    "MAT 12:1-8",
+    "MRK 2:23-28"
+   ]
+  },
+  {
+   "from": "mat_withered_hand",
+   "to": "mrk_withered_hand",
+   "kind": "parallels",
+   "refs": [
+    "MAT 12:9-14",
+    "MRK 3:1-6"
+   ]
+  },
+  {
+   "from": "mat_beelzebub",
+   "to": "mrk_beelzebub",
+   "kind": "parallels",
+   "refs": [
+    "MAT 12:24-32",
+    "MRK 3:22-29"
+   ]
+  },
+  {
+   "from": "mat_true_family",
+   "to": "mrk_beelzebub",
+   "kind": "parallels",
+   "refs": [
+    "MAT 12:46-50",
+    "MRK 3:31-35"
+   ]
+  },
+  {
+   "from": "mat_sower",
+   "to": "mrk_sower",
+   "kind": "parallels",
+   "refs": [
+    "MAT 13:3-9",
+    "MRK 4:3-9"
+   ]
+  },
+  {
+   "from": "mat_mustard_leaven",
+   "to": "mrk_lamp_seed_mustard",
+   "kind": "parallels",
+   "refs": [
+    "MAT 13:31-32",
+    "MRK 4:30-32"
+   ]
+  },
+  {
+   "from": "mat_calming_storm",
+   "to": "mrk_storm_stilled",
+   "kind": "parallels",
+   "refs": [
+    "MAT 8:23-27",
+    "MRK 4:35-41"
+   ]
+  },
+  {
+   "from": "mat_gadarene_demoniacs",
+   "to": "mrk_legion",
+   "kind": "parallels",
+   "refs": [
+    "MAT 8:28-34",
+    "MRK 5:1-17"
+   ]
+  },
+  {
+   "from": "mat_jairus_daughter",
+   "to": "mrk_jairus",
+   "kind": "parallels",
+   "refs": [
+    "MAT 9:18-26",
+    "MRK 5:22-43"
+   ]
+  },
+  {
+   "from": "mat_nazareth_rejects",
+   "to": "mrk_nazareth_unbelief",
+   "kind": "parallels",
+   "refs": [
+    "MAT 13:54-58",
+    "MRK 6:1-6"
+   ]
+  },
+  {
+   "from": "mat_twelve_sent",
+   "to": "mrk_twelve_sent",
+   "kind": "parallels",
+   "refs": [
+    "MAT 10:5-14",
+    "MRK 6:7-11"
+   ]
+  },
+  {
+   "from": "mat_john_beheaded",
+   "to": "mrk_herod_john",
+   "kind": "parallels",
+   "refs": [
+    "MAT 14:3-12",
+    "MRK 6:17-29"
+   ]
+  },
+  {
+   "from": "mat_feeding_five_thousand",
+   "to": "mrk_feeding_five_thousand",
+   "kind": "parallels",
+   "refs": [
+    "MAT 14:15-21",
+    "MRK 6:35-44"
+   ]
+  },
+  {
+   "from": "mat_walking_on_water",
+   "to": "mrk_walking_on_sea",
+   "kind": "parallels",
+   "refs": [
+    "MAT 14:22-27",
+    "MRK 6:45-50"
+   ]
+  },
+  {
+   "from": "mat_tradition_defilement",
+   "to": "mrk_tradition_defilement",
+   "kind": "parallels",
+   "refs": [
+    "MAT 15:1-11",
+    "MRK 7:1-15"
+   ]
+  },
+  {
+   "from": "mat_canaanite_woman",
+   "to": "mrk_syrophenician_woman",
+   "kind": "parallels",
+   "refs": [
+    "MAT 15:22-28",
+    "MRK 7:25-30"
+   ]
+  },
+  {
+   "from": "mat_feeding_four_thousand",
+   "to": "mrk_feeding_four_thousand",
+   "kind": "parallels",
+   "refs": [
+    "MAT 15:32-38",
+    "MRK 8:1-9"
+   ]
+  },
+  {
+   "from": "mat_sign_and_leaven",
+   "to": "mrk_sign_leaven",
+   "kind": "parallels",
+   "refs": [
+    "MAT 16:1-12",
+    "MRK 8:11-21"
+   ]
+  },
+  {
+   "from": "mat_peters_confession",
+   "to": "mrk_peters_confession",
+   "kind": "parallels",
+   "refs": [
+    "MAT 16:13-17",
+    "MRK 8:27-29"
+   ]
+  },
+  {
+   "from": "mat_take_up_cross",
+   "to": "mrk_peters_confession",
+   "kind": "parallels",
+   "refs": [
+    "MAT 16:21-26",
+    "MRK 8:31-37"
+   ]
+  },
+  {
+   "from": "mat_transfiguration",
+   "to": "mrk_transfiguration",
+   "kind": "parallels",
+   "refs": [
+    "MAT 17:1-13",
+    "MRK 9:2-13"
+   ]
+  },
+  {
+   "from": "mat_demon_boy_temple_tax",
+   "to": "mrk_demon_boy",
+   "kind": "parallels",
+   "refs": [
+    "MAT 17:14-21",
+    "MRK 9:14-29"
+   ]
+  },
+  {
+   "from": "mat_greatest_in_kingdom",
+   "to": "mrk_greatest_little_ones",
+   "kind": "parallels",
+   "refs": [
+    "MAT 18:1-6",
+    "MRK 9:33-42"
+   ]
+  },
+  {
+   "from": "mat_marriage_divorce",
+   "to": "mrk_divorce_children",
+   "kind": "parallels",
+   "refs": [
+    "MAT 19:3-9",
+    "MRK 10:2-12"
+   ]
+  },
+  {
+   "from": "mat_children_blessed",
+   "to": "mrk_divorce_children",
+   "kind": "parallels",
+   "refs": [
+    "MAT 19:13-15",
+    "MRK 10:13-16"
+   ]
+  },
+  {
+   "from": "mat_rich_young_man",
+   "to": "mrk_rich_man",
+   "kind": "parallels",
+   "refs": [
+    "MAT 19:16-30",
+    "MRK 10:17-31"
+   ]
+  },
+  {
+   "from": "mat_third_prediction_service",
+   "to": "mrk_third_prediction_ransom",
+   "kind": "parallels",
+   "refs": [
+    "MAT 20:17-28",
+    "MRK 10:32-45"
+   ]
+  },
+  {
+   "from": "mat_blind_men_jericho",
+   "to": "mrk_bartimaeus",
+   "kind": "parallels",
+   "refs": [
+    "MAT 20:29-34",
+    "MRK 10:46-52"
+   ]
+  },
+  {
+   "from": "mat_triumphal_entry",
+   "to": "mrk_triumphal_entry",
+   "kind": "parallels",
+   "refs": [
+    "MAT 21:1-11",
+    "MRK 11:1-10"
+   ]
+  },
+  {
+   "from": "mat_temple_cleansing",
+   "to": "mrk_fig_tree_temple",
+   "kind": "parallels",
+   "refs": [
+    "MAT 21:12-13",
+    "MRK 11:15-17"
+   ]
+  },
+  {
+   "from": "mat_fig_tree",
+   "to": "mrk_fig_tree_temple",
+   "kind": "parallels",
+   "refs": [
+    "MAT 21:18-22",
+    "MRK 11:12-14"
+   ]
+  },
+  {
+   "from": "mat_authority_question",
+   "to": "mrk_authority_question",
+   "kind": "parallels",
+   "refs": [
+    "MAT 21:23-27",
+    "MRK 11:27-33"
+   ]
+  },
+  {
+   "from": "mat_wicked_tenants",
+   "to": "mrk_wicked_husbandmen",
+   "kind": "parallels",
+   "refs": [
+    "MAT 21:33-46",
+    "MRK 12:1-12"
+   ]
+  },
+  {
+   "from": "mat_tribute_to_caesar",
+   "to": "mrk_tribute_money",
+   "kind": "parallels",
+   "refs": [
+    "MAT 22:15-22",
+    "MRK 12:13-17"
+   ]
+  },
+  {
+   "from": "mat_resurrection_question",
+   "to": "mrk_resurrection_question",
+   "kind": "parallels",
+   "refs": [
+    "MAT 22:23-33",
+    "MRK 12:18-27"
+   ]
+  },
+  {
+   "from": "mat_great_commandment",
+   "to": "mrk_first_commandment",
+   "kind": "parallels",
+   "refs": [
+    "MAT 22:34-40",
+    "MRK 12:28-31"
+   ]
+  },
+  {
+   "from": "mat_son_of_david_question",
+   "to": "mrk_son_of_david_scribes",
+   "kind": "parallels",
+   "refs": [
+    "MAT 22:41-46",
+    "MRK 12:35-37"
+   ]
+  },
+  {
+   "from": "mat_woes_scribes_pharisees",
+   "to": "mrk_son_of_david_scribes",
+   "kind": "parallels",
+   "refs": [
+    "MAT 23:5-7",
+    "MRK 12:38-39"
+   ]
+  },
+  {
+   "from": "mat_olivet_signs",
+   "to": "mrk_olivet_signs",
+   "kind": "parallels",
+   "refs": [
+    "MAT 24:1-14",
+    "MRK 13:1-13"
+   ]
+  },
+  {
+   "from": "mat_great_tribulation",
+   "to": "mrk_olivet_signs",
+   "kind": "parallels",
+   "refs": [
+    "MAT 24:15-24",
+    "MRK 13:14-22"
+   ]
+  },
+  {
+   "from": "mat_coming_of_son_of_man",
+   "to": "mrk_coming_and_watching",
+   "kind": "parallels",
+   "refs": [
+    "MAT 24:29-35",
+    "MRK 13:24-31"
+   ]
+  },
+  {
+   "from": "mat_watchfulness",
+   "to": "mrk_coming_and_watching",
+   "kind": "parallels",
+   "refs": [
+    "MAT 24:36-44",
+    "MRK 13:32-37"
+   ]
+  },
+  {
+   "from": "mat_plot_and_anointing",
+   "to": "mrk_plot_and_anointing",
+   "kind": "parallels",
+   "refs": [
+    "MAT 26:1-16",
+    "MRK 14:1-11"
+   ]
+  },
+  {
+   "from": "mat_last_supper",
+   "to": "mrk_last_supper",
+   "kind": "parallels",
+   "refs": [
+    "MAT 26:26-29",
+    "MRK 14:22-25"
+   ]
+  },
+  {
+   "from": "mat_gethsemane",
+   "to": "mrk_gethsemane",
+   "kind": "parallels",
+   "refs": [
+    "MAT 26:31-46",
+    "MRK 14:27-42"
+   ]
+  },
+  {
+   "from": "mat_arrest",
+   "to": "mrk_arrest",
+   "kind": "parallels",
+   "refs": [
+    "MAT 26:47-56",
+    "MRK 14:43-50"
+   ]
+  },
+  {
+   "from": "mat_trial_caiaphas",
+   "to": "mrk_trial_sanhedrin",
+   "kind": "parallels",
+   "refs": [
+    "MAT 26:57-68",
+    "MRK 14:53-65"
+   ]
+  },
+  {
+   "from": "mat_peter_denies",
+   "to": "mrk_peter_denial",
+   "kind": "parallels",
+   "refs": [
+    "MAT 26:69-75",
+    "MRK 14:66-72"
+   ]
+  },
+  {
+   "from": "mat_pilate_barabbas",
+   "to": "mrk_pilate",
+   "kind": "parallels",
+   "refs": [
+    "MAT 27:11-26",
+    "MRK 15:1-15"
+   ]
+  },
+  {
+   "from": "mat_crucifixion",
+   "to": "mrk_crucifixion",
+   "kind": "parallels",
+   "refs": [
+    "MAT 27:27-44",
+    "MRK 15:16-32"
+   ]
+  },
+  {
+   "from": "mat_death_of_jesus",
+   "to": "mrk_death_of_jesus",
+   "kind": "parallels",
+   "refs": [
+    "MAT 27:45-56",
+    "MRK 15:33-41"
+   ]
+  },
+  {
+   "from": "mat_burial_and_guard",
+   "to": "mrk_burial",
+   "kind": "parallels",
+   "refs": [
+    "MAT 27:57-61",
+    "MRK 15:42-47"
+   ]
+  },
+  {
+   "from": "mat_resurrection",
+   "to": "mrk_empty_tomb",
+   "kind": "parallels",
+   "refs": [
+    "MAT 28:1-8",
+    "MRK 16:1-8"
+   ]
+  },
+  {
+   "from": "mat_great_commission",
+   "to": "mrk_appearances_commission",
+   "kind": "parallels",
+   "refs": [
+    "MAT 28:19-20",
+    "MRK 16:15-16"
+   ]
+  },
+  {
+   "from": "gen_eden",
+   "to": "mat_marriage_divorce",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 2:24",
+    "MAT 19:5"
+   ]
+  },
+  {
+   "from": "gen_image",
+   "to": "mat_marriage_divorce",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 1:27",
+    "MAT 19:4"
+   ]
+  },
+  {
+   "from": "gen_eden",
+   "to": "mrk_divorce_children",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 2:24",
+    "MRK 10:7-8"
+   ]
+  },
+  {
+   "from": "gen_image",
+   "to": "mrk_divorce_children",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 1:27",
+    "MRK 10:6"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2683 @@
+{
+ "topics": [
+  {
+   "id": "book_1co",
+   "type": "BOOK_OVERVIEW",
+   "name": "1 Corinthians: overview",
+   "description": "Paul writes to the church at Corinth about divisions, sin in the church, questions they asked him, worship, the resurrection and the collection (1:1-16:24).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1CO 1..16"
+   ],
+   "evidence": [
+    "Name the main problems Paul addresses: divisions, immorality, lawsuits, marriage, food offered to idols, the Lord's supper, gifts, the resurrection",
+    "Say who the letter is addressed to from 1:2"
+   ],
+   "prompt": "Can {{name}} give a short outline of 1 Corinthians and name three problems Paul corrects in the Corinthian church?"
+  },
+  {
+   "id": "1co_greeting_divisions",
+   "type": "DOCTRINE",
+   "name": "Greeting and the call to unity",
+   "description": "Paul thanks God for the grace given to the Corinthians, then appeals to them to end their divisions over which leader they follow.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1CO 1:1-17"
+   ],
+   "evidence": [
+    "Quote the slogans the Corinthians were using (1:12)",
+    "Explain why Paul says Christ is not divided (1:13)"
+   ],
+   "prompt": "Can {{name}} explain why following one teacher against another is wrong, using 1 Corinthians 1:10-13?"
+  },
+  {
+   "id": "1co_cross_wisdom",
+   "type": "DOCTRINE",
+   "name": "The cross: God's wisdom and power",
+   "description": "Paul says the preaching of the cross looks foolish to those perishing but is the power of God to those being saved, and that God chose the weak and low so that no one may boast.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1CO 1:18-31"
+   ],
+   "evidence": [
+    "Contrast how the cross is seen by those perishing and by those saved (1:18)",
+    "List who God chose according to 1:26-29 and why (1:29)",
+    "Name what Christ is made to us (1:30)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says the cross is God's wisdom and power, using 1 Corinthians 1:18-31?"
+  },
+  {
+   "id": "1co_spirit_reveals",
+   "type": "DOCTRINE",
+   "name": "The Spirit reveals God's hidden wisdom",
+   "description": "Paul preached Christ crucified in weakness, and says the wisdom of God, hidden from this world's rulers, is revealed by the Spirit and understood only spiritually.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 2:1-16"
+   ],
+   "evidence": [
+    "State what Paul determined to know among the Corinthians (2:2)",
+    "Explain who knows the things of God and how we receive them (2:10-12)",
+    "Contrast the natural man and the spiritual person (2:14-15)"
+   ],
+   "prompt": "Can {{name}} explain, using 1 Corinthians 2, how a person comes to understand the things of God?"
+  },
+  {
+   "id": "1co_servants_building",
+   "type": "DOCTRINE",
+   "name": "Servants, builders and God's temple",
+   "description": "Paul tells the divided Corinthians that he and Apollos are only servants, that God gives the increase, that Jesus Christ is the one foundation, and that the church is God's temple.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1CO 3:1-23"
+   ],
+   "evidence": [
+    "Explain the picture of planting and watering (3:6-7)",
+    "Say what the one foundation is (3:11)",
+    "Explain what happens to each builder's work (3:12-15)",
+    "Say why the church is called God's temple (3:16-17)"
+   ],
+   "prompt": "Can {{name}} explain who gives growth in the church and what the foundation is, using 1 Corinthians 3?"
+  },
+  {
+   "id": "1co_stewards_apostles",
+   "type": "DOCTRINE",
+   "name": "Faithful stewards and the apostles as fathers",
+   "description": "Paul says ministers are stewards who must be found faithful, whom the Lord will judge; he contrasts the Corinthians' pride with the apostles' sufferings and warns that he will come.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 4:1-21"
+   ],
+   "evidence": [
+    "Say what is required of stewards (4:2)",
+    "Explain who is to judge and when (4:4-5)",
+    "Answer Paul's question in 4:7 about what we have that we did not receive"
+   ],
+   "prompt": "Can {{name}} explain why Paul says it is a small thing to be judged by men, using 1 Corinthians 4:1-7?"
+  },
+  {
+   "id": "1co_church_discipline",
+   "type": "DOCTRINE",
+   "name": "Dealing with sin in the church",
+   "description": "Paul rebukes the church for tolerating a case of sexual immorality, tells them to put the person out, and explains that they must judge those inside the church while God judges those outside.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "1CO 5:1-13"
+   ],
+   "evidence": [
+    "Describe the sin reported in 5:1 and the church's attitude (5:2)",
+    "Explain the picture of leaven (5:6-8)",
+    "Explain the difference between those within and those without (5:9-13)"
+   ],
+   "prompt": "Can {{name}} explain why Paul tells the Corinthians to put away the wicked person, using 1 Corinthians 5?"
+  },
+  {
+   "id": "1co_lawsuits",
+   "type": "DOCTRINE",
+   "name": "Lawsuits among believers",
+   "description": "Paul asks why Christians take each other to law before unbelievers, reminds them that the saints will judge the world, and warns that the unrighteous will not inherit the kingdom.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "1CO 6:1-11"
+   ],
+   "evidence": [
+    "Say where Paul wants disputes settled and why (6:1-5)",
+    "List the kinds of people who will not inherit the kingdom (6:9-10)",
+    "Quote the three things Paul says happened to the Corinthians in 6:11"
+   ],
+   "prompt": "Can {{name}} explain 1 Corinthians 6:11 and why it matters for how believers treat each other?"
+  },
+  {
+   "id": "1co_body_temple",
+   "type": "DOCTRINE",
+   "name": "Your body is the Lord's temple",
+   "description": "Paul teaches that the body is for the Lord, not for sexual immorality, that believers are members of Christ and the Spirit's temple, and that they were bought with a price.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "1CO 6:12-20"
+   ],
+   "evidence": [
+    "Explain why the body is not for fornication (6:13-15)",
+    "Say what Paul tells them to do about fornication (6:18)",
+    "Explain what it means that believers are bought with a price (6:19-20)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says our bodies belong to God, using 1 Corinthians 6:19-20?"
+  },
+  {
+   "id": "1co_marriage_singleness",
+   "type": "DOCTRINE",
+   "name": "Marriage, singleness and calling",
+   "description": "Answering the Corinthians' letter, Paul teaches about the duties of husband and wife, the unmarried and widows, believers married to unbelievers, and living in the calling in which one was called.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "1CO 7:1-24"
+   ],
+   "evidence": [
+    "Describe the mutual duty of husband and wife (7:3-4)",
+    "Say what Paul teaches about a believer with an unbelieving spouse (7:12-16)",
+    "Explain the rule of 7:17, 7:20 and 7:24"
+   ],
+   "prompt": "Can {{name}} summarize what Paul says in 1 Corinthians 7:1-24 about marriage and about staying in the calling in which we were called?"
+  },
+  {
+   "id": "1co_unmarried_time_short",
+   "type": "DOCTRINE",
+   "name": "The unmarried, widows and the shortness of time",
+   "description": "Paul gives his judgment about virgins and the unmarried in view of the present distress, says the time is short, and explains that the unmarried can attend upon the Lord without distraction.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "1CO 7:25-40"
+   ],
+   "evidence": [
+    "Say whether Paul calls marriage a sin (7:28)",
+    "Explain why he says the time is short (7:29-31)",
+    "State the condition for a widow's remarriage (7:39)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says in 1 Corinthians 7:35 that he writes these things, and what he does not mean to do?"
+  },
+  {
+   "id": "1co_food_idols",
+   "type": "DOCTRINE",
+   "name": "Knowledge, love and food offered to idols",
+   "description": "Paul says an idol is nothing and there is one God and one Lord, but that knowledge puffs up while love builds up, so believers must not cause a weak brother to stumble.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 8:1-13"
+   ],
+   "evidence": [
+    "State the confession of 8:6",
+    "Explain the difference between knowledge and love in 8:1",
+    "Explain how a believer can wound a weak conscience (8:9-12)"
+   ],
+   "prompt": "Can {{name}} explain why Paul would give up eating meat rather than make a brother stumble, using 1 Corinthians 8:13?"
+  },
+  {
+   "id": "1co_apostle_rights",
+   "type": "DOCTRINE",
+   "name": "Paul's rights given up for the gospel",
+   "description": "Paul defends his apostleship and his right to be supported, but says he has not used that right, becoming all things to all people so that he might save some.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 9:1-23"
+   ],
+   "evidence": [
+    "List the rights Paul says he has (9:4-6)",
+    "Explain why he did not use them (9:12, 9:18)",
+    "Explain what Paul means by becoming all things to all men (9:19-22)"
+   ],
+   "prompt": "Can {{name}} explain why Paul gave up his rights, using 1 Corinthians 9:19-23?"
+  },
+  {
+   "id": "1co_race_discipline",
+   "type": "THEME",
+   "name": "Running the race with discipline",
+   "description": "Paul compares the Christian life to a race and to a fight that requires self-control, so that he is not disqualified after preaching to others.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1CO 9:24-27"
+   ],
+   "evidence": [
+    "Describe the two pictures Paul uses (race and fight)",
+    "Explain what Paul does to his body and why (9:27)"
+   ],
+   "prompt": "Can {{name}} explain what Paul means by running to obtain an incorruptible crown (1 Corinthians 9:24-27)?"
+  },
+  {
+   "id": "1co_wilderness_warning",
+   "type": "DOCTRINE",
+   "name": "Warnings from Israel in the wilderness",
+   "description": "Paul reminds the Corinthians that Israel passed through the sea and ate and drank spiritual food, yet many fell; he says these things were examples to us, and that God provides a way of escape from temptation.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1CO 10:1-13"
+   ],
+   "evidence": [
+    "List the privileges of Israel in 10:1-4 and the sins in 10:7-10",
+    "Explain why Paul says these things were written (10:11)",
+    "State the promise of 10:13"
+   ],
+   "prompt": "Can {{name}} explain why Paul uses Israel's failures as a warning, and what God promises in 1 Corinthians 10:13?"
+  },
+  {
+   "id": "1co_lords_table_idols",
+   "type": "DOCTRINE",
+   "name": "The Lord's table and the table of demons",
+   "description": "Paul tells believers to flee idolatry, explaining that the cup and bread are communion in Christ's blood and body, and that they cannot share both the Lord's table and the table of demons.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 10:14-22"
+   ],
+   "evidence": [
+    "Explain what the cup and the bread are called in 10:16",
+    "Say why believers cannot partake of both tables (10:20-21)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says we cannot drink the cup of the Lord and the cup of devils (1 Corinthians 10:21)?"
+  },
+  {
+   "id": "1co_liberty_glory",
+   "type": "DOCTRINE",
+   "name": "Liberty, conscience and the glory of God",
+   "description": "Paul gives practical rules for eating what is sold in the market or served at a feast, tells believers to seek the good of others, and sums up: do all to the glory of God.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 10:23-33",
+    "1CO 11:1"
+   ],
+   "evidence": [
+    "State the rule of 10:31",
+    "Explain what to do when someone says the food was offered to idols (10:28-29)",
+    "Say whom Paul asks them to follow (11:1)"
+   ],
+   "prompt": "Can {{name}} apply 1 Corinthians 10:31 to an everyday choice and explain how seeking another's good fits with it?"
+  },
+  {
+   "id": "1co_head_covering",
+   "type": "DOCTRINE",
+   "name": "Order in worship: headship and head coverings",
+   "description": "Paul praises the Corinthians for keeping the traditions, teaches about headship and about men and women praying or prophesying, and says the churches have no other custom.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "1CO 11:2-16"
+   ],
+   "evidence": [
+    "State the order of headship in 11:3",
+    "Say what practices Paul addresses for men and women in 11:4-7",
+    "Note that Paul says man and woman are not independent of each other in the Lord (11:11-12)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about headship in 1 Corinthians 11:3 and 11:11-12 without leaving out either passage?"
+  },
+  {
+   "id": "1co_lords_supper",
+   "type": "DOCTRINE",
+   "name": "The Lord's supper",
+   "description": "Paul rebukes the Corinthians for how they ate together, then recounts what he received from the Lord about the bread and the cup, calls the cup the new testament in Christ's blood, and tells them to examine themselves.",
+   "covenant": "cv_new",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1CO 11:17-34"
+   ],
+   "evidence": [
+    "Describe the abuses in 11:20-22",
+    "Retell the institution of the supper from 11:23-25",
+    "Explain what the supper shows until the Lord comes (11:26)",
+    "Say what Paul tells each person to do before eating (11:28)"
+   ],
+   "prompt": "Can {{name}} retell what Paul says about the bread and the cup in 1 Corinthians 11:23-26 and explain what it means to examine oneself?"
+  },
+  {
+   "id": "1co_spiritual_gifts",
+   "type": "DOCTRINE",
+   "name": "One Spirit, many gifts",
+   "description": "Paul says that no one confesses Jesus as Lord except by the Holy Ghost and that the one Spirit gives different gifts to each person for the common good.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1CO 12:1-11"
+   ],
+   "evidence": [
+    "State the test of 12:3",
+    "List some gifts named in 12:8-10",
+    "Explain who decides how gifts are distributed (12:11)"
+   ],
+   "prompt": "Can {{name}} explain why the gifts differ but come from the same Spirit, using 1 Corinthians 12:4-11?"
+  },
+  {
+   "id": "1co_one_body",
+   "type": "DOCTRINE",
+   "name": "One body, many members",
+   "description": "Paul compares the church to a body with many members that need one another, naming various roles God has set in the church.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1CO 12:12-31"
+   ],
+   "evidence": [
+    "Explain how we all became one body (12:13)",
+    "Explain why no member can say it has no need of another (12:21)",
+    "Say what happens when one member suffers (12:26)"
+   ],
+   "prompt": "Can {{name}} use the picture of the body in 1 Corinthians 12 to explain why every church member matters?"
+  },
+  {
+   "id": "1co_love_chapter",
+   "type": "DOCTRINE",
+   "name": "The more excellent way: love",
+   "description": "Paul says that gifts, knowledge and sacrifice are nothing without love, describes what love is and does, and says that faith, hope and love remain, the greatest being love.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "1CO 13:1-13"
+   ],
+   "evidence": [
+    "List things love does and does not do (13:4-7)",
+    "Say what will cease and what never fails (13:8)",
+    "Name the three that abide (13:13)"
+   ],
+   "prompt": "Can {{name}} explain why love is greater than gifts, using 1 Corinthians 13?"
+  },
+  {
+   "id": "1co_tongues_prophecy",
+   "type": "DOCTRINE",
+   "name": "Tongues, prophecy and order in the assembly",
+   "description": "Paul urges them to seek gifts that build up the church, especially prophecy, requires tongues to be interpreted, regulates speaking in turn, and ends by saying all things should be done decently and in order.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 14:1-40"
+   ],
+   "evidence": [
+    "Explain why Paul prefers prophecy in church (14:3-5)",
+    "State the rules for tongues and prophets (14:27-32)",
+    "Say why God is not the author of confusion (14:33)",
+    "Read 14:34-35 carefully and say what it commands about speaking in the churches"
+   ],
+   "prompt": "Can {{name}} explain the purpose Paul gives for all speaking in church (14:26) and the rules in 1 Corinthians 14:27-33?"
+  },
+  {
+   "id": "1co_gospel_resurrection",
+   "type": "DOCTRINE",
+   "name": "The gospel: Christ died and rose",
+   "description": "Paul reminds the Corinthians of the gospel he received and preached, that Christ died for our sins, was buried and rose the third day according to the scriptures, and was seen by many witnesses.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1CO 15:1-11"
+   ],
+   "evidence": [
+    "Recite the gospel summary from 15:3-4",
+    "List the witnesses named in 15:5-8",
+    "Explain what Paul says about himself in 15:9-10"
+   ],
+   "prompt": "Can {{name}} state the gospel in the words of 1 Corinthians 15:3-4 and name some who saw the risen Christ?"
+  },
+  {
+   "id": "1co_resurrection_hope",
+   "type": "DOCTRINE",
+   "name": "If Christ is not raised: the firstfruits",
+   "description": "Paul argues that if there is no resurrection of the dead then Christ is not risen and faith is vain, but Christ is risen as the firstfruits, as Adam brought death and Christ brings life, until death is destroyed.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 15:12-34"
+   ],
+   "evidence": [
+    "List the consequences if Christ is not risen (15:14-19)",
+    "Explain Adam and Christ in 15:21-22",
+    "Say what the last enemy is (15:26)"
+   ],
+   "prompt": "Can {{name}} explain why the resurrection of Christ matters for the believer, using 1 Corinthians 15:12-22?"
+  },
+  {
+   "id": "1co_resurrection_body",
+   "type": "DOCTRINE",
+   "name": "The resurrection body and the victory over death",
+   "description": "Paul answers how the dead are raised, with the picture of a seed, contrasts the natural and spiritual body and the first and last Adam, and describes believers being changed at the last trumpet with death swallowed up in victory.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1CO 15:35-58"
+   ],
+   "evidence": [
+    "Explain the seed picture (15:36-38)",
+    "Contrast sown and raised in 15:42-44",
+    "Explain how believers will be changed (15:51-53)",
+    "State the closing exhortation of 15:58"
+   ],
+   "prompt": "Can {{name}} describe what Paul says will happen to the dead in Christ and to the living, using 1 Corinthians 15:42-58?"
+  },
+  {
+   "id": "1co_collection_closing",
+   "type": "THEME",
+   "name": "The collection, plans and closing greetings",
+   "description": "Paul gives orders for the collection for the saints, his travel plans, advice about Timothy, Apollos and Stephanas, and ends with greetings and a blessing.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1CO 16:1-24"
+   ],
+   "evidence": [
+    "Describe how the collection was to be given (16:1-2)",
+    "Name the co-workers Paul mentions",
+    "Quote the closing words of 16:13-14"
+   ],
+   "prompt": "Can {{name}} explain what Paul asks the Corinthians to do about the collection and how the letter closes (1 Corinthians 16)?"
+  },
+  {
+   "id": "book_2co",
+   "type": "BOOK_OVERVIEW",
+   "name": "2 Corinthians: overview",
+   "description": "Paul's second letter to the Corinthians: comfort in affliction, the ministry of the new covenant and reconciliation, the collection for the saints, and a defence of his apostleship (1:1-13:14).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2CO 1..13"
+   ],
+   "evidence": [
+    "Name the main sections: comfort and ministry (1-7), the collection (8-9), Paul's defence of his apostleship (10-13)",
+    "Say what Paul tells the Corinthians about his sufferings"
+   ],
+   "prompt": "Can {{name}} give a short outline of 2 Corinthians and say what its three main parts are about?"
+  },
+  {
+   "id": "2co_comfort_affliction",
+   "type": "DOCTRINE",
+   "name": "The God of all comfort",
+   "description": "Paul blesses God as the Father of mercies, who comforts us in trouble so that we can comfort others, and tells of a deadly trouble in Asia that taught him to trust in God who raises the dead.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "2CO 1:1-11"
+   ],
+   "evidence": [
+    "Say who God is called in 1:3",
+    "Explain why we are comforted (1:4)",
+    "Explain what Paul learned from the trouble in Asia (1:8-10)"
+   ],
+   "prompt": "Can {{name}} explain why God comforts us, using 2 Corinthians 1:3-4?"
+  },
+  {
+   "id": "2co_yes_in_christ",
+   "type": "DOCTRINE",
+   "name": "All God's promises are yes in Christ",
+   "description": "Paul defends changing his travel plans, saying his word is not yes and no, because God is true and in Christ all the promises of God are yes; God has established, anointed and sealed believers and given the Spirit as a guarantee.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2CO 1:12-24"
+   ],
+   "evidence": [
+    "Explain what Paul says about God's promises in 1:20",
+    "List what God has done for believers in 1:21-22",
+    "Say why Paul had not yet come to Corinth (1:23)"
+   ],
+   "prompt": "Can {{name}} explain what it means that all the promises of God are yes in Christ (2 Corinthians 1:20)?"
+  },
+  {
+   "id": "2co_forgive_offender",
+   "type": "DOCTRINE",
+   "name": "Forgiving the offender",
+   "description": "Paul says he wrote with many tears, that the punishment the majority inflicted on the offender is enough, and urges the church to forgive and comfort him so that Satan gets no advantage.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2CO 2:1-11"
+   ],
+   "evidence": [
+    "Say why Paul wrote with tears (2:4)",
+    "Explain what Paul asks the church to do for the punished man (2:7-8)",
+    "Say why forgiving matters (2:11)"
+   ],
+   "prompt": "Can {{name}} explain why Paul urges the Corinthians to forgive and comfort the man who had been punished (2 Corinthians 2:5-11)?"
+  },
+  {
+   "id": "2co_triumph_savour",
+   "type": "DOCTRINE",
+   "name": "Led in triumph: the fragrance of Christ",
+   "description": "After telling of his restlessness at Troas, Paul thanks God who leads us in triumph in Christ and spreads the knowledge of him, which is a fragrance of life to some and of death to others.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 2:12-17"
+   ],
+   "evidence": [
+    "Explain the two kinds of aroma in 2:15-16",
+    "Contrast Paul's speaking with those who corrupt the word of God (2:17)"
+   ],
+   "prompt": "Can {{name}} explain what Paul means by being a sweet savour of Christ, using 2 Corinthians 2:14-17?"
+  },
+  {
+   "id": "2co_new_covenant_ministry",
+   "type": "COVENANT",
+   "name": "Ministers of the new covenant",
+   "description": "Paul says the Corinthians are Christ's letter written by the Spirit on hearts, calls himself a minister of the new testament, and contrasts the ministry of death carved on stone, with its fading glory, with the ministry of the Spirit and righteousness.",
+   "covenant": "cv_new",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "2CO 3:1-11"
+   ],
+   "evidence": [
+    "Say what the Corinthians are called in 3:2-3",
+    "Explain the difference between the letter and the Spirit (3:6)",
+    "Compare the two ministrations in 3:7-11"
+   ],
+   "prompt": "Can {{name}} explain how Paul contrasts the ministry written on stone with the ministry of the Spirit in 2 Corinthians 3:3-11?"
+  },
+  {
+   "id": "2co_unveiled_glory",
+   "type": "DOCTRINE",
+   "name": "Unveiled face: from glory to glory",
+   "description": "Paul says Moses put a veil over his face, a veil that remains in the reading of the old testament but is done away in Christ, and that believers with open face behold the glory of the Lord and are changed into his image.",
+   "covenant": "cv_new",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "2CO 3:12-18"
+   ],
+   "evidence": [
+    "Explain the veil of Moses (3:13-15)",
+    "Say when the veil is taken away (3:16)",
+    "Explain what happens to those who behold the Lord's glory (3:18)"
+   ],
+   "prompt": "Can {{name}} explain what happens to a person who turns to the Lord, using 2 Corinthians 3:16-18?"
+  },
+  {
+   "id": "2co_treasure_clay",
+   "type": "DOCTRINE",
+   "name": "Treasure in jars of clay",
+   "description": "Paul says the gospel is the light of the knowledge of God's glory in the face of Christ, hidden to those blinded by the god of this world, and that believers carry it in weak earthen vessels so that the power is God's.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 4:1-15"
+   ],
+   "evidence": [
+    "Explain who blinds unbelievers and why (4:4)",
+    "Say where the light of the knowledge of God's glory is seen (4:6)",
+    "Explain why we have the treasure in earthen vessels (4:7)",
+    "Describe the four contrasts in 4:8-9"
+   ],
+   "prompt": "Can {{name}} explain why Paul says we have this treasure in earthen vessels (2 Corinthians 4:7)?"
+  },
+  {
+   "id": "2co_inner_renewed",
+   "type": "DOCTRINE",
+   "name": "The inward man is renewed",
+   "description": "Paul says that although the outward man perishes, the inward man is renewed day by day, and that light affliction produces an eternal weight of glory for those who look at the unseen.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2CO 4:16-18"
+   ],
+   "evidence": [
+    "Contrast the outward and inward man (4:16)",
+    "Contrast the seen and the unseen (4:18)"
+   ],
+   "prompt": "Can {{name}} explain why Paul does not lose heart, using 2 Corinthians 4:16-18?"
+  },
+  {
+   "id": "2co_heavenly_house",
+   "type": "DOCTRINE",
+   "name": "The heavenly house and the judgment seat",
+   "description": "Paul says that if the earthly tent is destroyed, believers have an eternal house from God, are confident to be present with the Lord, walk by faith, and must all appear before the judgment seat of Christ.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 5:1-10"
+   ],
+   "evidence": [
+    "Say what Paul expects after the tent is dissolved (5:1)",
+    "Explain what Paul says about walking by faith (5:7)",
+    "Say who must appear before Christ's judgment seat (5:10)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about being at home with the Lord and about the judgment seat in 2 Corinthians 5:1-10?"
+  },
+  {
+   "id": "2co_reconciliation",
+   "type": "DOCTRINE",
+   "name": "New creation and the ministry of reconciliation",
+   "description": "Paul says the love of Christ constrains us because he died for all, that anyone in Christ is a new creature, that God reconciled us in Christ and gave us the message of reconciliation, and that Christ was made sin for us so that we might become the righteousness of God.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 5:11-21"
+   ],
+   "evidence": [
+    "Explain why Christ died for all (5:15)",
+    "Say what is true of anyone in Christ (5:17)",
+    "Explain reconciliation in 5:18-19",
+    "Explain the exchange described in 5:21"
+   ],
+   "prompt": "Can {{name}} explain what it means to be reconciled to God, using 2 Corinthians 5:18-21?"
+  },
+  {
+   "id": "2co_now_day_salvation",
+   "type": "DOCTRINE",
+   "name": "Now is the day of salvation: marks of true ministry",
+   "description": "Paul urges the Corinthians not to receive God's grace in vain, says now is the day of salvation, and lists the hardships and virtues by which he commends himself as a minister of God.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 6:1-13"
+   ],
+   "evidence": [
+    "Quote the point of 6:2",
+    "List some hardships in 6:4-5 and some virtues in 6:6-7",
+    "Explain the paradoxes in 6:8-10"
+   ],
+   "prompt": "Can {{name}} explain what Paul means by \"now is the day of salvation\" in 2 Corinthians 6:2?"
+  },
+  {
+   "id": "2co_unequally_yoked",
+   "type": "DOCTRINE",
+   "name": "Separation and the temple of the living God",
+   "description": "Paul warns against being unequally yoked with unbelievers, says believers are the temple of the living God, and gives promises that God will be their Father and they his sons and daughters, calling them to cleanse themselves.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 6:14-18",
+    "2CO 7:1"
+   ],
+   "evidence": [
+    "Name the contrasts Paul draws in 6:14-16",
+    "Say what promises are given in 6:16-18",
+    "Explain the conclusion of 7:1"
+   ],
+   "prompt": "Can {{name}} explain why Paul says believers should not be unequally yoked with unbelievers, using 2 Corinthians 6:14-18?"
+  },
+  {
+   "id": "2co_godly_sorrow",
+   "type": "DOCTRINE",
+   "name": "Godly sorrow and Titus's report",
+   "description": "Paul tells how Titus comforted him in Macedonia with news of the Corinthians' repentance, and distinguishes godly sorrow, which leads to repentance and salvation, from the sorrow of the world which brings death.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 7:2-16"
+   ],
+   "evidence": [
+    "State the difference between godly sorrow and the sorrow of the world (7:10)",
+    "Say who brought comfort and what he reported (7:6-7)",
+    "List fruits of the Corinthians' sorrow (7:11)"
+   ],
+   "prompt": "Can {{name}} explain the difference between godly sorrow and worldly sorrow, using 2 Corinthians 7:9-11?"
+  },
+  {
+   "id": "2co_macedonian_generosity",
+   "type": "DOCTRINE",
+   "name": "The grace of giving: the churches of Macedonia",
+   "description": "Paul tells of the Macedonians' generous gift out of deep poverty, urges the Corinthians to complete their part, points to Christ who became poor so that we might be rich, and says the aim is fairness.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2CO 8:1-15"
+   ],
+   "evidence": [
+    "Describe the Macedonians' giving (8:2-5)",
+    "Explain Christ's example in 8:9",
+    "Say what Paul means by equality in 8:13-15"
+   ],
+   "prompt": "Can {{name}} explain how Christ's example motivates giving, using 2 Corinthians 8:9?"
+  },
+  {
+   "id": "2co_titus_integrity",
+   "type": "THEME",
+   "name": "Titus and the brothers: honesty with the offering",
+   "description": "Paul commends Titus and two brothers sent to administer the gift, so that no one could blame him and everything would be honest before the Lord and men.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2CO 8:16-24"
+   ],
+   "evidence": [
+    "Name who is sent to Corinth (8:16-23)",
+    "Explain why Paul takes care to be honest about the gift (8:20-21)"
+   ],
+   "prompt": "Can {{name}} explain why Paul arranged for several trusted men to handle the offering (2 Corinthians 8:20-21)?"
+  },
+  {
+   "id": "2co_cheerful_giver",
+   "type": "DOCTRINE",
+   "name": "God loves a cheerful giver",
+   "description": "Paul urges the Corinthians to be ready with the gift, saying that he who sows bountifully will reap bountifully, that each should give as he has decided in his heart, and that God supplies all they need and receives thanks.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2CO 9:1-15"
+   ],
+   "evidence": [
+    "Say how each person should give (9:7)",
+    "Explain the sowing and reaping picture (9:6)",
+    "Say what the gift produces according to 9:12-13"
+   ],
+   "prompt": "Can {{name}} explain how God wants us to give, using 2 Corinthians 9:6-8?"
+  },
+  {
+   "id": "2co_spiritual_warfare",
+   "type": "DOCTRINE",
+   "name": "Spiritual weapons and true authority",
+   "description": "Paul says he does not war according to the flesh, that his weapons are mighty to pull down strongholds and bring every thought captive to Christ, and answers those who say his presence is weak.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 10:1-11"
+   ],
+   "evidence": [
+    "Explain what the weapons of Paul's warfare do (10:4-5)",
+    "Say what critics said about Paul (10:10)",
+    "Say what authority the Lord gave him for (10:8)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about the weapons of our warfare in 2 Corinthians 10:3-5?"
+  },
+  {
+   "id": "2co_boast_in_lord",
+   "type": "DOCTRINE",
+   "name": "Boasting only in the Lord",
+   "description": "Paul says he will not compare himself with those who commend themselves or boast of others' work; his boasting stays within the limit God assigned, and the one approved is the one the Lord commends.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 10:12-18"
+   ],
+   "evidence": [
+    "Explain the limit Paul keeps in his boasting (10:13-16)",
+    "Quote the principle of 10:17-18"
+   ],
+   "prompt": "Can {{name}} explain who is truly approved, using 2 Corinthians 10:17-18?"
+  },
+  {
+   "id": "2co_false_apostles",
+   "type": "DOCTRINE",
+   "name": "False apostles and Paul's foolish boasting",
+   "description": "Paul fears the Corinthians will be led astray from Christ as the serpent deceived Eve, warns of false apostles disguised as servants of righteousness, and, speaking as a fool, lists his sufferings as a servant of Christ.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 11:1-33"
+   ],
+   "evidence": [
+    "Say what Paul fears in 11:3",
+    "Explain how false apostles disguise themselves (11:13-15)",
+    "List some sufferings Paul names in 11:23-27",
+    "Describe the escape at Damascus (11:32-33)"
+   ],
+   "prompt": "Can {{name}} explain what Paul warns about false apostles in 2 Corinthians 11:13-15 and why he lists his sufferings?"
+  },
+  {
+   "id": "2co_thorn_weakness",
+   "type": "DOCTRINE",
+   "name": "The thorn in the flesh: power in weakness",
+   "description": "Paul tells of being caught up to paradise, then of a thorn in the flesh given to keep him humble; the Lord answered his prayer by saying his grace is sufficient and his strength is made perfect in weakness.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 12:1-10"
+   ],
+   "evidence": [
+    "Say what Paul asked the Lord three times (12:8)",
+    "Quote the Lord's answer (12:9)",
+    "Explain why Paul can say he is strong when weak (12:10)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says \"when I am weak, then am I strong,\" using 2 Corinthians 12:7-10?"
+  },
+  {
+   "id": "2co_apostles_concern",
+   "type": "THEME",
+   "name": "Paul's signs, his love and his fears",
+   "description": "Paul says the signs of an apostle were done among the Corinthians, that he will not burden them but gladly spend himself for them, and that he fears finding sin and disorder when he comes a third time.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 12:11-21"
+   ],
+   "evidence": [
+    "Say how Paul describes his care for them (12:14-15)",
+    "List the sins Paul fears finding (12:20-21)"
+   ],
+   "prompt": "Can {{name}} explain why Paul would not burden the Corinthians, using 2 Corinthians 12:14-15?"
+  },
+  {
+   "id": "2co_examine_yourselves",
+   "type": "DOCTRINE",
+   "name": "Examine yourselves: final warnings and blessing",
+   "description": "Paul warns that he will not spare those who have sinned, tells the Corinthians to examine themselves whether they are in the faith, and closes with an exhortation and a trinitarian blessing.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2CO 13:1-14"
+   ],
+   "evidence": [
+    "Quote the command of 13:5",
+    "Name the three persons in the blessing of 13:14",
+    "List the closing exhortations in 13:11"
+   ],
+   "prompt": "Can {{name}} explain what Paul asks the Corinthians to do in 2 Corinthians 13:5 and name the three persons in 13:14?"
+  },
+  {
+   "id": "book_gal",
+   "type": "BOOK_OVERVIEW",
+   "name": "Galatians: overview",
+   "description": "Paul writes to the churches of Galatia, who were turning to another gospel, to defend justification by faith, the freedom of the sons of God and life by the Spirit (1:1-6:18).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 1..6"
+   ],
+   "evidence": [
+    "Say what problem prompted the letter (1:6-9)",
+    "Name the three parts: Paul's defence (1-2), justification by faith (3-4), living by the Spirit (5-6)"
+   ],
+   "prompt": "Can {{name}} explain why Paul wrote to the Galatians and what he says the true gospel is?"
+  },
+  {
+   "id": "gal_one_gospel",
+   "type": "DOCTRINE",
+   "name": "There is only one gospel",
+   "description": "Paul greets the Galatians, is amazed that they are turning to another gospel, and pronounces a curse on anyone, even an angel, who preaches a different gospel.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 1:1-10"
+   ],
+   "evidence": [
+    "Say what Christ gave himself for (1:4)",
+    "State what Paul says of anyone who preaches another gospel (1:8-9)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says there is no other gospel, using Galatians 1:6-9?"
+  },
+  {
+   "id": "gal_paul_called",
+   "type": "STORY",
+   "name": "Paul's gospel and call by revelation",
+   "description": "Paul says he received the gospel by the revelation of Jesus Christ, not from men, and tells of his former persecution of the church, God's call, his time in Arabia and his first visit to Jerusalem.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 1:11-24"
+   ],
+   "evidence": [
+    "Say how Paul received his gospel (1:11-12)",
+    "Describe what Paul was like before his call (1:13-14)",
+    "Say what the churches of Judaea said about him (1:23-24)"
+   ],
+   "prompt": "Can {{name}} tell how Paul says he came to preach the gospel, using Galatians 1:11-24?"
+  },
+  {
+   "id": "gal_jerusalem_titus",
+   "type": "STORY",
+   "name": "Paul and the apostles at Jerusalem",
+   "description": "Fourteen years later Paul went to Jerusalem with Barnabas and Titus, refused to give in to false brothers who wanted Titus circumcised, and was given the right hand of fellowship by James, Cephas and John.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 2:1-10"
+   ],
+   "evidence": [
+    "Say why Titus was not circumcised (2:3-5)",
+    "Describe the agreement about preaching to the Gentiles and the circumcised (2:7-9)",
+    "Name what they asked Paul to remember (2:10)"
+   ],
+   "prompt": "Can {{name}} explain what happened at Jerusalem in Galatians 2:1-10 and why Paul would not give way?"
+  },
+  {
+   "id": "gal_peter_antioch",
+   "type": "STORY",
+   "name": "Paul opposes Peter at Antioch",
+   "description": "Paul tells how he opposed Peter to his face at Antioch for withdrawing from eating with Gentiles out of fear, since this was not in step with the truth of the gospel.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 2:11-14"
+   ],
+   "evidence": [
+    "Describe what Peter did and why (2:12)",
+    "Say why Paul rebuked him (2:14)"
+   ],
+   "prompt": "Can {{name}} explain why Paul confronted Peter, using Galatians 2:11-14?"
+  },
+  {
+   "id": "gal_justified_by_faith",
+   "type": "DOCTRINE",
+   "name": "Justified by faith in Christ, crucified with Christ",
+   "description": "Paul says a person is not justified by works of the law but by faith in Jesus Christ, and that he has been crucified with Christ and now lives by faith in the Son of God who loved him and gave himself for him.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "GAL 2:15-21"
+   ],
+   "evidence": [
+    "Quote the main claim of 2:16",
+    "Explain what Paul means by being crucified with Christ (2:20)",
+    "Say what would follow if righteousness came by the law (2:21)"
+   ],
+   "prompt": "Can {{name}} explain how Paul says a person is justified, using Galatians 2:16 and 2:20?"
+  },
+  {
+   "id": "gal_spirit_by_faith",
+   "type": "DOCTRINE",
+   "name": "Received the Spirit by hearing with faith",
+   "description": "Paul asks the foolish Galatians whether they received the Spirit and saw miracles by works of the law or by hearing with faith, since they began in the Spirit.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 3:1-5"
+   ],
+   "evidence": [
+    "Say what question Paul asks in 3:2",
+    "Explain why he calls the Galatians foolish (3:1, 3:3)"
+   ],
+   "prompt": "Can {{name}} explain how Paul argues from the Galatians' own experience of the Spirit in Galatians 3:1-5?"
+  },
+  {
+   "id": "gal_abraham_faith",
+   "type": "DOCTRINE",
+   "name": "Abraham, faith and the blessing for the nations",
+   "description": "Paul argues that Abraham believed God and it was counted to him for righteousness, so those of faith are Abraham's children, and that Christ redeemed us from the curse of the law so that the blessing of Abraham might come to the Gentiles.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "GAL 3:6-14"
+   ],
+   "evidence": [
+    "Quote what Paul says Abraham did (3:6)",
+    "Explain who are the children of Abraham (3:7)",
+    "Say what the scripture foresaw (3:8)",
+    "Explain how Christ redeemed us from the curse (3:13-14)"
+   ],
+   "prompt": "Can {{name}} explain how Galatians 3:6-9 connects Abraham's faith to the Gentiles?"
+  },
+  {
+   "id": "gal_promise_law",
+   "type": "DOCTRINE",
+   "name": "The promise and the law",
+   "description": "Paul argues that the promise to Abraham and his seed, who is Christ, cannot be cancelled by the law that came 430 years later, and that the law was added because of transgressions until the seed should come.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "GAL 3:15-22"
+   ],
+   "evidence": [
+    "Explain why the law does not cancel the promise (3:15-18)",
+    "Say who the seed is (3:16)",
+    "Say why the law was added (3:19)",
+    "Say what the scripture has concluded about all (3:22)"
+   ],
+   "prompt": "Can {{name}} explain how Paul says the law relates to the promise made to Abraham in Galatians 3:15-22?"
+  },
+  {
+   "id": "gal_sons_in_christ",
+   "type": "DOCTRINE",
+   "name": "Sons of God in Christ: neither Jew nor Greek",
+   "description": "Paul says the law was a schoolmaster to bring us to Christ, that all who are baptized into Christ and have faith are children of God, one in Christ, and Abraham's seed and heirs according to the promise.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "GAL 3:23-29"
+   ],
+   "evidence": [
+    "Explain the picture of the schoolmaster (3:24-25)",
+    "List the distinctions Paul says are gone in Christ (3:28)",
+    "Say what believers are in Christ (3:29)"
+   ],
+   "prompt": "Can {{name}} explain how someone becomes a child of God and heir of the promise, using Galatians 3:26-29?"
+  },
+  {
+   "id": "gal_adoption_heirs",
+   "type": "DOCTRINE",
+   "name": "Redeemed to be sons and heirs",
+   "description": "Paul compares the heir under guardians to people under the elements of the world, and says that when the time was full God sent his Son under the law to redeem those under the law so that we receive adoption, and God sent the Spirit of his Son crying Abba, Father.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 4:1-7"
+   ],
+   "evidence": [
+    "Describe the heir who is still a child (4:1-2)",
+    "Say what God did when the fulness of time came (4:4-5)",
+    "Say what the Spirit cries (4:6)"
+   ],
+   "prompt": "Can {{name}} explain what God did \"in the fulness of time\" and what it means to be a son, using Galatians 4:4-7?"
+  },
+  {
+   "id": "gal_dont_turn_back",
+   "type": "THEME",
+   "name": "Paul's plea: do not turn back",
+   "description": "Paul asks why the Galatians, now known by God, are turning back to weak and beggarly elements and observing days and seasons, recalls their warmth toward him, and pleads with them as a mother in labour until Christ is formed in them.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 4:8-20"
+   ],
+   "evidence": [
+    "Say what Paul fears (4:11)",
+    "Describe how the Galatians first received Paul (4:13-15)",
+    "Say what Paul wants formed in them (4:19)"
+   ],
+   "prompt": "Can {{name}} explain Paul's pleading with the Galatians in Galatians 4:8-20?"
+  },
+  {
+   "id": "gal_hagar_sarah",
+   "type": "DOCTRINE",
+   "name": "Two sons, two covenants: Hagar and Sarah",
+   "description": "Paul uses Abraham's two sons, one by the bondwoman and one by the free woman, as an allegory of two covenants, and says believers are children of promise like Isaac and not children of the bondwoman.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "GAL 4:21-31"
+   ],
+   "evidence": [
+    "Say who the two sons and their mothers are (4:22-23)",
+    "Explain the two covenants named in 4:24-26",
+    "Say who Paul says we are like (4:28, 4:31)",
+    "Quote the scripture Paul cites in 4:30"
+   ],
+   "prompt": "Can {{name}} explain how Paul reads the story of Hagar and Sarah in Galatians 4:21-31?"
+  },
+  {
+   "id": "gal_stand_fast_liberty",
+   "type": "DOCTRINE",
+   "name": "Stand fast in the liberty of Christ",
+   "description": "Paul tells the Galatians to stand fast in the liberty with which Christ has made them free, warns that anyone who accepts circumcision as a way to be justified falls from grace, and says what counts is faith working through love.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "GAL 5:1-12"
+   ],
+   "evidence": [
+    "Say what Paul warns happens if they are circumcised (5:2-4)",
+    "Say what avails in Christ Jesus (5:6)",
+    "Explain the picture of leaven (5:9)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says Christ is of no effect to those who seek justification by the law (Galatians 5:4)?"
+  },
+  {
+   "id": "gal_flesh_spirit",
+   "type": "DOCTRINE",
+   "name": "Walking by the Spirit: works of the flesh and fruit of the Spirit",
+   "description": "Paul says freedom is for serving one another in love, that the whole law is fulfilled in loving your neighbour, and contrasts the works of the flesh with the fruit of the Spirit for those who walk in the Spirit.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "GAL 5:13-26"
+   ],
+   "evidence": [
+    "Say how liberty is to be used (5:13)",
+    "List some works of the flesh (5:19-21) and the fruit of the Spirit (5:22-23)",
+    "Say what belongs to those who are Christ's (5:24)"
+   ],
+   "prompt": "Can {{name}} name the fruit of the Spirit from Galatians 5:22-23 and explain the difference between flesh and Spirit?"
+  },
+  {
+   "id": "gal_bear_burdens",
+   "type": "DOCTRINE",
+   "name": "Bearing burdens, sowing and reaping",
+   "description": "Paul teaches restoring a person overtaken in a fault gently, bearing one another's burdens, and sowing to the Spirit rather than to the flesh, and not growing weary in doing good.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "GAL 6:1-10"
+   ],
+   "evidence": [
+    "Say how to restore someone who has fallen (6:1)",
+    "Explain the sowing and reaping principle (6:7-8)",
+    "Say who we should do good to (6:10)"
+   ],
+   "prompt": "Can {{name}} explain what Paul means by \"whatsoever a man soweth, that shall he also reap\" in Galatians 6:7-9?"
+  },
+  {
+   "id": "gal_glory_cross",
+   "type": "DOCTRINE",
+   "name": "Boasting only in the cross",
+   "description": "Paul closes in his own hand, says those who press circumcision want to avoid persecution for the cross, that he glories only in the cross of Christ, and that what counts is a new creature, and he bears the marks of Jesus.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "GAL 6:11-18"
+   ],
+   "evidence": [
+    "Say what Paul glories in (6:14)",
+    "Say what counts instead of circumcision or uncircumcision (6:15)"
+   ],
+   "prompt": "Can {{name}} explain why Paul glories only in the cross of Christ (Galatians 6:14)?"
+  },
+  {
+   "id": "book_eph",
+   "type": "BOOK_OVERVIEW",
+   "name": "Ephesians: overview",
+   "description": "Paul's letter to the saints at Ephesus: God's blessings in Christ, salvation by grace, the unity of Jew and Gentile in one body, and how to walk worthy in the church, home and spiritual battle (1:1-6:24).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EPH 1..6"
+   ],
+   "evidence": [
+    "Describe the two halves: what God has done in Christ (1-3) and how to walk worthy (4-6)"
+   ],
+   "prompt": "Can {{name}} give a short outline of Ephesians and say what its two halves are about?"
+  },
+  {
+   "id": "eph_spiritual_blessings",
+   "type": "DOCTRINE",
+   "name": "Blessed in Christ: chosen, adopted, redeemed, sealed",
+   "description": "Paul blesses God, who in Christ chose us before the foundation of the world, adopted us, redeemed us through his blood, made known the mystery of his will, and sealed believers with the Holy Spirit as the pledge of the inheritance.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EPH 1:1-14"
+   ],
+   "evidence": [
+    "List the blessings Paul names in 1:3-14",
+    "Say when God chose us and for what purpose (1:4)",
+    "Say what the Holy Spirit is for believers (1:13-14)"
+   ],
+   "prompt": "Can {{name}} list what God has done for believers in Christ, using Ephesians 1:3-14?"
+  },
+  {
+   "id": "eph_paul_prayer_power",
+   "type": "DOCTRINE",
+   "name": "Paul's prayer: Christ above all, head of the church",
+   "description": "Paul gives thanks and prays that the Ephesians may know the hope of God's calling and the greatness of his power, which raised Christ and set him far above every power as head over all things to the church, his body.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EPH 1:15-23"
+   ],
+   "evidence": [
+    "Say what Paul prays that they may know (1:17-19)",
+    "Describe where God has set Christ (1:20-22)",
+    "Say what the church is to Christ (1:22-23)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about Christ's position and the church in Ephesians 1:20-23?"
+  },
+  {
+   "id": "eph_saved_by_grace",
+   "type": "DOCTRINE",
+   "name": "Dead in sin, saved by grace through faith",
+   "description": "Paul says that Christians were dead in trespasses and followed the world, the devil and the flesh, but God, rich in mercy, made them alive with Christ; salvation is by grace through faith, not by works, and believers are created for good works.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EPH 2:1-10"
+   ],
+   "evidence": [
+    "Describe the condition before salvation (2:1-3)",
+    "Explain 2:8-9",
+    "Say what we were created in Christ for (2:10)"
+   ],
+   "prompt": "Can {{name}} explain how Ephesians 2:8-10 says a person is saved and what follows from it?"
+  },
+  {
+   "id": "eph_one_new_man",
+   "type": "DOCTRINE",
+   "name": "One new man: Jew and Gentile reconciled",
+   "description": "Paul says Gentiles were once far from Israel and the covenants of promise, but are brought near by the blood of Christ, who broke down the dividing wall, made both one and gave both access to the Father; together they are built into a holy temple.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EPH 2:11-22"
+   ],
+   "evidence": [
+    "Describe the Gentiles' former state (2:11-12)",
+    "Say what Christ did to the dividing wall (2:14-16)",
+    "Explain the picture of the household and temple (2:19-22)"
+   ],
+   "prompt": "Can {{name}} explain how Christ made Jew and Gentile one, using Ephesians 2:13-18?"
+  },
+  {
+   "id": "eph_mystery_prayer",
+   "type": "DOCTRINE",
+   "name": "The mystery of Christ and Paul's second prayer",
+   "description": "Paul explains the mystery made known to him, that Gentiles are fellow heirs of the same body and of the promise in Christ, that the church shows God's wisdom to the powers, and prays that they know the love of Christ and be filled with the fulness of God.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EPH 3:1-21"
+   ],
+   "evidence": [
+    "State the mystery of 3:6",
+    "Say what the church makes known (3:10)",
+    "Summarise Paul's prayer in 3:16-19",
+    "Say who receives glory in 3:20-21"
+   ],
+   "prompt": "Can {{name}} state the mystery Paul describes in Ephesians 3:6 and what he prays for in 3:16-19?"
+  },
+  {
+   "id": "eph_unity_gifts",
+   "type": "DOCTRINE",
+   "name": "Unity of the body and gifts for building up",
+   "description": "Paul urges the Ephesians to walk worthy and keep the unity of the Spirit, lists the \"one\" things of the faith, and says the ascended Christ gave apostles, prophets, evangelists, pastors and teachers to equip the saints and build up the body until it is mature.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EPH 4:1-16"
+   ],
+   "evidence": [
+    "List the sevenfold unity of 4:4-6",
+    "Name the gifts given in 4:11",
+    "Say what the gifts are for (4:12-16)"
+   ],
+   "prompt": "Can {{name}} explain why Christ gave pastors and teachers to the church, using Ephesians 4:11-16?"
+  },
+  {
+   "id": "eph_old_new_man",
+   "type": "DOCTRINE",
+   "name": "Put off the old man, put on the new",
+   "description": "Paul tells the Ephesians not to live as the Gentiles do but to put off the old man and put on the new, created in righteousness and holiness, with specific commands about truth, anger, work, speech and forgiveness.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EPH 4:17-32"
+   ],
+   "evidence": [
+    "Contrast the old and new man (4:22-24)",
+    "List specific commands in 4:25-32",
+    "Say what we are told not to grieve (4:30)"
+   ],
+   "prompt": "Can {{name}} explain what it means to put off the old man and put on the new, using Ephesians 4:22-24 and one example from 4:25-32?"
+  },
+  {
+   "id": "eph_walk_in_love_light",
+   "type": "DOCTRINE",
+   "name": "Walk in love, light and wisdom",
+   "description": "Paul tells the Ephesians to walk in love as Christ loved us, to avoid immorality and covetousness, to walk as children of light and not be drunk with wine but filled with the Spirit, and to submit to one another.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EPH 5:1-21"
+   ],
+   "evidence": [
+    "Say how we are to walk (5:2, 5:8, 5:15)",
+    "Contrast drunkenness and being filled with the Spirit (5:18)",
+    "Say what follows from being filled (5:19-21)"
+   ],
+   "prompt": "Can {{name}} explain what walking as a child of light means, using Ephesians 5:8-11?"
+  },
+  {
+   "id": "eph_marriage_christ_church",
+   "type": "DOCTRINE",
+   "name": "Marriage and Christ and the church",
+   "description": "Paul instructs wives and husbands, grounding the husband's love and the wife's submission in the relation of Christ to the church, quotes the scripture about two becoming one flesh, and calls this a great mystery concerning Christ and the church.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EPH 5:22-33"
+   ],
+   "evidence": [
+    "Say what Paul commands wives and husbands (5:22, 5:25)",
+    "Describe what Christ did for the church (5:25-27)",
+    "Say what Paul says the \"great mystery\" is about (5:32)"
+   ],
+   "prompt": "Can {{name}} explain how Paul connects marriage with Christ and the church in Ephesians 5:22-33?"
+  },
+  {
+   "id": "eph_household",
+   "type": "DOCTRINE",
+   "name": "Children, parents, servants and masters",
+   "description": "Paul tells children to obey their parents in the Lord, quotes the commandment to honour father and mother, tells fathers to bring children up in the Lord, and gives instructions to servants and masters who both answer to a Master in heaven.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EPH 6:1-9"
+   ],
+   "evidence": [
+    "Quote the commandment Paul cites (6:2)",
+    "Say what fathers are told (6:4)",
+    "Say what masters are reminded of (6:9)"
+   ],
+   "prompt": "Can {{name}} explain what Paul tells children and parents in Ephesians 6:1-4?"
+  },
+  {
+   "id": "eph_armour_of_god",
+   "type": "DOCTRINE",
+   "name": "The whole armour of God",
+   "description": "Paul calls believers to be strong in the Lord and put on the armour of God to stand against the devil and spiritual powers, listing truth, righteousness, the gospel of peace, faith, salvation and the word of God, with prayer, and asks for prayer for himself.",
+   "covenant": null,
+   "ages": [
+    9,
+    18
+   ],
+   "passages": [
+    "EPH 6:10-24"
+   ],
+   "evidence": [
+    "Say who we wrestle against (6:12)",
+    "List the pieces of armour (6:14-17)",
+    "Explain the role of prayer (6:18-20)"
+   ],
+   "prompt": "Can {{name}} list the armour of God in Ephesians 6:14-17 and say what each piece stands for in the text?"
+  },
+  {
+   "id": "book_php",
+   "type": "BOOK_OVERVIEW",
+   "name": "Philippians: overview",
+   "description": "Paul writes from prison to the church at Philippi about joy, the humility of Christ, pressing toward the goal, and contentment (1:1-4:23).",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PHP 1..4"
+   ],
+   "evidence": [
+    "Say where Paul was when he wrote (1:7, 1:13)",
+    "Name the theme that recurs, rejoicing (e.g. 3:1, 4:4)"
+   ],
+   "prompt": "Can {{name}} give a short outline of Philippians and say what Paul says about joy?"
+  },
+  {
+   "id": "php_thanksgiving_prayer",
+   "type": "DOCTRINE",
+   "name": "Thanksgiving and prayer for the Philippians",
+   "description": "Paul thanks God for the Philippians' partnership in the gospel, is confident that God will complete the good work begun in them, and prays that their love will grow in knowledge and they be filled with the fruits of righteousness.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PHP 1:1-11"
+   ],
+   "evidence": [
+    "Quote the confidence of 1:6",
+    "Say what Paul prays for in 1:9-11"
+   ],
+   "prompt": "Can {{name}} explain what Paul is confident that God will do, using Philippians 1:6?"
+  },
+  {
+   "id": "php_chains_gospel",
+   "type": "STORY",
+   "name": "Paul in chains: Christ is preached",
+   "description": "Paul says his imprisonment has advanced the gospel, that Christ is preached whether from envy or love, and that he rejoices in this.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PHP 1:12-18"
+   ],
+   "evidence": [
+    "Say what happened because of Paul's bonds (1:12-14)",
+    "Contrast the two kinds of preachers (1:15-17)"
+   ],
+   "prompt": "Can {{name}} explain why Paul rejoices in prison, using Philippians 1:12-18?"
+  },
+  {
+   "id": "php_to_live_is_christ",
+   "type": "DOCTRINE",
+   "name": "To live is Christ, to die is gain",
+   "description": "Paul says Christ will be magnified in his body whether by life or death, that to live is Christ and to die is gain, and urges the Philippians to live worthy of the gospel, standing firm together and not afraid of opponents.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "PHP 1:19-30"
+   ],
+   "evidence": [
+    "Quote 1:21",
+    "Explain Paul's dilemma (1:22-25)",
+    "Say what Paul asks of the Philippians (1:27-28)",
+    "Say what has been granted to them (1:29)"
+   ],
+   "prompt": "Can {{name}} explain what Paul means by \"to live is Christ, and to die is gain\" in Philippians 1:21?"
+  },
+  {
+   "id": "php_mind_of_christ",
+   "type": "DOCTRINE",
+   "name": "The mind of Christ: humbled and exalted",
+   "description": "Paul urges unity and humility, pointing to Christ, who being in the form of God took the form of a servant, humbled himself to death on a cross, and was highly exalted so that every knee will bow and every tongue confess that Jesus Christ is Lord.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PHP 2:1-11"
+   ],
+   "evidence": [
+    "Describe the steps of Christ's humbling (2:6-8)",
+    "Say what God did in response (2:9-11)",
+    "Say what attitude Paul asks of the Philippians (2:3-5)"
+   ],
+   "prompt": "Can {{name}} retell the path of Christ in Philippians 2:6-11 and say how it applies to us in 2:3-5?"
+  },
+  {
+   "id": "php_work_out_salvation",
+   "type": "DOCTRINE",
+   "name": "Work out your salvation: shining as lights",
+   "description": "Paul tells the Philippians to work out their own salvation with fear and trembling because God works in them, to do all things without grumbling, and to shine as lights holding forth the word of life.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PHP 2:12-18"
+   ],
+   "evidence": [
+    "Explain 2:12-13 together",
+    "Say what the Philippians are to do among a crooked generation (2:14-16)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says \"work out your own salvation\" and then adds that God works in you (Philippians 2:12-13)?"
+  },
+  {
+   "id": "php_timothy_epaphroditus",
+   "type": "THEME",
+   "name": "Timothy and Epaphroditus",
+   "description": "Paul commends Timothy, who cares for the Philippians like a son serving with his father, and Epaphroditus, who nearly died serving the work of Christ and whom Paul sends back to them.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "PHP 2:19-30"
+   ],
+   "evidence": [
+    "Say what Paul says of Timothy (2:20-22)",
+    "Describe what happened to Epaphroditus (2:25-30)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about Timothy and Epaphroditus in Philippians 2:19-30?"
+  },
+  {
+   "id": "php_righteousness_in_christ",
+   "type": "DOCTRINE",
+   "name": "Counting all things loss for Christ",
+   "description": "Paul warns against those who trust the flesh, lists his own credentials, and says he counts them loss for the knowledge of Christ, wanting the righteousness that comes through faith in Christ rather than his own righteousness from the law.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "PHP 3:1-11"
+   ],
+   "evidence": [
+    "List Paul's credentials (3:5-6)",
+    "State what Paul wants instead (3:8-10)",
+    "Explain which righteousness Paul wants (3:9)"
+   ],
+   "prompt": "Can {{name}} explain what Paul gave up and what he gained, using Philippians 3:7-9?"
+  },
+  {
+   "id": "php_press_toward_goal",
+   "type": "DOCTRINE",
+   "name": "Pressing toward the goal and our citizenship in heaven",
+   "description": "Paul says he has not yet attained but presses toward the prize of the upward call, urges the Philippians to follow his example and not live as enemies of the cross, and says our citizenship is in heaven, from where we await the Saviour who will transform our bodies.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "PHP 3:12-21"
+   ],
+   "evidence": [
+    "Describe what Paul does (3:13-14)",
+    "Contrast the enemies of the cross with believers (3:18-20)",
+    "Say what the Saviour will do (3:21)"
+   ],
+   "prompt": "Can {{name}} explain Paul's \"one thing I do\" in Philippians 3:13-14 and what believers await in 3:20-21?"
+  },
+  {
+   "id": "php_rejoice_peace",
+   "type": "DOCTRINE",
+   "name": "Rejoice, do not be anxious, think on these things",
+   "description": "Paul urges unity between two women, tells the Philippians to rejoice in the Lord always, to pray with thanksgiving instead of being anxious so that the peace of God guards them, and to think on what is true, honest, just and pure.",
+   "covenant": null,
+   "ages": [
+    9,
+    18
+   ],
+   "passages": [
+    "PHP 4:1-9"
+   ],
+   "evidence": [
+    "Quote the commands of 4:4 and 4:6",
+    "Say what the peace of God does (4:7)",
+    "List some things to think on (4:8)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says to do instead of being anxious, using Philippians 4:6-7?"
+  },
+  {
+   "id": "php_contentment_gift",
+   "type": "DOCTRINE",
+   "name": "Content in every state and God's supply",
+   "description": "Paul thanks the Philippians for their gift, says he has learned to be content whether abased or abounding, that he can do all things through Christ who strengthens him, and that God will supply all their need; he closes with greetings.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "PHP 4:10-23"
+   ],
+   "evidence": [
+    "Say what Paul learned (4:11-12)",
+    "Quote 4:13 and 4:19",
+    "Describe how Paul treats the Philippians' gift (4:17-18)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about contentment in Philippians 4:11-13?"
+  },
+  {
+   "id": "book_col",
+   "type": "BOOK_OVERVIEW",
+   "name": "Colossians: overview",
+   "description": "Paul writes to the church at Colosse about the supremacy of Christ, warns against empty philosophy and rules, and calls believers raised with Christ to a new life (1:1-4:18).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "COL 1..4"
+   ],
+   "evidence": [
+    "Describe the main sections: the supremacy of Christ (1), warnings (2), the new life (3-4)"
+   ],
+   "prompt": "Can {{name}} give a short outline of Colossians and say who Paul says Christ is?"
+  },
+  {
+   "id": "col_thanks_prayer_rescue",
+   "type": "DOCTRINE",
+   "name": "Thanksgiving, prayer and rescue into the kingdom",
+   "description": "Paul gives thanks for the Colossians' faith, love and hope, prays that they will be filled with the knowledge of God's will and walk worthily, and thanks the Father who delivered us from the power of darkness into the kingdom of his Son.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "COL 1:1-14"
+   ],
+   "evidence": [
+    "Say what Paul prays for (1:9-11)",
+    "Say what the Father has done (1:12-14)"
+   ],
+   "prompt": "Can {{name}} explain what Colossians 1:13-14 says God has done for believers?"
+  },
+  {
+   "id": "col_supremacy_christ",
+   "type": "DOCTRINE",
+   "name": "The supremacy of Christ",
+   "description": "Paul says Christ is the image of the invisible God, firstborn of creation, by whom and for whom all things were created, head of the church and firstborn from the dead, in whom all fulness dwells and through whose cross God reconciles all things.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "COL 1:15-23"
+   ],
+   "evidence": [
+    "List what Paul says Christ is and has done in 1:15-20",
+    "Explain how the Colossians were reconciled (1:21-22)",
+    "Say the condition stated in 1:23"
+   ],
+   "prompt": "Can {{name}} list what Colossians 1:15-20 says about who Christ is?"
+  },
+  {
+   "id": "col_mystery_ministry",
+   "type": "DOCTRINE",
+   "name": "Paul's ministry and the mystery: Christ in you",
+   "description": "Paul rejoices in his sufferings for the church, says he is a minister to make known the mystery once hidden and now revealed, which is Christ in you the hope of glory, and that he labours to present everyone perfect in Christ.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "COL 1:24-29"
+   ],
+   "evidence": [
+    "State the mystery of 1:27",
+    "Say what Paul does and why (1:28-29)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says the mystery is in Colossians 1:26-27?"
+  },
+  {
+   "id": "col_complete_in_christ",
+   "type": "DOCTRINE",
+   "name": "Rooted in Christ: complete in him",
+   "description": "Paul says all the treasures of wisdom are hidden in Christ, warns against being taken captive by philosophy and the traditions of men, and says believers are complete in him, circumcised, buried and raised with him, forgiven, with the written record against them nailed to the cross.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "COL 2:1-15"
+   ],
+   "evidence": [
+    "Say where wisdom and knowledge are found (2:3)",
+    "Say what Paul warns against (2:8)",
+    "Explain what God did with the record of debt (2:14)",
+    "Say what Christ did to the powers (2:15)"
+   ],
+   "prompt": "Can {{name}} explain why believers are complete in Christ, using Colossians 2:9-15?"
+  },
+  {
+   "id": "col_shadow_substance",
+   "type": "DOCTRINE",
+   "name": "Shadow and substance: against rules and false humility",
+   "description": "Paul tells the Colossians not to let anyone judge them about food, festivals or the sabbath, which are a shadow of things to come while the body belongs to Christ, and warns against false humility and man-made rules that cannot restrain the flesh.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "COL 2:16-23"
+   ],
+   "evidence": [
+    "Say what the shadow and the body are (2:17)",
+    "Explain why rules like \"touch not, taste not\" fail (2:20-23)"
+   ],
+   "prompt": "Can {{name}} explain what Paul means by saying these things are a shadow and the substance is of Christ (Colossians 2:16-17)?"
+  },
+  {
+   "id": "col_risen_seek_above",
+   "type": "DOCTRINE",
+   "name": "Raised with Christ: seek things above",
+   "description": "Paul says that because believers are raised with Christ they should seek and set their minds on things above, for their life is hid with Christ in God; they must put to death sins such as fornication and covetousness, and put off anger and lies.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "COL 3:1-11"
+   ],
+   "evidence": [
+    "Say what believers are to seek (3:1-2)",
+    "List sins to put off (3:5-9)",
+    "Say what is true in the new man (3:10-11)"
+   ],
+   "prompt": "Can {{name}} explain why Paul tells believers to seek things above, using Colossians 3:1-4?"
+  },
+  {
+   "id": "col_put_on_love",
+   "type": "DOCTRINE",
+   "name": "Put on love: the new life in the church",
+   "description": "Paul tells the elect of God to put on mercy, kindness, humility and patience, to forgive as Christ forgave, to put on love above all, to let the peace of God rule, the word of Christ dwell richly, and to do everything in the name of the Lord Jesus.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "COL 3:12-17"
+   ],
+   "evidence": [
+    "List what to put on (3:12-14)",
+    "Say how we forgive (3:13)",
+    "Quote the rule of 3:17"
+   ],
+   "prompt": "Can {{name}} explain how Colossians 3:12-17 describes a Christian community?"
+  },
+  {
+   "id": "col_household_prayer",
+   "type": "DOCTRINE",
+   "name": "Households, prayer and walking in wisdom",
+   "description": "Paul instructs wives, husbands, children, fathers, servants and masters, urges constant prayer, asks for prayer for opportunities to speak the mystery of Christ, and calls the Colossians to walk in wisdom toward outsiders with gracious speech.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "COL 3:18-25",
+    "COL 4:1-6"
+   ],
+   "evidence": [
+    "Say what each household member is told (3:18-4:1)",
+    "Say what Paul asks the Colossians to pray for (4:3-4)",
+    "Describe how they should speak to outsiders (4:5-6)"
+   ],
+   "prompt": "Can {{name}} explain what Colossians 3:23 says about how we should work and for whom?"
+  },
+  {
+   "id": "col_closing_greetings",
+   "type": "THEME",
+   "name": "Messengers, fellow workers and greetings",
+   "description": "Paul names Tychicus, Onesimus, Aristarchus, Mark, Epaphras, Luke and others, sends greetings to Laodicea, asks that the letter be read there too, and closes in his own hand.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "COL 4:7-18"
+   ],
+   "evidence": [
+    "Name some of Paul's co-workers in 4:7-14",
+    "Say what is to be done with the letter (4:16)"
+   ],
+   "prompt": "Can {{name}} name some of Paul's co-workers in Colossians 4 and say what Paul asks about the letter (4:16)?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "1co_greeting_divisions",
+   "prereq": "book_1co",
+   "strength": "soft",
+   "reason": "The overview sets out the letter before its first section"
+  },
+  {
+   "topic": "1co_cross_wisdom",
+   "prereq": "1co_greeting_divisions",
+   "strength": "hard",
+   "reason": "1 Corinthians 1:17 introduces the preaching of the cross that 1:18 goes on to explain"
+  },
+  {
+   "topic": "1co_spirit_reveals",
+   "prereq": "1co_cross_wisdom",
+   "strength": "hard",
+   "reason": "Chapter 2 continues the contrast between worldly wisdom and God's wisdom begun in 1:18-31"
+  },
+  {
+   "topic": "1co_servants_building",
+   "prereq": "1co_spirit_reveals",
+   "strength": "hard",
+   "reason": "Chapter 3 begins with the spiritual and carnal contrast of 2:14-15"
+  },
+  {
+   "topic": "1co_servants_building",
+   "prereq": "1co_greeting_divisions",
+   "strength": "soft",
+   "reason": "3:4 repeats the slogans of 1:12"
+  },
+  {
+   "topic": "1co_stewards_apostles",
+   "prereq": "1co_servants_building",
+   "strength": "hard",
+   "reason": "4:1 draws the conclusion about ministers from 3:5-23"
+  },
+  {
+   "topic": "1co_church_discipline",
+   "prereq": "1co_stewards_apostles",
+   "strength": "soft",
+   "reason": "5:2 rebukes the same pride condemned in 4:18-19"
+  },
+  {
+   "topic": "1co_lawsuits",
+   "prereq": "1co_church_discipline",
+   "strength": "soft",
+   "reason": "6:1-4 continues the question of judging inside the church from 5:12"
+  },
+  {
+   "topic": "1co_body_temple",
+   "prereq": "1co_lawsuits",
+   "strength": "hard",
+   "reason": "6:12 follows the list of sins in 6:9-11"
+  },
+  {
+   "topic": "1co_marriage_singleness",
+   "prereq": "1co_body_temple",
+   "strength": "soft",
+   "reason": "7:2 gives marriage as the answer to fornication discussed in 6:13-18"
+  },
+  {
+   "topic": "1co_unmarried_time_short",
+   "prereq": "1co_marriage_singleness",
+   "strength": "hard",
+   "reason": "7:25 continues the questions in the Corinthians' letter begun at 7:1"
+  },
+  {
+   "topic": "1co_food_idols",
+   "prereq": "1co_marriage_singleness",
+   "strength": "soft",
+   "reason": "8:1 begins another matter (\"now as touching\") from their letter"
+  },
+  {
+   "topic": "1co_apostle_rights",
+   "prereq": "1co_food_idols",
+   "strength": "hard",
+   "reason": "9:1-23 gives Paul's own example of giving up liberty for others, following chapter 8"
+  },
+  {
+   "topic": "1co_race_discipline",
+   "prereq": "1co_apostle_rights",
+   "strength": "hard",
+   "reason": "9:24-27 closes the discussion of 9:1-23"
+  },
+  {
+   "topic": "1co_wilderness_warning",
+   "prereq": "1co_race_discipline",
+   "strength": "hard",
+   "reason": "10:1 begins with \"Moreover\" and continues the warning of 9:27"
+  },
+  {
+   "topic": "1co_lords_table_idols",
+   "prereq": "1co_wilderness_warning",
+   "strength": "hard",
+   "reason": "10:14 draws the conclusion about idolatry from 10:7"
+  },
+  {
+   "topic": "1co_lords_table_idols",
+   "prereq": "1co_food_idols",
+   "strength": "soft",
+   "reason": "10:19 returns to the question of idol sacrifices from chapter 8"
+  },
+  {
+   "topic": "1co_liberty_glory",
+   "prereq": "1co_lords_table_idols",
+   "strength": "hard",
+   "reason": "10:23-33 gives the practical rules after 10:14-22"
+  },
+  {
+   "topic": "1co_liberty_glory",
+   "prereq": "1co_food_idols",
+   "strength": "hard",
+   "reason": "10:28-29 deals again with the conscience of another from 8:7-12"
+  },
+  {
+   "topic": "1co_head_covering",
+   "prereq": "1co_liberty_glory",
+   "strength": "soft",
+   "reason": "11:1 ends the previous section and 11:2 begins the new one"
+  },
+  {
+   "topic": "1co_lords_supper",
+   "prereq": "1co_head_covering",
+   "strength": "soft",
+   "reason": "11:17 moves on to a further matter in the assembly"
+  },
+  {
+   "topic": "1co_spiritual_gifts",
+   "prereq": "1co_lords_supper",
+   "strength": "soft",
+   "reason": "Chapter 12 continues the questions about the Corinthian assembly"
+  },
+  {
+   "topic": "1co_one_body",
+   "prereq": "1co_spiritual_gifts",
+   "strength": "hard",
+   "reason": "12:12 illustrates the one Spirit and many gifts of 12:4-11"
+  },
+  {
+   "topic": "1co_love_chapter",
+   "prereq": "1co_one_body",
+   "strength": "hard",
+   "reason": "12:31 introduces the more excellent way that chapter 13 describes"
+  },
+  {
+   "topic": "1co_tongues_prophecy",
+   "prereq": "1co_love_chapter",
+   "strength": "hard",
+   "reason": "14:1 begins \"Follow after charity\" building on chapter 13"
+  },
+  {
+   "topic": "1co_tongues_prophecy",
+   "prereq": "1co_spiritual_gifts",
+   "strength": "hard",
+   "reason": "Chapter 14 deals with gifts introduced in 12:8-10"
+  },
+  {
+   "topic": "1co_gospel_resurrection",
+   "prereq": "1co_tongues_prophecy",
+   "strength": "soft",
+   "reason": "Chapter 15 turns to a further matter after the discussion of worship in 11-14"
+  },
+  {
+   "topic": "1co_resurrection_hope",
+   "prereq": "1co_gospel_resurrection",
+   "strength": "hard",
+   "reason": "15:12 argues from the gospel stated in 15:3-4"
+  },
+  {
+   "topic": "1co_resurrection_body",
+   "prereq": "1co_resurrection_hope",
+   "strength": "hard",
+   "reason": "15:35 asks how the resurrection of 15:12-34 takes place"
+  },
+  {
+   "topic": "1co_collection_closing",
+   "prereq": "1co_resurrection_body",
+   "strength": "soft",
+   "reason": "16:1 begins \"now concerning\" after the argument of chapter 15, which closes with 15:58"
+  },
+  {
+   "topic": "2co_comfort_affliction",
+   "prereq": "book_2co",
+   "strength": "soft",
+   "reason": "The overview sets out the letter before its first section"
+  },
+  {
+   "topic": "2co_yes_in_christ",
+   "prereq": "2co_comfort_affliction",
+   "strength": "soft",
+   "reason": "1:12 continues the opening after the thanksgiving of 1:3-11"
+  },
+  {
+   "topic": "2co_forgive_offender",
+   "prereq": "2co_yes_in_christ",
+   "strength": "hard",
+   "reason": "2:1 continues the explanation of why Paul had not yet come, begun in 1:23"
+  },
+  {
+   "topic": "2co_triumph_savour",
+   "prereq": "2co_forgive_offender",
+   "strength": "soft",
+   "reason": "2:12-13 continues Paul's account of his movements after 2:1-11"
+  },
+  {
+   "topic": "2co_new_covenant_ministry",
+   "prereq": "2co_triumph_savour",
+   "strength": "hard",
+   "reason": "3:1 answers the question of sufficiency asked in 2:16"
+  },
+  {
+   "topic": "2co_unveiled_glory",
+   "prereq": "2co_new_covenant_ministry",
+   "strength": "hard",
+   "reason": "3:12 draws a conclusion from the comparison of ministries in 3:7-11"
+  },
+  {
+   "topic": "2co_treasure_clay",
+   "prereq": "2co_unveiled_glory",
+   "strength": "hard",
+   "reason": "4:1 begins \"Therefore seeing we have this ministry\", referring to chapter 3"
+  },
+  {
+   "topic": "2co_inner_renewed",
+   "prereq": "2co_treasure_clay",
+   "strength": "hard",
+   "reason": "4:16 repeats \"we faint not\" from 4:1 and concludes 4:7-15"
+  },
+  {
+   "topic": "2co_heavenly_house",
+   "prereq": "2co_inner_renewed",
+   "strength": "hard",
+   "reason": "5:1 gives the ground for the eternal glory of 4:17-18"
+  },
+  {
+   "topic": "2co_reconciliation",
+   "prereq": "2co_heavenly_house",
+   "strength": "hard",
+   "reason": "5:11 follows from the judgment seat of 5:10"
+  },
+  {
+   "topic": "2co_now_day_salvation",
+   "prereq": "2co_reconciliation",
+   "strength": "hard",
+   "reason": "6:1 appeals to the Corinthians as fellow workers after the message of reconciliation of 5:18-21"
+  },
+  {
+   "topic": "2co_unequally_yoked",
+   "prereq": "2co_now_day_salvation",
+   "strength": "soft",
+   "reason": "6:14 follows the appeal of 6:11-13"
+  },
+  {
+   "topic": "2co_godly_sorrow",
+   "prereq": "2co_unequally_yoked",
+   "strength": "soft",
+   "reason": "7:2 resumes the plea of 6:11-13 after the digression"
+  },
+  {
+   "topic": "2co_godly_sorrow",
+   "prereq": "2co_forgive_offender",
+   "strength": "soft",
+   "reason": "7:8-12 refers to the same earlier letter and grief as 2:3-9"
+  },
+  {
+   "topic": "2co_macedonian_generosity",
+   "prereq": "2co_godly_sorrow",
+   "strength": "soft",
+   "reason": "8:1 begins the new subject of the collection after Titus is mentioned in 7:13-15"
+  },
+  {
+   "topic": "2co_titus_integrity",
+   "prereq": "2co_macedonian_generosity",
+   "strength": "hard",
+   "reason": "8:16-24 follows the request about the gift in 8:1-15 and mentions Titus from 8:6"
+  },
+  {
+   "topic": "2co_cheerful_giver",
+   "prereq": "2co_titus_integrity",
+   "strength": "hard",
+   "reason": "9:3-5 refers to the brothers sent in chapter 8"
+  },
+  {
+   "topic": "2co_spiritual_warfare",
+   "prereq": "2co_cheerful_giver",
+   "strength": "soft",
+   "reason": "Chapter 10 begins the third main section of the letter after the collection"
+  },
+  {
+   "topic": "2co_boast_in_lord",
+   "prereq": "2co_spiritual_warfare",
+   "strength": "hard",
+   "reason": "10:12 continues the defence of Paul's authority begun in 10:1"
+  },
+  {
+   "topic": "2co_false_apostles",
+   "prereq": "2co_boast_in_lord",
+   "strength": "hard",
+   "reason": "11:1 continues the theme of boasting from 10:17-18"
+  },
+  {
+   "topic": "2co_thorn_weakness",
+   "prereq": "2co_false_apostles",
+   "strength": "hard",
+   "reason": "12:1 continues the boasting begun in 11:16-30"
+  },
+  {
+   "topic": "2co_apostles_concern",
+   "prereq": "2co_thorn_weakness",
+   "strength": "hard",
+   "reason": "12:11 concludes the defence after the boasting of 12:1-10"
+  },
+  {
+   "topic": "2co_examine_yourselves",
+   "prereq": "2co_apostles_concern",
+   "strength": "hard",
+   "reason": "13:1 continues Paul's coming third visit announced in 12:14 and 12:20-21"
+  },
+  {
+   "topic": "gal_one_gospel",
+   "prereq": "book_gal",
+   "strength": "soft",
+   "reason": "The overview sets out the letter before its first section"
+  },
+  {
+   "topic": "gal_paul_called",
+   "prereq": "gal_one_gospel",
+   "strength": "hard",
+   "reason": "1:11 supports the claim of 1:8-9 about the gospel Paul preached"
+  },
+  {
+   "topic": "gal_jerusalem_titus",
+   "prereq": "gal_paul_called",
+   "strength": "hard",
+   "reason": "2:1 continues Paul's account of his visits to Jerusalem, \"fourteen years after\" the events of 1:18-24"
+  },
+  {
+   "topic": "gal_peter_antioch",
+   "prereq": "gal_jerusalem_titus",
+   "strength": "hard",
+   "reason": "2:11 continues the account of Paul's dealings with the other apostles begun in 2:1"
+  },
+  {
+   "topic": "gal_justified_by_faith",
+   "prereq": "gal_peter_antioch",
+   "strength": "hard",
+   "reason": "2:15-21 gives the content of Paul's words to Peter that begin in 2:14"
+  },
+  {
+   "topic": "gal_spirit_by_faith",
+   "prereq": "gal_justified_by_faith",
+   "strength": "hard",
+   "reason": "3:1 begins the argument that follows from 2:16-21"
+  },
+  {
+   "topic": "gal_abraham_faith",
+   "prereq": "gal_spirit_by_faith",
+   "strength": "hard",
+   "reason": "3:6 gives Abraham as the example after the questions in 3:1-5"
+  },
+  {
+   "topic": "gal_promise_law",
+   "prereq": "gal_abraham_faith",
+   "strength": "hard",
+   "reason": "3:16 and 3:18 refer to the promise to Abraham introduced in 3:6-9"
+  },
+  {
+   "topic": "gal_sons_in_christ",
+   "prereq": "gal_promise_law",
+   "strength": "hard",
+   "reason": "3:23-25 answers the question about the law raised in 3:19-24"
+  },
+  {
+   "topic": "gal_adoption_heirs",
+   "prereq": "gal_sons_in_christ",
+   "strength": "hard",
+   "reason": "4:1 continues the heir and sons argument of 3:26-29"
+  },
+  {
+   "topic": "gal_dont_turn_back",
+   "prereq": "gal_adoption_heirs",
+   "strength": "hard",
+   "reason": "4:8-9 applies the contrast of slave and son in 4:1-7"
+  },
+  {
+   "topic": "gal_hagar_sarah",
+   "prereq": "gal_dont_turn_back",
+   "strength": "soft",
+   "reason": "4:21 turns from the personal appeal of 4:8-20 to the law"
+  },
+  {
+   "topic": "gal_hagar_sarah",
+   "prereq": "gal_abraham_faith",
+   "strength": "soft",
+   "reason": "4:22 builds on Abraham from chapter 3"
+  },
+  {
+   "topic": "gal_stand_fast_liberty",
+   "prereq": "gal_hagar_sarah",
+   "strength": "hard",
+   "reason": "5:1 draws the conclusion from 4:31 about being free"
+  },
+  {
+   "topic": "gal_flesh_spirit",
+   "prereq": "gal_stand_fast_liberty",
+   "strength": "hard",
+   "reason": "5:13 says the liberty of 5:1 must not be an occasion for the flesh"
+  },
+  {
+   "topic": "gal_bear_burdens",
+   "prereq": "gal_flesh_spirit",
+   "strength": "hard",
+   "reason": "6:1 applies the walk in the Spirit of 5:25"
+  },
+  {
+   "topic": "gal_glory_cross",
+   "prereq": "gal_bear_burdens",
+   "strength": "soft",
+   "reason": "6:11 begins the closing after the exhortations of 6:1-10"
+  },
+  {
+   "topic": "eph_spiritual_blessings",
+   "prereq": "book_eph",
+   "strength": "soft",
+   "reason": "The overview sets out the letter before its first section"
+  },
+  {
+   "topic": "eph_paul_prayer_power",
+   "prereq": "eph_spiritual_blessings",
+   "strength": "hard",
+   "reason": "1:15 begins \"Wherefore\", turning to prayer after the blessings of 1:3-14"
+  },
+  {
+   "topic": "eph_saved_by_grace",
+   "prereq": "eph_paul_prayer_power",
+   "strength": "hard",
+   "reason": "2:1 continues from the power that raised Christ (1:19-20) to those made alive"
+  },
+  {
+   "topic": "eph_one_new_man",
+   "prereq": "eph_saved_by_grace",
+   "strength": "hard",
+   "reason": "2:11 begins \"Wherefore remember\", applying 2:1-10 to the Gentiles"
+  },
+  {
+   "topic": "eph_mystery_prayer",
+   "prereq": "eph_one_new_man",
+   "strength": "hard",
+   "reason": "3:1 begins \"For this cause\", resting on the unity of Jew and Gentile in 2:11-22"
+  },
+  {
+   "topic": "eph_unity_gifts",
+   "prereq": "eph_mystery_prayer",
+   "strength": "hard",
+   "reason": "4:1 begins \"I therefore\", turning to practice after chapters 1-3"
+  },
+  {
+   "topic": "eph_old_new_man",
+   "prereq": "eph_unity_gifts",
+   "strength": "hard",
+   "reason": "4:17 continues the walk worthy of the calling in 4:1"
+  },
+  {
+   "topic": "eph_walk_in_love_light",
+   "prereq": "eph_old_new_man",
+   "strength": "hard",
+   "reason": "5:1 begins \"Be ye therefore\", continuing the commands of 4:25-32"
+  },
+  {
+   "topic": "eph_marriage_christ_church",
+   "prereq": "eph_walk_in_love_light",
+   "strength": "hard",
+   "reason": "5:22 follows from \"submitting yourselves one to another\" in 5:21"
+  },
+  {
+   "topic": "eph_household",
+   "prereq": "eph_marriage_christ_church",
+   "strength": "soft",
+   "reason": "6:1 continues the household instructions begun in 5:22"
+  },
+  {
+   "topic": "eph_armour_of_god",
+   "prereq": "eph_household",
+   "strength": "soft",
+   "reason": "6:10 begins \"Finally\", closing the practical section"
+  },
+  {
+   "topic": "php_thanksgiving_prayer",
+   "prereq": "book_php",
+   "strength": "soft",
+   "reason": "The overview sets out the letter before its first section"
+  },
+  {
+   "topic": "php_chains_gospel",
+   "prereq": "php_thanksgiving_prayer",
+   "strength": "hard",
+   "reason": "1:12 begins Paul's news after the greeting and prayer, referring to the bonds of 1:7"
+  },
+  {
+   "topic": "php_to_live_is_christ",
+   "prereq": "php_chains_gospel",
+   "strength": "hard",
+   "reason": "1:19 continues Paul's account of his imprisonment from 1:12-18"
+  },
+  {
+   "topic": "php_mind_of_christ",
+   "prereq": "php_to_live_is_christ",
+   "strength": "soft",
+   "reason": "2:1-2 builds on the call to stand in one spirit in 1:27"
+  },
+  {
+   "topic": "php_work_out_salvation",
+   "prereq": "php_mind_of_christ",
+   "strength": "hard",
+   "reason": "2:12 begins \"Wherefore\" drawing on Christ's obedience in 2:5-11"
+  },
+  {
+   "topic": "php_timothy_epaphroditus",
+   "prereq": "php_work_out_salvation",
+   "strength": "soft",
+   "reason": "2:19 turns to Paul's plans after the exhortation of 2:12-18"
+  },
+  {
+   "topic": "php_righteousness_in_christ",
+   "prereq": "php_timothy_epaphroditus",
+   "strength": "soft",
+   "reason": "3:1 begins \"Finally\" and moves to a new warning after the personal news of chapter 2"
+  },
+  {
+   "topic": "php_press_toward_goal",
+   "prereq": "php_righteousness_in_christ",
+   "strength": "hard",
+   "reason": "3:12 continues from the goal of knowing Christ in 3:8-11"
+  },
+  {
+   "topic": "php_rejoice_peace",
+   "prereq": "php_press_toward_goal",
+   "strength": "hard",
+   "reason": "4:1 begins \"Therefore\" drawing the conclusion from 3:17-21"
+  },
+  {
+   "topic": "php_contentment_gift",
+   "prereq": "php_rejoice_peace",
+   "strength": "soft",
+   "reason": "4:10 begins Paul's thanks for the gift after the exhortations of 4:1-9"
+  },
+  {
+   "topic": "col_thanks_prayer_rescue",
+   "prereq": "book_col",
+   "strength": "soft",
+   "reason": "The overview sets out the letter before its first section"
+  },
+  {
+   "topic": "col_supremacy_christ",
+   "prereq": "col_thanks_prayer_rescue",
+   "strength": "hard",
+   "reason": "1:15 begins with \"Who is the image\", describing the Son named in 1:13-14"
+  },
+  {
+   "topic": "col_mystery_ministry",
+   "prereq": "col_supremacy_christ",
+   "strength": "hard",
+   "reason": "1:24-29 describes Paul's ministry of the gospel described in 1:23"
+  },
+  {
+   "topic": "col_complete_in_christ",
+   "prereq": "col_mystery_ministry",
+   "strength": "hard",
+   "reason": "2:1-3 continues Paul's labour for them and the mystery of 1:26-27"
+  },
+  {
+   "topic": "col_complete_in_christ",
+   "prereq": "col_supremacy_christ",
+   "strength": "soft",
+   "reason": "2:9-10 restates the fulness of Christ and headship over powers from 1:16-19"
+  },
+  {
+   "topic": "col_shadow_substance",
+   "prereq": "col_complete_in_christ",
+   "strength": "hard",
+   "reason": "2:16 begins \"Let no man therefore judge you\", drawing on 2:11-15"
+  },
+  {
+   "topic": "col_risen_seek_above",
+   "prereq": "col_shadow_substance",
+   "strength": "hard",
+   "reason": "3:1 follows from \"if ye be dead with Christ\" in 2:20"
+  },
+  {
+   "topic": "col_put_on_love",
+   "prereq": "col_risen_seek_above",
+   "strength": "hard",
+   "reason": "3:12 begins \"put on therefore\", following the putting off of 3:5-11"
+  },
+  {
+   "topic": "col_household_prayer",
+   "prereq": "col_put_on_love",
+   "strength": "hard",
+   "reason": "3:18 gives specific instruction after the general instruction of 3:12-17"
+  },
+  {
+   "topic": "col_closing_greetings",
+   "prereq": "col_household_prayer",
+   "strength": "soft",
+   "reason": "4:7 begins the closing after the instructions of 3:18-4:6"
+  }
+ ],
+ "relations": [
+  {
+   "from": "gen_eden",
+   "to": "1co_body_temple",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 2:24",
+    "1CO 6:16"
+   ]
+  },
+  {
+   "from": "gen_eden",
+   "to": "1co_resurrection_body",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 2:7",
+    "1CO 15:45"
+   ]
+  },
+  {
+   "from": "gen_fall",
+   "to": "2co_false_apostles",
+   "kind": "parallels",
+   "refs": [
+    "GEN 3:1-13",
+    "2CO 11:3"
+   ]
+  },
+  {
+   "from": "gen_creation",
+   "to": "2co_treasure_clay",
+   "kind": "parallels",
+   "refs": [
+    "GEN 1:3",
+    "2CO 4:6"
+   ]
+  },
+  {
+   "from": "gen_abraham_believed",
+   "to": "gal_abraham_faith",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 15:6",
+    "GAL 3:6"
+   ]
+  },
+  {
+   "from": "gen_call_abram",
+   "to": "gal_abraham_faith",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 12:3",
+    "GAL 3:8"
+   ]
+  },
+  {
+   "from": "gen_abrahamic_covenant",
+   "to": "gal_promise_law",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 15:18",
+    "GAL 3:16"
+   ]
+  },
+  {
+   "from": "gen_hagar_sent_away",
+   "to": "gal_hagar_sarah",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 21:10",
+    "GAL 4:30"
+   ]
+  },
+  {
+   "from": "gen_eden",
+   "to": "eph_marriage_christ_church",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 2:24",
+    "EPH 5:31"
+   ]
+  }
+ ]
+}

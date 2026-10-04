@@ -1,0 +1,2188 @@
+{
+ "topics": [
+  {
+   "id": "book_exo",
+   "type": "BOOK_OVERVIEW",
+   "name": "Exodus: overview",
+   "description": "Exodus tells of Israel enslaved in Egypt (1:1-14) and delivered through the plagues, Passover and the sea (chapters 7-15), then of the covenant at Sinai (19-24) and the tabernacle (25-40), ending with the glory of the LORD filling it (40:34-38).",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "EXO 1..40"
+   ],
+   "evidence": [
+    "Name the main sections: bondage, deliverance, the journey to Sinai, the law and covenant, and the tabernacle",
+    "Say where Exodus begins (1:1) and ends (40:38)"
+   ],
+   "prompt": "Can {{name}} outline Exodus in order, from the bondage in Egypt to the glory filling the tabernacle?"
+  },
+  {
+   "id": "exo_oppression",
+   "type": "STORY",
+   "name": "Israel is oppressed in Egypt",
+   "description": "Jacob's family grows into a numerous people in Egypt, and a new king who did not know Joseph sets taskmasters over them and makes their lives bitter with hard bondage. The more they are afflicted, the more they multiply.",
+   "covenant": null,
+   "ages": [
+    6,
+    12
+   ],
+   "passages": [
+    "EXO 1:1-14"
+   ],
+   "evidence": [
+    "Say why the new king feared the Israelites (1:9-10)",
+    "Describe the work they were forced to do (1:11-14)"
+   ],
+   "prompt": "Can {{name}} explain how Israel went from being Joseph's family in Egypt to being slaves, and what happened the more they were afflicted?"
+  },
+  {
+   "id": "exo_midwives",
+   "type": "STORY",
+   "name": "The midwives fear God",
+   "description": "Pharaoh orders the Hebrew midwives to kill the baby boys, but Shiphrah and Puah fear God and let them live. God deals well with them, and Pharaoh then commands that every newborn son be cast into the river.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "EXO 1:15-22"
+   ],
+   "evidence": [
+    "Name the two midwives (1:15)",
+    "Say what they did and why (1:17)",
+    "Say what Pharaoh then commanded all his people (1:22)"
+   ],
+   "prompt": "Can {{name}} tell what Shiphrah and Puah did when the king gave his order, and why?"
+  },
+  {
+   "id": "exo_moses_born",
+   "type": "STORY",
+   "name": "Moses is born and drawn from the water",
+   "description": "A Levite woman hides her baby son for three months, then places him in a basket of bulrushes by the river. Pharaoh's daughter finds him, has compassion, and the baby's own mother is paid to nurse him; he is named Moses.",
+   "covenant": null,
+   "ages": [
+    4,
+    10
+   ],
+   "passages": [
+    "EXO 2:1-10"
+   ],
+   "evidence": [
+    "Retell how the baby was hidden and found (2:2-6)",
+    "Say who nursed him and why that was surprising (2:7-9)",
+    "Explain the meaning of the name Moses given in 2:10"
+   ],
+   "prompt": "Can {{name}} retell how baby Moses was saved from the river?"
+  },
+  {
+   "id": "exo_moses_flees",
+   "type": "STORY",
+   "name": "Moses flees to Midian and God hears Israel's cry",
+   "description": "Grown up, Moses kills an Egyptian who was beating a Hebrew, learns the deed is known, and flees to Midian, where he helps the priest's daughters and marries Zipporah. In Egypt the people groan, and God hears and remembers his covenant with Abraham, Isaac and Jacob.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 2:11-25"
+   ],
+   "evidence": [
+    "Say why Moses left Egypt (2:11-15)",
+    "Say what Moses did at the well in Midian (2:16-17)",
+    "Find the verse that says God remembered his covenant (2:24)"
+   ],
+   "prompt": "Can {{name}} explain why Moses ended up in Midian, and what 2:23-25 says God did about Israel's cry?"
+  },
+  {
+   "id": "exo_burning_bush",
+   "type": "STORY",
+   "name": "The burning bush",
+   "description": "While keeping Jethro's flock at Horeb, Moses sees a bush burning without being consumed. God calls him by name from it, declares the ground holy, identifies himself as the God of Abraham, Isaac and Jacob, and says he has seen Israel's affliction and will send Moses to Pharaoh.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "EXO 3:1-10"
+   ],
+   "evidence": [
+    "Describe what Moses saw and what God told him to do with his shoes (3:2-5)",
+    "Say what God said he had seen and heard (3:7-9)",
+    "Say what God sent Moses to do (3:10)"
+   ],
+   "prompt": "Can {{name}} tell what happened at the burning bush and what God said to Moses there?"
+  },
+  {
+   "id": "exo_name_i_am",
+   "type": "STORY",
+   "name": "\"I AM\": God's name and Moses' commission",
+   "description": "Moses asks who he is to go to Pharaoh and what to tell Israel God's name. God promises to be with him, gives the name I AM THAT I AM and the LORD God of your fathers, and tells him what will happen: Pharaoh will refuse until God stretches out his hand.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 3:11-22"
+   ],
+   "evidence": [
+    "Quote the name God gave in 3:14 from the Bible",
+    "Say the promise God gave Moses in 3:12",
+    "Say what God predicted about Pharaoh (3:19-20)"
+   ],
+   "prompt": "Can {{name}} say what name God gave Moses to tell Israel, and what God promised him?"
+  },
+  {
+   "id": "exo_signs_excuses",
+   "type": "STORY",
+   "name": "Three signs and Aaron as spokesman",
+   "description": "Moses fears the people will not believe him. God gives him three signs (the rod that becomes a serpent, the leprous hand, water turned to blood). When Moses says he is slow of speech, God answers that he made man's mouth, is angry at the further refusal, and appoints Aaron as spokesman.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 4:1-17"
+   ],
+   "evidence": [
+    "List the three signs (4:2-9)",
+    "Say how God answered Moses' complaint about his speech (4:11-12)",
+    "Say who God appointed to speak for Moses (4:14-16)"
+   ],
+   "prompt": "Can {{name}} name the signs God gave Moses and say how God answered Moses' excuse about his speech?"
+  },
+  {
+   "id": "exo_return_egypt",
+   "type": "STORY",
+   "name": "Moses returns to Egypt",
+   "description": "Moses leaves Jethro with his wife and sons, is told Israel is God's firstborn son and that Pharaoh's firstborn will die if he refuses, and is met by the LORD on the way, when Zipporah circumcises her son. Aaron meets him, and the elders believe and worship when they hear that God has visited them.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "EXO 4:18-31"
+   ],
+   "evidence": [
+    "Say what message about \"my son, even my firstborn\" Moses was to give (4:22-23)",
+    "Say how the people responded (4:31)"
+   ],
+   "prompt": "Can {{name}} tell what God told Moses to say to Pharaoh in 4:22-23 and how the Israelites responded in 4:31?"
+  },
+  {
+   "id": "exo_pharaoh_first",
+   "type": "STORY",
+   "name": "Pharaoh refuses and the work grows harder",
+   "description": "Moses and Aaron ask Pharaoh to let Israel hold a feast to the LORD; he says he does not know the LORD and orders the people to make the same number of bricks while gathering their own straw. The officers blame Moses and Aaron, and Moses asks the LORD why he has not delivered his people.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 5:1-23"
+   ],
+   "evidence": [
+    "Quote Pharaoh's answer in 5:2 in your own words",
+    "Say how the work changed (5:6-9)",
+    "Say what Moses asked God (5:22-23)"
+   ],
+   "prompt": "Can {{name}} explain what happened when Moses and Aaron first spoke to Pharaoh?"
+  },
+  {
+   "id": "exo_god_promises",
+   "type": "DOCTRINE",
+   "name": "\"I am the LORD\": God's promises to redeem",
+   "description": "God answers Moses by saying he is the LORD and has remembered his covenant with the patriarchs, then makes a series of promises: to bring Israel out, rid them of bondage, redeem them with a stretched out arm, take them as his people and be their God, and bring them to the land.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "EXO 6:1-13"
+   ],
+   "evidence": [
+    "Name some of the promises God made to Israel in 6:6-8",
+    "Say what God said he had remembered (6:4-5)",
+    "Say how the people responded (6:9)"
+   ],
+   "prompt": "Can {{name}} list what God promised Israel in 6:6-8 and say what he said he remembered?"
+  },
+  {
+   "id": "exo_genealogy",
+   "type": "STORY",
+   "name": "The heads of the fathers' houses",
+   "description": "A genealogy lists the sons of Reuben, Simeon and Levi, tracing Aaron and Moses to the house of Levi, then returns to the LORD's command to speak to Pharaoh, to which Moses answers that he is of uncircumcised lips.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 6:14-30"
+   ],
+   "evidence": [
+    "Say which tribe Moses and Aaron came from (6:16-20)",
+    "Say what concern Moses repeated in 6:30"
+   ],
+   "prompt": "Can {{name}} say from which tribe Moses and Aaron came, according to this genealogy?"
+  },
+  {
+   "id": "exo_rod_serpent",
+   "type": "STORY",
+   "name": "Aaron's rod and Pharaoh's magicians",
+   "description": "God says he has made Moses as a god to Pharaoh with Aaron as prophet, and that he will harden Pharaoh's heart. Aaron's rod becomes a serpent; the magicians do likewise, but Aaron's rod swallows theirs, and Pharaoh's heart stays hard.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 7:1-13"
+   ],
+   "evidence": [
+    "Say what happened to Aaron's rod and the magicians' rods (7:10-12)",
+    "Say how Pharaoh responded (7:13)"
+   ],
+   "prompt": "Can {{name}} tell what happened when Aaron cast down his rod before Pharaoh?"
+  },
+  {
+   "id": "exo_plague_blood",
+   "type": "STORY",
+   "name": "The first plague: the river turned to blood",
+   "description": "At the river's brink Moses and Aaron strike the water at the LORD's command; the river turns to blood, the fish die and the Egyptians cannot drink. The magicians do the same and Pharaoh's heart remains hard.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "EXO 7:14-25"
+   ],
+   "evidence": [
+    "Say what God said Pharaoh would know by this sign (7:17)",
+    "Say what happened to the river and the fish (7:20-21)"
+   ],
+   "prompt": "Can {{name}} describe the first plague and how Pharaoh responded?"
+  },
+  {
+   "id": "exo_plague_frogs",
+   "type": "STORY",
+   "name": "The second plague: frogs",
+   "description": "Frogs come up over Egypt into houses, beds and ovens. Pharaoh asks Moses to entreat the LORD and promises to let the people go; the frogs die at Moses' prayer, but when Pharaoh sees respite he hardens his heart.",
+   "covenant": null,
+   "ages": [
+    6,
+    12
+   ],
+   "passages": [
+    "EXO 8:1-15"
+   ],
+   "evidence": [
+    "Say what Pharaoh promised and what he did when the frogs were gone (8:8, 8:15)"
+   ],
+   "prompt": "Can {{name}} tell what Pharaoh promised during the plague of frogs and what he did afterwards?"
+  },
+  {
+   "id": "exo_plague_lice_flies",
+   "type": "STORY",
+   "name": "Lice and flies: a division between Israel and Egypt",
+   "description": "Aaron strikes the dust and it becomes lice; the magicians cannot imitate it and say it is the finger of God. Swarms of flies then fill Egypt but not Goshen, where Israel lives, and Pharaoh offers a compromise before hardening his heart again.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 8:16-32"
+   ],
+   "evidence": [
+    "Say what the magicians said about the lice (8:19)",
+    "Say how Goshen was treated differently (8:22-23)"
+   ],
+   "prompt": "Can {{name}} tell what was different about the land of Goshen in the plague of flies?"
+  },
+  {
+   "id": "exo_plague_livestock_boils",
+   "type": "STORY",
+   "name": "Livestock plague and boils",
+   "description": "A grievous murrain kills the Egyptians' cattle while none of Israel's die, then ashes sprinkled by Moses become boils on man and beast, even on the magicians. The LORD hardens Pharaoh's heart.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 9:1-12"
+   ],
+   "evidence": [
+    "Say what happened to the livestock of Egypt and of Israel (9:6)",
+    "Say what happened to the magicians (9:11)"
+   ],
+   "prompt": "Can {{name}} describe the fifth and sixth plagues and what was different for Israel?"
+  },
+  {
+   "id": "exo_plague_hail",
+   "type": "STORY",
+   "name": "The plague of hail",
+   "description": "God tells Pharaoh he has raised him up to show his power and make his name known in all the earth, and sends hail with fire that destroys everything in the fields, except in Goshen. Pharaoh says he has sinned and the LORD is righteous, but hardens his heart again when the hail stops.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 9:13-35"
+   ],
+   "evidence": [
+    "Say why God said he had raised Pharaoh up (9:16)",
+    "Say what some servants did when they feared the word of the LORD (9:20)",
+    "Describe Pharaoh's confession and what followed (9:27-35)"
+   ],
+   "prompt": "Can {{name}} tell what Pharaoh said after the hail and what he did once it stopped?"
+  },
+  {
+   "id": "exo_plague_locusts",
+   "type": "STORY",
+   "name": "The plague of locusts",
+   "description": "God says he has hardened Pharaoh so that parents may tell their children of the signs. His servants urge him to let the men go, but Pharaoh will not release the families; locusts cover Egypt and eat what the hail left, and after Pharaoh's confession the LORD removes them but hardens his heart.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 10:1-20"
+   ],
+   "evidence": [
+    "Say why the LORD said he did these signs (10:2)",
+    "Say what Pharaoh offered and what Moses asked for (10:8-11)"
+   ],
+   "prompt": "Can {{name}} explain what Moses wanted to take with him to the feast in 10:9 and what the locusts did?"
+  },
+  {
+   "id": "exo_plague_darkness",
+   "type": "STORY",
+   "name": "The plague of darkness",
+   "description": "Thick darkness covers Egypt for three days while Israel has light in their dwellings. Pharaoh offers to let the people go but keep their flocks, Moses refuses, and Pharaoh tells Moses never to see his face again.",
+   "covenant": null,
+   "ages": [
+    6,
+    12
+   ],
+   "passages": [
+    "EXO 10:21-29"
+   ],
+   "evidence": [
+    "Say how long the darkness lasted and where there was light (10:22-23)",
+    "Say why Moses insisted on taking the livestock (10:25-26)"
+   ],
+   "prompt": "Can {{name}} describe the ninth plague and where there was light?"
+  },
+  {
+   "id": "exo_hardening",
+   "type": "THEME",
+   "name": "Pharaoh's hard heart",
+   "description": "The text says both that Pharaoh hardened his own heart and that the LORD hardened it, and ties this to the LORD multiplying his signs and being known and honoured. The topic invites careful reading of each verse without going beyond what is said.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 4:21",
+    "EXO 7:3-5",
+    "EXO 8:15",
+    "EXO 9:12",
+    "EXO 9:16",
+    "EXO 10:1",
+    "EXO 10:20",
+    "EXO 14:4"
+   ],
+   "evidence": [
+    "Find one verse where Pharaoh hardens his own heart (8:15) and one where the LORD does (9:12)",
+    "Say what purposes God gives for the hardening (7:3-5, 9:16, 10:1-2, 14:4)"
+   ],
+   "prompt": "Can {{name}} point to verses that say Pharaoh hardened his heart and verses that say the LORD hardened it, and say what purposes the text gives?"
+  },
+  {
+   "id": "exo_tenth_plague_announced",
+   "type": "STORY",
+   "name": "The last plague announced",
+   "description": "God tells Moses one more plague will bring Pharaoh to let Israel go. Moses announces that at midnight every firstborn in Egypt will die, but not even a dog will move its tongue against Israel, to show that the LORD makes a difference between Egypt and Israel.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "EXO 11:1-10"
+   ],
+   "evidence": [
+    "Say what Moses announced (11:4-5)",
+    "Say how Israel would be treated differently (11:7)"
+   ],
+   "prompt": "Can {{name}} say what the last plague was to be and how Israel would be treated differently?"
+  },
+  {
+   "id": "exo_passover_instituted",
+   "type": "STORY",
+   "name": "The Passover instituted",
+   "description": "God tells Israel to take an unblemished lamb for each household on the tenth day, kill it at evening on the fourteenth, put its blood on the door posts and lintel, and eat it roasted in haste with unleavened bread and bitter herbs. When he sees the blood he will pass over; the day is to be kept as a memorial, and children are to be told what it means.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "EXO 12:1-28"
+   ],
+   "evidence": [
+    "List what the lamb must be like and what was done with its blood (12:5-7)",
+    "Say what God promised when he saw the blood (12:13)",
+    "Say what parents were to tell their children (12:26-27)"
+   ],
+   "prompt": "Can {{name}} explain what the Israelites did with the lamb and its blood, and what God promised?"
+  },
+  {
+   "id": "exo_firstborn_exodus",
+   "type": "STORY",
+   "name": "The firstborn die and Israel leaves Egypt",
+   "description": "At midnight the LORD strikes all the firstborn in Egypt, and Pharaoh urges Israel to leave. They go with their dough unleavened, taking silver, gold and clothing given by the Egyptians, about six hundred thousand men on foot, at the end of the four hundred and thirty years.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 12:29-42"
+   ],
+   "evidence": [
+    "Describe what happened at midnight (12:29-30)",
+    "Say what the Egyptians gave Israel (12:35-36)",
+    "Say how long the sojourning in Egypt was (12:40-41)"
+   ],
+   "prompt": "Can {{name}} tell what happened at midnight and how Israel left Egypt?"
+  },
+  {
+   "id": "exo_passover_rules",
+   "type": "THEME",
+   "name": "Rules for keeping the Passover",
+   "description": "The ordinance of the Passover is set out: no foreigner or hired servant may eat of it, a bought servant who is circumcised may, the lamb is eaten in one house and no bone of it broken, and a sojourner who wants to keep it must be circumcised. One law covers native and stranger.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "EXO 12:43-51"
+   ],
+   "evidence": [
+    "Say what is required of a stranger who wants to keep the Passover (12:48)",
+    "Say what was not to be done with the lamb's bones (12:46)"
+   ],
+   "prompt": "Can {{name}} say what the Passover rules say about foreigners and about the lamb's bones?"
+  },
+  {
+   "id": "exo_firstborn_consecrated",
+   "type": "STORY",
+   "name": "The firstborn and the feast of unleavened bread",
+   "description": "God says all the firstborn of man and beast are his; the firstborn of men are to be redeemed and an ass's firstling redeemed with a lamb. Israel is to remember the day of the exodus, keep the feast of unleavened bread and tell their sons what the LORD did.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 13:1-16"
+   ],
+   "evidence": [
+    "Say what God claimed as his in 13:2",
+    "Say what Israelites were to tell their sons (13:8, 13:14-15)"
+   ],
+   "prompt": "Can {{name}} say why the firstborn belonged to the LORD and what children were to be told?"
+  },
+  {
+   "id": "exo_pillar",
+   "type": "STORY",
+   "name": "Led by the pillar of cloud and fire",
+   "description": "God leads Israel by the wilderness way and not the near road through Philistia, lest they see war and return. Moses carries the bones of Joseph, and the LORD goes before them in a pillar of cloud by day and a pillar of fire by night.",
+   "covenant": null,
+   "ages": [
+    6,
+    12
+   ],
+   "passages": [
+    "EXO 13:17-22"
+   ],
+   "evidence": [
+    "Say why God did not lead them by the nearest road (13:17)",
+    "Describe how the LORD led them by day and by night (13:21-22)"
+   ],
+   "prompt": "Can {{name}} describe how God led Israel out of Egypt, day and night?"
+  },
+  {
+   "id": "exo_red_sea",
+   "type": "STORY",
+   "name": "Crossing the Red Sea",
+   "description": "Pharaoh pursues Israel with chariots and traps them at the sea. Moses says to stand still and see the LORD's salvation; the LORD divides the sea, Israel walks through on dry ground, and the returning waters cover Pharaoh's army.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "EXO 14:1-31"
+   ],
+   "evidence": [
+    "Say what the people said when they saw the Egyptians (14:10-12)",
+    "Say what Moses answered (14:13-14)",
+    "Say what happened to the Egyptians and how Israel responded (14:27-31)"
+   ],
+   "prompt": "Can {{name}} retell the crossing of the sea and what Moses told the people to do?"
+  },
+  {
+   "id": "exo_song_sea",
+   "type": "STORY",
+   "name": "The song of Moses and Miriam",
+   "description": "Moses and Israel sing to the LORD for triumphing over Pharaoh's horse and rider, praising him as strength, song, salvation and warrior, asking who is like him among the gods, and looking ahead to leading his people in to his sanctuary. Miriam leads the women in the refrain.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 15:1-21"
+   ],
+   "evidence": [
+    "Say what the song says the LORD did (15:1, 15:4)",
+    "Find where the song says who is like the LORD (15:11)",
+    "Say who led the women (15:20-21)"
+   ],
+   "prompt": "Can {{name}} say what Israel praised the LORD for in the song at the sea?"
+  },
+  {
+   "id": "exo_marah",
+   "type": "STORY",
+   "name": "Bitter water at Marah",
+   "description": "After three days without water Israel comes to Marah, where the water is bitter and the people murmur. The LORD shows Moses a tree which sweetens it, and promises healing for obedience, then they come to Elim.",
+   "covenant": null,
+   "ages": [
+    6,
+    12
+   ],
+   "passages": [
+    "EXO 15:22-27"
+   ],
+   "evidence": [
+    "Say why the people murmured at Marah (15:23-24)",
+    "Say how the water was made sweet (15:25)"
+   ],
+   "prompt": "Can {{name}} tell what happened at Marah?"
+  },
+  {
+   "id": "exo_manna",
+   "type": "STORY",
+   "name": "Bread from heaven: manna and quails",
+   "description": "Israel murmurs for the food of Egypt. The LORD sends quails in the evening and manna in the morning, a day's portion to be gathered daily, with a double portion on the sixth day for the sabbath. An omer of manna is kept before the Testimony.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "EXO 16:1-36"
+   ],
+   "evidence": [
+    "Say what the people were to do each day and on the sixth day (16:4-5, 16:22-26)",
+    "Say what happened to manna kept overnight against the command (16:19-20)",
+    "Say how long Israel ate manna (16:35)"
+   ],
+   "prompt": "Can {{name}} explain how the manna was gathered each day and what was different on the sixth and seventh days?"
+  },
+  {
+   "id": "exo_water_rock",
+   "type": "STORY",
+   "name": "Water from the rock at Massah and Meribah",
+   "description": "At Rephidim there is no water, and the people chide Moses and test the LORD. At the LORD's direction Moses strikes the rock at Horeb and water comes out; the place is named Massah and Meribah.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "EXO 17:1-7"
+   ],
+   "evidence": [
+    "Say what the people asked (17:7)",
+    "Say what Moses did and what came of it (17:5-6)"
+   ],
+   "prompt": "Can {{name}} tell what the people said at Rephidim and how God provided water?"
+  },
+  {
+   "id": "exo_amalek",
+   "type": "STORY",
+   "name": "Amalek attacked, and Moses' hands held up",
+   "description": "Amalek fights Israel at Rephidim. While Joshua fights, Moses stands on the hill with the rod of God; Israel prevails when his hand is up, and Aaron and Hur support his hands until the sun sets. The LORD says he will blot out Amalek's remembrance.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 17:8-16"
+   ],
+   "evidence": [
+    "Say what happened when Moses held up his hand and when he let it down (17:11)",
+    "Say who helped Moses (17:12)"
+   ],
+   "prompt": "Can {{name}} explain the battle with Amalek and how Moses' hands were held up?"
+  },
+  {
+   "id": "exo_jethro_visit",
+   "type": "STORY",
+   "name": "Jethro visits and rejoices",
+   "description": "Jethro brings Moses' wife and two sons to the mount of God. Moses tells him what the LORD did to Pharaoh and Egypt, and Jethro rejoices, blesses the LORD, says he knows the LORD is greater than all gods, and offers a burnt offering and sacrifices.",
+   "covenant": null,
+   "ages": [
+    7,
+    14
+   ],
+   "passages": [
+    "EXO 18:1-12"
+   ],
+   "evidence": [
+    "Say what Jethro concluded about the LORD (18:10-11)",
+    "Say who ate with Jethro before God (18:12)"
+   ],
+   "prompt": "Can {{name}} tell what Jethro said after hearing what the LORD had done for Israel?"
+  },
+  {
+   "id": "exo_judges",
+   "type": "STORY",
+   "name": "Jethro's counsel: judges over Israel",
+   "description": "Moses sits all day judging the people. Jethro tells him the burden is too heavy and advises him to teach the statutes and appoint able men who fear God as rulers of thousands, hundreds, fifties and tens, bringing only hard cases to him. Moses does so.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 18:13-27"
+   ],
+   "evidence": [
+    "Say what problem Jethro saw (18:14-18)",
+    "Describe the kind of men Moses was to choose (18:21)"
+   ],
+   "prompt": "Can {{name}} explain why Moses appointed other judges and what kind of men he chose?"
+  },
+  {
+   "id": "exo_kingdom_of_priests",
+   "type": "STORY",
+   "name": "At Sinai: a kingdom of priests",
+   "description": "In the third month Israel reaches Sinai. God reminds them how he bore them on eagles' wings and says that if they obey his voice and keep his covenant they will be his peculiar treasure, a kingdom of priests and a holy nation. The people answer together that they will do all the LORD has spoken.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "EXO 19:1-8"
+   ],
+   "evidence": [
+    "Say what God reminded Israel of (19:4)",
+    "Say what God said Israel would be if they obeyed and kept his covenant (19:5-6)",
+    "Say how the people answered (19:8)"
+   ],
+   "prompt": "Can {{name}} say what God offered Israel at Sinai in 19:5-6 and how the people answered?"
+  },
+  {
+   "id": "exo_sinai_theophany",
+   "type": "STORY",
+   "name": "The LORD descends on Mount Sinai",
+   "description": "Israel is told to sanctify themselves and not to touch the mountain. On the third day there are thunders, lightning, a thick cloud and a loud trumpet, and the LORD descends on Sinai in fire; Moses goes up and is told to warn the people again.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 19:9-25"
+   ],
+   "evidence": [
+    "Say how the people prepared (19:10-15)",
+    "Describe what happened on the third day (19:16-19)",
+    "Say what boundary was set and why (19:12, 19:21)"
+   ],
+   "prompt": "Can {{name}} describe what happened when the LORD came down on Mount Sinai, and why bounds were set?"
+  },
+  {
+   "id": "exo_ten_commandments",
+   "type": "STORY",
+   "name": "The Ten Commandments",
+   "description": "God speaks all these words, beginning by saying he is the LORD who brought Israel out of Egypt. They cover having no other gods, no images, not taking his name in vain, remembering the sabbath, honouring father and mother, and not killing, committing adultery, stealing, bearing false witness or coveting.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "EXO 20:1-17"
+   ],
+   "evidence": [
+    "Recite the ten commandments in order from the Bible",
+    "Say what 20:2 says before the commandments begin",
+    "Say the reason given for the sabbath (20:11)"
+   ],
+   "prompt": "Can {{name}} say the Ten Commandments in order and say what comes before them in 20:2?"
+  },
+  {
+   "id": "exo_fear_at_sinai",
+   "type": "STORY",
+   "name": "The people stand afar off; altars of earth",
+   "description": "The people see the thunder, lightning and smoke, tremble, and ask Moses to speak with them rather than God lest they die. Moses says God has come to prove them so that they sin not, and God then gives instructions about no gods of silver or gold and about altars of earth or uncut stone.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 20:18-26"
+   ],
+   "evidence": [
+    "Say what the people asked Moses (20:19)",
+    "Say what Moses said was God's purpose (20:20)"
+   ],
+   "prompt": "Can {{name}} say why the people stood far off and what they asked Moses to do?"
+  },
+  {
+   "id": "exo_laws_servants",
+   "type": "STORY",
+   "name": "Judgments: Hebrew servants",
+   "description": "God sets judgments before Israel, beginning with Hebrew servants: a servant serves six years and goes out free in the seventh, and rules protect a servant's wife and a maidservant sold by her father.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 21:1-11"
+   ],
+   "evidence": [
+    "Say what must happen in the seventh year (21:2)",
+    "Say what protections 21:7-11 gives a woman"
+   ],
+   "prompt": "Can {{name}} say what the law of 21:2 said about a Hebrew servant?"
+  },
+  {
+   "id": "exo_laws_violence",
+   "type": "STORY",
+   "name": "Judgments: injury and death",
+   "description": "Laws deal with striking and killing, a refuge for accidental killing, striking or cursing parents, kidnapping, injuries, the life-for-life principle and an owner's responsibility for a goring ox or an open pit.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EXO 21:12-36"
+   ],
+   "evidence": [
+    "Say how deliberate and accidental killing are treated differently (21:12-14)",
+    "Find the verses that state life for life, eye for eye (21:23-25)"
+   ],
+   "prompt": "Can {{name}} explain the difference between the cases in 21:12-14?"
+  },
+  {
+   "id": "exo_laws_property",
+   "type": "STORY",
+   "name": "Judgments: theft and property",
+   "description": "Laws require restitution for stolen and damaged property, such as five oxen for an ox, and set rules for animals that trespass, fire, goods left in trust and borrowed animals.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EXO 22:1-15"
+   ],
+   "evidence": [
+    "Say what a thief had to give back (22:1, 22:4)",
+    "Say what was required when a man's beast fed in another's field (22:5)"
+   ],
+   "prompt": "Can {{name}} say what the law required of a thief in 22:1-4?"
+  },
+  {
+   "id": "exo_laws_social",
+   "type": "STORY",
+   "name": "Judgments: purity, the poor and the stranger",
+   "description": "Laws cover seduction of a maid, sorcery, sacrificing to another god, and care for strangers, widows, the fatherless and the poor, whom Israel must not oppress because they themselves were strangers in Egypt. Firstfruits and the firstborn are to be given to the LORD.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EXO 22:16-31"
+   ],
+   "evidence": [
+    "Say how strangers, widows and orphans were to be treated and why (22:21-24)",
+    "Say what was to be done with a neighbour's pledged cloak (22:26-27)"
+   ],
+   "prompt": "Can {{name}} say what 22:21-27 says about strangers, widows and the poor and why?"
+  },
+  {
+   "id": "exo_laws_justice",
+   "type": "STORY",
+   "name": "Judgments: honest justice",
+   "description": "Israel is not to spread false reports, follow a crowd to pervert justice, favour the poor or wrest justice from the poor, take a bribe or oppress a stranger; they must even return an enemy's straying ox and help his fallen ass.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EXO 23:1-9"
+   ],
+   "evidence": [
+    "List some commands about witnesses and judgment (23:1-3, 23:6-8)",
+    "Say what to do if you see your enemy's ox going astray (23:4-5)"
+   ],
+   "prompt": "Can {{name}} say what 23:1-9 teaches about honesty in court and fairness?"
+  },
+  {
+   "id": "exo_sabbath_feasts",
+   "type": "STORY",
+   "name": "Judgments: sabbath years and three feasts",
+   "description": "The land is to rest in the seventh year so the poor may eat, and every seventh day all work is to rest. Three times a year Israel keeps a feast: unleavened bread, harvest and ingathering.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "EXO 23:10-19"
+   ],
+   "evidence": [
+    "Say why the land was to rest in the seventh year (23:11)",
+    "Name the three feasts (23:14-16)"
+   ],
+   "prompt": "Can {{name}} name the three yearly feasts and the rest of the seventh day and seventh year?"
+  },
+  {
+   "id": "exo_angel_promise",
+   "type": "STORY",
+   "name": "The angel before Israel and the land",
+   "description": "God promises to send an Angel before Israel to bring them to the prepared place, saying his name is in him. If they obey, he will be an enemy to their enemies and drive out the nations little by little; they must not serve those nations' gods or make a covenant with them.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "EXO 23:20-33"
+   ],
+   "evidence": [
+    "Say what God promised and what he required (23:20-25)",
+    "Say why the nations would be driven out gradually (23:29-30)"
+   ],
+   "prompt": "Can {{name}} say what God promised about the Angel and the land, and what Israel was not to do?"
+  },
+  {
+   "id": "exo_covenant_ratified",
+   "type": "COVENANT",
+   "name": "The covenant ratified with blood",
+   "description": "Moses tells the people all the LORD's words and judgments, and they answer with one voice that they will do them. Moses writes the words, builds an altar and twelve pillars, reads the book of the covenant, and sprinkles the people with blood, saying it is the blood of the covenant the LORD has made with them.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 24:1-8"
+   ],
+   "evidence": [
+    "Say how the people answered (24:3, 24:7)",
+    "Say what Moses did with the blood and what he said (24:6-8)"
+   ],
+   "prompt": "Can {{name}} explain what happened when the covenant was made in Exodus 24, and what Moses said as he sprinkled the blood?"
+  },
+  {
+   "id": "exo_elders_see_god",
+   "type": "STORY",
+   "name": "The elders see God; Moses on the mountain",
+   "description": "Moses, Aaron, Nadab, Abihu and seventy elders go up and see the God of Israel and eat and drink. Moses goes further up with Joshua into the cloud, where the glory of the LORD abides on Sinai and he stays forty days and forty nights.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 24:9-18"
+   ],
+   "evidence": [
+    "Say who went up and what they saw and did (24:9-11)",
+    "Say how long Moses stayed on the mountain and what covered it (24:15-18)"
+   ],
+   "prompt": "Can {{name}} say who went up the mountain in Exodus 24 and how long Moses stayed?"
+  },
+  {
+   "id": "exo_tabernacle_offering",
+   "type": "STORY",
+   "name": "\"Let them make me a sanctuary\"",
+   "description": "God tells Moses to ask Israel for a willing offering of gold, silver, brass, fabrics, skins, wood, oil, spices and stones, so they can make a sanctuary so that he may dwell among them, according to the pattern he shows.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 25:1-9"
+   ],
+   "evidence": [
+    "Say how the offering was to be given (25:2)",
+    "Say why God wanted the sanctuary (25:8)"
+   ],
+   "prompt": "Can {{name}} say why God asked for a sanctuary and how the gifts were to be given?"
+  },
+  {
+   "id": "exo_ark",
+   "type": "STORY",
+   "name": "The ark and the mercy seat",
+   "description": "Moses is told to make an ark of acacia wood overlaid with gold, to put the testimony in it, and to make a gold mercy seat with two cherubim on top, where God says he will meet and speak with Moses.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 25:10-22"
+   ],
+   "evidence": [
+    "Say what was to be put in the ark (25:16)",
+    "Say what God said would happen at the mercy seat (25:22)"
+   ],
+   "prompt": "Can {{name}} describe the ark and say what God said would happen above the mercy seat?"
+  },
+  {
+   "id": "exo_table_lampstand",
+   "type": "STORY",
+   "name": "The table and the golden lampstand",
+   "description": "Instructions are given for a gold-covered table for the bread of the presence and a pure gold lampstand with seven lamps, made after the pattern shown on the mount.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 25:23-40"
+   ],
+   "evidence": [
+    "Say what was to be set on the table (25:30)",
+    "Say how many lamps the lampstand had (25:37)"
+   ],
+   "prompt": "Can {{name}} name the two furnishings made in 25:23-40?"
+  },
+  {
+   "id": "exo_tabernacle_structure",
+   "type": "STORY",
+   "name": "The curtains, boards and veil",
+   "description": "The tabernacle is to be made of ten linen curtains with cherubim, goat-hair curtains and skin coverings, upright boards in silver sockets, and a veil that divides the holy place from the most holy place, where the ark is to be set.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 26:1-37"
+   ],
+   "evidence": [
+    "Say what the veil separated (26:33)",
+    "Say what was to go in the most holy place (26:33-34)"
+   ],
+   "prompt": "Can {{name}} say what the veil in 26:31-33 was for?"
+  },
+  {
+   "id": "exo_bronze_altar_court",
+   "type": "STORY",
+   "name": "The bronze altar and the court",
+   "description": "Instructions for an altar of acacia wood overlaid with bronze, a court enclosed by linen hangings on bronze pillars, and pure olive oil so a lamp burns always before the veil, tended by Aaron and his sons.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 27:1-21"
+   ],
+   "evidence": [
+    "Say what the altar of 27:1-8 was made of",
+    "Say who was to tend the lamp (27:21)"
+   ],
+   "prompt": "Can {{name}} say what stood in the court of the tabernacle according to 27:1-19?"
+  },
+  {
+   "id": "exo_priestly_garments",
+   "type": "STORY",
+   "name": "Aaron and his sons: the priestly garments",
+   "description": "Aaron and his sons are to be priests, with holy garments for glory and beauty: ephod, breastplate with twelve stones for the tribes, robe with bells, a turban with a gold plate \"Holiness to the LORD\", and linen undergarments. Aaron bears the names of Israel on his shoulders and heart.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 28:1-43"
+   ],
+   "evidence": [
+    "Say what names were on the stones of the ephod and breastplate (28:9-12, 28:21)",
+    "Say what was engraved on the gold plate (28:36)"
+   ],
+   "prompt": "Can {{name}} explain what Aaron carried on his shoulders and heart when he went in before the LORD?"
+  },
+  {
+   "id": "exo_priest_consecration",
+   "type": "STORY",
+   "name": "The consecration of the priests",
+   "description": "Aaron and his sons are washed, clothed, anointed and consecrated over seven days with a bullock and rams. Daily lambs are offered at morning and evening, and God says he will meet Israel there, sanctify the tabernacle and dwell among them.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 29:1-46"
+   ],
+   "evidence": [
+    "Name some steps of the consecration (29:4-9, 29:20-21)",
+    "Say what God promised in 29:45-46"
+   ],
+   "prompt": "Can {{name}} say what was done to make Aaron and his sons priests and what God promised in 29:45-46?"
+  },
+  {
+   "id": "exo_incense_ransom",
+   "type": "STORY",
+   "name": "The incense altar and the atonement money",
+   "description": "God gives instructions for a gold altar of incense before the veil, burned morning and evening, with atonement made on its horns once a year, and for a half-shekel ransom for each person numbered, rich and poor alike.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 30:1-16"
+   ],
+   "evidence": [
+    "Say what was to be burned on the altar and when (30:7-8)",
+    "Say how much each person gave (30:13-15)"
+   ],
+   "prompt": "Can {{name}} say what the atonement money was and who gave it?"
+  },
+  {
+   "id": "exo_laver_oil_incense",
+   "type": "STORY",
+   "name": "The laver, anointing oil and incense",
+   "description": "A bronze laver is made for priests to wash hands and feet before entering the tabernacle or approaching the altar, lest they die. A holy anointing oil and a special incense are described; neither may be copied for ordinary use.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 30:17-38"
+   ],
+   "evidence": [
+    "Say when Aaron and his sons were to wash (30:19-21)",
+    "Say what was forbidden about the anointing oil and incense (30:32-33, 30:37-38)"
+   ],
+   "prompt": "Can {{name}} say what the laver was for and why Aaron and his sons washed?"
+  },
+  {
+   "id": "exo_bezalel",
+   "type": "STORY",
+   "name": "Bezalel and Oholiab are called",
+   "description": "The LORD calls by name Bezalel of the tribe of Judah and fills him with the spirit of God in wisdom and workmanship, and gives Aholiab of Dan and others to help make the tabernacle and all its furnishings.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 31:1-11"
+   ],
+   "evidence": [
+    "Say who was called and what filled him (31:2-3)",
+    "Say what he was to make (31:7-11)"
+   ],
+   "prompt": "Can {{name}} say who God appointed to build the tabernacle and what equipped him?"
+  },
+  {
+   "id": "exo_sabbath_sign",
+   "type": "STORY",
+   "name": "The sabbath as a sign; the tablets of testimony",
+   "description": "God says Israel must keep his sabbaths as a sign between him and them throughout their generations, a perpetual covenant, grounded in his six days of making and rest on the seventh. At the end he gives Moses two tablets of stone written by the finger of God.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 31:12-18"
+   ],
+   "evidence": [
+    "Say what the sabbath is called in 31:13, 31:16-17",
+    "Say what God gave Moses at the end of the conversation (31:18)"
+   ],
+   "prompt": "Can {{name}} say why the sabbath is called a sign and what God gave Moses on the mountain?"
+  },
+  {
+   "id": "exo_sabbath",
+   "type": "THEME",
+   "name": "The sabbath in Exodus",
+   "description": "Exodus follows the sabbath from the manna (16) through the fourth commandment (20:8-11), the law for rest (23:12), and its description as a sign and perpetual covenant (31:12-17) to a final reminder before building the tabernacle (35:1-3).",
+   "covenant": "cv_mosaic",
+   "ages": [
+    6,
+    16
+   ],
+   "passages": [
+    "EXO 16:22-30",
+    "EXO 20:8-11",
+    "EXO 23:12",
+    "EXO 31:12-17",
+    "EXO 35:1-3"
+   ],
+   "evidence": [
+    "Say what the fourth commandment says is the reason for the sabbath (20:11)",
+    "Say what 31:13 says the sabbath is a sign of"
+   ],
+   "prompt": "Can {{name}} trace what Exodus says about the sabbath from the manna to chapter 31?"
+  },
+  {
+   "id": "exo_golden_calf",
+   "type": "STORY",
+   "name": "The golden calf",
+   "description": "When Moses delays on the mountain, the people ask Aaron to make gods for them. Aaron collects their gold earrings and fashions a molten calf, builds an altar and proclaims a feast, and the people offer sacrifices and rise up to play.",
+   "covenant": null,
+   "ages": [
+    6,
+    16
+   ],
+   "passages": [
+    "EXO 32:1-6"
+   ],
+   "evidence": [
+    "Say what the people asked and what Aaron made (32:1-4)",
+    "Say what Aaron proclaimed (32:5)"
+   ],
+   "prompt": "Can {{name}} tell what the people did while Moses was on the mountain?"
+  },
+  {
+   "id": "exo_moses_intercedes",
+   "type": "STORY",
+   "name": "Moses pleads for the people",
+   "description": "God tells Moses the people have corrupted themselves and he will consume them and make a great nation of Moses. Moses pleads that the LORD brought them out and remember Abraham, Isaac and Israel, and the LORD repents of the evil he thought to do.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 32:7-14"
+   ],
+   "evidence": [
+    "Say what God threatened (32:9-10)",
+    "Say what Moses asked God to remember (32:13)",
+    "Say what the LORD did in response (32:14)"
+   ],
+   "prompt": "Can {{name}} say how Moses pleaded for Israel and what he asked God to remember?"
+  },
+  {
+   "id": "exo_calf_judgment",
+   "type": "STORY",
+   "name": "Moses breaks the tablets; judgment on the calf",
+   "description": "Moses comes down with tablets written by God, sees the calf, breaks the tablets, burns the calf and makes Israel drink it. The Levites answer his call to be on the LORD's side, about three thousand fall, and Moses goes back to seek atonement and offers to be blotted out with them; the LORD plagues the people.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 32:15-35"
+   ],
+   "evidence": [
+    "Say what Moses did with the tablets and the calf (32:19-20)",
+    "Say what Aaron said in his defence (32:22-24)",
+    "Say what Moses asked the LORD in 32:32"
+   ],
+   "prompt": "Can {{name}} tell what Moses did when he saw the calf and what he asked God in 32:32?"
+  },
+  {
+   "id": "exo_tent_of_meeting",
+   "type": "STORY",
+   "name": "The tent of meeting and the cloud",
+   "description": "God tells Israel to go to the land but says he will not go up in their midst because they are stiffnecked, and the people mourn. Moses pitches a tent outside the camp where the cloudy pillar descends and the LORD speaks with him face to face as with a friend.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 33:1-11"
+   ],
+   "evidence": [
+    "Say what God said he would not do (33:3)",
+    "Describe how the LORD spoke with Moses (33:9-11)"
+   ],
+   "prompt": "Can {{name}} say why Moses pitched the tent outside the camp and how the LORD spoke with him there?"
+  },
+  {
+   "id": "exo_moses_asks_glory",
+   "type": "STORY",
+   "name": "Moses asks to see God's glory",
+   "description": "Moses asks that God's presence go with them and then to see his glory. The LORD says his presence will go with Moses, that he will make all his goodness pass and proclaim his name, but no man can see his face and live; Moses is hidden in a cleft of the rock and sees only his back.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 33:12-23"
+   ],
+   "evidence": [
+    "Say what Moses asked in 33:15 and 33:18",
+    "Say what God said he would do and what he would not allow (33:19-23)"
+   ],
+   "prompt": "Can {{name}} say what Moses asked to see and how God answered?"
+  },
+  {
+   "id": "exo_name_proclaimed",
+   "type": "STORY",
+   "name": "The LORD proclaims his name",
+   "description": "Moses hews two new tablets and goes up Sinai, where the LORD descends in the cloud and proclaims his name as merciful, gracious, longsuffering and abundant in goodness and truth, forgiving iniquity yet not clearing the guilty. Moses bows and asks God to go among them and pardon their sin.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 34:1-9"
+   ],
+   "evidence": [
+    "List words from 34:6-7 that describe the LORD",
+    "Say what Moses asked in 34:9"
+   ],
+   "prompt": "Can {{name}} say how the LORD described himself in 34:6-7 and what Moses asked?"
+  },
+  {
+   "id": "exo_covenant_renewed",
+   "type": "COVENANT",
+   "name": "The covenant renewed and the words written",
+   "description": "The LORD says he makes a covenant and will do marvels, and commands Israel to destroy the altars of the nations, make no covenant with them, make no molten gods, and keep the feasts and the sabbath. He tells Moses to write the words, and after forty days Moses writes on the tables the words of the covenant, the ten commandments.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "EXO 34:10-28"
+   ],
+   "evidence": [
+    "Say what God said in 34:10 and 34:27",
+    "Say what was written on the tables (34:28)"
+   ],
+   "prompt": "Can {{name}} say what the LORD told Moses to write in 34:27-28 and what it is called?"
+  },
+  {
+   "id": "exo_moses_face",
+   "type": "STORY",
+   "name": "Moses' shining face",
+   "description": "Moses comes down with the two tablets and does not know that the skin of his face shines; Aaron and Israel are afraid to come near. Moses speaks to them and wears a veil over his face except when he goes in before the LORD.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "EXO 34:29-35"
+   ],
+   "evidence": [
+    "Say why people were afraid to come near (34:30)",
+    "Say when Moses took the veil off (34:34)"
+   ],
+   "prompt": "Can {{name}} say what happened to Moses' face and when he wore a veil?"
+  },
+  {
+   "id": "exo_willing_offerings",
+   "type": "STORY",
+   "name": "The people bring willing offerings",
+   "description": "Moses gathers Israel, repeats the sabbath, and calls for the offerings and for every wise-hearted person to make what the LORD commanded. Men and women bring jewels, materials and spun thread with willing hearts.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 35:1-29"
+   ],
+   "evidence": [
+    "Say who brought offerings (35:21-29)",
+    "Say what Moses repeated about the sabbath (35:2-3)"
+   ],
+   "prompt": "Can {{name}} say how the people responded when Moses asked for offerings for the tabernacle?"
+  },
+  {
+   "id": "exo_craftsmen_work",
+   "type": "STORY",
+   "name": "Bezalel and the workers build; enough and too much",
+   "description": "Moses announces that the LORD has called Bezalel and Aholiab, and the workers receive the offerings. The people bring so much that Moses has the camp stop giving, and the workers make the curtains, boards, bars and veil.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 35:30-35",
+    "EXO 36:1-38"
+   ],
+   "evidence": [
+    "Say what happened when the people brought too much (36:5-7)",
+    "Name what the workers made in chapter 36"
+   ],
+   "prompt": "Can {{name}} say why Moses told the people to stop bringing offerings?"
+  },
+  {
+   "id": "exo_furnishings_made",
+   "type": "STORY",
+   "name": "The ark, table, lampstand and incense altar are made",
+   "description": "Bezalel makes the ark with its mercy seat and cherubim, the table, the lampstand, the incense altar, the anointing oil and the incense, as commanded.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 37:1-29"
+   ],
+   "evidence": [
+    "Name the furnishings made in chapter 37"
+   ],
+   "prompt": "Can {{name}} list the furnishings Bezalel made in chapter 37?"
+  },
+  {
+   "id": "exo_altar_laver_accounts",
+   "type": "STORY",
+   "name": "The altar, the laver, the court and the accounts",
+   "description": "Bezalel makes the altar of burnt offering, the laver from the women's mirrors, and the court, and the metals given for the work are totalled.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 38:1-31"
+   ],
+   "evidence": [
+    "Say what the laver was made from (38:8)",
+    "Say what was counted in 38:24-31"
+   ],
+   "prompt": "Can {{name}} say what Bezalel made in chapter 38 and what the laver was made from?"
+  },
+  {
+   "id": "exo_garments_made",
+   "type": "STORY",
+   "name": "The priestly garments are made",
+   "description": "The workers make the holy garments for Aaron: the ephod, the breastplate with its twelve stones, the robe with golden bells, the coats, the turban and the gold plate of \"Holiness to the LORD\", as the LORD commanded Moses.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "EXO 39:1-31"
+   ],
+   "evidence": [
+    "Name pieces of Aaron's clothing made in chapter 39",
+    "Say what phrase \"as the LORD commanded Moses\" shows about how the work was done"
+   ],
+   "prompt": "Can {{name}} name some of the garments made for Aaron in chapter 39?"
+  },
+  {
+   "id": "exo_work_finished",
+   "type": "STORY",
+   "name": "The work is finished and Moses blesses Israel",
+   "description": "All the parts of the tabernacle are brought to Moses, who inspects them, sees they were made as the LORD commanded, and blesses the people.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 39:32-43"
+   ],
+   "evidence": [
+    "Say what Moses did when he saw the finished work (39:43)"
+   ],
+   "prompt": "Can {{name}} say what Moses did when he saw the finished work?"
+  },
+  {
+   "id": "exo_tabernacle_set_up",
+   "type": "STORY",
+   "name": "Moses sets up the tabernacle",
+   "description": "On the first day of the first month in the second year Moses sets up the tabernacle, puts the testimony in the ark, arranges the table, lampstand, altars and laver, hangs the court, anoints and washes, as the LORD commanded.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "EXO 40:1-33"
+   ],
+   "evidence": [
+    "Say when the tabernacle was set up (40:2, 40:17)",
+    "Say what Moses put in the ark (40:20)"
+   ],
+   "prompt": "Can {{name}} say when the tabernacle was set up and what Moses put into the ark?"
+  },
+  {
+   "id": "exo_glory_fills",
+   "type": "STORY",
+   "name": "The glory of the LORD fills the tabernacle",
+   "description": "A cloud covers the tent and the glory of the LORD fills the tabernacle so that Moses cannot enter. Israel travels only when the cloud lifts, and the cloud is on the tabernacle by day and fire by night in the sight of all Israel.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "EXO 40:34-38"
+   ],
+   "evidence": [
+    "Say what filled the tabernacle (40:34)",
+    "Say how Israel knew when to travel (40:36-37)"
+   ],
+   "prompt": "Can {{name}} explain what happened when the tabernacle was finished and how Israel knew when to move?"
+  },
+  {
+   "id": "exo_redemption",
+   "type": "DOCTRINE",
+   "name": "Redemption: the LORD brings his people out",
+   "description": "Exodus uses redemption language: the LORD says he will redeem Israel with a stretched out arm (6:6), the song says the people he has led out are redeemed and purchased (15:13, 15:16), and the firstborn are redeemed (13:13-15). The topic traces this language.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EXO 6:6-8",
+    "EXO 13:13-15",
+    "EXO 15:13",
+    "EXO 15:16"
+   ],
+   "evidence": [
+    "Find a verse where God says he will redeem (6:6) and one in the song of the sea (15:13)",
+    "Say what the firstborn redemption in 13:13-15 recalls"
+   ],
+   "prompt": "Can {{name}} find where Exodus uses the word redeem and say what the LORD redeemed Israel from?"
+  },
+  {
+   "id": "exo_dwelling",
+   "type": "THEME",
+   "name": "\"That I may dwell among them\"",
+   "description": "From the command to build a sanctuary so God may dwell among Israel (25:8) through his promise to meet them and be their God (29:43-46), Moses' plea that his presence go with them (33:14-15), to the glory filling the tabernacle (40:34-35).",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "EXO 25:8",
+    "EXO 29:43-46",
+    "EXO 33:14-15",
+    "EXO 40:34-35"
+   ],
+   "evidence": [
+    "Say what God said in 25:8 and 29:45-46",
+    "Say how the book ends (40:34-35)"
+   ],
+   "prompt": "Can {{name}} trace how Exodus moves from \"let them make me a sanctuary\" to the glory filling it?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "book_exo",
+   "prereq": "bt_book_gen",
+   "strength": "soft",
+   "reason": "Exodus 1:1-6 begins with the sons of Jacob who came into Egypt and the death of Joseph, where Genesis ends (Genesis 50:26)"
+  },
+  {
+   "topic": "exo_oppression",
+   "prereq": "bt_gen_joseph_exalted",
+   "strength": "hard",
+   "reason": "Exodus 1:8 says the new king knew not Joseph, whose rise in Egypt is told in Genesis 41"
+  },
+  {
+   "topic": "exo_oppression",
+   "prereq": "bt_gen_abrahamic_covenant",
+   "strength": "soft",
+   "reason": "Genesis 15:13 foretold that Abram's seed would serve and be afflicted in a land not theirs; Exodus 1:11-14 shows the affliction"
+  },
+  {
+   "topic": "exo_oppression",
+   "prereq": "book_exo",
+   "strength": "soft",
+   "reason": "Exodus 1:1 opens the book by naming the sons of Israel who came into Egypt"
+  },
+  {
+   "topic": "exo_midwives",
+   "prereq": "exo_oppression",
+   "strength": "hard",
+   "reason": "Exodus 1:15-22 follows the failure of the harsh labour to stop Israel multiplying (1:12-14)"
+  },
+  {
+   "topic": "exo_moses_born",
+   "prereq": "exo_midwives",
+   "strength": "hard",
+   "reason": "Moses is born under Pharaoh's command in 1:22 that every son be cast into the river"
+  },
+  {
+   "topic": "exo_moses_flees",
+   "prereq": "exo_moses_born",
+   "strength": "hard",
+   "reason": "Exodus 2:11 picks up when the child of 2:1-10 \"was grown\""
+  },
+  {
+   "topic": "exo_moses_flees",
+   "prereq": "bt_gen_abrahamic_covenant",
+   "strength": "soft",
+   "reason": "Exodus 2:24 says God remembered his covenant with Abraham, Isaac and Jacob, made in Genesis 15 and 17"
+  },
+  {
+   "topic": "exo_burning_bush",
+   "prereq": "exo_moses_flees",
+   "strength": "hard",
+   "reason": "Exodus 3:1 finds Moses in Midian with Jethro, where he fled in 2:15-21"
+  },
+  {
+   "topic": "exo_name_i_am",
+   "prereq": "exo_burning_bush",
+   "strength": "hard",
+   "reason": "Exodus 3:11 is Moses' answer to the commission of 3:10"
+  },
+  {
+   "topic": "exo_signs_excuses",
+   "prereq": "exo_name_i_am",
+   "strength": "hard",
+   "reason": "Exodus 4:1 continues the same conversation at the bush after 3:22"
+  },
+  {
+   "topic": "exo_return_egypt",
+   "prereq": "exo_signs_excuses",
+   "strength": "hard",
+   "reason": "Exodus 4:18 follows God's commission, signs and provision of Aaron in 4:1-17"
+  },
+  {
+   "topic": "exo_pharaoh_first",
+   "prereq": "exo_return_egypt",
+   "strength": "hard",
+   "reason": "Exodus 5:1 has Moses and Aaron go to Pharaoh, as set up in 4:29-31"
+  },
+  {
+   "topic": "exo_god_promises",
+   "prereq": "exo_pharaoh_first",
+   "strength": "hard",
+   "reason": "Exodus 6:1 answers Moses' complaint of 5:22-23"
+  },
+  {
+   "topic": "exo_genealogy",
+   "prereq": "exo_god_promises",
+   "strength": "hard",
+   "reason": "Exodus 6:26-30 returns to the commission of 6:10-13 after the genealogy"
+  },
+  {
+   "topic": "exo_rod_serpent",
+   "prereq": "exo_genealogy",
+   "strength": "soft",
+   "reason": "Exodus 7:1 continues the commission after the interruption of the genealogy in 6:14-27"
+  },
+  {
+   "topic": "exo_rod_serpent",
+   "prereq": "exo_signs_excuses",
+   "strength": "soft",
+   "reason": "Exodus 7:9-10 uses the rod-to-serpent sign God gave Moses in 4:2-4"
+  },
+  {
+   "topic": "exo_plague_blood",
+   "prereq": "exo_rod_serpent",
+   "strength": "hard",
+   "reason": "Exodus 7:14 follows Pharaoh's hardened heart after the rod sign in 7:13"
+  },
+  {
+   "topic": "exo_plague_frogs",
+   "prereq": "exo_plague_blood",
+   "strength": "hard",
+   "reason": "Exodus 8:1 follows the seven days after the river was struck (7:25)"
+  },
+  {
+   "topic": "exo_plague_lice_flies",
+   "prereq": "exo_plague_frogs",
+   "strength": "hard",
+   "reason": "Exodus 8:16 follows Pharaoh's hardening after the frogs (8:15)"
+  },
+  {
+   "topic": "exo_plague_livestock_boils",
+   "prereq": "exo_plague_lice_flies",
+   "strength": "hard",
+   "reason": "Exodus 9:1 continues the repeated demand \"Let my people go\" after 8:32"
+  },
+  {
+   "topic": "exo_plague_hail",
+   "prereq": "exo_plague_livestock_boils",
+   "strength": "hard",
+   "reason": "Exodus 9:13 follows the boils and God's hardening of Pharaoh in 9:12"
+  },
+  {
+   "topic": "exo_plague_locusts",
+   "prereq": "exo_plague_hail",
+   "strength": "hard",
+   "reason": "Exodus 10:5 says the locusts will eat what remained after the hail (9:25)"
+  },
+  {
+   "topic": "exo_plague_darkness",
+   "prereq": "exo_plague_locusts",
+   "strength": "hard",
+   "reason": "Exodus 10:21 follows the locusts and the hardening in 10:20"
+  },
+  {
+   "topic": "exo_hardening",
+   "prereq": "exo_plague_hail",
+   "strength": "soft",
+   "reason": "Exodus 9:12 and 9:34-35 occur within the plagues, and 9:16 gives a purpose for raising up Pharaoh"
+  },
+  {
+   "topic": "exo_tenth_plague_announced",
+   "prereq": "exo_plague_darkness",
+   "strength": "hard",
+   "reason": "Exodus 11:1 follows Pharaoh's vow in 10:28-29 never to see Moses again; Moses speaks as he leaves in 11:4-8"
+  },
+  {
+   "topic": "exo_tenth_plague_announced",
+   "prereq": "exo_return_egypt",
+   "strength": "soft",
+   "reason": "Exodus 4:22-23 warned that God would slay Pharaoh's firstborn if he refused to let Israel go"
+  },
+  {
+   "topic": "exo_passover_instituted",
+   "prereq": "exo_tenth_plague_announced",
+   "strength": "hard",
+   "reason": "Exodus 12:12-13 describes how the firstborn judgment announced in 11:4-7 will pass over Israel's houses"
+  },
+  {
+   "topic": "exo_firstborn_exodus",
+   "prereq": "exo_passover_instituted",
+   "strength": "hard",
+   "reason": "Exodus 12:29 is the night for which the instructions of 12:1-28 were given"
+  },
+  {
+   "topic": "exo_passover_rules",
+   "prereq": "exo_firstborn_exodus",
+   "strength": "hard",
+   "reason": "Exodus 12:43 gives rules for the Passover after the night of the exodus in 12:41-42"
+  },
+  {
+   "topic": "exo_passover_rules",
+   "prereq": "bt_gen_circumcision",
+   "strength": "soft",
+   "reason": "Exodus 12:44 and 12:48 require circumcision for those who eat the Passover, the sign given to Abraham's household in Genesis 17"
+  },
+  {
+   "topic": "exo_firstborn_consecrated",
+   "prereq": "exo_firstborn_exodus",
+   "strength": "hard",
+   "reason": "Exodus 13:15 explains the sacrifice and redemption of firstborn by the death of Egypt's firstborn in 12:29"
+  },
+  {
+   "topic": "exo_pillar",
+   "prereq": "exo_firstborn_exodus",
+   "strength": "hard",
+   "reason": "Exodus 13:17 begins when Pharaoh had let the people go, after 12:31-42"
+  },
+  {
+   "topic": "exo_pillar",
+   "prereq": "bt_gen_providence",
+   "strength": "soft",
+   "reason": "Exodus 13:19 says Moses took Joseph's bones because Joseph made Israel swear, as in Genesis 50:24-25"
+  },
+  {
+   "topic": "exo_red_sea",
+   "prereq": "exo_pillar",
+   "strength": "hard",
+   "reason": "Exodus 14:19-20 has the pillar of cloud move behind Israel; the pillar was introduced in 13:21-22"
+  },
+  {
+   "topic": "exo_red_sea",
+   "prereq": "exo_plague_darkness",
+   "strength": "soft",
+   "reason": "Exodus 14:4 repeats the purpose of Pharaoh's hardening so that Egypt may know the LORD"
+  },
+  {
+   "topic": "exo_song_sea",
+   "prereq": "exo_red_sea",
+   "strength": "hard",
+   "reason": "Exodus 15:1 begins \"Then sang Moses\" after the deliverance of chapter 14"
+  },
+  {
+   "topic": "exo_marah",
+   "prereq": "exo_song_sea",
+   "strength": "hard",
+   "reason": "Exodus 15:22 begins when Moses brought Israel from the sea after their song"
+  },
+  {
+   "topic": "exo_manna",
+   "prereq": "exo_marah",
+   "strength": "hard",
+   "reason": "Exodus 16:1 follows Elim (15:27), the journey from Marah"
+  },
+  {
+   "topic": "exo_water_rock",
+   "prereq": "exo_manna",
+   "strength": "hard",
+   "reason": "Exodus 17:1 follows the wilderness of Sin and the manna (16:1)"
+  },
+  {
+   "topic": "exo_amalek",
+   "prereq": "exo_water_rock",
+   "strength": "hard",
+   "reason": "Exodus 17:8 happens at Rephidim, the place of 17:1-7"
+  },
+  {
+   "topic": "exo_jethro_visit",
+   "prereq": "exo_amalek",
+   "strength": "soft",
+   "reason": "Exodus 18:1 comes after what God had done for Moses and Israel, including the victory of chapter 17"
+  },
+  {
+   "topic": "exo_jethro_visit",
+   "prereq": "exo_moses_flees",
+   "strength": "soft",
+   "reason": "Jethro, the priest of Midian (2:16-21), is the father in law who brought back Zipporah and her sons in 18:2-5"
+  },
+  {
+   "topic": "exo_judges",
+   "prereq": "exo_jethro_visit",
+   "strength": "hard",
+   "reason": "Exodus 18:13 is \"on the morrow\" after Jethro's sacrifice in 18:12"
+  },
+  {
+   "topic": "exo_kingdom_of_priests",
+   "prereq": "exo_judges",
+   "strength": "soft",
+   "reason": "Exodus 19:2 says Israel departed from Rephidim and came to the desert of Sinai, after the events of 17-18"
+  },
+  {
+   "topic": "exo_kingdom_of_priests",
+   "prereq": "exo_red_sea",
+   "strength": "hard",
+   "reason": "Exodus 19:4 refers to what God did to the Egyptians, told in chapters 7-14"
+  },
+  {
+   "topic": "exo_sinai_theophany",
+   "prereq": "exo_kingdom_of_priests",
+   "strength": "hard",
+   "reason": "Exodus 19:9 continues God's words to Moses from 19:3-8, in which the people agreed to what the LORD said"
+  },
+  {
+   "topic": "exo_ten_commandments",
+   "prereq": "exo_sinai_theophany",
+   "strength": "hard",
+   "reason": "Exodus 20:1 is God speaking to Israel after he descended on the mountain in 19:20-25"
+  },
+  {
+   "topic": "exo_fear_at_sinai",
+   "prereq": "exo_ten_commandments",
+   "strength": "hard",
+   "reason": "Exodus 20:18-19 is the people's response to the voice and the commandments of 20:1-17"
+  },
+  {
+   "topic": "exo_laws_servants",
+   "prereq": "exo_fear_at_sinai",
+   "strength": "hard",
+   "reason": "Exodus 21:1 begins the judgments that Moses was to set before Israel after the commandments and instructions of chapter 20"
+  },
+  {
+   "topic": "exo_laws_violence",
+   "prereq": "exo_laws_servants",
+   "strength": "hard",
+   "reason": "Exodus 21:12 continues the same set of judgments begun in 21:1"
+  },
+  {
+   "topic": "exo_laws_property",
+   "prereq": "exo_laws_violence",
+   "strength": "hard",
+   "reason": "Exodus 22:1 continues the judgments after the laws about injury in 21:12-36"
+  },
+  {
+   "topic": "exo_laws_social",
+   "prereq": "exo_laws_property",
+   "strength": "hard",
+   "reason": "Exodus 22:16 continues the same judgments after the property laws of 22:1-15"
+  },
+  {
+   "topic": "exo_laws_justice",
+   "prereq": "exo_laws_social",
+   "strength": "hard",
+   "reason": "Exodus 23:1 continues the judgments of chapters 21-22"
+  },
+  {
+   "topic": "exo_sabbath_feasts",
+   "prereq": "exo_laws_justice",
+   "strength": "hard",
+   "reason": "Exodus 23:10 continues the judgments with rest and feast days after 23:1-9"
+  },
+  {
+   "topic": "exo_angel_promise",
+   "prereq": "exo_sabbath_feasts",
+   "strength": "hard",
+   "reason": "Exodus 23:20 concludes God's words to Moses begun in 20:22 and is introduced by \"Behold, I send an Angel before thee\""
+  },
+  {
+   "topic": "exo_covenant_ratified",
+   "prereq": "exo_kingdom_of_priests",
+   "strength": "hard",
+   "reason": "Exodus 24:3-8 is the people's consent to the covenant offered in 19:5-8"
+  },
+  {
+   "topic": "exo_covenant_ratified",
+   "prereq": "exo_ten_commandments",
+   "strength": "soft",
+   "reason": "Exodus 24:3 refers to \"all the words of the LORD, and all the judgments\" given in 20-23"
+  },
+  {
+   "topic": "exo_covenant_ratified",
+   "prereq": "exo_angel_promise",
+   "strength": "hard",
+   "reason": "Exodus 24:1 continues after God's words and judgments in 20:22-23:33"
+  },
+  {
+   "topic": "exo_elders_see_god",
+   "prereq": "exo_covenant_ratified",
+   "strength": "hard",
+   "reason": "Exodus 24:9 follows the covenant ceremony and the call to come up in 24:1"
+  },
+  {
+   "topic": "exo_tabernacle_offering",
+   "prereq": "exo_elders_see_god",
+   "strength": "hard",
+   "reason": "Exodus 25:1 is God speaking to Moses on the mountain, where Moses had gone up in 24:18"
+  },
+  {
+   "topic": "exo_ark",
+   "prereq": "exo_tabernacle_offering",
+   "strength": "hard",
+   "reason": "Exodus 25:10 begins the instructions for the sanctuary announced in 25:8-9"
+  },
+  {
+   "topic": "exo_table_lampstand",
+   "prereq": "exo_ark",
+   "strength": "hard",
+   "reason": "Exodus 25:23 continues the furnishings listed after the ark in 25:10-22"
+  },
+  {
+   "topic": "exo_tabernacle_structure",
+   "prereq": "exo_table_lampstand",
+   "strength": "hard",
+   "reason": "Exodus 26:35 places the table and lampstand in the tabernacle described here"
+  },
+  {
+   "topic": "exo_bronze_altar_court",
+   "prereq": "exo_tabernacle_structure",
+   "strength": "hard",
+   "reason": "Exodus 27:9 describes the court around the tabernacle of chapter 26"
+  },
+  {
+   "topic": "exo_priestly_garments",
+   "prereq": "exo_bronze_altar_court",
+   "strength": "soft",
+   "reason": "Exodus 27:21 introduces Aaron and his sons as ministers; Exodus 28:1 sets them apart as priests"
+  },
+  {
+   "topic": "exo_priest_consecration",
+   "prereq": "exo_priestly_garments",
+   "strength": "hard",
+   "reason": "Exodus 29:5-6 has Aaron put on the garments described in chapter 28"
+  },
+  {
+   "topic": "exo_incense_ransom",
+   "prereq": "exo_priest_consecration",
+   "strength": "soft",
+   "reason": "Exodus 30:1 continues the furnishings after the consecration of 29:1-46"
+  },
+  {
+   "topic": "exo_laver_oil_incense",
+   "prereq": "exo_incense_ransom",
+   "strength": "hard",
+   "reason": "Exodus 30:17 continues the instructions after the incense altar and ransom in 30:1-16"
+  },
+  {
+   "topic": "exo_bezalel",
+   "prereq": "exo_laver_oil_incense",
+   "strength": "hard",
+   "reason": "Exodus 31:7-11 summarises the tabernacle, furniture, oil and incense whose instructions fill 25-30"
+  },
+  {
+   "topic": "exo_bezalel",
+   "prereq": "bt_gen_judah_blessing",
+   "strength": "soft",
+   "reason": "Exodus 31:2 names Bezalel as of the tribe of Judah, the tribe Jacob blessed in Genesis 49:8-12"
+  },
+  {
+   "topic": "exo_sabbath_sign",
+   "prereq": "exo_bezalel",
+   "strength": "hard",
+   "reason": "Exodus 31:12 continues God's speech to Moses after the appointment of the builders in 31:1-11"
+  },
+  {
+   "topic": "exo_sabbath_sign",
+   "prereq": "exo_ten_commandments",
+   "strength": "soft",
+   "reason": "Exodus 31:17 gives the same ground for the sabbath as the fourth commandment in 20:11"
+  },
+  {
+   "topic": "exo_sabbath",
+   "prereq": "exo_sabbath_sign",
+   "strength": "soft",
+   "reason": "Exodus 31:12-17 gives the fullest statement of the sabbath, building on 16:22-30 and 20:8-11"
+  },
+  {
+   "topic": "exo_golden_calf",
+   "prereq": "exo_sabbath_sign",
+   "strength": "hard",
+   "reason": "Exodus 32:1 says Moses delayed on the mountain, where he was given the tablets in 31:18"
+  },
+  {
+   "topic": "exo_golden_calf",
+   "prereq": "exo_ten_commandments",
+   "strength": "hard",
+   "reason": "Exodus 32:4 says the people called the calf gods who brought Israel out of Egypt, contrary to 20:2-5"
+  },
+  {
+   "topic": "exo_moses_intercedes",
+   "prereq": "exo_golden_calf",
+   "strength": "hard",
+   "reason": "Exodus 32:7-8 tells Moses of the calf the people have made"
+  },
+  {
+   "topic": "exo_moses_intercedes",
+   "prereq": "bt_gen_abrahamic_covenant",
+   "strength": "soft",
+   "reason": "Exodus 32:13 quotes the oath to Abraham, Isaac and Israel to multiply their seed and give them the land, as in Genesis 15"
+  },
+  {
+   "topic": "exo_calf_judgment",
+   "prereq": "exo_moses_intercedes",
+   "strength": "hard",
+   "reason": "Exodus 32:15 has Moses go down after the LORD turned from his threat in 32:14"
+  },
+  {
+   "topic": "exo_tent_of_meeting",
+   "prereq": "exo_calf_judgment",
+   "strength": "hard",
+   "reason": "Exodus 33:1 follows the sin of the calf and the plague in 32:35"
+  },
+  {
+   "topic": "exo_moses_asks_glory",
+   "prereq": "exo_tent_of_meeting",
+   "strength": "hard",
+   "reason": "Exodus 33:12 is Moses speaking to the LORD after the tent scene and the threat of 33:3"
+  },
+  {
+   "topic": "exo_name_proclaimed",
+   "prereq": "exo_moses_asks_glory",
+   "strength": "hard",
+   "reason": "Exodus 34:5-7 fulfils the promise in 33:19 to proclaim the name of the LORD"
+  },
+  {
+   "topic": "exo_covenant_renewed",
+   "prereq": "exo_name_proclaimed",
+   "strength": "hard",
+   "reason": "Exodus 34:10 begins God's answer after Moses' plea in 34:9"
+  },
+  {
+   "topic": "exo_covenant_renewed",
+   "prereq": "exo_calf_judgment",
+   "strength": "soft",
+   "reason": "Exodus 34:1 has God write again the words that were on the tables Moses broke in 32:19"
+  },
+  {
+   "topic": "exo_moses_face",
+   "prereq": "exo_covenant_renewed",
+   "strength": "hard",
+   "reason": "Exodus 34:29 has Moses descend with the tables written in 34:28"
+  },
+  {
+   "topic": "exo_willing_offerings",
+   "prereq": "exo_moses_face",
+   "strength": "hard",
+   "reason": "Exodus 35:1 begins with Moses assembling Israel and giving commands after coming down in 34:29-35"
+  },
+  {
+   "topic": "exo_willing_offerings",
+   "prereq": "exo_tabernacle_offering",
+   "strength": "hard",
+   "reason": "Exodus 35:5-9 repeats the list of offerings in 25:2-7"
+  },
+  {
+   "topic": "exo_craftsmen_work",
+   "prereq": "exo_willing_offerings",
+   "strength": "hard",
+   "reason": "Exodus 36:3 says the workers received the offering the people brought in chapter 35"
+  },
+  {
+   "topic": "exo_craftsmen_work",
+   "prereq": "exo_bezalel",
+   "strength": "hard",
+   "reason": "Exodus 35:30-35 repeats the calling of Bezalel and Aholiab told in 31:1-6"
+  },
+  {
+   "topic": "exo_furnishings_made",
+   "prereq": "exo_craftsmen_work",
+   "strength": "hard",
+   "reason": "Exodus 37:1 continues the building by Bezalel after the tabernacle itself in 36:8-38"
+  },
+  {
+   "topic": "exo_furnishings_made",
+   "prereq": "exo_ark",
+   "strength": "soft",
+   "reason": "Exodus 37:1-9 carries out the instructions for the ark in 25:10-22"
+  },
+  {
+   "topic": "exo_altar_laver_accounts",
+   "prereq": "exo_furnishings_made",
+   "strength": "hard",
+   "reason": "Exodus 38:1 continues from the incense altar in 37:25-29"
+  },
+  {
+   "topic": "exo_garments_made",
+   "prereq": "exo_priestly_garments",
+   "strength": "hard",
+   "reason": "Exodus 39:1-31 carries out the instructions for the garments given in chapter 28"
+  },
+  {
+   "topic": "exo_garments_made",
+   "prereq": "exo_altar_laver_accounts",
+   "strength": "soft",
+   "reason": "Exodus 39:1 continues the building after the work of chapter 38"
+  },
+  {
+   "topic": "exo_work_finished",
+   "prereq": "exo_garments_made",
+   "strength": "hard",
+   "reason": "Exodus 39:32 sums up the work done in chapters 36-39:31"
+  },
+  {
+   "topic": "exo_tabernacle_set_up",
+   "prereq": "exo_work_finished",
+   "strength": "hard",
+   "reason": "Exodus 40:2 commands the setting up of the finished work brought to Moses in 39:33-43"
+  },
+  {
+   "topic": "exo_glory_fills",
+   "prereq": "exo_tabernacle_set_up",
+   "strength": "hard",
+   "reason": "Exodus 40:34 follows the setting up completed in 40:33"
+  },
+  {
+   "topic": "exo_glory_fills",
+   "prereq": "exo_pillar",
+   "strength": "soft",
+   "reason": "Exodus 40:38 says cloud and fire on the tabernacle, as the pillar of cloud and fire led Israel from 13:21-22"
+  },
+  {
+   "topic": "exo_redemption",
+   "prereq": "exo_song_sea",
+   "strength": "soft",
+   "reason": "Exodus 15:13 is the song after the deliverance of chapter 14, applying the redemption language of 6:6"
+  },
+  {
+   "topic": "exo_dwelling",
+   "prereq": "exo_glory_fills",
+   "strength": "soft",
+   "reason": "Exodus 40:34-35 is where God's dwelling promised in 25:8 and 29:45-46 is shown"
+  }
+ ],
+ "relations": [
+  {
+   "from": "bt_gen_creation",
+   "to": "exo_sabbath",
+   "kind": "parallels",
+   "refs": [
+    "GEN 2:2-3",
+    "EXO 20:11"
+   ]
+  },
+  {
+   "from": "exo_moses_asks_glory",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 33:19",
+    "ROM 9:15"
+   ]
+  },
+  {
+   "from": "exo_plague_hail",
+   "to": "bt_rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 9:16",
+    "ROM 9:17"
+   ]
+  },
+  {
+   "from": "exo_covenant_renewed",
+   "to": "exo_ten_commandments",
+   "kind": "part-of-covenant",
+   "refs": [
+    "EXO 34:28",
+    "EXO 20:3"
+   ]
+  },
+  {
+   "from": "exo_covenant_ratified",
+   "to": "exo_kingdom_of_priests",
+   "kind": "part-of-covenant",
+   "refs": [
+    "EXO 19:5",
+    "EXO 24:8"
+   ]
+  },
+  {
+   "from": "bt_gen_abrahamic_covenant",
+   "to": "exo_firstborn_exodus",
+   "kind": "fulfilled-in",
+   "refs": [
+    "GEN 15:13-14",
+    "EXO 12:35-36",
+    "EXO 12:40-41"
+   ]
+  },
+  {
+   "from": "bt_gen_providence",
+   "to": "exo_pillar",
+   "kind": "fulfilled-in",
+   "refs": [
+    "GEN 50:24-25",
+    "EXO 13:19"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/bible-taxonomy/schema/dependencies.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "edgeCount", "dependencies"],
+  "properties": {
+    "version": { "type": "string" },
+    "edgeCount": { "type": "integer" },
+    "note": { "type": "string" },
+    "dependencies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["topicId", "prerequisiteId", "strength", "reason"],
+        "properties": {
+          "topicId": { "type": "string", "pattern": "^bt_" },
+          "prerequisiteId": { "type": "string", "pattern": "^bt_" },
+          "strength": { "enum": ["hard", "soft"] },
+          "reason": { "type": "string" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2326 @@
+{
+ "topics": [
+  {
+   "id": "book_jas",
+   "type": "BOOK_OVERVIEW",
+   "name": "James: overview",
+   "description": "James is a letter from James, a servant of God and of the Lord Jesus Christ, to the twelve tribes scattered abroad, with practical teaching on trials, living faith, the tongue, humility, wealth and patience.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JAS 1..5"
+   ],
+   "evidence": [
+    "Name the main themes of James in order",
+    "Say who the letter is from and to whom it is written"
+   ],
+   "prompt": "Can {{name}} say what James tells believers to do with trials, words and wealth?"
+  },
+  {
+   "id": "jas_trials_wisdom",
+   "type": "THEME",
+   "name": "Trials, wisdom and the crown of life",
+   "description": "James says to count trials as joy because tested faith produces patience, to ask God for wisdom without wavering, and promises the crown of life to the one who endures.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "JAS 1:1-12"
+   ],
+   "evidence": [
+    "Explain what testing of faith produces",
+    "Say how James tells believers to ask for wisdom"
+   ],
+   "prompt": "Can {{name}} explain why James says to count it all joy when trials come?"
+  },
+  {
+   "id": "jas_temptation_word",
+   "type": "THEME",
+   "name": "Temptation, the word and doing it",
+   "description": "James says God does not tempt anyone; desire gives birth to sin and sin to death, while every good gift comes from the Father of lights who gave new birth by the word of truth, and believers must be doers of the word.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "JAS 1:13-27"
+   ],
+   "evidence": [
+    "Describe the path from desire to death in 1:14-15",
+    "Contrast hearing the word with doing it",
+    "State what James calls pure religion"
+   ],
+   "prompt": "Can {{name}} explain the difference between hearing the word and doing it?"
+  },
+  {
+   "id": "jas_partiality",
+   "type": "THEME",
+   "name": "No partiality: the royal law",
+   "description": "James rebukes giving the rich seats of honour and shaming the poor in the assembly, reminds them God chose the poor rich in faith, and calls loving your neighbour the royal law.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "JAS 2:1-13"
+   ],
+   "evidence": [
+    "Describe the example of partiality in the assembly",
+    "Say what James calls the royal law",
+    "Explain why partiality is sin according to 2:9"
+   ],
+   "prompt": "Can {{name}} tell what James says is wrong with favouring the rich over the poor?"
+  },
+  {
+   "id": "jas_faith_works",
+   "type": "DOCTRINE",
+   "name": "Faith and works",
+   "description": "James argues that faith without works is dead, using the demons who believe, Abraham offering Isaac, and Rahab, and concludes a man is justified by works and not by faith only.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JAS 2:14-26"
+   ],
+   "evidence": [
+    "Explain what James means by faith that is alone and dead",
+    "Retell how Abraham and Rahab are used as examples",
+    "Compare the wording of James 2:24 with Romans 3:28 and 4:2-3"
+   ],
+   "prompt": "Can {{name}} explain what James is arguing about the kind of faith that is dead?"
+  },
+  {
+   "id": "jas_tongue",
+   "type": "THEME",
+   "name": "The tongue",
+   "description": "James warns that few should be teachers, compares the tongue to a bit, a rudder and a fire, and says it cannot be tamed by man yet is used both to bless God and curse people.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "JAS 3:1-12"
+   ],
+   "evidence": [
+    "Name the three pictures James uses for the tongue",
+    "Say what inconsistency James points out in 3:9-10"
+   ],
+   "prompt": "Can {{name}} say why James calls the tongue a fire?"
+  },
+  {
+   "id": "jas_two_wisdoms",
+   "type": "THEME",
+   "name": "Wisdom from above and earthly wisdom",
+   "description": "James contrasts envy and strife, which he calls earthly, sensual and devilish wisdom, with wisdom from above, which is pure, peaceable, gentle and full of mercy and good fruits.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "JAS 3:13-18"
+   ],
+   "evidence": [
+    "List the marks of wisdom from above",
+    "Describe what comes with bitter envying and strife"
+   ],
+   "prompt": "Can {{name}} describe how to tell wisdom from above from earthly wisdom?"
+  },
+  {
+   "id": "jas_friendship_world",
+   "type": "THEME",
+   "name": "Conflicts, the world and humbling before God",
+   "description": "James traces fightings to desires within, calls friendship with the world enmity with God, and says God gives grace to the humble, so believers must submit, resist the devil and draw near to God.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JAS 4:1-10"
+   ],
+   "evidence": [
+    "Say where James says wars and fightings come from",
+    "List the commands in 4:7-10",
+    "Explain what God does with the proud and the humble"
+   ],
+   "prompt": "Can {{name}} explain what James says to do instead of fighting and loving the world?"
+  },
+  {
+   "id": "jas_judging_boasting",
+   "type": "THEME",
+   "name": "Judging others and boasting about tomorrow",
+   "description": "James forbids speaking evil of a brother and judging him since there is one lawgiver, and rebukes plans made without saying if the Lord will, since life is a vapour.",
+   "covenant": null,
+   "ages": [
+    10,
+    17
+   ],
+   "passages": [
+    "JAS 4:11-17"
+   ],
+   "evidence": [
+    "Say why James says there is one lawgiver",
+    "Explain what James says we should say about our plans",
+    "State the point of 4:17"
+   ],
+   "prompt": "Can {{name}} explain why James says to say, If the Lord will?"
+  },
+  {
+   "id": "jas_rich_oppressors",
+   "type": "THEME",
+   "name": "Warning to the rich who defraud",
+   "description": "James tells rich men to weep for coming miseries: their riches are corrupted, wages withheld from labourers cry out to the Lord of sabaoth, and they have lived in luxury and condemned the just.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JAS 5:1-6"
+   ],
+   "evidence": [
+    "Name the charges James brings against the rich in 5:1-6",
+    "Say who hears the cries of the harvest labourers"
+   ],
+   "prompt": "Can {{name}} say what the rich are accused of in James 5:1-6?"
+  },
+  {
+   "id": "jas_patience_oaths",
+   "type": "THEME",
+   "name": "Patience until the coming of the Lord",
+   "description": "James urges patience like the farmer waiting for rain, points to the prophets and Job as examples, says the Lord is pitiful and merciful, and tells them not to swear oaths.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "JAS 5:7-12"
+   ],
+   "evidence": [
+    "Describe the farmer picture of patience",
+    "Name the examples of endurance James gives",
+    "Say what James tells them about oaths"
+   ],
+   "prompt": "Can {{name}} explain why James says to be patient until the coming of the Lord?"
+  },
+  {
+   "id": "jas_prayer_restoration",
+   "type": "THEME",
+   "name": "Prayer, healing and restoring the wanderer",
+   "description": "James tells the afflicted to pray, the sick to call the elders, believers to confess faults and pray for one another, cites Elijah as a man like us whose prayer was answered, and ends by urging restoring one who strays from the truth.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JAS 5:13-20"
+   ],
+   "evidence": [
+    "Describe what the sick are told to do in 5:14-15",
+    "Say how James uses Elijah",
+    "Explain what happens when someone turns a sinner from error"
+   ],
+   "prompt": "Can {{name}} explain what James says to do when someone is sick, sinning or wandering?"
+  },
+  {
+   "id": "book_1pe",
+   "type": "BOOK_OVERVIEW",
+   "name": "1 Peter: overview",
+   "description": "1 Peter is a letter from the apostle Peter to scattered strangers in Asia Minor, written to encourage them in suffering with the living hope, the example of Christ, holy conduct and humility under God.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1PE 1..5"
+   ],
+   "evidence": [
+    "Say who wrote 1 Peter and to whom",
+    "Name the main themes: hope, holiness, suffering and humility"
+   ],
+   "prompt": "Can {{name}} say how 1 Peter encourages believers who suffer?"
+  },
+  {
+   "id": "1pe_living_hope",
+   "type": "DOCTRINE",
+   "name": "Born again to a living hope",
+   "description": "Peter blesses God who by the resurrection of Jesus has given new birth to a living hope and an inheritance kept in heaven, while faith is tested like gold and the prophets searched out this salvation.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1PE 1:1-12"
+   ],
+   "evidence": [
+    "Describe the inheritance in 1:4",
+    "Explain why trials test faith in 1:6-7",
+    "Say what the prophets searched into in 1:10-11"
+   ],
+   "prompt": "Can {{name}} explain what living hope Peter says believers have and why they can rejoice in trials?"
+  },
+  {
+   "id": "1pe_holy_redeemed",
+   "type": "DOCTRINE",
+   "name": "Be holy: redeemed by precious blood",
+   "description": "Peter calls believers to be holy as God is holy, reminds them they were redeemed by the precious blood of Christ the lamb without blemish, and says they were born again by the abiding word.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1PE 1:13-25"
+   ],
+   "evidence": [
+    "Say what Peter says redeemed them and what it was not",
+    "Explain the call to be holy in 1:15-16",
+    "Describe what the word of the Lord does according to 1:23-25"
+   ],
+   "prompt": "Can {{name}} say what Peter says paid the price for believers, and how they should live because of it?"
+  },
+  {
+   "id": "1pe_living_stone",
+   "type": "THEME",
+   "name": "The living stone and the holy priesthood",
+   "description": "Peter calls Christ the living stone chosen by God, says believers are built up as a spiritual house and royal priesthood, and says they were once not a people but are now the people of God.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1PE 2:1-10"
+   ],
+   "evidence": [
+    "Explain the stone picture in 2:4-8",
+    "List the names Peter gives believers in 2:9",
+    "Say what 2:10 says changed for them"
+   ],
+   "prompt": "Can {{name}} name three things Peter calls believers in 1 Peter 2:9?"
+  },
+  {
+   "id": "1pe_pilgrims_submission",
+   "type": "THEME",
+   "name": "Strangers and pilgrims: honourable conduct and submission",
+   "description": "Peter tells believers living as pilgrims among Gentiles to keep honest conduct, submit to rulers and honour all, and servants to be subject to masters even when treated wrongly.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1PE 2:11-20"
+   ],
+   "evidence": [
+    "Say why Peter tells them to keep honest conduct among the Gentiles",
+    "Describe how Peter says to treat the king and all men"
+   ],
+   "prompt": "Can {{name}} say how Peter says believers should behave under authorities?"
+  },
+  {
+   "id": "1pe_christ_example",
+   "type": "DOCTRINE",
+   "name": "Christ suffered for us, an example",
+   "description": "Peter says believers are called to follow the steps of Christ, who did not sin, did not revile in return, bore our sins on the tree, and brings the strayed sheep back to the Shepherd.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1PE 2:21-25"
+   ],
+   "evidence": [
+    "Describe how Christ responded when reviled",
+    "Say what Christ did on the tree in 2:24",
+    "Explain the sheep and Shepherd picture"
+   ],
+   "prompt": "Can {{name}} explain both what Christ did for us and what example he left in 1 Peter 2:21-25?"
+  },
+  {
+   "id": "1pe_wives_husbands",
+   "type": "THEME",
+   "name": "Wives, husbands and the hidden person of the heart",
+   "description": "Peter addresses wives with the example of Sarah and holy women, stressing a meek and quiet spirit as precious to God, and tells husbands to live with their wives with understanding and honour as fellow heirs of the grace of life.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1PE 3:1-7"
+   ],
+   "evidence": [
+    "Say what Peter calls the adorning of great price",
+    "Describe what husbands are told in 3:7"
+   ],
+   "prompt": "Can {{name}} say what Peter tells husbands and wives in 1 Peter 3:1-7?"
+  },
+  {
+   "id": "1pe_suffer_for_good",
+   "type": "THEME",
+   "name": "Blessing, good conscience and suffering for doing good",
+   "description": "Peter tells all to be of one mind and repay evil with blessing, says suffering for righteousness is blessed, and that believers should always be ready to give a reason for their hope with meekness and a good conscience.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1PE 3:8-17"
+   ],
+   "evidence": [
+    "Say how Peter tells believers to answer evil",
+    "Explain what being ready to answer for hope looks like in 3:15"
+   ],
+   "prompt": "Can {{name}} explain how Peter says to respond when others speak evil of us?"
+  },
+  {
+   "id": "1pe_christ_suffered_once",
+   "type": "DOCTRINE",
+   "name": "Christ suffered once, the days of Noah and baptism",
+   "description": "Peter says Christ suffered once for sins, the just for the unjust, to bring us to God, and was made alive; he mentions the spirits who were disobedient in the days of Noah, the eight saved by water, and says baptism saves by the resurrection of Jesus, who is now at God's right hand.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1PE 3:18-22"
+   ],
+   "evidence": [
+    "Say why Christ suffered once according to 3:18",
+    "Retell what 3:20 says about Noah and the eight saved through water",
+    "State where Christ is now according to 3:22"
+   ],
+   "prompt": "Can {{name}} explain what 1 Peter 3:18-22 says about Christ and about Noah?"
+  },
+  {
+   "id": "1pe_live_for_god",
+   "type": "THEME",
+   "name": "Living to the will of God",
+   "description": "Peter says believers who have the mind of Christ in suffering should end the old life of Gentile excess, live to God, and prepare for the end by prayer, fervent love, hospitality and using gifts for God's glory.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1PE 4:1-11"
+   ],
+   "evidence": [
+    "Describe the old life Peter says to leave behind",
+    "List the commands in 4:7-11",
+    "Explain why gifts are to be used for God's glory"
+   ],
+   "prompt": "Can {{name}} list how Peter says to live because the end of all things is at hand?"
+  },
+  {
+   "id": "1pe_fiery_trial",
+   "type": "THEME",
+   "name": "The fiery trial and suffering as a Christian",
+   "description": "Peter says not to be surprised by fiery trial but to rejoice in sharing Christ's sufferings, not to suffer as an evildoer, and to entrust the soul to a faithful Creator while judgment begins at the house of God.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1PE 4:12-19"
+   ],
+   "evidence": [
+    "Say how Peter tells believers to view fiery trials",
+    "Distinguish suffering as a Christian from suffering as an evildoer",
+    "Say whom believers entrust their souls to in 4:19"
+   ],
+   "prompt": "Can {{name}} explain why Peter says not to be surprised by a fiery trial?"
+  },
+  {
+   "id": "1pe_elders_humility",
+   "type": "THEME",
+   "name": "Shepherd the flock, humility and the roaring lion",
+   "description": "Peter exhorts elders to shepherd willingly as examples with the chief Shepherd coming, tells all to be clothed with humility, cast cares on God, resist the devil who prowls like a roaring lion, and ends with greetings from Babylon.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1PE 5:1-14"
+   ],
+   "evidence": [
+    "Describe how elders are to lead in 5:2-3",
+    "Say what Peter tells believers to do with their cares",
+    "Say how Peter describes the devil and how to resist him"
+   ],
+   "prompt": "Can {{name}} describe what Peter tells elders and everyone else to do in chapter 5?"
+  },
+  {
+   "id": "book_2pe",
+   "type": "BOOK_OVERVIEW",
+   "name": "2 Peter: overview",
+   "description": "2 Peter is a letter from Simon Peter urging growth in the knowledge of Christ, warning against false teachers and scoffers, and pointing to the certain day of the Lord and new heavens and a new earth.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "2PE 1..3"
+   ],
+   "evidence": [
+    "Name the three sections: growth, false teachers, the day of the Lord",
+    "Say what Peter wants believers to remember"
+   ],
+   "prompt": "Can {{name}} say what 2 Peter warns about and what it tells believers to do?"
+  },
+  {
+   "id": "2pe_precious_promises",
+   "type": "THEME",
+   "name": "Precious promises and growing in godliness",
+   "description": "Peter says God has given all that pertains to life and godliness and great promises, and tells believers to add virtue, knowledge, temperance, patience, godliness, brotherly kindness and charity to faith so they are fruitful and make their calling sure.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "2PE 1:1-11"
+   ],
+   "evidence": [
+    "List the qualities to add to faith in 1:5-7",
+    "Say what Peter says God has given in 1:3-4",
+    "Explain what lacking these things means in 1:9"
+   ],
+   "prompt": "Can {{name}} list the qualities Peter says to add to faith?"
+  },
+  {
+   "id": "2pe_eyewitness_prophecy",
+   "type": "DOCTRINE",
+   "name": "Eyewitnesses and the sure word of prophecy",
+   "description": "Peter says he will remind believers before his death, that the apostles were eyewitnesses of Christ's majesty when the Father's voice spoke on the holy mount, and that prophecy of scripture came from men moved by the Holy Ghost.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2PE 1:12-21"
+   ],
+   "evidence": [
+    "Say what the apostles saw and heard on the holy mount",
+    "Explain where Peter says prophecy of scripture came from"
+   ],
+   "prompt": "Can {{name}} explain why Peter says the apostles did not follow cunningly devised fables?"
+  },
+  {
+   "id": "2pe_false_teachers",
+   "type": "THEME",
+   "name": "False teachers and the examples of judgment",
+   "description": "Peter warns that false teachers will bring in destructive heresies out of covetousness, and shows that God judged sinning angels, the old world in Noah's day, and Sodom and Gomorrah while delivering Noah and Lot.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2PE 2:1-10"
+   ],
+   "evidence": [
+    "Describe what the false teachers do and why",
+    "List the three examples of judgment in 2:4-6",
+    "Say who God delivered in 2:5-9"
+   ],
+   "prompt": "Can {{name}} tell what examples Peter uses to show God judges the ungodly and rescues the godly?"
+  },
+  {
+   "id": "2pe_false_teachers_portrait",
+   "type": "THEME",
+   "name": "The character and end of the false teachers",
+   "description": "Peter describes the false teachers as presumptuous, greedy and following Balaam, promising freedom while enslaved to corruption, and says to return to the way of righteousness after knowing it is worse than never knowing it.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2PE 2:10-22"
+   ],
+   "evidence": [
+    "Name the charges in 2:13-15",
+    "Explain the saying about the dog and the sow in 2:22",
+    "Say who Peter compares them to in 2:15-16"
+   ],
+   "prompt": "Can {{name}} describe how Peter portrays the false teachers and why turning back is so serious?"
+  },
+  {
+   "id": "2pe_scoffers",
+   "type": "THEME",
+   "name": "Scoffers and the longsuffering of the Lord",
+   "description": "Peter says scoffers will ask where the promised coming is, recalls that the world once perished by water and the present heavens and earth are kept for fire, and says the Lord delays because he is longsuffering, not willing that any perish.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2PE 3:1-9"
+   ],
+   "evidence": [
+    "Say what the scoffers claim in 3:4",
+    "Explain what Peter says they forget in 3:5-7",
+    "Say why the Lord has not yet come, according to 3:9"
+   ],
+   "prompt": "Can {{name}} explain why Peter says the Lord seems slow to keep his promise?"
+  },
+  {
+   "id": "2pe_day_of_lord",
+   "type": "THEME",
+   "name": "The day of the Lord and new heavens and earth",
+   "description": "Peter says the day of the Lord will come like a thief with fire dissolving the heavens and the elements, so believers should live in holiness and look for new heavens and a new earth where righteousness dwells, and grow in grace.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2PE 3:10-18"
+   ],
+   "evidence": [
+    "Describe how the day of the Lord comes",
+    "Say what kind of people Peter says we ought to be in 3:11",
+    "Say what new thing believers look for in 3:13"
+   ],
+   "prompt": "Can {{name}} say how Peter tells believers to live while they wait for the day of the Lord?"
+  },
+  {
+   "id": "book_1jn",
+   "type": "BOOK_OVERVIEW",
+   "name": "1 John: overview",
+   "description": "1 John is a letter written so that believers may have fellowship with the Father and the Son, know they have eternal life, walk in the light, love one another, and hold to the truth that Jesus is the Christ come in the flesh.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1JN 1..5"
+   ],
+   "evidence": [
+    "Name the main themes: light, love, truth about Jesus, assurance",
+    "Say what John says he wrote so that in 5:13"
+   ],
+   "prompt": "Can {{name}} say what 1 John wants believers to know?"
+  },
+  {
+   "id": "1jn_fellowship_light",
+   "type": "DOCTRINE",
+   "name": "Fellowship, walking in the light and confessing sin",
+   "description": "John declares the Word of life that he has heard, seen and touched, says God is light, and teaches that walking in the light brings cleansing by the blood of Jesus and that confessed sins are forgiven.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1JN 1:1-10"
+   ],
+   "evidence": [
+    "Say what John says he saw and heard",
+    "Explain what God is according to 1:5",
+    "Describe what happens when we confess sins in 1:9"
+   ],
+   "prompt": "Can {{name}} explain what John says to do when we sin?"
+  },
+  {
+   "id": "1jn_advocate_obedience",
+   "type": "DOCTRINE",
+   "name": "Our advocate and keeping his commandments",
+   "description": "John writes that we may not sin, but if anyone sins we have an advocate, Jesus Christ the righteous, the propitiation for our sins and the whole world, and that knowing him is shown by keeping his commandments.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1JN 2:1-6"
+   ],
+   "evidence": [
+    "Name what Jesus is called in 2:1-2",
+    "Say how we know that we know him"
+   ],
+   "prompt": "Can {{name}} say who our advocate is and how we know we know him?"
+  },
+  {
+   "id": "1jn_old_new_commandment",
+   "type": "THEME",
+   "name": "The old and new commandment: light and hatred",
+   "description": "John says the commandment to love is old and yet new because the true light shines, and that hating a brother means walking in darkness while loving a brother abides in the light.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1JN 2:7-14"
+   ],
+   "evidence": [
+    "Contrast loving and hating a brother in light and darkness",
+    "Say who John addresses in 2:12-14"
+   ],
+   "prompt": "Can {{name}} explain how John connects loving a brother with being in the light?"
+  },
+  {
+   "id": "1jn_world_antichrists",
+   "type": "THEME",
+   "name": "Not loving the world, and antichrists",
+   "description": "John tells believers not to love the world, since its lust of the flesh, lust of the eyes and pride of life pass away, and warns of many antichrists who went out from them, while the anointing from the Holy One teaches them.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1JN 2:15-27"
+   ],
+   "evidence": [
+    "List what John says is in the world",
+    "Say who John calls antichrist in 2:22",
+    "Describe what he says about those who left in 2:19"
+   ],
+   "prompt": "Can {{name}} explain what John says about the world and about those who deny the Son?"
+  },
+  {
+   "id": "1jn_abide_children_of_god",
+   "type": "DOCTRINE",
+   "name": "Abiding in him and being children of God",
+   "description": "John urges abiding in Christ with confidence at his appearing, says we are now sons of God and shall be like him, and that Christ appeared to take away sins and destroy the works of the devil.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1JN 2:28-29",
+    "1JN 3:1-10"
+   ],
+   "evidence": [
+    "Say what we shall be when he appears",
+    "Explain why the Son of God was manifested according to 3:8",
+    "Contrast the children of God with the children of the devil"
+   ],
+   "prompt": "Can {{name}} explain what John says about being God's children now and later?"
+  },
+  {
+   "id": "1jn_love_in_deed",
+   "type": "THEME",
+   "name": "Love in deed and truth, assurance and the commandment",
+   "description": "John says love is the message from the beginning, unlike Cain who killed his brother, that Christ laid down his life for us so we ought to love in deed and truth, and that God is greater than a condemning heart.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1JN 3:11-24"
+   ],
+   "evidence": [
+    "Say how John contrasts Cain with the love Christ showed",
+    "Explain what loving in deed and truth means in 3:17-18",
+    "State the commandment in 3:23"
+   ],
+   "prompt": "Can {{name}} say what John means by loving not in word only but in deed and in truth?"
+  },
+  {
+   "id": "1jn_test_spirits",
+   "type": "THEME",
+   "name": "Testing the spirits",
+   "description": "John tells believers to test every spirit, says the spirit of God confesses that Jesus Christ has come in the flesh, and says those in them have overcome because greater is he that is in them than he that is in the world.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1JN 4:1-6"
+   ],
+   "evidence": [
+    "Say how to test a spirit according to 4:2-3",
+    "Explain why believers have overcome in 4:4"
+   ],
+   "prompt": "Can {{name}} say how John tells us to test what teachers say?"
+  },
+  {
+   "id": "1jn_god_is_love",
+   "type": "DOCTRINE",
+   "name": "God is love",
+   "description": "John says love is of God and God is love, shown when God sent his only Son as propitiation, that we love because he first loved us, and that perfect love casts out fear and one who hates a brother cannot love God.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1JN 4:7-21"
+   ],
+   "evidence": [
+    "Say how God showed his love in 4:9-10",
+    "Explain 4:19",
+    "Describe what John says about loving God and hating a brother"
+   ],
+   "prompt": "Can {{name}} explain how John says we know that God is love?"
+  },
+  {
+   "id": "1jn_born_of_god_victory",
+   "type": "DOCTRINE",
+   "name": "Born of God, overcoming and the witness to the Son",
+   "description": "John says everyone who believes Jesus is the Christ is born of God and overcomes the world through faith, and the witness of God about his Son is that God gave eternal life in the Son.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1JN 5:1-12"
+   ],
+   "evidence": [
+    "Say what overcomes the world in 5:4",
+    "State the record God gave in 5:11",
+    "Say what 5:12 says about having the Son"
+   ],
+   "prompt": "Can {{name}} say what John says is the witness God gave about his Son?"
+  },
+  {
+   "id": "1jn_assurance_prayer",
+   "type": "THEME",
+   "name": "Assurance, prayer and keeping from idols",
+   "description": "John says he wrote so believers may know they have eternal life, that God hears prayer according to his will, mentions sin not unto death and sin unto death, and ends by telling them to keep from idols.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "1JN 5:13-21"
+   ],
+   "evidence": [
+    "Say why John wrote this letter according to 5:13",
+    "Describe the confidence in prayer in 5:14-15",
+    "State John's last command"
+   ],
+   "prompt": "Can {{name}} say what John wants his readers to know about eternal life and prayer?"
+  },
+  {
+   "id": "book_2jn",
+   "type": "BOOK_OVERVIEW",
+   "name": "2 John: overview",
+   "description": "2 John is a short letter from the elder to an elect lady and her children, about walking in truth and love and not receiving those who do not bring the doctrine of Christ.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2JN 1"
+   ],
+   "evidence": [
+    "Say who writes and who receives 2 John",
+    "Name its two concerns: love and truth"
+   ],
+   "prompt": "Can {{name}} say what 2 John tells believers about truth and love?"
+  },
+  {
+   "id": "2jn_truth_love_deceivers",
+   "type": "THEME",
+   "name": "Walk in truth and love; beware of deceivers",
+   "description": "The elder rejoices that the children walk in truth, repeats the commandment to love, warns of deceivers who deny Jesus Christ has come in the flesh, and says not to receive those who bring no such doctrine.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2JN 1:1-13"
+   ],
+   "evidence": [
+    "Say what the commandment from the beginning is in 2JN 1:5-6",
+    "Describe the deceivers in 2JN 1:7",
+    "Say what the elder says to do about visitors without the doctrine"
+   ],
+   "prompt": "Can {{name}} explain why 2 John says to love and also to be careful about false teachers?"
+  },
+  {
+   "id": "book_3jn",
+   "type": "BOOK_OVERVIEW",
+   "name": "3 John: overview",
+   "description": "3 John is a short letter from the elder to Gaius commending his hospitality to travelling brothers, naming Diotrephes who refuses them and Demetrius who has a good report.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "3JN 1"
+   ],
+   "evidence": [
+    "Name the three people the elder mentions",
+    "Say what 3 John praises"
+   ],
+   "prompt": "Can {{name}} say who Gaius, Diotrephes and Demetrius are in 3 John?"
+  },
+  {
+   "id": "3jn_gaius_diotrephes",
+   "type": "THEME",
+   "name": "Gaius, Diotrephes and Demetrius: hospitality and truth",
+   "description": "The elder commends Gaius for faithfully helping brothers and strangers who went out for Christ's name, contrasts Diotrephes who loves preeminence and rejects them, and says to imitate good and not evil, with Demetrius well reported.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "3JN 1:1-14"
+   ],
+   "evidence": [
+    "Say what Gaius does that the elder praises",
+    "Describe what Diotrephes does",
+    "Say why the elder says we should receive such travellers"
+   ],
+   "prompt": "Can {{name}} contrast what Gaius does with what Diotrephes does?"
+  },
+  {
+   "id": "book_jud",
+   "type": "BOOK_OVERVIEW",
+   "name": "Jude: overview",
+   "description": "Jude, a servant of Jesus Christ and brother of James, urges believers to contend for the faith once delivered, warns of ungodly men who crept in, recalls examples of judgment, and ends with a call to keep in God's love and a doxology.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JUD 1"
+   ],
+   "evidence": [
+    "Say who wrote Jude",
+    "Say what Jude urges in verse 3"
+   ],
+   "prompt": "Can {{name}} say what Jude asks believers to contend for?"
+  },
+  {
+   "id": "jud_contend_faith",
+   "type": "THEME",
+   "name": "Contend for the faith once delivered",
+   "description": "Jude says he had to urge believers to contend earnestly for the faith once delivered to the saints because ungodly men had crept in who turn grace into licence and deny the Lord.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JUD 1:1-4"
+   ],
+   "evidence": [
+    "Say who Jude addresses in verse 1",
+    "Describe the men in verse 4"
+   ],
+   "prompt": "Can {{name}} explain why Jude says he had to write about contending for the faith?"
+  },
+  {
+   "id": "jud_examples_of_judgment",
+   "type": "THEME",
+   "name": "Examples of judgment: unbelievers, angels and Sodom",
+   "description": "Jude recalls that the Lord destroyed those who did not believe after saving a people out of Egypt, that angels who left their place are kept in chains until judgment, and that Sodom and Gomorrha suffer the vengeance of eternal fire.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JUD 1:5-7"
+   ],
+   "evidence": [
+    "List the three examples in verses 5-7",
+    "Say what Sodom and Gomorrha are set forth as"
+   ],
+   "prompt": "Can {{name}} name the three examples of judgment Jude gives?"
+  },
+  {
+   "id": "jud_ungodly_men",
+   "type": "THEME",
+   "name": "The ungodly men described: Cain, Balaam, Core and Enoch's prophecy",
+   "description": "Jude says these dreamers despise authority, have gone in the way of Cain, the error of Balaam and the rebellion of Core, are like waterless clouds and fruitless trees, and that Enoch prophesied the Lord comes to judge the ungodly.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JUD 1:8-16"
+   ],
+   "evidence": [
+    "Say what Jude says about Michael in verse 9",
+    "Name the three figures in verse 11",
+    "Describe the pictures from nature in verses 12-13",
+    "Say what Enoch prophesied in verses 14-15"
+   ],
+   "prompt": "Can {{name}} describe the false men in Jude using the examples and pictures Jude gives?"
+  },
+  {
+   "id": "jud_keep_yourselves",
+   "type": "THEME",
+   "name": "Keep yourselves in the love of God and the doxology",
+   "description": "Jude reminds believers of the apostles' warning about mockers, tells them to build themselves up in faith, pray in the Holy Ghost, keep in God's love and show mercy to doubters, and ends praising him who is able to keep them from falling.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JUD 1:17-25"
+   ],
+   "evidence": [
+    "List Jude's commands in verses 20-23",
+    "Say who is able to keep them from falling"
+   ],
+   "prompt": "Can {{name}} say how Jude tells believers to keep themselves and whom he praises?"
+  },
+  {
+   "id": "book_rev",
+   "type": "BOOK_OVERVIEW",
+   "name": "Revelation: overview",
+   "description": "Revelation is the revelation of Jesus Christ given to John on Patmos: letters to seven churches, a vision of the throne in heaven, the Lamb, series of seals, trumpets and bowls, and the end in the new Jerusalem.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 1..22"
+   ],
+   "evidence": [
+    "Say who gave the revelation and to whom",
+    "Name the main parts: churches, throne, Lamb, judgments, new heaven and earth",
+    "Say what is promised to the one who reads and keeps it in 1:3"
+   ],
+   "prompt": "Can {{name}} outline the main parts of Revelation as the book itself presents them?"
+  },
+  {
+   "id": "rev_prologue",
+   "type": "THEME",
+   "name": "Prologue: the revelation of Jesus Christ",
+   "description": "John introduces the revelation Jesus Christ gave, blesses those who read, hear and keep it, greets the seven churches from the God who is, was and is to come and from Jesus Christ, and announces that he cometh with clouds.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 1:1-8"
+   ],
+   "evidence": [
+    "Say who is the source of the revelation in 1:1",
+    "Name what Jesus is called in 1:5",
+    "Describe what 1:7 says about his coming"
+   ],
+   "prompt": "Can {{name}} say how Revelation introduces itself and who Jesus is in these verses?"
+  },
+  {
+   "id": "rev_vision_christ",
+   "type": "THEME",
+   "name": "John's vision of Christ among the lampstands",
+   "description": "John on Patmos hears a voice and sees one like the Son of man among seven golden candlesticks, with eyes like fire and a two-edged sword from his mouth, who says he is first and last, alive for evermore, holding the keys of death and hell.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 1:9-20"
+   ],
+   "evidence": [
+    "Describe what John saw",
+    "Say what Christ says about himself in 1:17-18",
+    "Say what the seven stars and seven candlesticks are in 1:20"
+   ],
+   "prompt": "Can {{name}} describe the vision of Christ in Revelation 1 and what he says to John?"
+  },
+  {
+   "id": "rev_ephesus",
+   "type": "THEME",
+   "name": "Letter to Ephesus: leaving the first love",
+   "description": "Christ commends Ephesus for works, patience and testing false apostles, but says they have left their first love and must repent; to the one who overcomes he promises the tree of life.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 2:1-7"
+   ],
+   "evidence": [
+    "Say what Christ commends and what he has against Ephesus",
+    "State the promise to the one who overcomes"
+   ],
+   "prompt": "Can {{name}} say what Christ praises and corrects in the church at Ephesus?"
+  },
+  {
+   "id": "rev_smyrna",
+   "type": "THEME",
+   "name": "Letter to Smyrna: faithful unto death",
+   "description": "Christ, who was dead and is alive, tells poor but rich Smyrna not to fear coming suffering, to be faithful unto death, and promises the crown of life and no hurt from the second death.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 2:8-11"
+   ],
+   "evidence": [
+    "Say what Christ says not to fear",
+    "State the promise in 2:10-11"
+   ],
+   "prompt": "Can {{name}} say what Christ promises to the faithful at Smyrna?"
+  },
+  {
+   "id": "rev_pergamos",
+   "type": "THEME",
+   "name": "Letter to Pergamos: holding fast, yet holding false teaching",
+   "description": "Christ commends Pergamos for holding his name even where Satan dwells and where Antipas was killed, but rebukes them for holding the teaching of Balaam and of the Nicolaitanes, and calls them to repent.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 2:12-17"
+   ],
+   "evidence": [
+    "Say what Pergamos did well",
+    "Name the wrong teachings Christ names",
+    "State the promise in 2:17"
+   ],
+   "prompt": "Can {{name}} say what Christ commends and rebukes at Pergamos?"
+  },
+  {
+   "id": "rev_thyatira",
+   "type": "THEME",
+   "name": "Letter to Thyatira: Jezebel and holding fast",
+   "description": "Christ commends Thyatira's love, service, faith and patience, rebukes them for tolerating Jezebel who teaches fornication and idol food, and tells the rest to hold fast until he comes, promising power over nations and the morning star.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 2:18-29"
+   ],
+   "evidence": [
+    "Say what Christ commends in 2:19",
+    "Describe the charge in 2:20",
+    "State the promise in 2:26-28"
+   ],
+   "prompt": "Can {{name}} explain what Christ says about Jezebel and about those who did not follow her?"
+  },
+  {
+   "id": "rev_sardis",
+   "type": "THEME",
+   "name": "Letter to Sardis: a name that thou livest, and art dead",
+   "description": "Christ tells Sardis that they have a name for being alive but are dead, calls them to watch and repent, notes a few who have not defiled their garments, and promises white raiment and his confession of the name of the one who overcomes.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 3:1-6"
+   ],
+   "evidence": [
+    "Say what Christ says about Sardis' reputation",
+    "Describe the promise in 3:4-5"
+   ],
+   "prompt": "Can {{name}} tell what Christ says to the church at Sardis and what he promises to the few?"
+  },
+  {
+   "id": "rev_philadelphia",
+   "type": "THEME",
+   "name": "Letter to Philadelphia: the open door",
+   "description": "Christ, holy and true, holding the key of David, tells Philadelphia he has set before them an open door, they kept his word, he will keep them from the hour of temptation, and the overcomer will be a pillar in his temple with the name of the new Jerusalem.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 3:7-13"
+   ],
+   "evidence": [
+    "Describe what Christ has set before Philadelphia",
+    "State the promise to the one who overcomes in 3:12"
+   ],
+   "prompt": "Can {{name}} say what Christ commends and promises to the church at Philadelphia?"
+  },
+  {
+   "id": "rev_laodicea",
+   "type": "THEME",
+   "name": "Letter to Laodicea: lukewarm, and Christ at the door",
+   "description": "Christ rebukes Laodicea for being neither cold nor hot and for saying they are rich while they are wretched, counsels them to buy gold, white raiment and eyesalve from him, and says he stands at the door and knocks.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 3:14-22"
+   ],
+   "evidence": [
+    "Describe what Laodicea thinks of itself and what Christ says they are",
+    "Explain the picture in 3:20",
+    "State the promise to the overcomer in 3:21"
+   ],
+   "prompt": "Can {{name}} explain what Christ says to Laodicea and the invitation in 3:20?"
+  },
+  {
+   "id": "rev_throne_heaven",
+   "type": "THEME",
+   "name": "The throne in heaven",
+   "description": "John is called up through an open door and sees a throne with one sitting on it, a rainbow, twenty-four elders in white with crowns, four living creatures crying holy, holy, holy, and all worship God as Creator.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 4:1-11"
+   ],
+   "evidence": [
+    "Describe what surrounds the throne",
+    "Say what the four beasts and the elders say and do",
+    "Say why God is worthy according to 4:11"
+   ],
+   "prompt": "Can {{name}} describe the throne room scene and what the worshippers say?"
+  },
+  {
+   "id": "rev_lamb_scroll",
+   "type": "THEME",
+   "name": "The sealed scroll and the Lamb",
+   "description": "John weeps that no one can open the sealed scroll until the Lion of the tribe of Juda appears as a Lamb as though slain, takes the scroll, and heaven and every creature worship him as worthy because he redeemed people from every nation by his blood.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 5:1-14"
+   ],
+   "evidence": [
+    "Say why John wept and what was announced",
+    "Describe the Lamb and what he does",
+    "Say what the new song says about why he is worthy"
+   ],
+   "prompt": "Can {{name}} explain who is worthy to open the scroll and why?"
+  },
+  {
+   "id": "rev_six_seals",
+   "type": "THEME",
+   "name": "The first six seals",
+   "description": "The Lamb opens six seals: four horsemen, the souls under the altar crying how long, and a great earthquake with the sun black and the moon as blood, so that people hide from the wrath of the Lamb.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 6:1-17"
+   ],
+   "evidence": [
+    "List the four horses and what each rider holds or does",
+    "Describe the cry of the souls under the altar and the answer they receive",
+    "Say how the people respond to the sixth seal"
+   ],
+   "prompt": "Can {{name}} describe the six seals in order as John sees them?"
+  },
+  {
+   "id": "rev_sealed_multitude",
+   "type": "THEME",
+   "name": "The sealed servants and the great multitude",
+   "description": "Before the winds are released, 144,000 servants from the tribes of Israel are sealed, and John then sees a countless multitude from all nations in white robes before the throne and the Lamb, who came out of great tribulation.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 7:1-17"
+   ],
+   "evidence": [
+    "Describe the sealing in 7:1-8",
+    "Say who the great multitude is according to 7:13-14",
+    "State what God and the Lamb do for them in 7:15-17"
+   ],
+   "prompt": "Can {{name}} describe the two groups in Revelation 7 and what the text says about the multitude?"
+  },
+  {
+   "id": "rev_seventh_seal_trumpets",
+   "type": "THEME",
+   "name": "The seventh seal and the first four trumpets",
+   "description": "The seventh seal brings silence in heaven, seven angels receive trumpets, an angel offers incense with the prayers of the saints, and the first four trumpets strike a third of the earth, sea, rivers and lights, ending with a cry of woe.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 8:1-13"
+   ],
+   "evidence": [
+    "Say what happens at the seventh seal",
+    "Describe what the first four trumpets strike",
+    "Say what the flying angel announces in 8:13"
+   ],
+   "prompt": "Can {{name}} describe the first four trumpets as they are given in chapter 8?"
+  },
+  {
+   "id": "rev_fifth_sixth_trumpet",
+   "type": "THEME",
+   "name": "The fifth and sixth trumpets",
+   "description": "At the fifth trumpet the bottomless pit is opened and locusts torment people who lack the seal of God, and at the sixth four angels at the Euphrates are loosed with a great army, yet the rest do not repent.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 9:1-21"
+   ],
+   "evidence": [
+    "Describe the fifth trumpet and who is harmed",
+    "Say what the sixth trumpet looses",
+    "Say what the surviving people fail to do in 9:20-21"
+   ],
+   "prompt": "Can {{name}} say what happens at the fifth and sixth trumpets and how people respond?"
+  },
+  {
+   "id": "rev_angel_little_book",
+   "type": "THEME",
+   "name": "The mighty angel and the little book",
+   "description": "A mighty angel stands on sea and land and swears by the Creator that there will be no more delay, and John is told to take and eat the little book, sweet in his mouth and bitter in his belly, and to prophesy again.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 10:1-11"
+   ],
+   "evidence": [
+    "Describe the angel and what he swears",
+    "Say what John does with the little book",
+    "Say what John is told to do afterward"
+   ],
+   "prompt": "Can {{name}} retell what John is told and shown in Revelation 10?"
+  },
+  {
+   "id": "rev_two_witnesses",
+   "type": "THEME",
+   "name": "The temple measured and the two witnesses",
+   "description": "John is told to measure the temple while the court is given to the Gentiles, and two witnesses prophesy in sackcloth, are killed by the beast from the pit, lie in the great city three and a half days, and are raised and called up to heaven.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 11:1-14"
+   ],
+   "evidence": [
+    "Describe what John is told to measure and not measure",
+    "Describe the two witnesses and what happens to them",
+    "Say how the survivors respond in 11:13"
+   ],
+   "prompt": "Can {{name}} retell what the two witnesses do and what happens to them in Revelation 11?"
+  },
+  {
+   "id": "rev_seventh_trumpet",
+   "type": "THEME",
+   "name": "The seventh trumpet: the kingdoms become the Lord's",
+   "description": "At the seventh trumpet loud voices in heaven say the kingdoms of this world have become those of the Lord and his Christ, the elders worship, and the temple in heaven opens to show the ark of his testament.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 11:15-19"
+   ],
+   "evidence": [
+    "Say what the voices announce in 11:15",
+    "Say what the elders thank God for in 11:17-18",
+    "Describe what is seen in the temple in 11:19"
+   ],
+   "prompt": "Can {{name}} say what is announced when the seventh angel sounds?"
+  },
+  {
+   "id": "rev_woman_dragon",
+   "type": "THEME",
+   "name": "The woman, the dragon and the man child",
+   "description": "John sees a woman clothed with the sun who bears a man child who is caught up to God, a great red dragon who tries to devour the child, war in heaven in which the dragon is cast down, and the dragon's pursuit of the woman and her seed.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 12:1-17"
+   ],
+   "evidence": [
+    "Describe the woman, the dragon and the child",
+    "Say who the dragon is named in 12:9",
+    "Say how the saints overcome him in 12:11",
+    "Describe what the dragon does after he is cast down"
+   ],
+   "prompt": "Can {{name}} describe the main figures of Revelation 12 and what the text says each does?"
+  },
+  {
+   "id": "rev_two_beasts",
+   "type": "THEME",
+   "name": "The beast from the sea and the beast from the earth",
+   "description": "John sees a beast rise out of the sea receiving authority from the dragon and making war on the saints, and a second beast from the earth that makes people worship the first, speaks as a dragon, and imposes a mark and the number 666.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 13:1-18"
+   ],
+   "evidence": [
+    "Describe the first beast and what it is given",
+    "Describe what the second beast does",
+    "Say whose names are not written in the book of life in 13:8"
+   ],
+   "prompt": "Can {{name}} describe both beasts in Revelation 13 and what they cause people to do?"
+  },
+  {
+   "id": "rev_lamb_zion_harvest",
+   "type": "THEME",
+   "name": "The Lamb on Zion, three angels and the harvest",
+   "description": "John sees the Lamb on mount Sion with 144,000 redeemed, three angels announcing the everlasting gospel, Babylon's fall and a warning about the beast's mark, a blessing on the dead in the Lord, and the harvest and winepress of God's wrath.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 14:1-20"
+   ],
+   "evidence": [
+    "Describe the 144,000 and their song",
+    "List the messages of the three angels",
+    "Describe the two images of harvest and winepress"
+   ],
+   "prompt": "Can {{name}} list the sights and the three angels' messages in Revelation 14?"
+  },
+  {
+   "id": "rev_song_of_moses_bowls",
+   "type": "THEME",
+   "name": "The song of Moses and the Lamb; seven angels with bowls",
+   "description": "John sees seven angels with the seven last plagues and those who conquered the beast singing the song of Moses and of the Lamb on a sea of glass, after which the angels receive golden bowls of God's wrath and the temple fills with smoke.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 15:1-8"
+   ],
+   "evidence": [
+    "Say who sings and what they sing about",
+    "Describe what the seven angels are given"
+   ],
+   "prompt": "Can {{name}} describe the scene before the seven bowls are poured out?"
+  },
+  {
+   "id": "rev_seven_bowls",
+   "type": "THEME",
+   "name": "The seven bowls of wrath",
+   "description": "The seven angels pour out bowls on the earth, sea, rivers, sun, the beast's throne, Euphrates and air, with a call to watch, gathering at Armageddon, a great earthquake and Babylon remembered before God, while people curse God and do not repent.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 16:1-21"
+   ],
+   "evidence": [
+    "List what each of the seven bowls is poured on",
+    "Say what the angel of the waters says about God in 16:5-7",
+    "Say how people respond in 16:9, 11 and 21"
+   ],
+   "prompt": "Can {{name}} list the seven bowls and how people respond?"
+  },
+  {
+   "id": "rev_babylon_woman_beast",
+   "type": "THEME",
+   "name": "The woman on the scarlet beast",
+   "description": "An angel shows John the judgment of the great whore, Babylon the great, seated on a scarlet beast with seven heads and ten horns and drunk with the blood of the saints; the angel explains the mystery and says the Lamb will overcome the beast's allies.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "REV 17:1-18"
+   ],
+   "evidence": [
+    "Describe the woman and the beast",
+    "Say what the angel says the waters and the woman are in 17:15, 18",
+    "Say what 17:14 says about the Lamb"
+   ],
+   "prompt": "Can {{name}} describe what John sees in Revelation 17 and what the angel explains?"
+  },
+  {
+   "id": "rev_babylon_falls",
+   "type": "THEME",
+   "name": "The fall of Babylon",
+   "description": "An angel announces that Babylon the great has fallen, a voice calls God's people to come out of her, and kings, merchants and sailors mourn her sudden ruin while heaven is told to rejoice.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "REV 18:1-24"
+   ],
+   "evidence": [
+    "Say what the voice tells God's people in 18:4",
+    "Describe who mourns and why in 18:9-19",
+    "Say what heaven is told in 18:20"
+   ],
+   "prompt": "Can {{name}} describe what happens to Babylon in Revelation 18 and who mourns?"
+  },
+  {
+   "id": "rev_marriage_supper",
+   "type": "THEME",
+   "name": "Hallelujah and the marriage supper of the Lamb",
+   "description": "A great multitude in heaven praises God for judging the great whore, announces that the Lord God omnipotent reigns and that the marriage of the Lamb has come, and John is told that those called to the marriage supper are blessed.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "REV 19:1-10"
+   ],
+   "evidence": [
+    "Say why the multitude rejoices in 19:1-2",
+    "Describe the bride and her clothing in 19:7-8",
+    "Say what the angel tells John when he falls to worship"
+   ],
+   "prompt": "Can {{name}} say what is celebrated in heaven in Revelation 19:1-10?"
+  },
+  {
+   "id": "rev_rider_white_horse",
+   "type": "THEME",
+   "name": "The rider on the white horse and the defeat of the beast",
+   "description": "Heaven opens and one called Faithful and True, The Word of God and King of kings, rides a white horse with a sharp sword from his mouth, and the beast and the false prophet are taken and cast into the lake of fire.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "REV 19:11-21"
+   ],
+   "evidence": [
+    "Describe the rider and the names written on him",
+    "Say what happens to the beast and the false prophet"
+   ],
+   "prompt": "Can {{name}} describe the rider on the white horse and what happens to the beast?"
+  },
+  {
+   "id": "rev_thousand_years",
+   "type": "THEME",
+   "name": "The binding of Satan and the thousand years",
+   "description": "An angel binds the dragon, that old serpent, for a thousand years; John sees thrones and those who lived and reigned with Christ a thousand years, called the first resurrection, and the text says the rest of the dead lived not again until the thousand years ended.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "REV 20:1-6"
+   ],
+   "evidence": [
+    "Describe what happens to Satan in 20:1-3",
+    "Say what John sees about those on the thrones in 20:4-6",
+    "Say what is called the first resurrection"
+   ],
+   "prompt": "Can {{name}} say what Revelation 20:1-6 describes without adding more than the text says?"
+  },
+  {
+   "id": "rev_final_judgment",
+   "type": "THEME",
+   "name": "Satan loosed, the great white throne and the lake of fire",
+   "description": "After the thousand years Satan is loosed and gathers Gog and Magog, fire from God devours them, the devil is cast into the lake of fire, and the dead are judged before a great white throne by their works, with death and hell cast into the lake of fire and those not in the book of life.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "REV 20:7-15"
+   ],
+   "evidence": [
+    "Describe what Satan does when loosed and what happens to him",
+    "Say what is judged and by what in 20:12-13",
+    "Say what is cast into the lake of fire in 20:14-15"
+   ],
+   "prompt": "Can {{name}} describe the great white throne judgment as Revelation 20:11-15 shows it?"
+  },
+  {
+   "id": "rev_new_heaven_earth",
+   "type": "THEME",
+   "name": "A new heaven and a new earth",
+   "description": "John sees a new heaven and new earth and the holy city, new Jerusalem, coming down from God as a bride; God dwells with his people, wipes away every tear, and says he makes all things new, while the unbelieving have their part in the lake of fire.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 21:1-8"
+   ],
+   "evidence": [
+    "Say what the voice says about God dwelling with men",
+    "List what is gone in 21:4",
+    "Say what God says in 21:5-7"
+   ],
+   "prompt": "Can {{name}} say what God promises in Revelation 21:1-8?"
+  },
+  {
+   "id": "rev_new_jerusalem",
+   "type": "THEME",
+   "name": "The holy city, new Jerusalem",
+   "description": "An angel shows John the bride, the Lamb's wife, as a city with the glory of God, twelve gates named for the tribes of Israel and twelve foundations named for the apostles, no temple because God and the Lamb are its temple, and only those written in the Lamb's book of life entering.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 21:9-27"
+   ],
+   "evidence": [
+    "Describe the walls, gates and foundations",
+    "Say why there is no temple and no need of sun",
+    "Say who enters according to 21:27"
+   ],
+   "prompt": "Can {{name}} describe the city John sees and what is said about its light and temple?"
+  },
+  {
+   "id": "rev_river_tree_of_life",
+   "type": "THEME",
+   "name": "The river of life and the tree of life",
+   "description": "John sees the river of the water of life from the throne of God and of the Lamb, with the tree of life on either side bearing twelve fruits and healing the nations, no more curse, and the servants seeing God's face and reigning for ever.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 22:1-5"
+   ],
+   "evidence": [
+    "Describe the river and the tree",
+    "Say what 22:3 says about the curse",
+    "Say what God's servants do according to 22:3-5"
+   ],
+   "prompt": "Can {{name}} describe what Revelation 22:1-5 says is in the city?"
+  },
+  {
+   "id": "rev_epilogue",
+   "type": "THEME",
+   "name": "Epilogue: I come quickly, the invitation and the warning",
+   "description": "The angel and Jesus confirm the words are faithful and true, Jesus says he comes quickly with his reward and is the Alpha and Omega and the bright and morning star, the Spirit and the bride say Come and invite the thirsty, a warning is given about adding to or taking from the book, and the book ends with the grace of the Lord Jesus.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "REV 22:6-21"
+   ],
+   "evidence": [
+    "Say what Jesus says about himself in 22:12-16",
+    "Quote the invitation of 22:17 in your own words",
+    "Say what the warning in 22:18-19 is about"
+   ],
+   "prompt": "Can {{name}} say how Revelation ends and what invitation it gives?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "jas_trials_wisdom",
+   "prereq": "book_jas",
+   "strength": "soft",
+   "reason": "James 1:1 gives the greeting and setting of the letter overview"
+  },
+  {
+   "topic": "jas_temptation_word",
+   "prereq": "jas_trials_wisdom",
+   "strength": "soft",
+   "reason": "James 1:13 returns to temptation after the trials of 1:2-12"
+  },
+  {
+   "topic": "jas_partiality",
+   "prereq": "jas_temptation_word",
+   "strength": "soft",
+   "reason": "James 2:1 applies being doers of the word (1:22-27) to the assembly"
+  },
+  {
+   "topic": "jas_faith_works",
+   "prereq": "jas_partiality",
+   "strength": "soft",
+   "reason": "James 2:14 continues the argument about works after the royal law of 2:8-13"
+  },
+  {
+   "topic": "jas_tongue",
+   "prereq": "jas_faith_works",
+   "strength": "soft",
+   "reason": "James 3:1-2 follows chapter 2 and picks up offending in word"
+  },
+  {
+   "topic": "jas_two_wisdoms",
+   "prereq": "jas_tongue",
+   "strength": "soft",
+   "reason": "James 3:13 asks who is wise after the teaching on the tongue"
+  },
+  {
+   "topic": "jas_friendship_world",
+   "prereq": "jas_two_wisdoms",
+   "strength": "soft",
+   "reason": "James 4:1 asks where fightings come from, answering the envy and strife of 3:14-16"
+  },
+  {
+   "topic": "jas_judging_boasting",
+   "prereq": "jas_friendship_world",
+   "strength": "soft",
+   "reason": "James 4:11 continues the commands about speech and humility after 4:10"
+  },
+  {
+   "topic": "jas_rich_oppressors",
+   "prereq": "jas_judging_boasting",
+   "strength": "soft",
+   "reason": "James 5:1 turns from the boasting merchants of 4:13-16 to the rich"
+  },
+  {
+   "topic": "jas_patience_oaths",
+   "prereq": "jas_rich_oppressors",
+   "strength": "soft",
+   "reason": "James 5:7 urges patience in response to the oppression described in 5:1-6"
+  },
+  {
+   "topic": "jas_prayer_restoration",
+   "prereq": "jas_patience_oaths",
+   "strength": "soft",
+   "reason": "James 5:13 follows the exhortation to patience and speech in 5:7-12"
+  },
+  {
+   "topic": "jas_faith_works",
+   "prereq": "bt_rom_justification",
+   "strength": "soft",
+   "reason": "James 2:24 speaks of being justified, the term Romans 3-4 develops"
+  },
+  {
+   "topic": "1pe_living_hope",
+   "prereq": "book_1pe",
+   "strength": "soft",
+   "reason": "1 Peter 1:1-2 opens the letter whose themes the overview gives"
+  },
+  {
+   "topic": "1pe_holy_redeemed",
+   "prereq": "1pe_living_hope",
+   "strength": "soft",
+   "reason": "1 Peter 1:13 begins with Wherefore, drawing a conclusion from the hope in 1:3-12"
+  },
+  {
+   "topic": "1pe_living_stone",
+   "prereq": "1pe_holy_redeemed",
+   "strength": "soft",
+   "reason": "1 Peter 2:1 begins with Wherefore and follows the new birth by the word in 1:23-25"
+  },
+  {
+   "topic": "1pe_pilgrims_submission",
+   "prereq": "1pe_living_stone",
+   "strength": "soft",
+   "reason": "1 Peter 2:11 addresses as strangers and pilgrims the people of God described in 2:9-10"
+  },
+  {
+   "topic": "1pe_christ_example",
+   "prereq": "1pe_pilgrims_submission",
+   "strength": "soft",
+   "reason": "1 Peter 2:21 grounds the servants' endurance of 2:18-20 in Christ's example"
+  },
+  {
+   "topic": "1pe_wives_husbands",
+   "prereq": "1pe_pilgrims_submission",
+   "strength": "soft",
+   "reason": "1 Peter 3:1 begins with Likewise, continuing the submission teaching of 2:13-18"
+  },
+  {
+   "topic": "1pe_suffer_for_good",
+   "prereq": "1pe_wives_husbands",
+   "strength": "soft",
+   "reason": "1 Peter 3:8 begins with Finally, closing the household instructions of 3:1-7"
+  },
+  {
+   "topic": "1pe_christ_suffered_once",
+   "prereq": "1pe_suffer_for_good",
+   "strength": "soft",
+   "reason": "1 Peter 3:18 gives Christ's suffering as ground for suffering for well doing in 3:17"
+  },
+  {
+   "topic": "1pe_live_for_god",
+   "prereq": "1pe_christ_suffered_once",
+   "strength": "soft",
+   "reason": "1 Peter 4:1 begins Forasmuch then as Christ hath suffered"
+  },
+  {
+   "topic": "1pe_fiery_trial",
+   "prereq": "1pe_live_for_god",
+   "strength": "soft",
+   "reason": "1 Peter 4:12 returns to suffering after the exhortations of 4:7-11"
+  },
+  {
+   "topic": "1pe_elders_humility",
+   "prereq": "1pe_fiery_trial",
+   "strength": "soft",
+   "reason": "1 Peter 5:1 exhorts elders who are witnesses of Christ's sufferings, following the teaching on suffering in 4:12-19"
+  },
+  {
+   "topic": "1pe_christ_suffered_once",
+   "prereq": "bt_gen_flood",
+   "strength": "soft",
+   "reason": "1 Peter 3:20 refers to the days of Noah and the ark, told in Genesis 6-8"
+  },
+  {
+   "topic": "2pe_precious_promises",
+   "prereq": "book_2pe",
+   "strength": "soft",
+   "reason": "2 Peter 1:1 opens the letter whose overview is given"
+  },
+  {
+   "topic": "2pe_eyewitness_prophecy",
+   "prereq": "2pe_precious_promises",
+   "strength": "soft",
+   "reason": "2 Peter 1:12 says Peter will remind them of these things, those of 1:3-11"
+  },
+  {
+   "topic": "2pe_false_teachers",
+   "prereq": "2pe_eyewitness_prophecy",
+   "strength": "soft",
+   "reason": "2 Peter 2:1 contrasts false prophets with the holy men moved by the Holy Ghost in 1:21"
+  },
+  {
+   "topic": "2pe_false_teachers_portrait",
+   "prereq": "2pe_false_teachers",
+   "strength": "soft",
+   "reason": "2 Peter 2:10 continues describing the unjust of 2:9"
+  },
+  {
+   "topic": "2pe_scoffers",
+   "prereq": "2pe_false_teachers_portrait",
+   "strength": "soft",
+   "reason": "2 Peter 3:3 warns of scoffers after the false teachers of chapter 2"
+  },
+  {
+   "topic": "2pe_day_of_lord",
+   "prereq": "2pe_scoffers",
+   "strength": "soft",
+   "reason": "2 Peter 3:10 describes the day whose delay the scoffers question in 3:4"
+  },
+  {
+   "topic": "2pe_false_teachers",
+   "prereq": "bt_gen_flood",
+   "strength": "soft",
+   "reason": "2 Peter 2:5 refers to Noah and the flood told in Genesis 6-8"
+  },
+  {
+   "topic": "2pe_false_teachers",
+   "prereq": "bt_gen_sodom_destroyed",
+   "strength": "soft",
+   "reason": "2 Peter 2:6-7 refers to Sodom and Gomorrha and Lot, told in Genesis 19"
+  },
+  {
+   "topic": "1jn_fellowship_light",
+   "prereq": "book_1jn",
+   "strength": "soft",
+   "reason": "1 John 1:1-4 states the purpose of the letter given in the overview"
+  },
+  {
+   "topic": "1jn_advocate_obedience",
+   "prereq": "1jn_fellowship_light",
+   "strength": "soft",
+   "reason": "1 John 2:1 continues the topic of sin begun in 1:8-10"
+  },
+  {
+   "topic": "1jn_old_new_commandment",
+   "prereq": "1jn_advocate_obedience",
+   "strength": "soft",
+   "reason": "1 John 2:7 follows 2:3-6 on keeping commandments and walking as he walked"
+  },
+  {
+   "topic": "1jn_world_antichrists",
+   "prereq": "1jn_old_new_commandment",
+   "strength": "soft",
+   "reason": "1 John 2:15 follows the address to fathers, young men and children in 2:12-14"
+  },
+  {
+   "topic": "1jn_abide_children_of_god",
+   "prereq": "1jn_world_antichrists",
+   "strength": "soft",
+   "reason": "1 John 2:28 tells the readers to abide, building on the abiding in 2:24-27"
+  },
+  {
+   "topic": "1jn_love_in_deed",
+   "prereq": "1jn_abide_children_of_god",
+   "strength": "soft",
+   "reason": "1 John 3:10 ends with loving the brother, which 3:11 develops"
+  },
+  {
+   "topic": "1jn_test_spirits",
+   "prereq": "1jn_love_in_deed",
+   "strength": "soft",
+   "reason": "1 John 4:1 follows the Spirit given in 3:24"
+  },
+  {
+   "topic": "1jn_god_is_love",
+   "prereq": "1jn_test_spirits",
+   "strength": "soft",
+   "reason": "1 John 4:7 returns to love after the teaching on spirits"
+  },
+  {
+   "topic": "1jn_born_of_god_victory",
+   "prereq": "1jn_god_is_love",
+   "strength": "soft",
+   "reason": "1 John 5:1 builds on love being of God and born of God in 4:7"
+  },
+  {
+   "topic": "1jn_assurance_prayer",
+   "prereq": "1jn_born_of_god_victory",
+   "strength": "soft",
+   "reason": "1 John 5:13 concludes the witness about eternal life in 5:11-12"
+  },
+  {
+   "topic": "1jn_love_in_deed",
+   "prereq": "bt_gen_cain_abel",
+   "strength": "soft",
+   "reason": "1 John 3:12 refers to Cain who killed his brother, told in Genesis 4"
+  },
+  {
+   "topic": "2jn_truth_love_deceivers",
+   "prereq": "book_2jn",
+   "strength": "soft",
+   "reason": "2 John 1:1-3 is the greeting of the letter"
+  },
+  {
+   "topic": "2jn_truth_love_deceivers",
+   "prereq": "1jn_old_new_commandment",
+   "strength": "soft",
+   "reason": "2 John 1:5-6 speaks of the commandment of love had from the beginning, as in 1 John 2:7"
+  },
+  {
+   "topic": "2jn_truth_love_deceivers",
+   "prereq": "1jn_test_spirits",
+   "strength": "soft",
+   "reason": "2 John 1:7 describes deceivers who deny that Jesus Christ is come in the flesh, as in 1 John 4:2-3"
+  },
+  {
+   "topic": "3jn_gaius_diotrephes",
+   "prereq": "book_3jn",
+   "strength": "soft",
+   "reason": "3 John 1:1 is the greeting of the letter"
+  },
+  {
+   "topic": "jud_contend_faith",
+   "prereq": "book_jud",
+   "strength": "soft",
+   "reason": "Jude 1:1-2 is the greeting of the letter"
+  },
+  {
+   "topic": "jud_examples_of_judgment",
+   "prereq": "jud_contend_faith",
+   "strength": "soft",
+   "reason": "Jude 1:5 recalls examples after introducing the ungodly men of verse 4"
+  },
+  {
+   "topic": "jud_ungodly_men",
+   "prereq": "jud_examples_of_judgment",
+   "strength": "soft",
+   "reason": "Jude 1:8 says Likewise also these men, linking them to the examples of verses 5-7"
+  },
+  {
+   "topic": "jud_keep_yourselves",
+   "prereq": "jud_ungodly_men",
+   "strength": "soft",
+   "reason": "Jude 1:17 begins But, beloved, in contrast to the men of verses 8-16"
+  },
+  {
+   "topic": "jud_examples_of_judgment",
+   "prereq": "bt_gen_sodom_destroyed",
+   "strength": "soft",
+   "reason": "Jude 1:7 refers to Sodom and Gomorrha, told in Genesis 19"
+  },
+  {
+   "topic": "jud_ungodly_men",
+   "prereq": "bt_gen_cain_abel",
+   "strength": "soft",
+   "reason": "Jude 1:11 refers to the way of Cain, told in Genesis 4"
+  },
+  {
+   "topic": "rev_lamb_scroll",
+   "prereq": "rev_throne_heaven",
+   "strength": "hard",
+   "reason": "Revelation 5:1 sees the scroll in the right hand of him that sat on the throne described in chapter 4"
+  },
+  {
+   "topic": "rev_throne_heaven",
+   "prereq": "rev_laodicea",
+   "strength": "soft",
+   "reason": "Revelation 4:1 begins After this, following the seven letters of chapters 2-3"
+  },
+  {
+   "topic": "rev_prologue",
+   "prereq": "book_rev",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_prologue follows that of book_rev"
+  },
+  {
+   "topic": "rev_vision_christ",
+   "prereq": "rev_prologue",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_vision_christ follows that of rev_prologue"
+  },
+  {
+   "topic": "rev_ephesus",
+   "prereq": "rev_vision_christ",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_ephesus follows that of rev_vision_christ"
+  },
+  {
+   "topic": "rev_smyrna",
+   "prereq": "rev_ephesus",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_smyrna follows that of rev_ephesus"
+  },
+  {
+   "topic": "rev_pergamos",
+   "prereq": "rev_smyrna",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_pergamos follows that of rev_smyrna"
+  },
+  {
+   "topic": "rev_thyatira",
+   "prereq": "rev_pergamos",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_thyatira follows that of rev_pergamos"
+  },
+  {
+   "topic": "rev_sardis",
+   "prereq": "rev_thyatira",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_sardis follows that of rev_thyatira"
+  },
+  {
+   "topic": "rev_philadelphia",
+   "prereq": "rev_sardis",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_philadelphia follows that of rev_sardis"
+  },
+  {
+   "topic": "rev_laodicea",
+   "prereq": "rev_philadelphia",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_laodicea follows that of rev_philadelphia"
+  },
+  {
+   "topic": "rev_six_seals",
+   "prereq": "rev_lamb_scroll",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_six_seals follows that of rev_lamb_scroll"
+  },
+  {
+   "topic": "rev_sealed_multitude",
+   "prereq": "rev_six_seals",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_sealed_multitude follows that of rev_six_seals"
+  },
+  {
+   "topic": "rev_seventh_seal_trumpets",
+   "prereq": "rev_sealed_multitude",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_seventh_seal_trumpets follows that of rev_sealed_multitude"
+  },
+  {
+   "topic": "rev_fifth_sixth_trumpet",
+   "prereq": "rev_seventh_seal_trumpets",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_fifth_sixth_trumpet follows that of rev_seventh_seal_trumpets"
+  },
+  {
+   "topic": "rev_angel_little_book",
+   "prereq": "rev_fifth_sixth_trumpet",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_angel_little_book follows that of rev_fifth_sixth_trumpet"
+  },
+  {
+   "topic": "rev_two_witnesses",
+   "prereq": "rev_angel_little_book",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_two_witnesses follows that of rev_angel_little_book"
+  },
+  {
+   "topic": "rev_seventh_trumpet",
+   "prereq": "rev_two_witnesses",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_seventh_trumpet follows that of rev_two_witnesses"
+  },
+  {
+   "topic": "rev_woman_dragon",
+   "prereq": "rev_seventh_trumpet",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_woman_dragon follows that of rev_seventh_trumpet"
+  },
+  {
+   "topic": "rev_two_beasts",
+   "prereq": "rev_woman_dragon",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_two_beasts follows that of rev_woman_dragon"
+  },
+  {
+   "topic": "rev_lamb_zion_harvest",
+   "prereq": "rev_two_beasts",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_lamb_zion_harvest follows that of rev_two_beasts"
+  },
+  {
+   "topic": "rev_song_of_moses_bowls",
+   "prereq": "rev_lamb_zion_harvest",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_song_of_moses_bowls follows that of rev_lamb_zion_harvest"
+  },
+  {
+   "topic": "rev_seven_bowls",
+   "prereq": "rev_song_of_moses_bowls",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_seven_bowls follows that of rev_song_of_moses_bowls"
+  },
+  {
+   "topic": "rev_babylon_woman_beast",
+   "prereq": "rev_seven_bowls",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_babylon_woman_beast follows that of rev_seven_bowls"
+  },
+  {
+   "topic": "rev_babylon_falls",
+   "prereq": "rev_babylon_woman_beast",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_babylon_falls follows that of rev_babylon_woman_beast"
+  },
+  {
+   "topic": "rev_marriage_supper",
+   "prereq": "rev_babylon_falls",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_marriage_supper follows that of rev_babylon_falls"
+  },
+  {
+   "topic": "rev_rider_white_horse",
+   "prereq": "rev_marriage_supper",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_rider_white_horse follows that of rev_marriage_supper"
+  },
+  {
+   "topic": "rev_thousand_years",
+   "prereq": "rev_rider_white_horse",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_thousand_years follows that of rev_rider_white_horse"
+  },
+  {
+   "topic": "rev_final_judgment",
+   "prereq": "rev_thousand_years",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_final_judgment follows that of rev_thousand_years"
+  },
+  {
+   "topic": "rev_new_heaven_earth",
+   "prereq": "rev_final_judgment",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_new_heaven_earth follows that of rev_final_judgment"
+  },
+  {
+   "topic": "rev_new_jerusalem",
+   "prereq": "rev_new_heaven_earth",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_new_jerusalem follows that of rev_new_heaven_earth"
+  },
+  {
+   "topic": "rev_river_tree_of_life",
+   "prereq": "rev_new_jerusalem",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_river_tree_of_life follows that of rev_new_jerusalem"
+  },
+  {
+   "topic": "rev_epilogue",
+   "prereq": "rev_river_tree_of_life",
+   "strength": "soft",
+   "reason": "Revelation chapter order: the passage of rev_epilogue follows that of rev_river_tree_of_life"
+  }
+ ],
+ "relations": [
+  {
+   "from": "jas_faith_works",
+   "to": "bt_gen_abraham_believed",
+   "kind": "parallels",
+   "refs": [
+    "JAS 2:21-23",
+    "GEN 15:6"
+   ]
+  },
+  {
+   "from": "jas_faith_works",
+   "to": "bt_gen_abraham_isaac",
+   "kind": "parallels",
+   "refs": [
+    "JAS 2:21",
+    "GEN 22:9-12"
+   ]
+  },
+  {
+   "from": "1pe_christ_suffered_once",
+   "to": "bt_gen_flood",
+   "kind": "parallels",
+   "refs": [
+    "1PE 3:20",
+    "GEN 7:7"
+   ]
+  },
+  {
+   "from": "1pe_wives_husbands",
+   "to": "bt_gen_three_visitors",
+   "kind": "parallels",
+   "refs": [
+    "1PE 3:6",
+    "GEN 18:12"
+   ]
+  },
+  {
+   "from": "2pe_false_teachers",
+   "to": "bt_gen_flood",
+   "kind": "parallels",
+   "refs": [
+    "2PE 2:5",
+    "GEN 7:23"
+   ]
+  },
+  {
+   "from": "2pe_false_teachers",
+   "to": "bt_gen_sodom_destroyed",
+   "kind": "parallels",
+   "refs": [
+    "2PE 2:6-7",
+    "GEN 19:24-25"
+   ]
+  },
+  {
+   "from": "2pe_scoffers",
+   "to": "bt_gen_flood",
+   "kind": "parallels",
+   "refs": [
+    "2PE 3:5-6",
+    "GEN 7:23"
+   ]
+  },
+  {
+   "from": "1jn_love_in_deed",
+   "to": "bt_gen_cain_abel",
+   "kind": "parallels",
+   "refs": [
+    "1JN 3:12",
+    "GEN 4:8"
+   ]
+  },
+  {
+   "from": "jud_examples_of_judgment",
+   "to": "bt_gen_sodom_destroyed",
+   "kind": "parallels",
+   "refs": [
+    "JUD 1:7",
+    "GEN 19:24-25"
+   ]
+  },
+  {
+   "from": "2pe_false_teachers",
+   "to": "jud_examples_of_judgment",
+   "kind": "parallels",
+   "refs": [
+    "2PE 2:4-6",
+    "JUD 1:6-7"
+   ]
+  },
+  {
+   "from": "rev_lamb_scroll",
+   "to": "bt_gen_judah_blessing",
+   "kind": "parallels",
+   "refs": [
+    "REV 5:5",
+    "GEN 49:9"
+   ]
+  },
+  {
+   "from": "rev_river_tree_of_life",
+   "to": "bt_gen_eden",
+   "kind": "parallels",
+   "refs": [
+    "REV 22:2",
+    "GEN 2:9"
+   ]
+  },
+  {
+   "from": "rev_river_tree_of_life",
+   "to": "bt_gen_curse_promise",
+   "kind": "parallels",
+   "refs": [
+    "REV 22:3",
+    "GEN 3:17"
+   ]
+  },
+  {
+   "from": "rev_river_tree_of_life",
+   "to": "bt_gen_curse_promise",
+   "kind": "parallels",
+   "refs": [
+    "REV 22:2",
+    "GEN 3:22-24"
+   ]
+  }
+ ]
+}

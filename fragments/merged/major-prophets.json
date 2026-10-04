@@ -1,0 +1,5381 @@
+{
+ "topics": [
+  {
+   "id": "book_isa",
+   "type": "BOOK_OVERVIEW",
+   "name": "Isaiah: overview",
+   "description": "Isaiah son of Amoz sees visions concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz and Hezekiah; the book moves from indictment and judgment to comfort, a servant, and new heavens and a new earth.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 1:1",
+    "ISA 40:1-5",
+    "ISA 65:17-19"
+   ],
+   "evidence": [
+    "Name the four kings of Judah named in Isaiah 1:1",
+    "Describe the shift in tone between chapters 1-39 and chapter 40 using the texts"
+   ],
+   "prompt": "Can {{name}} say who Isaiah was and describe, using Isaiah 1:1 and 40:1-2, how the book moves from rebuke to comfort?"
+  },
+  {
+   "id": "isa_indictment",
+   "type": "THEME",
+   "name": "The Lord charges his rebellious children",
+   "description": "The LORD calls heaven and earth to witness that the children he raised have rebelled, rejects their empty sacrifices, and offers cleansing if they are willing and obedient.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 1"
+   ],
+   "evidence": [
+    "Retell the charge of Isaiah 1:2-4",
+    "Explain why God rejects the sacrifices in 1:11-15 and what he asks instead in 1:16-17",
+    "Quote the offer in 1:18-20"
+   ],
+   "prompt": "Can {{name}} explain why the LORD says he is weary of sacrifices in Isaiah 1 and what he commands instead?"
+  },
+  {
+   "id": "isa_last_days",
+   "type": "THEME",
+   "name": "The mountain of the Lord in the last days",
+   "description": "Isaiah sees the mountain of the LORD's house raised up, nations streaming to learn his ways, and weapons turned into farming tools; the house of Jacob is called to walk in his light.",
+   "covenant": null,
+   "ages": [
+    9,
+    18
+   ],
+   "passages": [
+    "ISA 2:1-5"
+   ],
+   "evidence": [
+    "Describe what the nations say and do in Isaiah 2:2-4",
+    "Explain the image of swords into plowshares from the text"
+   ],
+   "prompt": "Can {{name}} describe what Isaiah 2:2-4 says will happen to the nations and to weapons in the last days?"
+  },
+  {
+   "id": "isa_day_of_lord",
+   "type": "THEME",
+   "name": "The day of the Lord humbles the proud",
+   "description": "Judah is full of silver, horses and idols, and a day of the LORD is coming on everything lofty so that he alone is exalted and men are told to cease trusting in man.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 2:6-22"
+   ],
+   "evidence": [
+    "List what Judah is full of in Isaiah 2:7-8",
+    "Say what the day of the LORD comes against (2:12-17)",
+    "Explain the command in 2:22"
+   ],
+   "prompt": "Can {{name}} explain what the day of the LORD brings against the proud in Isaiah 2:12-17?"
+  },
+  {
+   "id": "isa_jerusalem_judged",
+   "type": "THEME",
+   "name": "Jerusalem stripped of support",
+   "description": "The Lord takes away Jerusalem's leaders and supplies, the people oppress one another, the elders and the proud daughters of Zion are charged, and the city is left desolate.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 3",
+    "ISA 4:1"
+   ],
+   "evidence": [
+    "Name the supports taken away in Isaiah 3:1-3",
+    "Describe the LORD's charge against the elders in 3:14-15",
+    "Describe the fate of the haughty daughters of Zion (3:16-26)"
+   ],
+   "prompt": "Can {{name}} say what the LORD takes from Jerusalem in Isaiah 3 and why?"
+  },
+  {
+   "id": "isa_branch_zion",
+   "type": "THEME",
+   "name": "The Branch of the Lord and the cleansed remnant",
+   "description": "After judgment, the Branch of the LORD is beautiful and glorious, those left in Zion are called holy, and the LORD covers Zion with cloud by day and fire by night as a shelter.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 4:2-6"
+   ],
+   "evidence": [
+    "Say who is called holy in Isaiah 4:3",
+    "Describe the cloud, fire and shelter over Zion in 4:5-6"
+   ],
+   "prompt": "Can {{name}} describe what the LORD does for Zion in Isaiah 4:2-6 after washing away her filth?"
+  },
+  {
+   "id": "isa_vineyard_song",
+   "type": "STORY",
+   "name": "The song of the vineyard",
+   "description": "Isaiah sings of a beloved's well-tended vineyard that yields wild grapes, and the LORD explains that the vineyard is the house of Israel, for which he looked for justice and righteousness.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "ISA 5:1-7"
+   ],
+   "evidence": [
+    "Retell what the owner did for the vineyard (5:1-2)",
+    "Say what he will do to it (5:5-6)",
+    "Explain who the vineyard is according to 5:7"
+   ],
+   "prompt": "Can {{name}} retell the song of the vineyard and say what Isaiah 5:7 says it means?"
+  },
+  {
+   "id": "isa_woes",
+   "type": "THEME",
+   "name": "Six woes and the distant nation",
+   "description": "Isaiah pronounces woes on land-grabbers, drunkards, those who call evil good and those who pervert justice, and says the LORD will summon a swift nation from afar against his people.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 5:8-30"
+   ],
+   "evidence": [
+    "List the woes of Isaiah 5:8, 11, 18, 20, 21 and 22",
+    "Explain why the LORD's anger is not turned away (5:24-25)"
+   ],
+   "prompt": "Can {{name}} name at least three of the woes in Isaiah 5 and the reason given for judgment in 5:24?"
+  },
+  {
+   "id": "isa_call",
+   "type": "STORY",
+   "name": "Isaiah sees the Lord and is sent",
+   "description": "In the year King Uzziah died Isaiah sees the LORD enthroned with seraphim crying holy, is cleansed by a coal from the altar, volunteers, and is told to preach to a people who will not understand until a stump remains.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "ISA 6"
+   ],
+   "evidence": [
+    "Retell what the seraphim say and do (6:2-7)",
+    "Explain Isaiah's response in 6:5 and 6:8",
+    "Describe the message he is given and the \"holy seed\" in 6:9-13"
+   ],
+   "prompt": "Can {{name}} retell Isaiah's vision in chapter 6, including what the seraphim cry and how Isaiah is cleansed?"
+  },
+  {
+   "id": "isa_immanuel",
+   "type": "STORY",
+   "name": "The sign of Immanuel to Ahaz",
+   "description": "When Syria and Ephraim threaten Judah, Isaiah tells Ahaz to trust the LORD, Ahaz refuses to ask a sign, and the Lord gives a sign of a son called Immanuel, with Assyria coming on the land.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 7"
+   ],
+   "evidence": [
+    "Explain what Rezin and Pekah plan against Judah (7:1-6)",
+    "Quote the sign in 7:14 and say to whom the word is addressed (7:13)",
+    "Describe the coming of the king of Assyria (7:17-20)"
+   ],
+   "prompt": "Can {{name}} explain the setting of Isaiah 7:14 and what Ahaz was told to do in 7:4-9?"
+  },
+  {
+   "id": "isa_assyria_flood",
+   "type": "STORY",
+   "name": "Maher-shalal-hash-baz and the Assyrian flood",
+   "description": "Isaiah writes a name-sign for a son, the LORD warns that the king of Assyria will flood Judah, tells Isaiah not to fear what the people fear, and calls him to the law and testimony instead of mediums.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 8"
+   ],
+   "evidence": [
+    "Explain the meaning of the child's name sign in 8:1-4",
+    "Say whom Isaiah is told to fear and sanctify (8:12-13)",
+    "Explain the contrast between the law and testimony and consulting the dead (8:19-20)"
+   ],
+   "prompt": "Can {{name}} explain why the LORD says to sanctify him rather than fear what the people fear in Isaiah 8:11-13?"
+  },
+  {
+   "id": "isa_child_born",
+   "type": "DOCTRINE",
+   "name": "Light for the people in darkness and the child born",
+   "description": "Light shines on the people in darkness in Zebulun and Naphtali, the yoke is broken, and a child is born whose government, names and everlasting reign are on the throne of David.",
+   "covenant": "cv_davidic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 9:1-7"
+   ],
+   "evidence": [
+    "Name the regions mentioned in Isaiah 9:1",
+    "List the names given to the child in 9:6",
+    "Explain what 9:7 says about his throne and kingdom"
+   ],
+   "prompt": "Can {{name}} say what Isaiah 9:6-7 says about the child and the throne of David?"
+  },
+  {
+   "id": "isa_anger_stretched",
+   "type": "THEME",
+   "name": "His hand is stretched out still",
+   "description": "A refrain runs through four stanzas: Ephraim's pride, unrepentant people, false leaders and civil strife bring judgment, and the LORD's anger is not turned away; woe is also pronounced on unjust decrees.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 9:8-21",
+    "ISA 10:1-4"
+   ],
+   "evidence": [
+    "Find the repeated refrain in Isaiah 9:12, 17, 21 and 10:4",
+    "Say what Ephraim's boast in 9:10 shows about the people's attitude"
+   ],
+   "prompt": "Can {{name}} find the refrain repeated in Isaiah 9:8-10:4 and explain why the people are judged?"
+  },
+  {
+   "id": "isa_assyria_rod",
+   "type": "THEME",
+   "name": "Assyria the rod, then judged",
+   "description": "The LORD sends Assyria as the rod of his anger against a hypocritical nation, but punishes the king of Assyria for his boasting; a remnant will return and Zion is told not to fear.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 10:5-34"
+   ],
+   "evidence": [
+    "Explain how Assyria is both used and judged (10:5-7, 12-15)",
+    "Say what is promised to the remnant (10:20-23)",
+    "Describe the comfort given to Zion in 10:24-27"
+   ],
+   "prompt": "Can {{name}} explain the picture of the axe boasting against the one who swings it in Isaiah 10:15?"
+  },
+  {
+   "id": "isa_branch_jesse",
+   "type": "DOCTRINE",
+   "name": "The shoot from the stem of Jesse",
+   "description": "A shoot from Jesse's stem, endowed with the Spirit of the LORD, judges the poor with righteousness; peace reaches even the animals, the earth is full of the knowledge of the LORD, and the remnant is gathered.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 11"
+   ],
+   "evidence": [
+    "List the gifts of the Spirit resting on him in Isaiah 11:2",
+    "Describe how he judges (11:3-5)",
+    "Describe the peaceful creation in 11:6-9 and the gathering in 11:10-12"
+   ],
+   "prompt": "Can {{name}} describe the one who comes from the stem of Jesse and the peace of his kingdom in Isaiah 11?"
+  },
+  {
+   "id": "isa_song_salvation",
+   "type": "THEME",
+   "name": "A song of salvation",
+   "description": "In that day the redeemed will praise the LORD, saying God is their salvation and strength, draw water from the wells of salvation, and call all the earth to sing.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "ISA 12"
+   ],
+   "evidence": [
+    "Quote the declaration of trust in Isaiah 12:2",
+    "Say what the people are told to do in 12:4-6"
+   ],
+   "prompt": "Can {{name}} say what the people sing in Isaiah 12 and why they can praise the LORD?"
+  },
+  {
+   "id": "isa_babylon_burden",
+   "type": "THEME",
+   "name": "The burden of Babylon and the fallen king",
+   "description": "The LORD musters an army against Babylon, a day of the LORD brings desolation by the Medes, and a taunt song mocks the king of Babylon who said he would ascend and be like the Most High.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 13",
+    "ISA 14:1-23"
+   ],
+   "evidence": [
+    "Name the people the LORD stirs up against Babylon (13:17)",
+    "Describe the king's boast and his fall in 14:12-15",
+    "Say what mercy the LORD shows Jacob in 14:1-3"
+   ],
+   "prompt": "Can {{name}} describe the proverb against the king of Babylon in Isaiah 14:4-20?"
+  },
+  {
+   "id": "isa_assyria_philistia",
+   "type": "THEME",
+   "name": "The LORD's purpose against Assyria and Philistia",
+   "description": "The LORD swears to break Assyria on his mountains, declares his purpose stretched over all nations, and tells Philistia not to rejoice, since Zion is founded by the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 14:24-32"
+   ],
+   "evidence": [
+    "Say what the LORD has sworn about Assyria (14:24-25)",
+    "Quote the answer to the messengers in 14:32"
+   ],
+   "prompt": "Can {{name}} say what the LORD says in Isaiah 14:24-27 about his purpose?"
+  },
+  {
+   "id": "isa_moab",
+   "type": "THEME",
+   "name": "The burden of Moab",
+   "description": "Moab is laid waste in a night and mourns, a request is made for Moab's outcasts to find shelter in Judah where a throne is established in mercy, and Moab's pride is judged with a time limit.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 15",
+    "ISA 16"
+   ],
+   "evidence": [
+    "Describe the mourning of Moab (15:2-5)",
+    "Say what is said of the throne in 16:5",
+    "Identify the time limit given in 16:14"
+   ],
+   "prompt": "Can {{name}} describe how Isaiah 15-16 portrays Moab's fall and the grief it causes?"
+  },
+  {
+   "id": "isa_damascus_ethiopia",
+   "type": "THEME",
+   "name": "Damascus, Israel and the land beyond Ethiopia",
+   "description": "Damascus becomes a ruin and Ephraim's fortress ceases, a remnant turns to its Maker, and the roaring nations are rebuked; Ethiopia is addressed and a gift is brought to the LORD at Zion.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 17",
+    "ISA 18"
+   ],
+   "evidence": [
+    "Say why Ephraim is judged according to Isaiah 17:10",
+    "Describe the fate of the roaring nations (17:12-14)",
+    "Say what happens to Ethiopia's people in 18:7"
+   ],
+   "prompt": "Can {{name}} describe the burden of Damascus and the reason given in Isaiah 17:10?"
+  },
+  {
+   "id": "isa_egypt",
+   "type": "THEME",
+   "name": "The burden of Egypt and Isaiah's sign",
+   "description": "The LORD comes against Egypt, whose counsel fails; yet he promises that Egypt will know and serve him, and that Egypt, Assyria and Israel will be a blessing; Isaiah walks barefoot as a sign against trusting Egypt and Ethiopia.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 19",
+    "ISA 20"
+   ],
+   "evidence": [
+    "Describe the judgment on Egypt (19:1-15)",
+    "Describe the blessing on Egypt, Assyria and Israel (19:23-25)",
+    "Explain what Isaiah's walking naked and barefoot signifies (20:2-6)"
+   ],
+   "prompt": "Can {{name}} explain what Isaiah 19:19-25 says will happen to Egypt and what Isaiah's sign in chapter 20 means?"
+  },
+  {
+   "id": "isa_burdens_watchman",
+   "type": "THEME",
+   "name": "Babylon's fall, Dumah and Arabia",
+   "description": "Isaiah watches in fear at a grievous vision, the watchman announces that Babylon is fallen, Seir asks the watchman what remains of the night, and Arabia's glory is to fail within a year.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 21"
+   ],
+   "evidence": [
+    "Describe what the watchman reports in Isaiah 21:6-9",
+    "Say what the watchman answers in 21:11-12"
+   ],
+   "prompt": "Can {{name}} describe the watchman's report in Isaiah 21:6-9?"
+  },
+  {
+   "id": "isa_valley_of_vision",
+   "type": "THEME",
+   "name": "The valley of vision and Shebna",
+   "description": "Jerusalem is distressed by a day of trouble; the people prepare defenses but do not look to the LORD and say let us eat and drink; Shebna is removed and Eliakim receives the key of the house of David.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 22"
+   ],
+   "evidence": [
+    "Say what the people do and fail to do in Isaiah 22:8-13",
+    "Explain what happens to Shebna and Eliakim (22:15-25)"
+   ],
+   "prompt": "Can {{name}} explain what Jerusalem does in Isaiah 22:8-13 and what the LORD says about it?"
+  },
+  {
+   "id": "isa_tyre",
+   "type": "THEME",
+   "name": "The burden of Tyre",
+   "description": "Tyre, the merchant city, is laid waste by the LORD's purpose, forgotten seventy years, and afterward returns to her trade, which will be holy to the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 23"
+   ],
+   "evidence": [
+    "Say who purposed Tyre's fall and why (23:9)",
+    "Describe what happens after seventy years (23:15-18)"
+   ],
+   "prompt": "Can {{name}} say what Isaiah 23 says about Tyre's fall and her trade after seventy years?"
+  },
+  {
+   "id": "isa_earth_judged",
+   "type": "THEME",
+   "name": "The LORD lays waste the earth",
+   "description": "The LORD empties the earth because its people broke the laws and the everlasting covenant; joy ceases, the earth reels, the host on high and kings below are punished, and the LORD reigns in Zion.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 24"
+   ],
+   "evidence": [
+    "Say why the earth is defiled (24:5)",
+    "Describe the punishment of the host on high and the kings of the earth (24:21-22)",
+    "Say where the LORD reigns (24:23)"
+   ],
+   "prompt": "Can {{name}} explain why the earth is emptied in Isaiah 24 and who reigns at the end?"
+  },
+  {
+   "id": "isa_feast_death",
+   "type": "DOCTRINE",
+   "name": "A feast on the mountain and death swallowed up",
+   "description": "The LORD makes a feast for all peoples on his mountain, removes the veil over all nations, swallows up death, wipes away tears, and the redeemed say they waited for him.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 25"
+   ],
+   "evidence": [
+    "Describe the feast and the veil (25:6-7)",
+    "Quote what the LORD does to death and tears (25:8)",
+    "Say what the people say in 25:9"
+   ],
+   "prompt": "Can {{name}} say what the LORD does for all peoples on his mountain in Isaiah 25:6-9?"
+  },
+  {
+   "id": "isa_song_judah",
+   "type": "THEME",
+   "name": "A song in Judah: perfect peace and the dead who live",
+   "description": "Judah sings of a strong city and perfect peace for those who trust the LORD, laments that they have brought no deliverance, and hears that the LORD's dead shall live and the earth will disclose her slain.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 26"
+   ],
+   "evidence": [
+    "Quote the promise of peace in Isaiah 26:3",
+    "Say what is promised about the dead in 26:19",
+    "Describe the call to hide until the indignation is past (26:20-21)"
+   ],
+   "prompt": "Can {{name}} say what Isaiah 26:3 and 26:19 promise?"
+  },
+  {
+   "id": "isa_leviathan_vineyard",
+   "type": "THEME",
+   "name": "Leviathan punished and the vineyard of red wine",
+   "description": "The LORD punishes leviathan, the vineyard he guards will fill the world with fruit, Jacob's iniquity is purged, and the scattered are gathered with a great trumpet to worship at Jerusalem.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 27"
+   ],
+   "evidence": [
+    "Say what the LORD does to leviathan (27:1)",
+    "Describe the vineyard and its keeper (27:2-6)",
+    "Describe the gathering in 27:12-13"
+   ],
+   "prompt": "Can {{name}} describe the vineyard of Isaiah 27 and compare it with the vineyard in Isaiah 5?"
+  },
+  {
+   "id": "isa_woe_ephraim",
+   "type": "THEME",
+   "name": "Woe to Ephraim's drunkards and the scoffers in Jerusalem",
+   "description": "Isaiah rebukes the drunken leaders, who mock his teaching, boast of a covenant with death, and are promised a tested cornerstone laid in Zion; the farmer's patient work illustrates God's wise ways.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 28"
+   ],
+   "evidence": [
+    "Describe the scoffers' covenant with death (28:15)",
+    "Quote what the LORD lays in Zion (28:16)",
+    "Explain the farmer illustration in 28:23-29"
+   ],
+   "prompt": "Can {{name}} explain what the scoffers in Isaiah 28:15 relied on and what the LORD lays in Zion in 28:16?"
+  },
+  {
+   "id": "isa_ariel",
+   "type": "THEME",
+   "name": "Woe to Ariel: a sealed vision and a marvellous work",
+   "description": "The LORD besieges Ariel, the city where David dwelt, then saves it from the nations; the people honour him with lips but not hearts, the vision is like a sealed book, and the deaf will hear and the blind see.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 29"
+   ],
+   "evidence": [
+    "Describe the siege and sudden deliverance of Ariel (29:1-8)",
+    "Explain the charge in 29:13",
+    "Describe the change promised in 29:17-24"
+   ],
+   "prompt": "Can {{name}} explain what 29:13 says about the people's worship?"
+  },
+  {
+   "id": "isa_egypt_help",
+   "type": "THEME",
+   "name": "Rebellious children and trust in Egypt",
+   "description": "Judah sends to Egypt for help instead of asking the LORD, refuses to hear true prophecy, and is told that in returning and rest is salvation; the LORD will wait to be gracious and will beat down Assyria.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 30"
+   ],
+   "evidence": [
+    "Say why the LORD calls the people rebellious (30:1-2, 9-11)",
+    "Quote 30:15 and the people's answer in 30:16",
+    "Describe the grace promised in 30:18-26"
+   ],
+   "prompt": "Can {{name}} explain what the people were told in Isaiah 30:15 and how they answered?"
+  },
+  {
+   "id": "isa_horses_chariots",
+   "type": "THEME",
+   "name": "Woe to those who trust in horses",
+   "description": "Those who go to Egypt for help trust in chariots rather than the LORD, who is wise and will protect Jerusalem like birds flying; Assyria will fall by a sword not of man.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 31"
+   ],
+   "evidence": [
+    "Say what the people trust instead of the LORD (31:1)",
+    "Quote the contrast in 31:3",
+    "Describe how the LORD defends Jerusalem (31:4-5)"
+   ],
+   "prompt": "Can {{name}} contrast Egypt's horses with the LORD's help in Isaiah 31:1-3?"
+  },
+  {
+   "id": "isa_righteous_king",
+   "type": "THEME",
+   "name": "A king reigns in righteousness; the Spirit is poured out",
+   "description": "A king and princes will reign in righteousness, careless women are warned of coming desolation, until the Spirit is poured from on high and righteousness and peace dwell in the land.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 32"
+   ],
+   "evidence": [
+    "Describe the king and the changes in 32:1-8",
+    "Say what ends the desolation (32:15)",
+    "Say what the work of righteousness is (32:17)"
+   ],
+   "prompt": "Can {{name}} describe what 32:15-17 says happens when the Spirit is poured out?"
+  },
+  {
+   "id": "isa_zion_king",
+   "type": "THEME",
+   "name": "The destroyer destroyed and the LORD our king",
+   "description": "The spoiler is warned, the people pray for grace, the LORD rises to be exalted, sinners in Zion fear the devouring fire, and the righteous see the king; the LORD is judge, lawgiver and king.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 33"
+   ],
+   "evidence": [
+    "Say who asks, \"Who among us shall dwell with the devouring fire?\" and the answer (33:14-16)",
+    "Quote 33:22",
+    "Describe Jerusalem as a quiet habitation (33:20)"
+   ],
+   "prompt": "Can {{name}} say the three roles given to the LORD in Isaiah 33:22?"
+  },
+  {
+   "id": "isa_edom",
+   "type": "THEME",
+   "name": "The day of vengeance on the nations and Edom",
+   "description": "The LORD's indignation is on all nations; his sword comes down on Edom for the controversy of Zion, and the land becomes a lasting wasteland inhabited by wild creatures.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "ISA 34"
+   ],
+   "evidence": [
+    "Say what the LORD does to the host of heaven and the nations (34:2-4)",
+    "Say which land receives the sword (34:5-6)",
+    "Describe Edom after judgment (34:9-15)"
+   ],
+   "prompt": "Can {{name}} explain why Edom is singled out in Isaiah 34:5-8?"
+  },
+  {
+   "id": "isa_way_of_holiness",
+   "type": "THEME",
+   "name": "The desert blooms and the way of holiness",
+   "description": "The wilderness blossoms, the weak are strengthened, the blind see and the lame leap, and a highway of holiness leads the ransomed to Zion with everlasting joy.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "ISA 35"
+   ],
+   "evidence": [
+    "Describe the healings in Isaiah 35:5-6",
+    "Say who walks the way of holiness (35:8-10)"
+   ],
+   "prompt": "Can {{name}} describe the way of holiness and the people who walk it in Isaiah 35?"
+  },
+  {
+   "id": "isa_rabshakeh",
+   "type": "STORY",
+   "name": "Sennacherib's envoy mocks Jerusalem",
+   "description": "In Hezekiah's fourteenth year Sennacherib's envoy Rabshakeh stands by Jerusalem's conduit and tries to turn the people from trusting Hezekiah and the LORD.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "ISA 36"
+   ],
+   "evidence": [
+    "Retell the arguments Rabshakeh uses (36:4-10, 14-20)",
+    "Say how Hezekiah's officers respond (36:21-22)"
+   ],
+   "prompt": "Can {{name}} retell what Rabshakeh says to Jerusalem's people in Isaiah 36 and how they answer?"
+  },
+  {
+   "id": "isa_hezekiah_prayer",
+   "type": "STORY",
+   "name": "Hezekiah prays and the angel strikes the Assyrian camp",
+   "description": "Hezekiah takes the letter to the LORD's house and prays; Isaiah answers that the LORD will defend Jerusalem, and the angel of the LORD strikes the Assyrian camp so that Sennacherib returns to Nineveh.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "ISA 37"
+   ],
+   "evidence": [
+    "Retell Hezekiah's prayer (37:14-20)",
+    "Say what Isaiah's answer promises (37:21-35)",
+    "Retell what happens to Sennacherib (37:36-38)"
+   ],
+   "prompt": "Can {{name}} retell how the LORD answered Hezekiah's prayer in Isaiah 37?"
+  },
+  {
+   "id": "isa_hezekiah_sick",
+   "type": "STORY",
+   "name": "Hezekiah's sickness and recovery",
+   "description": "Hezekiah, told he will die, prays and weeps; the LORD adds fifteen years, promises to deliver the city from Assyria, and gives a sign with the shadow on the sundial; Hezekiah writes a thanksgiving.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "ISA 38"
+   ],
+   "evidence": [
+    "Retell what Isaiah first says to Hezekiah and how Hezekiah responds (38:1-3)",
+    "Say what the LORD adds and the sign given (38:5-8)",
+    "Describe the lesson of the writing in 38:17-20"
+   ],
+   "prompt": "Can {{name}} retell how the LORD answered Hezekiah when he was sick in Isaiah 38?"
+  },
+  {
+   "id": "isa_babylon_envoys",
+   "type": "STORY",
+   "name": "Envoys from Babylon",
+   "description": "Merodach-baladan sends letters to Hezekiah, who shows them all his treasures; Isaiah tells him everything will be carried to Babylon, and Hezekiah calls the word good because there will be peace in his days.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "ISA 39"
+   ],
+   "evidence": [
+    "Say what Hezekiah shows the envoys (39:2)",
+    "Say what Isaiah foretells (39:5-7)",
+    "Describe Hezekiah's response (39:8)"
+   ],
+   "prompt": "Can {{name}} say what Isaiah told Hezekiah about Babylon and how Hezekiah answered?"
+  },
+  {
+   "id": "isa_comfort",
+   "type": "DOCTRINE",
+   "name": "Comfort my people: the incomparable God",
+   "description": "God tells his prophets to comfort Jerusalem because her iniquity is pardoned, a voice prepares the way of the LORD, the LORD comes as shepherd, and no one compares to him who gives strength to the weary.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 40"
+   ],
+   "evidence": [
+    "Quote the command and reason in Isaiah 40:1-2",
+    "Describe the voice crying in the wilderness (40:3-5)",
+    "Explain what 40:28-31 says about those who wait on the LORD"
+   ],
+   "prompt": "Can {{name}} explain why the LORD comforts Jerusalem in Isaiah 40:1-2 and who the LORD is compared to in 40:12-26?"
+  },
+  {
+   "id": "isa_servant_israel_chosen",
+   "type": "DOCTRINE",
+   "name": "The LORD chose Israel; idols have no answer",
+   "description": "The LORD calls Israel his servant, the seed of Abraham his friend, and tells them not to fear; he challenges the idols to declare the future and raises up one from the north and east.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 41"
+   ],
+   "evidence": [
+    "Quote the promise in Isaiah 41:10",
+    "Say how Israel is addressed in 41:8-14",
+    "Describe the challenge to the idols (41:21-29)"
+   ],
+   "prompt": "Can {{name}} explain what the LORD tells Israel in Isaiah 41:8-10 and how he challenges the idols?"
+  },
+  {
+   "id": "isa_servant_chosen",
+   "type": "DOCTRINE",
+   "name": "Behold my servant",
+   "description": "The LORD presents his chosen servant, on whom he puts his Spirit, who brings justice to the nations gently and is given as a covenant and a light to the Gentiles to open blind eyes.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 42:1-9"
+   ],
+   "evidence": [
+    "List what the LORD says of the servant (42:1-4)",
+    "Say what the servant is given for (42:6-7)",
+    "Explain 42:8 about the LORD's glory"
+   ],
+   "prompt": "Can {{name}} describe the servant and his work in Isaiah 42:1-7?"
+  },
+  {
+   "id": "isa_new_song_blind_servant",
+   "type": "THEME",
+   "name": "A new song and the blind servant",
+   "description": "The LORD is called to be praised to the ends of the earth and goes forth as a warrior, but his servant is blind and deaf; Jacob was given to plunder because they would not walk in his ways.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 42:10-25"
+   ],
+   "evidence": [
+    "Describe the new song and the LORD as a warrior (42:10-13)",
+    "Explain what is said of the blind and deaf servant (42:18-20)",
+    "Say why Jacob was given to spoil (42:24-25)"
+   ],
+   "prompt": "Can {{name}} explain why the LORD calls his servant blind and deaf in Isaiah 42:18-25?"
+  },
+  {
+   "id": "isa_redeemed_israel",
+   "type": "DOCTRINE",
+   "name": "I have redeemed you; I am the LORD, your Saviour",
+   "description": "The LORD redeems and calls Jacob by name, will be with them through waters and fire, gathers sons from the ends of the earth, calls Israel his witnesses, does a new thing, and blots out their transgressions for his own sake.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 43"
+   ],
+   "evidence": [
+    "Quote the promise in Isaiah 43:1-2",
+    "Say what Israel is called in 43:10-12",
+    "Explain the \"new thing\" (43:18-19) and the forgiveness in 43:25"
+   ],
+   "prompt": "Can {{name}} say what the LORD promises in Isaiah 43:1-2 and 43:25?"
+  },
+  {
+   "id": "isa_no_other_god",
+   "type": "DOCTRINE",
+   "name": "The folly of idols and the Spirit poured out",
+   "description": "The LORD pours his Spirit on Jacob's seed and declares he is first and last with no God beside him, while the idol-maker's craft is shown to be foolish; the LORD blots out transgressions.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 44:1-23"
+   ],
+   "evidence": [
+    "Quote 44:6",
+    "Describe how the idol is made and used (44:12-17)",
+    "Say what the LORD says to Israel in 44:21-22"
+   ],
+   "prompt": "Can {{name}} explain why Isaiah 44:9-20 calls idol-making foolish?"
+  },
+  {
+   "id": "isa_cyrus",
+   "type": "DOCTRINE",
+   "name": "Cyrus, the LORD's shepherd and anointed",
+   "description": "The LORD names Cyrus, by name before his time, as his shepherd and anointed who will let Jerusalem and the temple be rebuilt, so that all will know there is none else.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 44:24-28",
+    "ISA 45"
+   ],
+   "evidence": [
+    "Say what the LORD says of Cyrus (44:28, 45:1)",
+    "Explain why the LORD calls Cyrus by name (45:4-6)",
+    "Quote the invitation in 45:22-23"
+   ],
+   "prompt": "Can {{name}} say what the LORD says Cyrus will do and why in Isaiah 44:28-45:6?"
+  },
+  {
+   "id": "isa_babylon_idols_borne",
+   "type": "THEME",
+   "name": "Babylon's gods carried, Israel carried by God",
+   "description": "Bel and Nebo are carried off as burdens while the LORD has carried Israel from birth and to old age; he declares the end from the beginning.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 46"
+   ],
+   "evidence": [
+    "Contrast who carries whom in Isaiah 46:1-4",
+    "Say what the LORD declares in 46:9-10"
+   ],
+   "prompt": "Can {{name}} contrast the gods of Babylon with the LORD in Isaiah 46:1-4?"
+  },
+  {
+   "id": "isa_babylon_fall",
+   "type": "THEME",
+   "name": "The fall of Babylon the lady of kingdoms",
+   "description": "The virgin daughter of Babylon is brought down from her throne, for she showed the LORD's people no mercy and trusted in sorceries and in saying \"I am, and none else\"; her counsellors cannot save her.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 47"
+   ],
+   "evidence": [
+    "Say why Babylon is judged (47:6-8)",
+    "Describe what her sorceries and astrologers cannot do (47:12-15)"
+   ],
+   "prompt": "Can {{name}} explain why Babylon is brought low in Isaiah 47?"
+  },
+  {
+   "id": "isa_refined_furnace",
+   "type": "THEME",
+   "name": "The obstinate house of Jacob and the furnace of affliction",
+   "description": "The LORD tells Jacob he foretold things because they were obstinate, delays his anger for his name's sake, calls them out of Babylon, and says had they heeded his commandments their peace would be like a river.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 48"
+   ],
+   "evidence": [
+    "Say why the LORD declared things beforehand (48:3-7)",
+    "Describe the call to leave Babylon (48:20-21)",
+    "Quote 48:22"
+   ],
+   "prompt": "Can {{name}} explain why the LORD says he tested Israel in the furnace of affliction in Isaiah 48:10-11?"
+  },
+  {
+   "id": "isa_servant_light_nations",
+   "type": "DOCTRINE",
+   "name": "The servant, a light to the nations",
+   "description": "The servant called from the womb, whose mouth is like a sharp sword, says he has laboured in vain; the LORD says it is too light a thing to restore Israel and gives him as a light to the Gentiles, and promises Zion she is not forgotten.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 49"
+   ],
+   "evidence": [
+    "Describe how the servant is called (49:1-3)",
+    "Quote the LORD's answer in 49:6",
+    "Say what the LORD says to Zion in 49:14-16"
+   ],
+   "prompt": "Can {{name}} say what the LORD says is \"too light a thing\" for his servant in Isaiah 49:6?"
+  },
+  {
+   "id": "isa_servant_obedient",
+   "type": "DOCTRINE",
+   "name": "The servant who gives his back to the smiters",
+   "description": "The servant says the Lord GOD opened his ear and he was not rebellious, gave his back to those who struck him, and sets his face like flint trusting the Lord's help; those who walk in darkness are urged to trust the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 50"
+   ],
+   "evidence": [
+    "Describe what the servant endures (50:5-6)",
+    "Say why he is not ashamed (50:7-9)"
+   ],
+   "prompt": "Can {{name}} describe what the servant says he will endure and why he is not put to shame in Isaiah 50:4-9?"
+  },
+  {
+   "id": "isa_awake_arm",
+   "type": "THEME",
+   "name": "Awake, arm of the LORD",
+   "description": "Those who pursue righteousness are told to look to Abraham and Sarah, the LORD promises comfort and a law going forth, the arm of the LORD is called to awake as in ancient days, and Jerusalem is told the cup of fury is taken from her.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 51"
+   ],
+   "evidence": [
+    "Say whom they are told to look to (51:1-2)",
+    "Describe the cry to the arm of the LORD (51:9-11)",
+    "Say what happens to the cup of trembling (51:22-23)"
+   ],
+   "prompt": "Can {{name}} say who the people are told to look to in Isaiah 51:1-2 and why?"
+  },
+  {
+   "id": "isa_good_tidings",
+   "type": "THEME",
+   "name": "Awake, Zion: good tidings of peace",
+   "description": "Jerusalem is told to put on strength, she is redeemed without money, the feet of the one who brings good tidings are beautiful, and the LORD has bared his arm before the nations.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 52:1-12"
+   ],
+   "evidence": [
+    "Quote 52:7",
+    "Say what the watchmen see (52:8)",
+    "Describe the command to depart in 52:11-12"
+   ],
+   "prompt": "Can {{name}} say what 52:7 describes about the one who brings good tidings?"
+  },
+  {
+   "id": "isa_suffering_servant",
+   "type": "DOCTRINE",
+   "name": "The servant exalted, despised and bearing iniquity",
+   "description": "The servant is high, yet marred; despised and rejected, he bears griefs and iniquities of others, is wounded for transgressions and led like a lamb, is cut off and buried with the rich, and after his soul's travail justifies many.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 52:13-15",
+    "ISA 53"
+   ],
+   "evidence": [
+    "Describe what Isaiah 53:4-6 says he bears and for whom",
+    "Describe how he is treated (53:3, 7-9)",
+    "Say what the LORD says follows in 53:10-12"
+   ],
+   "prompt": "Can {{name}} describe what the servant suffers and for whose sake according to Isaiah 53:4-6?"
+  },
+  {
+   "id": "isa_barren_sing",
+   "type": "THEME",
+   "name": "Sing, barren one: the covenant of peace",
+   "description": "The barren woman is told to sing and enlarge her tent, the LORD her husband has called her back with mercy, swears as with the waters of Noah, and promises a covenant of peace that will not be removed.",
+   "covenant": "cv_noahic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "ISA 54"
+   ],
+   "evidence": [
+    "Describe the call to the barren woman (54:1-3)",
+    "Say what the LORD compares his oath to (54:9)",
+    "Quote the promise in 54:10"
+   ],
+   "prompt": "Can {{name}} explain how the LORD compares his promise in Isaiah 54:9-10 to the waters of Noah?"
+  },
+  {
+   "id": "isa_come_buy",
+   "type": "DOCTRINE",
+   "name": "Come, buy without money: the sure mercies of David",
+   "description": "The LORD invites the thirsty to come without money, promises an everlasting covenant, the sure mercies of David, calls the wicked to return, and says his word will accomplish what he pleases.",
+   "covenant": "cv_davidic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 55"
+   ],
+   "evidence": [
+    "Quote the invitation in Isaiah 55:1-3",
+    "Say what is promised to those who return (55:7)",
+    "Explain 55:10-11"
+   ],
+   "prompt": "Can {{name}} say who is invited and what is promised in Isaiah 55:1-7?"
+  },
+  {
+   "id": "isa_foreigners_welcome",
+   "type": "THEME",
+   "name": "Foreigners and eunuchs welcomed; blind watchmen",
+   "description": "The LORD says foreigners and eunuchs who hold to his covenant and keep sabbaths will be joyful in his house of prayer for all peoples, while blind watchmen and greedy shepherds are condemned.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 56"
+   ],
+   "evidence": [
+    "Say who is welcomed in Isaiah 56:3-7",
+    "Quote what the house is called (56:7)",
+    "Describe the charge against the watchmen (56:10-12)"
+   ],
+   "prompt": "Can {{name}} say who the LORD welcomes in Isaiah 56:3-8 and what his house is called?"
+  },
+  {
+   "id": "isa_contrite_idolaters",
+   "type": "THEME",
+   "name": "Idolatry condemned; the LORD revives the contrite",
+   "description": "The perishing of the righteous goes unnoticed, the idolatrous are condemned, and the high and lofty One who inhabits eternity dwells with the contrite and heals; there is no peace for the wicked.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 57"
+   ],
+   "evidence": [
+    "Describe the idolatry condemned in Isaiah 57:3-10",
+    "Say whom the LORD dwells with in 57:15",
+    "Quote 57:21"
+   ],
+   "prompt": "Can {{name}} say with whom the LORD dwells in Isaiah 57:15?"
+  },
+  {
+   "id": "isa_true_fast",
+   "type": "THEME",
+   "name": "The fast the LORD chooses",
+   "description": "The people fast yet oppress, and the LORD says the fast he chooses is to loose bonds, share bread with the hungry and clothe the naked, promising light and healing; he also promises delight to those who honour the sabbath.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 58"
+   ],
+   "evidence": [
+    "Explain what is wrong with the people's fast (58:3-5)",
+    "List the fast the LORD chooses (58:6-7)",
+    "Describe the promises that follow (58:8-12)"
+   ],
+   "prompt": "Can {{name}} describe the fast the LORD chooses in Isaiah 58:6-7?"
+  },
+  {
+   "id": "isa_iniquities_separate",
+   "type": "THEME",
+   "name": "Your iniquities have separated; the Redeemer comes",
+   "description": "The LORD's hand is not short, but iniquities separate the people from God; he sees no intercessor, so his own arm brings salvation, and the Redeemer comes to Zion with a covenant that his Spirit and words will not depart.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 59"
+   ],
+   "evidence": [
+    "Quote Isaiah 59:1-2",
+    "List sins in 59:3-8",
+    "Say what the LORD does when he sees no intercessor (59:16-17) and the covenant of 59:21"
+   ],
+   "prompt": "Can {{name}} explain what has separated the people from God in Isaiah 59:1-2 and how the LORD responds?"
+  },
+  {
+   "id": "isa_arise_shine",
+   "type": "THEME",
+   "name": "Arise, shine: the glory of Zion",
+   "description": "Zion's light has come and nations and kings come to her brightness with gifts, her walls are Salvation and her gates Praise, and the LORD himself is her everlasting light.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 60"
+   ],
+   "evidence": [
+    "Say what comes to Zion (60:3-9)",
+    "Say what replaces sun and moon (60:19-20)",
+    "Describe the people (60:21)"
+   ],
+   "prompt": "Can {{name}} describe what happens to Zion and what her light is in Isaiah 60?"
+  },
+  {
+   "id": "isa_anointed_good_tidings",
+   "type": "DOCTRINE",
+   "name": "The Spirit is upon me: good tidings to the meek",
+   "description": "A speaker anointed by the Spirit proclaims good tidings to the poor and release for captives, the year of the LORD's favour and a day of vengeance, and the mourners are given beauty for ashes.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 61"
+   ],
+   "evidence": [
+    "List what the anointed one announces in Isaiah 61:1-3",
+    "Say what the people are called in 61:6",
+    "Describe the everlasting covenant in 61:8-9"
+   ],
+   "prompt": "Can {{name}} list what the one anointed by the Spirit proclaims in Isaiah 61:1-3?"
+  },
+  {
+   "id": "isa_zion_new_name",
+   "type": "THEME",
+   "name": "A new name for Zion",
+   "description": "The LORD will not rest until Zion's righteousness shines, calls her by a new name, rejoices over her like a bridegroom, sets watchmen on her walls, and calls her people the holy people and the redeemed.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 62"
+   ],
+   "evidence": [
+    "Describe the new names (62:2-4, 12)",
+    "Quote the picture in 62:5",
+    "Say what the watchmen do (62:6-7)"
+   ],
+   "prompt": "Can {{name}} say what Zion is called and how the LORD feels about her in Isaiah 62?"
+  },
+  {
+   "id": "isa_winepress",
+   "type": "THEME",
+   "name": "One comes from Edom with red garments",
+   "description": "A glorious figure from Edom with garments stained from the winepress declares he trod the peoples alone in anger, for the day of vengeance and the year of his redeemed has come.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "ISA 63:1-6"
+   ],
+   "evidence": [
+    "Describe the figure and his garments (63:1-3)",
+    "Say why he acts alone (63:5)"
+   ],
+   "prompt": "Can {{name}} describe the figure in Isaiah 63:1-6 and what he has done?"
+  },
+  {
+   "id": "isa_prayer_lament",
+   "type": "THEME",
+   "name": "A prayer of remembrance and lament",
+   "description": "The prophet recalls the LORD's kindnesses and how Israel rebelled and he became their enemy, then prays for him to look down and come down, confessing sin, and says \"we are the clay and thou our potter.\"",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 63:7-19",
+    "ISA 64"
+   ],
+   "evidence": [
+    "Recall what the LORD did for his people (63:7-14)",
+    "Quote the confession in 64:6",
+    "Quote 64:8"
+   ],
+   "prompt": "Can {{name}} describe the prayer of Isaiah 63:15-64:12 and what the people confess?"
+  },
+  {
+   "id": "isa_new_heavens_earth",
+   "type": "DOCTRINE",
+   "name": "New heavens and a new earth",
+   "description": "The LORD answers a rebellious people, saves a remnant of his servants, and creates new heavens and a new earth and Jerusalem a joy where weeping is no more and the wolf and lamb feed together.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "ISA 65"
+   ],
+   "evidence": [
+    "Say who the LORD preserves and who he judges (65:8-15)",
+    "Describe the new heavens and new earth (65:17-25)"
+   ],
+   "prompt": "Can {{name}} describe what the LORD says he will create in Isaiah 65:17-25?"
+  },
+  {
+   "id": "isa_final_judgment_gathering",
+   "type": "THEME",
+   "name": "Heaven my throne: the final word",
+   "description": "The LORD asks where a house can be built for him who made all things and looks to the humble and contrite; he comforts Jerusalem, comes with fire, gathers all nations to see his glory, and the new heavens and earth remain.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "ISA 66"
+   ],
+   "evidence": [
+    "Say whom the LORD looks to (66:2)",
+    "Describe the gathering of the nations (66:18-21)",
+    "Describe the end in 66:22-24"
+   ],
+   "prompt": "Can {{name}} say whom the LORD looks to in Isaiah 66:2 and how the book ends?"
+  },
+  {
+   "id": "book_jer",
+   "type": "BOOK_OVERVIEW",
+   "name": "Jeremiah: overview",
+   "description": "Jeremiah son of Hilkiah, a priest of Anathoth, receives the word of the LORD from the thirteenth year of Josiah to the exile after Zedekiah's eleventh year, warning Judah of judgment from the north and promising restoration and a new covenant.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 1:1-3",
+    "JER 31:31-34",
+    "JER 52:1-11"
+   ],
+   "evidence": [
+    "Name the kings during whose reigns the word came (Jeremiah 1:1-3)",
+    "Explain that the book is not arranged only in the order of the events it describes, using examples from its dates"
+   ],
+   "prompt": "Can {{name}} say who Jeremiah was and during whose reigns the word of the LORD came to him according to Jeremiah 1:1-3?"
+  },
+  {
+   "id": "jer_call",
+   "type": "STORY",
+   "name": "The call of Jeremiah",
+   "description": "The LORD tells Jeremiah he knew and set him apart before birth as a prophet to the nations; Jeremiah protests he is a child, the LORD touches his mouth and gives visions of an almond rod and a boiling pot from the north.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JER 1"
+   ],
+   "evidence": [
+    "Retell what the LORD says before Jeremiah's birth (1:5)",
+    "Describe how the LORD answers Jeremiah's objection (1:6-9)",
+    "Explain the two visions of 1:11-16"
+   ],
+   "prompt": "Can {{name}} retell how Jeremiah was called and how the LORD answered his fear in Jeremiah 1:6-8?"
+  },
+  {
+   "id": "jer_forsaken_fountain",
+   "type": "THEME",
+   "name": "Israel forsakes the fountain of living waters",
+   "description": "The LORD remembers Israel's devotion in the wilderness, charges that the fathers and leaders went after vanity, and says his people committed two evils: forsaking him and digging broken cisterns.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JER 2"
+   ],
+   "evidence": [
+    "Say what the LORD remembers in Jeremiah 2:2-3",
+    "Explain the two evils of 2:13",
+    "List the people the LORD charges in 2:8, 26"
+   ],
+   "prompt": "Can {{name}} explain the picture of the fountain and the broken cisterns in Jeremiah 2:13?"
+  },
+  {
+   "id": "jer_return_backsliding",
+   "type": "THEME",
+   "name": "Return, backsliding Israel",
+   "description": "Using the image of an unfaithful wife, the LORD calls faithless Israel and Judah to return, promises shepherds after his heart and a gathering to Jerusalem, and calls Judah to circumcise their hearts.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 3",
+    "JER 4:1-4"
+   ],
+   "evidence": [
+    "Say what happened to backsliding Israel and what Judah did (3:6-11)",
+    "Quote the invitation in 3:12-14",
+    "Explain the call to circumcise the heart in 4:4"
+   ],
+   "prompt": "Can {{name}} explain the LORD's call to return in Jeremiah 3:12-14, 3:22 and 4:1-4?"
+  },
+  {
+   "id": "jer_foe_from_north",
+   "type": "THEME",
+   "name": "Disaster from the north",
+   "description": "A trumpet is blown for a destroyer coming from the north; Jeremiah laments over the false peace and sees the earth returned to emptiness, though the LORD says he will not make a full end.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 4:5-31"
+   ],
+   "evidence": [
+    "Describe the warning given in Jeremiah 4:5-8",
+    "Describe Jeremiah's vision of 4:23-26",
+    "Say what the LORD says in 4:27"
+   ],
+   "prompt": "Can {{name}} describe what Jeremiah sees in Jeremiah 4:23-26 and what the LORD says in 4:27?"
+  },
+  {
+   "id": "jer_none_righteous",
+   "type": "THEME",
+   "name": "Not one to be found: Jerusalem's guilt",
+   "description": "The LORD asks whether a single just person can be found in Jerusalem, charges leaders and people with false oaths, deceit and ignoring the poor, and says a distant nation will come, yet he will not make a full end.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 5"
+   ],
+   "evidence": [
+    "Say what is asked in Jeremiah 5:1",
+    "Describe the charges in 5:26-28",
+    "Describe the coming nation (5:15-17) and what remains true (5:18)"
+   ],
+   "prompt": "Can {{name}} say what the LORD asks Jeremiah to look for in Jerusalem in chapter 5 and what he finds?"
+  },
+  {
+   "id": "jer_siege_jerusalem",
+   "type": "THEME",
+   "name": "Jerusalem besieged: peace, peace, when there is no peace",
+   "description": "The LORD calls for a siege against Jerusalem, whose people reject his word; prophets and priests heal the wound lightly, saying peace, and the people refuse the old paths; Jeremiah is set as an assayer of metal.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 6"
+   ],
+   "evidence": [
+    "Quote the false message in Jeremiah 6:14",
+    "Say what the LORD invites in 6:16 and the people's reply",
+    "Describe the assayer image (6:27-30)"
+   ],
+   "prompt": "Can {{name}} say what the people answer when the LORD points them to the old paths in Jeremiah 6:16?"
+  },
+  {
+   "id": "jer_temple_sermon",
+   "type": "STORY",
+   "name": "The temple sermon",
+   "description": "At the gate of the LORD's house Jeremiah says not to trust \"the temple of the LORD\"; the LORD cites Shiloh, forbids Jeremiah to pray for the people, and condemns worship of the queen of heaven and child burning in Tophet.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 7",
+    "JER 8:1-3"
+   ],
+   "evidence": [
+    "Explain what the people trusted and what the LORD required (7:3-7)",
+    "Say how the LORD compares the temple to Shiloh (7:12-14)",
+    "Describe the sins at Tophet (7:30-34)"
+   ],
+   "prompt": "Can {{name}} explain why Jeremiah told the people not to trust in the temple of the LORD in Jeremiah 7:1-15?"
+  },
+  {
+   "id": "jer_no_balm",
+   "type": "THEME",
+   "name": "Is there no balm in Gilead?",
+   "description": "The people hold to deceit and refuse to return; wise men have rejected the LORD's word; the harvest is past and they are not saved, and Jeremiah weeps asking whether there is no balm in Gilead.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 8:4-22"
+   ],
+   "evidence": [
+    "Describe how even the stork knows her times (8:7)",
+    "Quote the question of 8:22",
+    "Describe the people's complaint in 8:20"
+   ],
+   "prompt": "Can {{name}} explain the question Jeremiah asks in 8:22 and why he asks it?"
+  },
+  {
+   "id": "jer_glory_in_knowing_lord",
+   "type": "THEME",
+   "name": "Weeping prophet; let him glory that he knows me",
+   "description": "Jeremiah longs to weep for the slain of his people, who speak deceit; the LORD announces desolation and says the wise, mighty and rich should not glory in those things but in knowing him as one who exercises lovingkindness, judgment and righteousness.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 9"
+   ],
+   "evidence": [
+    "Quote Jeremiah 9:1",
+    "Say what the LORD says to glory in (9:23-24)",
+    "Explain 9:25-26"
+   ],
+   "prompt": "Can {{name}} say what the LORD says a person should glory in according to Jeremiah 9:23-24?"
+  },
+  {
+   "id": "jer_living_god_idols",
+   "type": "DOCTRINE",
+   "name": "The living God and the idols of the nations",
+   "description": "The LORD says not to learn the way of the nations; idols made by craftsmen cannot speak or move, while the LORD is the true, living God and everlasting king who made the earth by his power.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JER 10"
+   ],
+   "evidence": [
+    "Describe how the idol is made (10:3-5)",
+    "Contrast the LORD and the idols (10:10-16)",
+    "Describe Jeremiah's prayer in 10:23-25"
+   ],
+   "prompt": "Can {{name}} contrast the idols of the nations with the LORD in Jeremiah 10:3-16?"
+  },
+  {
+   "id": "jer_broken_covenant",
+   "type": "STORY",
+   "name": "The words of this covenant and the plot at Anathoth",
+   "description": "Jeremiah is told to proclaim the words of the covenant commanded when Israel left Egypt; Judah has broken it and the LORD forbids prayer for them; Jeremiah learns the men of Anathoth plot against his life.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 11"
+   ],
+   "evidence": [
+    "Say what covenant the LORD refers to and when it was given (11:3-5)",
+    "Describe how Judah broke it (11:9-10)",
+    "Describe the plot against Jeremiah and the LORD's answer (11:18-23)"
+   ],
+   "prompt": "Can {{name}} say what covenant Jeremiah 11:1-8 refers to and why Judah is said to have broken it?"
+  },
+  {
+   "id": "jer_wicked_prosper",
+   "type": "THEME",
+   "name": "Why does the way of the wicked prosper?",
+   "description": "Jeremiah asks why the wicked prosper; the LORD says his trouble will grow, grieves over forsaking his heritage, judges Judah's neighbours, and promises compassion and return if the nations learn his ways.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 12"
+   ],
+   "evidence": [
+    "Quote Jeremiah's question (12:1)",
+    "Describe the LORD's reply (12:5)",
+    "Say what is promised for the nations after plucking out (12:14-17)"
+   ],
+   "prompt": "Can {{name}} say what Jeremiah asks the LORD in 12:1 and how the LORD answers in 12:5?"
+  },
+  {
+   "id": "jer_linen_girdle",
+   "type": "STORY",
+   "name": "The ruined linen belt",
+   "description": "Jeremiah buys a linen belt, hides it by the Euphrates, and finds it ruined; the LORD says he will ruin the pride of Judah, warns of exile, and asks whether a leopard can change its spots.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JER 13"
+   ],
+   "evidence": [
+    "Retell what Jeremiah does with the belt (13:1-7)",
+    "Explain what the belt represents (13:9-11)",
+    "Quote the question in 13:23"
+   ],
+   "prompt": "Can {{name}} retell the sign of the linen belt and say what it stood for in Jeremiah 13?"
+  },
+  {
+   "id": "jer_drought_prayers",
+   "type": "THEME",
+   "name": "Drought, false prophets and intercession refused",
+   "description": "During a drought Jeremiah prays for Judah and the people confess sin, but the LORD says not to pray for them; he denounces prophets who promise peace and Jeremiah weeps for the slain.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 14"
+   ],
+   "evidence": [
+    "Describe the drought and the people's prayer (14:1-9, 19-22)",
+    "Say what the LORD says about the prophets (14:13-16)"
+   ],
+   "prompt": "Can {{name}} say why the LORD tells Jeremiah not to pray for the people in Jeremiah 14:10-12?"
+  },
+  {
+   "id": "jer_moses_samuel",
+   "type": "THEME",
+   "name": "Though Moses and Samuel stood before me",
+   "description": "The LORD says even Moses and Samuel could not turn him from Judah; he appoints four kinds of destroyers, Jeremiah complains of his pain, and the LORD tells him to return and promises he will be a bronze wall.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 15"
+   ],
+   "evidence": [
+    "Say whom the LORD names in Jeremiah 15:1",
+    "Quote Jeremiah's words about God's words in 15:16",
+    "Say what the LORD promises Jeremiah in 15:19-21"
+   ],
+   "prompt": "Can {{name}} say what Jeremiah says about the LORD's words in 15:16 and what the LORD promises him in 15:19-21?"
+  },
+  {
+   "id": "jer_no_wife_no_mourning",
+   "type": "THEME",
+   "name": "A prophet forbidden to marry or mourn",
+   "description": "Jeremiah is told not to marry, mourn or feast because the LORD will remove peace from the land; the LORD says the people forsook him, promises a return from the north greater than the exodus, and sends fishers and hunters.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 16"
+   ],
+   "evidence": [
+    "Say what Jeremiah is told not to do and why (16:2-9)",
+    "Describe the promise in 16:14-15"
+   ],
+   "prompt": "Can {{name}} explain why Jeremiah is forbidden to marry or join mourners in Jeremiah 16?"
+  },
+  {
+   "id": "jer_two_ways_trust",
+   "type": "DOCTRINE",
+   "name": "Cursed is the man who trusts in man",
+   "description": "The LORD contrasts the person who trusts in man with the one who trusts in the LORD, says the heart is deceitful, and Jeremiah prays for healing; the LORD adds a call to keep the sabbath, promising kings on David's throne if they obey.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 17"
+   ],
+   "evidence": [
+    "Contrast the two people and their trees (17:5-8)",
+    "Quote 17:9-10",
+    "Say what is promised and warned about the sabbath (17:19-27)"
+   ],
+   "prompt": "Can {{name}} contrast the person who trusts in man with the one who trusts in the LORD in Jeremiah 17:5-8?"
+  },
+  {
+   "id": "jer_potter_house",
+   "type": "STORY",
+   "name": "The potter and the clay",
+   "description": "Jeremiah watches a potter remake a spoiled vessel; the LORD says he can do the same with Israel and will relent of judgment or blessing depending on how a nation responds; the people say there is no hope and plot against Jeremiah.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JER 18"
+   ],
+   "evidence": [
+    "Retell what Jeremiah sees at the potter's house (18:1-4)",
+    "Explain the message of 18:7-10",
+    "Describe the people's reaction (18:12, 18)"
+   ],
+   "prompt": "Can {{name}} retell the potter and clay story and say what the LORD says he does when a nation turns from evil in Jeremiah 18:7-8?"
+  },
+  {
+   "id": "jer_broken_bottle",
+   "type": "STORY",
+   "name": "The broken jar in the valley of Hinnom",
+   "description": "Jeremiah breaks a potter's flask in the valley of Hinnom before elders as a sign the LORD will break the city for idolatry and child sacrifice, and then repeats the warning in the temple court.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 19"
+   ],
+   "evidence": [
+    "Retell the sign Jeremiah performs (19:1-2, 10-11)",
+    "Say why the LORD judges (19:4-5)"
+   ],
+   "prompt": "Can {{name}} retell what Jeremiah does with the flask in Jeremiah 19 and what it means?"
+  },
+  {
+   "id": "jer_pashur_complaint",
+   "type": "STORY",
+   "name": "Pashur strikes Jeremiah; Jeremiah's complaint",
+   "description": "Pashur the priest beats Jeremiah and puts him in stocks; Jeremiah names him Terror on every side and tells of exile to Babylon, then complains that the word is like fire in his bones and curses the day of his birth.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 20"
+   ],
+   "evidence": [
+    "Retell what Pashur does and what Jeremiah says (20:1-6)",
+    "Describe the fire in Jeremiah's bones (20:9)",
+    "Compare the praise of 20:11-13 with the lament of 20:14-18"
+   ],
+   "prompt": "Can {{name}} describe how Jeremiah responds to Pashur and what Jeremiah says about holding back the word in 20:9?"
+  },
+  {
+   "id": "jer_zedekiah_asks",
+   "type": "STORY",
+   "name": "Zedekiah asks Jeremiah to enquire of the LORD",
+   "description": "When Nebuchadnezzar attacks, King Zedekiah sends to Jeremiah, who answers that the LORD himself will fight against the city and sets before the people the way of life, which is to go out to the Chaldeans, and the way of death.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 21"
+   ],
+   "evidence": [
+    "Say who sends to Jeremiah and why (21:1-2)",
+    "Describe the LORD's answer (21:4-7)",
+    "Describe the two ways set before the people (21:8-9)"
+   ],
+   "prompt": "Can {{name}} say how the LORD answers Zedekiah in Jeremiah 21 and what choice the people are given?"
+  },
+  {
+   "id": "jer_kings_judged",
+   "type": "THEME",
+   "name": "Judgment on the sons of Josiah and Coniah",
+   "description": "The house of David is told to do justice or the palace will be desolate; Jehoiakim, who built his house by unrighteousness, and Coniah are condemned, with Shallum's exile also announced.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 22"
+   ],
+   "evidence": [
+    "Say what the king is told to do (22:3)",
+    "Contrast Jehoiakim with his father Josiah (22:13-17)",
+    "Describe what is said of Coniah (22:24-30)"
+   ],
+   "prompt": "Can {{name}} contrast what the LORD says of Josiah and of Jehoiakim in Jeremiah 22:13-17?"
+  },
+  {
+   "id": "jer_righteous_branch",
+   "type": "DOCTRINE",
+   "name": "A righteous Branch raised up to David",
+   "description": "The LORD condemns the shepherds who scatter his flock, promises to gather the remnant and set shepherds over them, and says he will raise to David a righteous Branch, a king named The LORD our righteousness.",
+   "covenant": "cv_davidic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JER 23:1-8"
+   ],
+   "evidence": [
+    "Describe what the LORD promises in Jeremiah 23:3-4",
+    "Quote the promise of 23:5-6",
+    "Compare 23:7-8 with the exodus"
+   ],
+   "prompt": "Can {{name}} say what the LORD promises to raise up for David in Jeremiah 23:5-6?"
+  },
+  {
+   "id": "jer_false_prophets",
+   "type": "THEME",
+   "name": "Against the prophets who speak their own dreams",
+   "description": "The LORD says the prophets of Samaria and Jerusalem are profane, speak visions of their own heart and dreams without being sent, while his word is like fire and a hammer, and mocks use of \"the burden of the LORD.\"",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 23:9-40"
+   ],
+   "evidence": [
+    "Say what the LORD says false prophets lack (23:18, 21-22)",
+    "Contrast the chaff and the wheat (23:28)",
+    "Quote 23:29"
+   ],
+   "prompt": "Can {{name}} explain how the LORD says to tell a true prophet from a false one in Jeremiah 23:16-32?"
+  },
+  {
+   "id": "jer_two_baskets",
+   "type": "STORY",
+   "name": "Two baskets of figs",
+   "description": "After Nebuchadnezzar carries off Jeconiah, Jeremiah is shown a basket of good figs and a basket of bad figs; the LORD says the exiles are the good figs he will return and plant, while Zedekiah and the rest are the bad.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JER 24"
+   ],
+   "evidence": [
+    "Retell the vision (24:1-3)",
+    "Say what the LORD promises the good figs (24:5-7)",
+    "Say who the bad figs are (24:8-10)"
+   ],
+   "prompt": "Can {{name}} retell the vision of the two baskets of figs in Jeremiah 24 and what each stands for?"
+  },
+  {
+   "id": "jer_seventy_years",
+   "type": "THEME",
+   "name": "Seventy years and the cup of wrath",
+   "description": "In Jehoiakim's fourth year Jeremiah reminds Judah of twenty-three years of unheeded warnings; Babylon will rule seventy years and then be punished, and the nations are made to drink the cup of the LORD's fury.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 25"
+   ],
+   "evidence": [
+    "Say how long Jeremiah had spoken (25:3)",
+    "Say what the LORD says about the seventy years (25:11-12)",
+    "Describe the cup the nations drink (25:15-29)"
+   ],
+   "prompt": "Can {{name}} say what Jeremiah 25:11-12 says about seventy years and what happens to Babylon afterward?"
+  },
+  {
+   "id": "jer_temple_trial",
+   "type": "STORY",
+   "name": "Jeremiah on trial",
+   "description": "Jeremiah's warning at the temple that the house will become like Shiloh leads priests and prophets to demand his death; the princes and elders spare him, citing Micah in Hezekiah's day, while Urijah is killed.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 26"
+   ],
+   "evidence": [
+    "Say what Jeremiah says in the temple court (26:2-6)",
+    "Retell the argument for sparing him (26:16-19)",
+    "Say what happened to Urijah (26:20-23)"
+   ],
+   "prompt": "Can {{name}} retell why Jeremiah was not put to death in Jeremiah 26?"
+  },
+  {
+   "id": "jer_yokes",
+   "type": "STORY",
+   "name": "The yoke and the king of Babylon",
+   "description": "Jeremiah wears wooden yokes and sends word to the kings of Edom, Moab, Ammon, Tyre and Zidon and to Zedekiah that the LORD has given the lands to Nebuchadnezzar; they are not to heed prophets who say otherwise.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 27"
+   ],
+   "evidence": [
+    "Describe the sign Jeremiah is told to make (27:2)",
+    "Say what the LORD says about serving the king of Babylon (27:6-8, 11-12)",
+    "Say what happens to the temple vessels (27:19-22)"
+   ],
+   "prompt": "Can {{name}} say what Jeremiah told the kings and Zedekiah to do in Jeremiah 27 and why he said not to listen to the other prophets?"
+  },
+  {
+   "id": "jer_hananiah",
+   "type": "STORY",
+   "name": "Hananiah breaks the yoke",
+   "description": "The prophet Hananiah says in the LORD's name that Babylon's yoke will be broken within two years and breaks Jeremiah's yoke; Jeremiah answers that the LORD has made a yoke of iron, and Hananiah dies that year.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 28"
+   ],
+   "evidence": [
+    "Retell Hananiah's prophecy and what he does to the yoke (28:1-4, 10-11)",
+    "Say how Jeremiah says a prophet of peace is known (28:9)",
+    "Say what happens to Hananiah (28:15-17)"
+   ],
+   "prompt": "Can {{name}} retell the confrontation between Jeremiah and Hananiah and how it ended in Jeremiah 28?"
+  },
+  {
+   "id": "jer_letter_exiles",
+   "type": "STORY",
+   "name": "Jeremiah's letter to the exiles",
+   "description": "Jeremiah writes to those carried to Babylon to build houses, plant gardens, seek the city's peace, and wait seventy years, promising thoughts of peace and that they will find the LORD if they seek him with all their heart; false prophets among them are condemned.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JER 29"
+   ],
+   "evidence": [
+    "List what the exiles are told to do (29:5-7)",
+    "Say what is promised after seventy years (29:10-14)",
+    "Describe the warning about false prophets (29:8-9, 21-32)"
+   ],
+   "prompt": "Can {{name}} say what Jeremiah told the exiles to do in Babylon and what the LORD promised in Jeremiah 29:10-14?"
+  },
+  {
+   "id": "jer_book_of_consolation",
+   "type": "THEME",
+   "name": "The time of Jacob's trouble and restoration",
+   "description": "The LORD tells Jeremiah to write in a book that he will bring Israel and Judah back; though their wound is incurable because of their sins, he will heal them, break the yoke, and raise up David their king.",
+   "covenant": "cv_davidic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 30"
+   ],
+   "evidence": [
+    "Say what Jeremiah is told to write (30:2-3)",
+    "Describe the time of Jacob's trouble and the promise (30:7-11)",
+    "Quote the covenant words in 30:22"
+   ],
+   "prompt": "Can {{name}} say what the LORD promises Israel and Judah in Jeremiah 30:3, 10 and 17?"
+  },
+  {
+   "id": "jer_israel_restored",
+   "type": "THEME",
+   "name": "Everlasting love: Israel gathered and Rachel comforted",
+   "description": "The LORD loves Israel with an everlasting love and will gather them from the north, redeem them and turn mourning to joy; Rachel weeps for her children but the LORD promises they will return, and the new thing and the sour grape saying are addressed.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 31:1-30"
+   ],
+   "evidence": [
+    "Quote Jeremiah 31:3",
+    "Describe Rachel's weeping and the promise (31:15-17)",
+    "Explain the saying about the sour grape that will no longer be used (31:29-30)"
+   ],
+   "prompt": "Can {{name}} say what the LORD promises in Jeremiah 31:3 and 31:15-17?"
+  },
+  {
+   "id": "jer_new_covenant",
+   "type": "COVENANT",
+   "name": "The new covenant",
+   "description": "The LORD promises a new covenant with Israel and Judah, unlike the one broken after the exodus: he will write his law on their hearts, they will all know him, and he will forgive their iniquity and remember their sin no more.",
+   "covenant": "cv_new",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 31:31-34"
+   ],
+   "evidence": [
+    "Say whom the covenant is made with and what it is unlike (31:31-32)",
+    "Describe what the LORD does in 31:33",
+    "Quote the promise of forgiveness in 31:34"
+   ],
+   "prompt": "Can {{name}} explain what is new about the covenant promised in Jeremiah 31:31-34?"
+  },
+  {
+   "id": "jer_fixed_ordinances",
+   "type": "THEME",
+   "name": "As sure as the sun and moon: Israel's future and the city rebuilt",
+   "description": "The LORD says Israel would cease only if the fixed order of sun, moon and stars departed, and that he will not cast off Israel for their sin; Jerusalem will be rebuilt and holy to the LORD.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 31:35-40"
+   ],
+   "evidence": [
+    "Say the comparisons the LORD makes in Jeremiah 31:35-37",
+    "Describe the rebuilt city (31:38-40)"
+   ],
+   "prompt": "Can {{name}} explain the comparison the LORD makes in Jeremiah 31:35-37?"
+  },
+  {
+   "id": "jer_field_anathoth",
+   "type": "STORY",
+   "name": "Jeremiah buys a field at Anathoth",
+   "description": "With Jerusalem besieged and Jeremiah imprisoned, the LORD has him buy his cousin's field as a sign that fields will again be bought in the land; Jeremiah prays, and the LORD promises an everlasting covenant and return.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JER 32"
+   ],
+   "evidence": [
+    "Retell how Jeremiah buys the field and seals the deed (32:6-15)",
+    "Quote the LORD's question in 32:27",
+    "Describe the promise in 32:37-44"
+   ],
+   "prompt": "Can {{name}} retell why Jeremiah bought a field in Anathoth during the siege and what the LORD said about it in Jeremiah 32?"
+  },
+  {
+   "id": "jer_david_covenant_branch",
+   "type": "COVENANT",
+   "name": "The Branch of righteousness and the covenant with David and the Levites",
+   "description": "The LORD promises healing, cleansing and rejoicing, and that a Branch of righteousness will grow up for David; he compares his covenant with David and the Levites to his covenant of day and night.",
+   "covenant": "cv_davidic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 33"
+   ],
+   "evidence": [
+    "Say what the LORD promises in Jeremiah 33:6-11",
+    "Describe the Branch and the name given in 33:15-16",
+    "Explain the comparison in 33:20-22"
+   ],
+   "prompt": "Can {{name}} say what the LORD promises about David and the Levites in Jeremiah 33:17-22?"
+  },
+  {
+   "id": "jer_slaves_released",
+   "type": "STORY",
+   "name": "Zedekiah's covenant to free slaves is broken",
+   "description": "During the siege Zedekiah and the people covenant to free Hebrew servants, then take them back; the LORD recalls the covenant at the exodus and says that those who passed between the parts of the calf will be given to their enemies.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 34"
+   ],
+   "evidence": [
+    "Say what the king and people covenanted and what they did next (34:8-11)",
+    "Say what law the LORD cites from the time of the exodus (34:13-14)",
+    "Describe the judgment (34:17-22)"
+   ],
+   "prompt": "Can {{name}} explain what the people did wrong with their servants in Jeremiah 34 and why the LORD judged them?"
+  },
+  {
+   "id": "jer_rechabites",
+   "type": "STORY",
+   "name": "The Rechabites' obedience",
+   "description": "In Jehoiakim's days Jeremiah offers wine to the Rechabites, who refuse because their father Jonadab commanded them; the LORD contrasts their obedience to a human father with Judah's refusal to hear him.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "JER 35"
+   ],
+   "evidence": [
+    "Retell what Jeremiah does and what the Rechabites say (35:5-10)",
+    "Explain the LORD's lesson from them (35:13-16)",
+    "Say what is promised to the Rechabites (35:18-19)"
+   ],
+   "prompt": "Can {{name}} retell the story of the Rechabites and say what the LORD teaches through them in Jeremiah 35?"
+  },
+  {
+   "id": "jer_scroll_burned",
+   "type": "STORY",
+   "name": "The scroll burned by Jehoiakim",
+   "description": "The LORD has Jeremiah dictate all his words to Baruch, who reads them in the temple and to the princes; King Jehoiakim cuts and burns the scroll piece by piece, and the LORD has Jeremiah write it again with more added.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JER 36"
+   ],
+   "evidence": [
+    "Retell how the scroll is written and read (36:1-10)",
+    "Describe the king's response (36:21-26)",
+    "Say what the LORD commands next (36:27-32)"
+   ],
+   "prompt": "Can {{name}} retell how Jeremiah's scroll was written, burned and written again in Jeremiah 36?"
+  },
+  {
+   "id": "jer_jeremiah_imprisoned",
+   "type": "STORY",
+   "name": "Jeremiah imprisoned during the siege",
+   "description": "When the Chaldeans withdraw briefly because of Pharaoh's army, Jeremiah says they will return and burn the city; he is arrested, accused of deserting, beaten and imprisoned, then secretly questioned by Zedekiah and moved to the court of the prison.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 37"
+   ],
+   "evidence": [
+    "Say what Jeremiah says about the Chaldeans' withdrawal (37:7-10)",
+    "Describe his arrest (37:11-15)",
+    "Say what he asks Zedekiah (37:17-21)"
+   ],
+   "prompt": "Can {{name}} retell why Jeremiah was arrested in Jeremiah 37 and what he said to Zedekiah?"
+  },
+  {
+   "id": "jer_ebedmelech",
+   "type": "STORY",
+   "name": "Jeremiah in the cistern and Ebed-melech",
+   "description": "The princes lower Jeremiah into a muddy cistern to die; Ebed-melech the Ethiopian pleads with the king and lifts him out with ropes and rags; Zedekiah again questions Jeremiah, who urges him to surrender, and later the LORD promises Ebed-melech deliverance.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "JER 38",
+    "JER 39:15-18"
+   ],
+   "evidence": [
+    "Retell why the princes put Jeremiah in the cistern (38:1-6)",
+    "Retell how Ebed-melech rescues him (38:7-13)",
+    "Say what the LORD promises Ebed-melech (39:15-18)"
+   ],
+   "prompt": "Can {{name}} retell how Ebed-melech helped Jeremiah and what the LORD said to him in Jeremiah 39:15-18?"
+  },
+  {
+   "id": "jer_fall_of_jerusalem",
+   "type": "STORY",
+   "name": "The fall of Jerusalem and Jeremiah freed",
+   "description": "In Zedekiah's eleventh year the city is breached; Zedekiah flees, is caught, sees his sons killed and is blinded and taken to Babylon; the city is burned, and Nebuchadnezzar orders that Jeremiah be treated well.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 39:1-14"
+   ],
+   "evidence": [
+    "Retell what happens to Zedekiah (39:4-7)",
+    "Say what happens to the city and to the poor (39:8-10)",
+    "Say how Jeremiah is treated (39:11-14)"
+   ],
+   "prompt": "Can {{name}} retell what happened to Zedekiah and Jerusalem in Jeremiah 39:1-10 and what happened to Jeremiah?"
+  },
+  {
+   "id": "jer_gedaliah",
+   "type": "STORY",
+   "name": "Gedaliah governor and his murder",
+   "description": "Nebuzaradan releases Jeremiah, who joins Gedaliah at Mizpah; Jews return and gather harvest, but Ishmael murders Gedaliah and others and Johanan and the captains flee toward Egypt.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 40",
+    "JER 41"
+   ],
+   "evidence": [
+    "Say what Nebuzaradan says to Jeremiah (40:2-5)",
+    "Describe the warning Gedaliah ignores (40:13-16)",
+    "Retell what Ishmael does (41:1-10)"
+   ],
+   "prompt": "Can {{name}} retell what happened to Gedaliah and the people at Mizpah in Jeremiah 40-41?"
+  },
+  {
+   "id": "jer_do_not_go_egypt",
+   "type": "STORY",
+   "name": "Do not go down to Egypt",
+   "description": "The remnant asks Jeremiah to pray for guidance and promises to obey, but when the LORD says to stay and he will build them up, and that going to Egypt means the sword and famine, they accuse Jeremiah of lying and go to Egypt.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 42",
+    "JER 43:1-7"
+   ],
+   "evidence": [
+    "Say what the people promise and what the LORD answers (42:5-12)",
+    "Say what the LORD warns about Egypt (42:13-22)",
+    "Describe the people's reaction (43:1-7)"
+   ],
+   "prompt": "Can {{name}} retell what the remnant asked Jeremiah and how they responded to the LORD's answer in Jeremiah 42-43?"
+  },
+  {
+   "id": "jer_egypt_stones",
+   "type": "STORY",
+   "name": "Nebuchadnezzar and the stones at Tahpanhes",
+   "description": "In Tahpanhes in Egypt Jeremiah hides great stones in the brickwork at Pharaoh's house as a sign that Nebuchadnezzar will set his throne there and strike Egypt and burn the Egyptian gods' temples.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 43:8-13"
+   ],
+   "evidence": [
+    "Describe the sign Jeremiah performs (43:9)",
+    "Say what it signifies (43:10-13)"
+   ],
+   "prompt": "Can {{name}} describe the sign with the stones at Tahpanhes and what it means in Jeremiah 43:8-13?"
+  },
+  {
+   "id": "jer_queen_of_heaven",
+   "type": "STORY",
+   "name": "The Jews in Egypt and the queen of heaven",
+   "description": "Jeremiah warns the Jews in Egypt that idolatry caused the fall of Jerusalem; the people reply they will keep burning incense to the queen of heaven, and the LORD declares he will watch over them for evil and gives a sign concerning Pharaoh Hophra.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "JER 44"
+   ],
+   "evidence": [
+    "Say what the people answer Jeremiah (44:15-19)",
+    "Say how Jeremiah replies (44:21-23)",
+    "Describe the sign in 44:29-30"
+   ],
+   "prompt": "Can {{name}} say what the Jews in Egypt answered Jeremiah in 44:15-19 and how Jeremiah replied?"
+  },
+  {
+   "id": "jer_baruch",
+   "type": "STORY",
+   "name": "A word to Baruch",
+   "description": "In the fourth year of Jehoiakim the LORD answers Baruch's complaint of sorrow by saying he will break down what he has built, and tells Baruch not to seek great things, promising his life as a prize.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "JER 45"
+   ],
+   "evidence": [
+    "Say what Baruch complained of (45:3)",
+    "Say what the LORD tells him to stop seeking and promises (45:5)"
+   ],
+   "prompt": "Can {{name}} say what the LORD told Baruch in Jeremiah 45:4-5?"
+  },
+  {
+   "id": "jer_egypt_philistines",
+   "type": "THEME",
+   "name": "Oracles against Egypt and the Philistines",
+   "description": "The LORD announces defeat of Pharaoh Necho's army at Carchemish and later Nebuchadnezzar's attack on Egypt, while Jacob is told not to fear; waters from the north overflow the Philistines.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 46",
+    "JER 47"
+   ],
+   "evidence": [
+    "Describe the defeat of Egypt's army (46:2-12)",
+    "Say what the LORD tells Jacob (46:27-28)",
+    "Describe the flood from the north against the Philistines (47:2-7)"
+   ],
+   "prompt": "Can {{name}} say what the LORD announces against Egypt in Jeremiah 46 and what comfort he gives Israel?"
+  },
+  {
+   "id": "jer_moab_judged",
+   "type": "THEME",
+   "name": "The oracle against Moab",
+   "description": "Moab is to be destroyed because it trusted in its works and treasures and magnified itself against the LORD; Jeremiah mourns for Moab, yet the LORD says he will restore Moab's captivity in the latter days.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 48"
+   ],
+   "evidence": [
+    "Say why Moab is judged (48:7, 26, 42)",
+    "Describe the mourning (48:31-36)",
+    "Say what is promised in 48:47"
+   ],
+   "prompt": "Can {{name}} say why Moab is judged in Jeremiah 48 and what is promised at the end?"
+  },
+  {
+   "id": "jer_ammon_edom_damascus",
+   "type": "THEME",
+   "name": "Oracles against Ammon, Edom, Damascus, Kedar and Elam",
+   "description": "The LORD judges Ammon, Edom, Damascus, Kedar and Hazor and Elam; Edom's pride and refuge in the rocks will not save it, orphans and widows of Edom are told to trust him, and captivity of Ammon and Elam will later be restored.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 49"
+   ],
+   "evidence": [
+    "Describe the charge against Edom (49:7-16)",
+    "Say what happens to Kedar and Hazor (49:28-33)",
+    "Say what is promised for Ammon and Elam (49:6, 39)"
+   ],
+   "prompt": "Can {{name}} name the nations judged in Jeremiah 49 and describe Edom's fate?"
+  },
+  {
+   "id": "jer_babylon_judged",
+   "type": "THEME",
+   "name": "The fall of Babylon and the return of Israel",
+   "description": "The LORD declares through Jeremiah that Babylon will fall to a nation from the north, that Israel and Judah will return weeping and join themselves to the LORD in a perpetual covenant, and that Babylon will be destroyed as Sodom was.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "JER 50",
+    "JER 51:1-58"
+   ],
+   "evidence": [
+    "Describe how Babylon falls (50:2-3, 51:30-32)",
+    "Describe the return of Israel and Judah (50:4-5, 19-20)",
+    "Say why the LORD judges Babylon (50:11, 24, 51:24)"
+   ],
+   "prompt": "Can {{name}} describe what Jeremiah 50-51 says will happen to Babylon and to Israel?"
+  },
+  {
+   "id": "jer_seraiah_scroll",
+   "type": "STORY",
+   "name": "The Babylon scroll sunk in the Euphrates",
+   "description": "Jeremiah writes all the evil coming on Babylon in a book and tells Seraiah to read it in Babylon, then tie a stone to it and sink it in the Euphrates, saying Babylon shall sink and not rise.",
+   "covenant": null,
+   "ages": [
+    9,
+    16
+   ],
+   "passages": [
+    "JER 51:59-64"
+   ],
+   "evidence": [
+    "Retell what Seraiah is told to do with the book (51:61-64)"
+   ],
+   "prompt": "Can {{name}} retell what Seraiah was to do with the book in Babylon and what the act meant?"
+  },
+  {
+   "id": "jer_fall_recounted",
+   "type": "STORY",
+   "name": "The fall of Jerusalem and the exiles recounted",
+   "description": "The book closes with Zedekiah's rebellion, the siege, the burning of the temple, the stripping of the bronze pillars and vessels, the executions at Riblah, the numbers carried to Babylon, and Jehoiachin's release and honour in Babylon.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "JER 52"
+   ],
+   "evidence": [
+    "Retell the fall of Jerusalem (52:4-14)",
+    "Say what is taken from the temple (52:17-23)",
+    "Describe what happens to Jehoiachin (52:31-34)"
+   ],
+   "prompt": "Can {{name}} retell the fall of Jerusalem in Jeremiah 52 and how the chapter ends with Jehoiachin?"
+  },
+  {
+   "id": "book_lam",
+   "type": "BOOK_OVERVIEW",
+   "name": "Lamentations: overview",
+   "description": "Five poems mourn the desolation of Jerusalem, confess that the LORD afflicted her for her transgressions, and in the middle chapter turn to hope in the LORD's mercies, ending with a prayer for restoration.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LAM 1:1-5",
+    "LAM 3:21-26",
+    "LAM 5:19-22"
+   ],
+   "evidence": [
+    "Say what the five chapters of Lamentations are about",
+    "Name the hopeful turning point in the book (3:21-26)"
+   ],
+   "prompt": "Can {{name}} say what Lamentations mourns and which verses in chapter 3 express hope?"
+  },
+  {
+   "id": "lam_zion_alone",
+   "type": "THEME",
+   "name": "How the city sits solitary",
+   "description": "Jerusalem is pictured as a widow weeping with none to comfort her; her adversaries prevail because of her many transgressions, and she cries to the LORD, confessing that he is righteous.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LAM 1"
+   ],
+   "evidence": [
+    "Describe how the city is pictured in Lamentations 1:1-2",
+    "Say why the LORD has afflicted her (1:5, 8)",
+    "Quote the confession in 1:18"
+   ],
+   "prompt": "Can {{name}} describe how Lamentations 1 pictures Jerusalem and what she confesses?"
+  },
+  {
+   "id": "lam_anger_of_the_lord",
+   "type": "THEME",
+   "name": "The LORD has done what he planned",
+   "description": "The poet describes the LORD acting like an enemy in anger, overthrowing the stronghold, altar and sanctuary, with children dying in the streets; the prophets failed to reveal the iniquity, and the people are urged to pour out their hearts to the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LAM 2"
+   ],
+   "evidence": [
+    "Describe what the LORD has done to Zion (2:1-8)",
+    "Say what is said of the prophets (2:14)",
+    "Describe the call to pray in 2:18-19"
+   ],
+   "prompt": "Can {{name}} describe how Lamentations 2 describes the LORD's anger and what the people are urged to do?"
+  },
+  {
+   "id": "lam_man_of_affliction",
+   "type": "THEME",
+   "name": "I am the man who has seen affliction",
+   "description": "The speaker describes his affliction under the rod of the LORD's wrath as darkness, walls and arrows, remembering the wormwood and the gall.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LAM 3:1-20"
+   ],
+   "evidence": [
+    "List the images of affliction used in Lamentations 3:1-18",
+    "Quote the speaker's state of mind in 3:18-20"
+   ],
+   "prompt": "Can {{name}} name some of the images the speaker uses for his affliction in Lamentations 3:1-18?"
+  },
+  {
+   "id": "lam_great_faithfulness",
+   "type": "DOCTRINE",
+   "name": "Great is thy faithfulness",
+   "description": "In the middle of suffering the speaker recalls that the LORD's mercies never fail, are new every morning, and that it is good to wait for him, because he will not cast off for ever and does not afflict willingly.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "LAM 3:21-39"
+   ],
+   "evidence": [
+    "Quote Lamentations 3:22-23",
+    "Explain what he says to do in 3:25-30",
+    "Say what 3:31-33 says about the LORD's compassion"
+   ],
+   "prompt": "Can {{name}} quote Lamentations 3:22-23 and say why the speaker has hope?"
+  },
+  {
+   "id": "lam_return_to_lord",
+   "type": "THEME",
+   "name": "Let us search our ways and turn again",
+   "description": "The people call each other to examine their ways and return to the LORD, confess rebellion, and the speaker recalls calling from the dungeon, being heard, and asks the LORD to judge his enemies.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LAM 3:40-66"
+   ],
+   "evidence": [
+    "Quote the call in Lamentations 3:40-41",
+    "Describe the speaker's deliverance in 3:55-58",
+    "Describe his prayer against enemies (3:64-66)"
+   ],
+   "prompt": "Can {{name}} explain the call to search our ways in Lamentations 3:40 and what the speaker recalls about calling on the LORD?"
+  },
+  {
+   "id": "lam_siege_famine",
+   "type": "THEME",
+   "name": "The gold grown dim: famine and the sins of priests and prophets",
+   "description": "The sanctuary stones lie in the streets, children starve, the sins of prophets and priests who shed blood are named as the cause, and Edom is told its cup is coming while Zion's punishment is accomplished.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LAM 4"
+   ],
+   "evidence": [
+    "Describe the famine (4:3-10)",
+    "Say who is blamed (4:13)",
+    "Say what is said of Edom and of Zion (4:21-22)"
+   ],
+   "prompt": "Can {{name}} describe what Lamentations 4 says caused the city's suffering and what it says at the end about Edom and Zion?"
+  },
+  {
+   "id": "lam_remember_us",
+   "type": "THEME",
+   "name": "Remember, O LORD, what is come upon us",
+   "description": "The people ask the LORD to remember their reproach and the loss of everything, acknowledge that the crown has fallen because they sinned, affirm his throne is for ever, and pray that he turn them and renew their days.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LAM 5"
+   ],
+   "evidence": [
+    "List what the people have lost (5:2-14)",
+    "Quote the confession and the prayer (5:16, 19-21)"
+   ],
+   "prompt": "Can {{name}} say what the people ask in Lamentations 5:19-22 and what they confess about themselves?"
+  },
+  {
+   "id": "book_ezk",
+   "type": "BOOK_OVERVIEW",
+   "name": "Ezekiel: overview",
+   "description": "Ezekiel the priest, among the captives by the river Chebar in the fifth year of Jehoiachin's captivity, sees the glory of the LORD, announces the fall of Jerusalem, speaks against the nations, and sees promises of restoration and a new temple.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EZK 1:1-3",
+    "EZK 36:24-28",
+    "EZK 48:35"
+   ],
+   "evidence": [
+    "Say where and when Ezekiel received the word (1:1-3)",
+    "Describe the main movement of the book from judgment to restoration using the texts"
+   ],
+   "prompt": "Can {{name}} say where Ezekiel was and what the first chapter says happened to him?"
+  },
+  {
+   "id": "ezk_vision_glory",
+   "type": "STORY",
+   "name": "Ezekiel's vision of the glory of the LORD",
+   "description": "By the river Chebar Ezekiel sees a storm cloud with four living creatures, wheels full of eyes, a firmament, and above it a throne with a figure like a man in brightness; he falls on his face.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EZK 1"
+   ],
+   "evidence": [
+    "Describe the four living creatures and the wheels (1:5-21)",
+    "Describe the throne and what is on it (1:26-28)",
+    "Say how Ezekiel responds (1:28)"
+   ],
+   "prompt": "Can {{name}} describe what Ezekiel saw by the river Chebar and how he responded in Ezekiel 1:28?"
+  },
+  {
+   "id": "ezk_commission_scroll",
+   "type": "STORY",
+   "name": "Ezekiel is sent to a rebellious house and eats a scroll",
+   "description": "The Spirit raises Ezekiel, calls him \"son of man\", and sends him to a rebellious house with a scroll of lament, mourning and woe, which he eats, tasting sweet as honey; he is told Israel will not listen, and sits astonished among the exiles.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EZK 2",
+    "EZK 3:1-15"
+   ],
+   "evidence": [
+    "Describe what Ezekiel is sent to do (2:3-7)",
+    "Describe the scroll and what he does with it (2:9-3:3)",
+    "Say what the LORD says about Israel's hearing (3:7-9)"
+   ],
+   "prompt": "Can {{name}} retell how Ezekiel was commissioned and what he did with the scroll in Ezekiel 2-3?"
+  },
+  {
+   "id": "ezk_watchman",
+   "type": "DOCTRINE",
+   "name": "Ezekiel the watchman",
+   "description": "After seven days the LORD makes Ezekiel a watchman for Israel, responsible to warn the wicked and the righteous; he is then told to shut himself in his house and made mute except when the LORD gives him words.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "EZK 3:16-27"
+   ],
+   "evidence": [
+    "Explain what the watchman is responsible for (3:17-21)",
+    "Describe what happens to Ezekiel's speech (3:26-27)"
+   ],
+   "prompt": "Can {{name}} explain the duty of a watchman and what happens if he warns or does not warn in Ezekiel 3:17-21?"
+  },
+  {
+   "id": "ezk_siege_signs",
+   "type": "STORY",
+   "name": "Signs of the siege of Jerusalem",
+   "description": "Ezekiel draws Jerusalem on a tile with a siege against it, lies on his side for days bearing the iniquity of Israel and Judah, and eats rationed bread baked over dung as a sign of the famine and defiled bread to come.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "EZK 4"
+   ],
+   "evidence": [
+    "Describe the tile and iron pan (4:1-3)",
+    "Describe the days he lies on each side (4:4-8)",
+    "Explain the bread and water (4:9-17)"
+   ],
+   "prompt": "Can {{name}} describe the signs Ezekiel acts out in chapter 4 and what they stood for?"
+  },
+  {
+   "id": "ezk_razor_thirds",
+   "type": "STORY",
+   "name": "The razor and the three parts",
+   "description": "Ezekiel shaves his head and beard and divides the hair into thirds, burned, struck with a sword and scattered, as a sign of what the LORD will do in Jerusalem, set in the midst of the nations but worse than them in rejecting his statutes.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 5"
+   ],
+   "evidence": [
+    "Describe how the hair is divided (5:1-2)",
+    "Explain what the three parts stand for (5:12)",
+    "Say why Jerusalem is judged (5:6-7, 11)"
+   ],
+   "prompt": "Can {{name}} explain what the shaved hair divided in three stood for in Ezekiel 5:12?"
+  },
+  {
+   "id": "ezk_mountains_israel",
+   "type": "THEME",
+   "name": "Prophecy to the mountains of Israel",
+   "description": "Ezekiel prophesies against the mountains and high places of Israel: altars and idols will be broken, slain fall among their idols, and a remnant will remember the LORD among the nations and know he is the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 6"
+   ],
+   "evidence": [
+    "Say what is to happen to the altars and idols (6:3-6)",
+    "Describe the remnant (6:8-10)",
+    "Find the repeated phrase \"ye shall know that I am the LORD\""
+   ],
+   "prompt": "Can {{name}} say what Ezekiel 6 says will happen to the high places and what the remnant will remember?"
+  },
+  {
+   "id": "ezk_end_has_come",
+   "type": "THEME",
+   "name": "The end has come upon the land",
+   "description": "The LORD announces an end on the four corners of the land: wrath poured out according to ways, silver and gold unable to save, violence full in the land, and the temple given to strangers to defile.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 7"
+   ],
+   "evidence": [
+    "Describe the refrain \"the end is come\" (7:2-6)",
+    "Say what silver and gold cannot do (7:19)",
+    "Describe what happens to the beauty of the sanctuary (7:20-22)"
+   ],
+   "prompt": "Can {{name}} say what chapter 7 says silver and gold cannot do and what happens to the LORD's sanctuary?"
+  },
+  {
+   "id": "ezk_temple_abominations",
+   "type": "STORY",
+   "name": "The abominations in the temple",
+   "description": "In the sixth year Ezekiel is carried in vision to Jerusalem and shown the image of jealousy, elders worshipping creeping things, women weeping for Tammuz, and men facing the sun in the temple; the LORD says he will not pity.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 8"
+   ],
+   "evidence": [
+    "List the four abominations Ezekiel is shown (8:5-16)",
+    "Say what the LORD says in response (8:17-18)"
+   ],
+   "prompt": "Can {{name}} name the abominations Ezekiel is shown in the temple in chapter 8 and what the LORD says he will do?"
+  },
+  {
+   "id": "ezk_mark_slaughter",
+   "type": "STORY",
+   "name": "The man with the inkhorn and the slaughter",
+   "description": "The LORD calls six men with weapons and a man in linen with an inkhorn who marks the foreheads of those who sigh over the city's abominations; those unmarked are struck beginning at the sanctuary, and Ezekiel pleads for the remnant.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 9"
+   ],
+   "evidence": [
+    "Describe the mark and who receives it (9:4)",
+    "Say where the slaughter begins (9:6)",
+    "Describe Ezekiel's plea and the answer (9:8-10)"
+   ],
+   "prompt": "Can {{name}} describe who is marked and who is struck in Ezekiel 9?"
+  },
+  {
+   "id": "ezk_glory_departs",
+   "type": "STORY",
+   "name": "The glory of the LORD leaves the temple threshold",
+   "description": "Coals from between the cherubim are scattered over the city, Ezekiel sees the cherubim and wheels again, and the glory of the LORD moves off the threshold of the house and stands over the cherubim.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 10"
+   ],
+   "evidence": [
+    "Describe the coals of fire (10:2-7)",
+    "Say how the cherubim are identified with those seen by the Chebar (10:15, 20)",
+    "Describe the movement of the glory (10:18-19)"
+   ],
+   "prompt": "Can {{name}} describe what the glory of the LORD does at the temple in Ezekiel 10:18-19?"
+  },
+  {
+   "id": "ezk_new_heart",
+   "type": "DOCTRINE",
+   "name": "The caldron, and the promise of a new heart",
+   "description": "Ezekiel prophesies against leaders who treat Jerusalem as a caldron; the LORD promises to gather the scattered exiles, give them one heart, a new spirit and a heart of flesh in place of stone, and the glory leaves the city.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 11"
+   ],
+   "evidence": [
+    "Describe the leaders' saying and the LORD's answer (11:2-12)",
+    "Quote the promise in 11:17-20",
+    "Say where the glory goes (11:22-23)"
+   ],
+   "prompt": "Can {{name}} say what the LORD promises to do for the scattered exiles in Ezekiel 11:17-20?"
+  },
+  {
+   "id": "ezk_exile_sign",
+   "type": "STORY",
+   "name": "Ezekiel packs for exile",
+   "description": "Ezekiel carries his belongings through a hole in the wall as a sign of the prince's flight and exile to Babylon, eats his bread with trembling, and the LORD declares the proverbs that visions are far off will cease.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EZK 12"
+   ],
+   "evidence": [
+    "Describe the sign Ezekiel acts out (12:3-7)",
+    "Say what the sign means for the prince (12:10-13)",
+    "Say what the LORD says about the proverb in 12:22-28"
+   ],
+   "prompt": "Can {{name}} describe how Ezekiel acts out exile in chapter 12 and what the LORD says about the saying that visions fail?"
+  },
+  {
+   "id": "ezk_false_prophets",
+   "type": "THEME",
+   "name": "Against false prophets and prophetesses",
+   "description": "The LORD is against prophets who follow their own spirit and say \"peace\" when there is none, like those daubing a wall with untempered mortar, and against women who prophesy from their own heart and hunt souls.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 13"
+   ],
+   "evidence": [
+    "Describe the whitewashed wall image (13:10-16)",
+    "Say what the women are charged with (13:17-23)"
+   ],
+   "prompt": "Can {{name}} explain the picture of the wall daubed with untempered mortar in Ezekiel 13?"
+  },
+  {
+   "id": "ezk_idols_in_heart",
+   "type": "THEME",
+   "name": "Idols in the heart",
+   "description": "When elders come to enquire, the LORD says they have set idols in their hearts and calls Israel to repent; he will answer idolaters according to their idols.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 14:1-11"
+   ],
+   "evidence": [
+    "Say what the LORD says the elders have done (14:3)",
+    "Quote the call to repent (14:6)"
+   ],
+   "prompt": "Can {{name}} explain what it means that the elders set up idols in their heart in Ezekiel 14:3-6?"
+  },
+  {
+   "id": "ezk_noah_daniel_job",
+   "type": "THEME",
+   "name": "Noah, Daniel and Job could only deliver themselves",
+   "description": "The LORD says that even if Noah, Daniel and Job were in a land under four judgments, they would save only themselves; a remnant will survive Jerusalem's judgment so that the exiles will see it was not without cause.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 14:12-23"
+   ],
+   "evidence": [
+    "Name the three men and what the LORD says of them (14:14, 20)",
+    "List the four judgments (14:21)",
+    "Say what the remnant will show the exiles (14:22-23)"
+   ],
+   "prompt": "Can {{name}} say why the LORD names Noah, Daniel and Job in Ezekiel 14:14, 20 and what they could and could not do?"
+  },
+  {
+   "id": "ezk_useless_vine",
+   "type": "THEME",
+   "name": "The vine wood and the fire",
+   "description": "The LORD compares Jerusalem's inhabitants to vine wood that is of no use for work, given to the fire as fuel, so that the land will be desolate.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EZK 15"
+   ],
+   "evidence": [
+    "Explain the vine wood comparison (15:2-5)",
+    "Say what the LORD says he will do (15:6-8)"
+   ],
+   "prompt": "Can {{name}} explain the parable of the vine tree in Ezekiel 15?"
+  },
+  {
+   "id": "ezk_foundling_bride",
+   "type": "THEME",
+   "name": "Jerusalem the foundling and unfaithful bride",
+   "description": "The LORD describes finding Jerusalem as an unwanted newborn in the open field, raising her, covering her and making her beautiful, and then her trusting in her beauty, lavishing herself on idols and foreign nations and sacrificing her children.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "EZK 16:1-43"
+   ],
+   "evidence": [
+    "Retell what the LORD did for Jerusalem (16:4-14)",
+    "Describe how she responded (16:15-22)",
+    "Say what the LORD announces (16:35-43)"
+   ],
+   "prompt": "Can {{name}} retell what the LORD did for Jerusalem in Ezekiel 16:1-14 and how she responded?"
+  },
+  {
+   "id": "ezk_sisters_everlasting_covenant",
+   "type": "THEME",
+   "name": "Sodom and Samaria as sisters and an everlasting covenant",
+   "description": "Jerusalem is said to be worse than her sisters Samaria and Sodom, whose pride and neglect of the poor are named; the LORD will deal with her for breaking the oath but will remember his covenant and establish an everlasting covenant.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "EZK 16:44-63"
+   ],
+   "evidence": [
+    "Say what is said of Sodom's iniquity (16:49)",
+    "Say what the LORD says he will do despite her breaking the covenant (16:59-62)"
+   ],
+   "prompt": "Can {{name}} say what Ezekiel 16:49 says Sodom's sin was and what the LORD promises in 16:60-62?"
+  },
+  {
+   "id": "ezk_eagles_vine_cedar",
+   "type": "STORY",
+   "name": "The two eagles, the vine and the cedar twig",
+   "description": "Ezekiel's riddle of two eagles and a vine is explained as the king of Babylon, a covenant broken by Zedekiah's turning to Egypt, and judgment; the LORD himself will plant a tender twig on the mountain of Israel to become a great cedar.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 17"
+   ],
+   "evidence": [
+    "Retell the riddle (17:3-10)",
+    "Explain its meaning (17:12-21)",
+    "Describe the LORD's planting (17:22-24)"
+   ],
+   "prompt": "Can {{name}} retell the riddle of the eagles and the vine and explain what it means in Ezekiel 17:11-21?"
+  },
+  {
+   "id": "ezk_soul_that_sins",
+   "type": "DOCTRINE",
+   "name": "The soul that sins shall die",
+   "description": "The LORD rejects the proverb that fathers eat sour grapes and children's teeth are set on edge, saying each soul that sins dies, a person is judged by his own life, and the wicked who turn live; he has no pleasure in the death of the wicked.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "EZK 18"
+   ],
+   "evidence": [
+    "Say what proverb is rejected (18:2-3)",
+    "Describe the cases of the just father, wicked son and righteous grandson (18:5-18)",
+    "Quote 18:23 and 18:31-32"
+   ],
+   "prompt": "Can {{name}} explain what Ezekiel 18 says about children bearing their fathers' guilt and about the wicked who turn?"
+  },
+  {
+   "id": "ezk_lament_princes",
+   "type": "THEME",
+   "name": "A lament for the princes of Israel",
+   "description": "Ezekiel laments in two images: a lioness whose cubs are taken captive to Egypt and Babylon, and a vine in the water that is plucked up and left in the wilderness with its strong rod withered.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 19"
+   ],
+   "evidence": [
+    "Describe the lioness and her whelps (19:2-9)",
+    "Describe the vine (19:10-14)"
+   ],
+   "prompt": "Can {{name}} describe the two images in the lament of Ezekiel 19?"
+  },
+  {
+   "id": "ezk_history_rebellion",
+   "type": "THEME",
+   "name": "Israel's rebellion from Egypt onward, and the LORD's gathering",
+   "description": "When elders come to enquire, the LORD recounts Israel's rebellion from Egypt, in the wilderness and in the land, and his acting for his name's sake; he promises to gather them, plead with them face to face and bring them into the bond of the covenant.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EZK 20:1-44"
+   ],
+   "evidence": [
+    "Retell what the LORD says of Egypt and the wilderness (20:5-26)",
+    "Say why he acted (20:9, 14, 22)",
+    "Describe his promise (20:33-44)"
+   ],
+   "prompt": "Can {{name}} say what reason the LORD gives for his actions in Ezekiel 20 and what he promises for the future?"
+  },
+  {
+   "id": "ezk_south_forest_fire",
+   "type": "THEME",
+   "name": "Fire in the forest of the south",
+   "description": "Ezekiel is told to prophesy against the forest of the south: the LORD will kindle a fire that devours every green and dry tree and cannot be quenched; Ezekiel notes that people say he speaks in parables.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "EZK 20:45-49"
+   ],
+   "evidence": [
+    "Describe the fire (20:47-48)",
+    "Say what the people say about Ezekiel (20:49)"
+   ],
+   "prompt": "Can {{name}} say what the fire in the forest of the south is like in Ezekiel 20:47-48?"
+  },
+  {
+   "id": "ezk_sword_of_babylon",
+   "type": "THEME",
+   "name": "The sword drawn and sharpened",
+   "description": "The LORD draws his sword against the land and cuts off righteous and wicked; Ezekiel is told to sigh and prophesy of a sharpened sword, to mark two roads for the king of Babylon, and the crown of the profane prince is to be removed until he comes whose right it is.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 21"
+   ],
+   "evidence": [
+    "Describe the sword (21:3-5, 9-11)",
+    "Describe the two ways and the king of Babylon's divination (21:19-23)",
+    "Say what is promised in 21:25-27"
+   ],
+   "prompt": "Can {{name}} describe the sword song of Ezekiel 21 and what the LORD says about the crown in 21:26-27?"
+  },
+  {
+   "id": "ezk_bloody_city",
+   "type": "THEME",
+   "name": "The bloody city and the furnace",
+   "description": "The LORD charges Jerusalem with bloodshed, idols and every kind of sin; the house of Israel is dross in a furnace, and he looked for someone to stand in the gap and found no one.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 22"
+   ],
+   "evidence": [
+    "List sins charged against the city (22:6-12)",
+    "Explain the furnace of 22:17-22",
+    "Say what the LORD sought and found (22:30)"
+   ],
+   "prompt": "Can {{name}} say what the LORD looked for in Ezekiel 22:30 and what he found?"
+  },
+  {
+   "id": "ezk_two_sisters",
+   "type": "THEME",
+   "name": "Oholah and Oholibah",
+   "description": "The LORD uses the story of two sisters, Samaria and Jerusalem, who pursued Assyria, Babylon and Egypt for their lovers, as a picture of Israel's and Judah's alliances and idolatry, and of the judgment on each.",
+   "covenant": null,
+   "ages": [
+    15,
+    18
+   ],
+   "passages": [
+    "EZK 23"
+   ],
+   "evidence": [
+    "Identify who the two sisters are (23:4)",
+    "Say what happens to Oholah (23:9-10)",
+    "Say what happens to Oholibah and why (23:22-35)"
+   ],
+   "prompt": "Can {{name}} say who Oholah and Oholibah represent in Ezekiel 23 and what happens to them?"
+  },
+  {
+   "id": "ezk_boiling_pot_wife",
+   "type": "STORY",
+   "name": "The boiling pot and the death of Ezekiel's wife",
+   "description": "On the day Babylon besieges Jerusalem, the LORD gives a parable of a pot set on the fire; then Ezekiel's wife dies and he is told not to mourn publicly, as a sign that the people will lose the sanctuary and not mourn.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 24"
+   ],
+   "evidence": [
+    "Describe the pot parable (24:3-14)",
+    "Say what happens to Ezekiel's wife and what he is told (24:15-18)",
+    "Explain what the sign means (24:21-24)"
+   ],
+   "prompt": "Can {{name}} explain the sign of Ezekiel's wife's death in Ezekiel 24:15-24?"
+  },
+  {
+   "id": "ezk_nations_neighbours",
+   "type": "THEME",
+   "name": "Judgment on Ammon, Moab, Edom and Philistia",
+   "description": "The LORD pronounces judgment on Ammon, Moab, Edom and the Philistines because they rejoiced over Judah's fall or took vengeance on her, so that they will know he is the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 25"
+   ],
+   "evidence": [
+    "Name the four nations and the reason for each judgment",
+    "Find the repeated phrase \"they shall know that I am the LORD\""
+   ],
+   "prompt": "Can {{name}} name the nations judged in Ezekiel 25 and say why each is judged?"
+  },
+  {
+   "id": "ezk_tyre_fall",
+   "type": "THEME",
+   "name": "The fall of Tyre announced",
+   "description": "Because Tyre rejoiced over Jerusalem's fall, the LORD says he will bring many nations against her, Nebuchadnezzar will besiege her, and she will become a bare rock for spreading nets; the isles and princes of the sea mourn.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 26"
+   ],
+   "evidence": [
+    "Say why Tyre is judged (26:2)",
+    "Describe what Nebuchadnezzar does (26:7-12)",
+    "Describe the reaction of the princes of the sea (26:15-18)"
+   ],
+   "prompt": "Can {{name}} say why Tyre is judged in Ezekiel 26 and what will become of her?"
+  },
+  {
+   "id": "ezk_tyre_lament",
+   "type": "THEME",
+   "name": "A lament for Tyre the great ship",
+   "description": "Ezekiel laments for Tyre as a magnificent merchant ship built by many nations and trading with them all, now wrecked in the heart of the sea, causing the seafarers and kings to mourn.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 27"
+   ],
+   "evidence": [
+    "Describe the ship and its builders (27:3-11)",
+    "List some of Tyre's trading partners (27:12-24)",
+    "Describe the shipwreck (27:26-36)"
+   ],
+   "prompt": "Can {{name}} describe the picture of Tyre as a ship in Ezekiel 27 and what happens to it?"
+  },
+  {
+   "id": "ezk_prince_king_tyre",
+   "type": "THEME",
+   "name": "The prince and the king of Tyre",
+   "description": "The prince of Tyre who says \"I am a God\" will die as a man at the hands of strangers; a lament over the king of Tyre describes him as full of wisdom and beauty, in Eden, the garden of God, on the holy mountain, until iniquity was found in him and he is cast down.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "EZK 28:1-19"
+   ],
+   "evidence": [
+    "Say what the prince of Tyre claims and what will happen (28:2, 8-10)",
+    "Describe the king as pictured in 28:12-15",
+    "Say why he is cast down (28:16-18)"
+   ],
+   "prompt": "Can {{name}} say what Ezekiel 28 charges the prince and the king of Tyre with and what happens to them?"
+  },
+  {
+   "id": "ezk_zidon_israel_gathered",
+   "type": "THEME",
+   "name": "Zidon judged and Israel gathered to dwell safely",
+   "description": "The LORD is against Zidon and will be glorified in her; afterward he will gather Israel from the peoples and they will dwell safely in the land, build houses and plant vineyards while he judges those around them who despised them.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 28:20-26"
+   ],
+   "evidence": [
+    "Say what is said against Zidon (28:22-23)",
+    "Describe the promise to Israel (28:25-26)"
+   ],
+   "prompt": "Can {{name}} say what the LORD promises Israel in Ezekiel 28:25-26 after judging the nations round about?"
+  },
+  {
+   "id": "ezk_egypt_dragon",
+   "type": "THEME",
+   "name": "Pharaoh the great dragon of the rivers",
+   "description": "The LORD is against Pharaoh, the great dragon of the Nile, for saying the river is his and for being a broken reed to Israel; Egypt will be desolate forty years and then regathered as a lowly kingdom, and Nebuchadnezzar is given Egypt as wages for the labour against Tyre.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 29"
+   ],
+   "evidence": [
+    "Describe Pharaoh's fault and the picture used (29:3-9)",
+    "Say what happens after forty years (29:13-16)",
+    "Say what Nebuchadnezzar is given and why (29:17-20)"
+   ],
+   "prompt": "Can {{name}} describe how the LORD speaks of Pharaoh in Ezekiel 29 and what Egypt is promised after forty years?"
+  },
+  {
+   "id": "ezk_day_of_lord_egypt",
+   "type": "THEME",
+   "name": "The day of the LORD against Egypt",
+   "description": "A day of the LORD is near for Egypt and her allies; Nebuchadnezzar's sword brings destruction to its cities, and the LORD breaks Pharaoh's arms while strengthening Babylon's.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 30"
+   ],
+   "evidence": [
+    "Say who falls with Egypt (30:4-5)",
+    "Describe what happens to Pharaoh's arms (30:21-25)"
+   ],
+   "prompt": "Can {{name}} say what the LORD says he will do to the arms of Pharaoh and of the king of Babylon in Ezekiel 30?"
+  },
+  {
+   "id": "ezk_cedar_pharaoh",
+   "type": "THEME",
+   "name": "Pharaoh compared to the great cedar",
+   "description": "The LORD compares Pharaoh to the Assyrian, a mighty cedar in Lebanon whose height made it proud and which was cut down by foreigners, as a warning to those who exalt themselves.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 31"
+   ],
+   "evidence": [
+    "Describe the cedar and its greatness (31:3-9)",
+    "Say why it was brought down (31:10-14)"
+   ],
+   "prompt": "Can {{name}} explain the picture of the cedar and why it was cut down in Ezekiel 31?"
+  },
+  {
+   "id": "ezk_pharaoh_lament_pit",
+   "type": "THEME",
+   "name": "Lament for Pharaoh and the nations in the pit",
+   "description": "Ezekiel laments over Pharaoh as a sea monster caught in the LORD's net; Egypt and its multitude are described going down to the pit, where Asshur, Elam, Meshech, Tubal, Edom and other nations already lie.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "EZK 32"
+   ],
+   "evidence": [
+    "Describe Pharaoh as a creature in the sea and his fate (32:2-8)",
+    "Say which nations are already in the pit (32:22-30)"
+   ],
+   "prompt": "Can {{name}} describe the lament over Pharaoh in Ezekiel 32 and name some nations said to lie in the pit?"
+  },
+  {
+   "id": "ezk_watchman_repeat",
+   "type": "DOCTRINE",
+   "name": "The watchman and \"Why will ye die?\"",
+   "description": "The LORD repeats the watchman charge to Ezekiel and tells him to say he has no pleasure in the death of the wicked but that they turn and live; he insists each person is judged according to his ways.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "EZK 33:1-20"
+   ],
+   "evidence": [
+    "Describe the watchman parable (33:2-6)",
+    "Quote 33:11",
+    "Explain what is said of the righteous who turn to sin and the wicked who turn from it (33:12-19)"
+   ],
+   "prompt": "Can {{name}} say what the LORD says in Ezekiel 33:11 and explain the duty of the watchman?"
+  },
+  {
+   "id": "ezk_jerusalem_fallen",
+   "type": "STORY",
+   "name": "News of the fall of Jerusalem",
+   "description": "An escapee tells Ezekiel in the twelfth year of captivity that the city has been struck down, and Ezekiel's mouth is opened; the LORD rebukes those in the ruined land who claim it, and the exiles who hear Ezekiel as a pleasant song without doing his words.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 33:21-33"
+   ],
+   "evidence": [
+    "Retell what happens when the escapee arrives (33:21-22)",
+    "Say what those in the wastes say and the LORD's reply (33:24-29)",
+    "Describe how the people listen to Ezekiel (33:30-33)"
+   ],
+   "prompt": "Can {{name}} retell what Ezekiel was told in 33:21 and how the LORD says the people listen to him in 33:30-32?"
+  },
+  {
+   "id": "ezk_shepherds",
+   "type": "DOCTRINE",
+   "name": "The shepherds of Israel and the LORD the shepherd",
+   "description": "The LORD condemns shepherds who feed themselves and scatter his flock, promises to seek and gather his sheep himself, to judge between the fat and lean, and to set one shepherd, his servant David, over them with a covenant of peace.",
+   "covenant": "cv_davidic",
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "EZK 34"
+   ],
+   "evidence": [
+    "Describe the shepherds' failure (34:2-6)",
+    "Say what the LORD promises to do himself (34:11-16)",
+    "Describe the one shepherd and the covenant of peace (34:23-25)"
+   ],
+   "prompt": "Can {{name}} describe how the LORD will shepherd his flock and who he sets over it in Ezekiel 34:11-24?"
+  },
+  {
+   "id": "ezk_mount_seir",
+   "type": "THEME",
+   "name": "Against Mount Seir",
+   "description": "The LORD is against Mount Seir (Edom) for perpetual hatred and for claiming the lands of Israel and Judah, and will make it desolate.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 35"
+   ],
+   "evidence": [
+    "Say why Mount Seir is judged (35:5, 10-12)",
+    "Say what the LORD says he will do (35:14-15)"
+   ],
+   "prompt": "Can {{name}} say why the LORD speaks against Mount Seir in Ezekiel 35?"
+  },
+  {
+   "id": "ezk_mountains_restored",
+   "type": "THEME",
+   "name": "The mountains of Israel will bear fruit again",
+   "description": "The LORD speaks to the mountains of Israel, which the nations have mocked, promising that his people will return, cities be rebuilt, the land be fruitful, and the land no longer devour men or bear the nations' reproach.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 36:1-15"
+   ],
+   "evidence": [
+    "Say what the nations said and the LORD's answer (36:2-7)",
+    "Describe the promise to the mountains (36:8-12)"
+   ],
+   "prompt": "Can {{name}} say what the LORD promises to the mountains of Israel in Ezekiel 36:8-12?"
+  },
+  {
+   "id": "ezk_new_heart_clean_water",
+   "type": "DOCTRINE",
+   "name": "I will sprinkle clean water and give a new heart and spirit",
+   "description": "The LORD says he will act for his holy name, not Israel's sake: he will gather them, sprinkle clean water on them, give a new heart and put his Spirit within them so they keep his statutes, and make the land like Eden.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 36:16-38"
+   ],
+   "evidence": [
+    "Say why the LORD acts (36:21-23)",
+    "List what he promises in 36:24-28",
+    "Describe the land after cleansing (36:33-36)"
+   ],
+   "prompt": "Can {{name}} list what the LORD promises to do in Ezekiel 36:24-28?"
+  },
+  {
+   "id": "ezk_dry_bones",
+   "type": "STORY",
+   "name": "The valley of dry bones",
+   "description": "The Spirit sets Ezekiel in a valley of very dry bones and asks if they can live; as Ezekiel prophesies, bones, sinews, flesh and breath come into them as an exceeding great army, which the LORD says is the whole house of Israel he will raise from their graves.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "EZK 37:1-14"
+   ],
+   "evidence": [
+    "Retell what Ezekiel sees and is told to do (37:1-10)",
+    "Say what the bones represent (37:11)",
+    "Say what the LORD promises (37:12-14)"
+   ],
+   "prompt": "Can {{name}} retell the vision of the valley of dry bones and say what the bones stand for in Ezekiel 37:11-14?"
+  },
+  {
+   "id": "ezk_two_sticks",
+   "type": "COVENANT",
+   "name": "Two sticks made one and a covenant of peace",
+   "description": "Ezekiel joins two sticks marked for Judah and for Joseph to show the LORD will make them one nation under one king, David his servant, with a covenant of peace, an everlasting covenant, and his sanctuary among them for evermore.",
+   "covenant": "cv_davidic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EZK 37:15-28"
+   ],
+   "evidence": [
+    "Describe the sign with the two sticks (37:16-17)",
+    "Say who rules and what covenant is made (37:22-26)",
+    "Say what the LORD places among them (37:26-28)"
+   ],
+   "prompt": "Can {{name}} explain the sign of the two sticks and what covenant the LORD promises in Ezekiel 37:15-28?"
+  },
+  {
+   "id": "ezk_gog_coming",
+   "type": "THEME",
+   "name": "Gog of Magog comes against Israel",
+   "description": "The LORD sets himself against Gog, prince of Meshech and Tubal, who with many allies will come from the north in the latter years against Israel dwelling safely, and the LORD brings him with earthquake, sword, pestilence and fire so that nations know he is the LORD.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EZK 38"
+   ],
+   "evidence": [
+    "Describe Gog and his allies (38:2-6)",
+    "Say when and against whom he comes (38:8, 11-12, 16)",
+    "Describe how the LORD acts (38:19-23)"
+   ],
+   "prompt": "Can {{name}} describe who Gog is and what happens when he comes against Israel in Ezekiel 38?"
+  },
+  {
+   "id": "ezk_gog_defeated",
+   "type": "THEME",
+   "name": "Gog defeated and Israel restored",
+   "description": "Gog and his army fall on the mountains of Israel, weapons are burned for seven years and the dead buried over seven months, birds and beasts feast, and the LORD says he will bring back the captivity of Jacob and pour out his Spirit on Israel.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EZK 39"
+   ],
+   "evidence": [
+    "Describe the end of Gog's army (39:2-6)",
+    "Describe the burning of weapons and burial (39:9-16)",
+    "Say what the LORD promises Israel (39:25-29)"
+   ],
+   "prompt": "Can {{name}} say what happens to Gog's army in Ezekiel 39 and what the LORD promises Israel at the end?"
+  },
+  {
+   "id": "ezk_temple_gates_courts",
+   "type": "THEME",
+   "name": "The vision of the temple: the man with the measuring reed",
+   "description": "In the twenty-fifth year of the exile Ezekiel is taken in visions of God to a high mountain in Israel and led by a man with a line and measuring reed through the gates and courts of a new temple complex, with tables for sacrifices and chambers for priests.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 40"
+   ],
+   "evidence": [
+    "Describe the man and what he tells Ezekiel to do (40:3-4)",
+    "Describe the gates and courts measured (40:5-47)"
+   ],
+   "prompt": "Can {{name}} describe how the vision of the temple begins in Ezekiel 40:1-5 and what Ezekiel is told to do?"
+  },
+  {
+   "id": "ezk_temple_house_chambers",
+   "type": "THEME",
+   "name": "The temple house, its chambers and the walled area",
+   "description": "The man measures the temple house with its side chambers, panelling carved with cherubim and palm trees, the priests' holy chambers, and the outer wall around the whole to separate the holy from the common.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 41",
+    "EZK 42"
+   ],
+   "evidence": [
+    "Describe the carvings on the walls and doors (41:18-20, 25)",
+    "Say what the priests' chambers are for (42:13-14)",
+    "Say what the surrounding wall is for (42:20)"
+   ],
+   "prompt": "Can {{name}} say what the carvings in the temple in Ezekiel 41 were and what the wall around it was for in 42:20?"
+  },
+  {
+   "id": "ezk_glory_returns",
+   "type": "STORY",
+   "name": "The glory of the LORD returns to the temple",
+   "description": "The glory of the LORD comes into the house by the east gate and fills it; he says it is the place of his throne where he will dwell among Israel for ever if they put away their idolatry, and the altar and its consecration are described.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "EZK 43"
+   ],
+   "evidence": [
+    "Describe how the glory comes (43:2-5)",
+    "Say what the LORD says about his dwelling (43:7-9)",
+    "Describe the altar and its consecration (43:13-27)"
+   ],
+   "prompt": "Can {{name}} describe how the glory of the LORD enters the temple in Ezekiel 43:1-5 and what the LORD says in 43:7?"
+  },
+  {
+   "id": "ezk_east_gate_priests",
+   "type": "THEME",
+   "name": "The shut east gate and the ministers of the sanctuary",
+   "description": "The east gate is shut for the prince alone; the LORD rebukes Israel for admitting uncircumcised strangers, and distinguishes the Levites who strayed from the sons of Zadok who kept charge of the sanctuary and may minister, with rules for their dress and conduct.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EZK 44"
+   ],
+   "evidence": [
+    "Describe the shut gate (44:1-3)",
+    "Say who may and may not minister (44:9-16)",
+    "Say what the priests are to teach (44:23-24)"
+   ],
+   "prompt": "Can {{name}} say who the LORD says may minister in his sanctuary in Ezekiel 44 and who may not?"
+  },
+  {
+   "id": "ezk_holy_portion_prince",
+   "type": "THEME",
+   "name": "The holy portion, the prince and just measures",
+   "description": "The land is divided with a holy portion for the sanctuary, priests, Levites, city and prince; princes are told to end violence, use just weights, and provide offerings at the feasts.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EZK 45"
+   ],
+   "evidence": [
+    "Say who receives the portions (45:1-8)",
+    "Quote the command to the princes (45:9-10)",
+    "Say what the prince provides at the feasts (45:17-25)"
+   ],
+   "prompt": "Can {{name}} say what the princes of Israel are told to do in Ezekiel 45:9-10?"
+  },
+  {
+   "id": "ezk_prince_worship_offerings",
+   "type": "THEME",
+   "name": "Worship of the prince and people and the temple kitchens",
+   "description": "The prince and people worship at the east gate on sabbaths and new moons with prescribed offerings; the prince may not take inheritances from the people, and kitchens for priests and for the people's sacrifices are shown.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EZK 46"
+   ],
+   "evidence": [
+    "Describe when the east gate is open (46:1-3)",
+    "Say what the prince may not do (46:18)",
+    "Describe the kitchens (46:19-24)"
+   ],
+   "prompt": "Can {{name}} say what the prince is forbidden to do with the people's inheritance in Ezekiel 46:18?"
+  },
+  {
+   "id": "ezk_river_temple",
+   "type": "STORY",
+   "name": "The river flowing from the temple",
+   "description": "Water flows from under the threshold of the temple and grows from ankle-deep to a river that cannot be crossed, flows east into the Dead Sea healing its waters, and trees on its banks bear fruit every month with leaves for healing.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "EZK 47:1-12"
+   ],
+   "evidence": [
+    "Describe the river and its depths (47:1-5)",
+    "Say what happens where the river goes (47:8-9)",
+    "Describe the trees (47:12)"
+   ],
+   "prompt": "Can {{name}} describe the river from the temple in Ezekiel 47:1-12 and what it does?"
+  },
+  {
+   "id": "ezk_land_borders",
+   "type": "THEME",
+   "name": "The borders of the land and the strangers' share",
+   "description": "The LORD gives the borders of the land to be divided among the twelve tribes by lot, with strangers who live among them also receiving inheritance in the tribe where they live.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "EZK 47:13-23"
+   ],
+   "evidence": [
+    "Name the sea and river borders (47:15-20)",
+    "Say what is said of strangers (47:22-23)"
+   ],
+   "prompt": "Can {{name}} say what Ezekiel 47:22-23 says about foreigners living among Israel?"
+  },
+  {
+   "id": "ezk_land_city_lord_is_there",
+   "type": "THEME",
+   "name": "The tribal portions and the city called The LORD is there",
+   "description": "The land is divided into parallel portions for the twelve tribes with a central holy district for priests, Levites, city and prince; the city has twelve gates named for the tribes and its name from that day is The LORD is there.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "EZK 48"
+   ],
+   "evidence": [
+    "Describe the arrangement of tribal portions (48:1-7, 23-29)",
+    "Name the city's gates (48:31-34)",
+    "Quote the city's new name (48:35)"
+   ],
+   "prompt": "Can {{name}} say what the city is called at the end of Ezekiel 48 and what its gates are named for?"
+  },
+  {
+   "id": "book_dan",
+   "type": "BOOK_OVERVIEW",
+   "name": "Daniel: overview",
+   "description": "Daniel and his friends are taken to Babylon, serve under Babylonian and Persian kings, and are delivered in the furnace and lions' den; Daniel interprets dreams and receives visions of kingdoms, the Ancient of days, and the end.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DAN 1:1-7",
+    "DAN 7:13-14",
+    "DAN 12:1-3"
+   ],
+   "evidence": [
+    "Name Daniel and his three friends with their Babylonian names (1:6-7)",
+    "Say which kings Daniel served (1:21, 5:31, 6:28)",
+    "Describe the two halves of the book: stories (1-6) and visions (7-12)"
+   ],
+   "prompt": "Can {{name}} name Daniel and his three friends and say how the book of Daniel is arranged?"
+  },
+  {
+   "id": "dan_diet_test",
+   "type": "STORY",
+   "name": "Daniel and his friends refuse the king's food",
+   "description": "Taken to Babylon and chosen for training, Daniel determines not to defile himself with the king's food and wine; after a ten-day trial of vegetables and water they look healthier, and God gives the four young men knowledge and wisdom.",
+   "covenant": null,
+   "ages": [
+    5,
+    12
+   ],
+   "passages": [
+    "DAN 1"
+   ],
+   "evidence": [
+    "Retell why Daniel asked not to eat the king's food (1:8)",
+    "Describe the ten-day test (1:11-16)",
+    "Say what God gave the four young men (1:17)"
+   ],
+   "prompt": "Can {{name}} retell how Daniel and his friends refused the king's food and what happened in Daniel 1?"
+  },
+  {
+   "id": "dan_dream_image",
+   "type": "STORY",
+   "name": "Nebuchadnezzar's dream of the great image",
+   "description": "Nebuchadnezzar demands that his wise men tell him his forgotten dream; Daniel and his friends seek God, who reveals the dream of an image of gold, silver, bronze, iron and clay struck by a stone that becomes a mountain, which Daniel interprets as kingdoms and God's kingdom that will never be destroyed.",
+   "covenant": null,
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "DAN 2"
+   ],
+   "evidence": [
+    "Describe the image and the stone (2:31-35)",
+    "Say what Daniel says of God in 2:20-22 and 2:28",
+    "Report Daniel's interpretation of the parts and the stone (2:37-45)"
+   ],
+   "prompt": "Can {{name}} describe the dream of the image and say what Daniel says the stone represents in Daniel 2:44-45?"
+  },
+  {
+   "id": "dan_fiery_furnace",
+   "type": "STORY",
+   "name": "The fiery furnace",
+   "description": "Nebuchadnezzar sets up a golden image and orders everyone to worship it; Shadrach, Meshach and Abednego refuse, are thrown into a blazing furnace, and are seen walking unharmed with a fourth figure, so the king praises their God.",
+   "covenant": null,
+   "ages": [
+    5,
+    14
+   ],
+   "passages": [
+    "DAN 3"
+   ],
+   "evidence": [
+    "Retell the king's command and the three men's answer (3:4-6, 16-18)",
+    "Describe what the king sees in the furnace (3:24-25)",
+    "Say how the king responds (3:28-30)"
+   ],
+   "prompt": "Can {{name}} retell why Shadrach, Meshach and Abednego were thrown into the furnace and what happened in Daniel 3?"
+  },
+  {
+   "id": "dan_tree_humbled",
+   "type": "STORY",
+   "name": "Nebuchadnezzar's tree and his humbling",
+   "description": "Nebuchadnezzar dreams of a great tree cut down, Daniel interprets it as the king being driven from men until he knows the Most High rules, and the king, proud of Babylon, loses his reason for seven times and then praises the King of heaven.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "DAN 4"
+   ],
+   "evidence": [
+    "Describe the dream (4:10-17)",
+    "Say what Daniel advises the king (4:27)",
+    "Retell what happens to Nebuchadnezzar and how it ends (4:30-37)"
+   ],
+   "prompt": "Can {{name}} retell the story of Nebuchadnezzar's great tree and say what he learned in Daniel 4:34-37?"
+  },
+  {
+   "id": "dan_writing_wall",
+   "type": "STORY",
+   "name": "The writing on the wall",
+   "description": "At Belshazzar's feast, where the temple vessels are used to praise idols, fingers write on the wall; Daniel reads MENE, MENE, TEKEL, UPHARSIN as the numbering, weighing and dividing of the kingdom, and that night Belshazzar is slain.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "DAN 5"
+   ],
+   "evidence": [
+    "Describe the feast and the writing (5:1-5)",
+    "Say what Daniel reminds Belshazzar of (5:18-23)",
+    "Report the meaning of the writing and what happens (5:25-31)"
+   ],
+   "prompt": "Can {{name}} retell what appeared at Belshazzar's feast and what Daniel said it meant in Daniel 5?"
+  },
+  {
+   "id": "dan_lions_den",
+   "type": "STORY",
+   "name": "Daniel in the lions' den",
+   "description": "Under King Darius, officials who cannot find fault with Daniel secure a decree against prayer to anyone but the king; Daniel keeps praying to God toward Jerusalem, is thrown to the lions, and is found unharmed in the morning because God shut their mouths.",
+   "covenant": null,
+   "ages": [
+    5,
+    14
+   ],
+   "passages": [
+    "DAN 6"
+   ],
+   "evidence": [
+    "Retell why the officials plot against Daniel (6:4-9)",
+    "Describe how Daniel prays and what happens (6:10-23)",
+    "Say what Darius decrees at the end (6:25-27)"
+   ],
+   "prompt": "Can {{name}} retell the story of Daniel in the lions' den and say why he was thrown there in Daniel 6?"
+  },
+  {
+   "id": "dan_beasts_ancient_of_days",
+   "type": "DOCTRINE",
+   "name": "Four beasts and the Ancient of days",
+   "description": "In Belshazzar's first year Daniel dreams of four beasts rising from the sea, the last with ten horns and a boastful little horn; thrones are set, the Ancient of days sits in judgment, the beast is slain, and one like a son of man is given an everlasting kingdom.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DAN 7:1-14"
+   ],
+   "evidence": [
+    "Describe the four beasts (7:3-8)",
+    "Describe the Ancient of days and the judgment (7:9-12)",
+    "Describe the one like the Son of man and what he is given (7:13-14)"
+   ],
+   "prompt": "Can {{name}} describe the four beasts, the Ancient of days and the one like a son of man in Daniel 7:1-14?"
+  },
+  {
+   "id": "dan_beasts_interpreted",
+   "type": "DOCTRINE",
+   "name": "The vision of the beasts interpreted",
+   "description": "An attendant tells Daniel the four beasts are four kings, the saints of the Most High will receive the kingdom for ever, and the little horn wars against the saints and speaks against the Most High until judgment is given and the kingdom is given to the saints.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DAN 7:15-28"
+   ],
+   "evidence": [
+    "Say what the beasts and horns are told to be (7:17, 23-24)",
+    "Describe what the little horn does (7:21, 25)",
+    "Say what happens to the saints and the kingdom (7:18, 22, 26-27)"
+   ],
+   "prompt": "Can {{name}} say what Daniel is told the beasts are and what happens to the saints in Daniel 7:15-27?"
+  },
+  {
+   "id": "dan_ram_goat",
+   "type": "DOCTRINE",
+   "name": "The ram, the goat and the little horn",
+   "description": "In the third year of Belshazzar Daniel sees a two-horned ram defeated by a goat with a great horn, which is broken into four, and a little horn that attacks the sanctuary and the daily sacrifice; Gabriel explains the ram as Media and Persia and the goat as Greece.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DAN 8"
+   ],
+   "evidence": [
+    "Describe the ram, goat and horns (8:3-12)",
+    "Report what Gabriel says the ram and goat are (8:20-21)",
+    "Say what length of time is given until the sanctuary is cleansed (8:13-14) and how Daniel responds (8:27)"
+   ],
+   "prompt": "Can {{name}} describe the ram and the goat in Daniel 8 and what Gabriel says they are?"
+  },
+  {
+   "id": "dan_prayer_confession",
+   "type": "STORY",
+   "name": "Daniel's prayer of confession",
+   "description": "Reading in Jeremiah that Jerusalem's desolation would last seventy years, Daniel prays with fasting, confessing that Israel has sinned and not heeded the prophets, that the curse written in the law of Moses has come, and asks God to act for his own name's sake.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "DAN 9:1-19"
+   ],
+   "evidence": [
+    "Say what Daniel understood from the books (9:2)",
+    "List elements of his confession (9:5-14)",
+    "Say on what ground he asks God to hear (9:16-19)"
+   ],
+   "prompt": "Can {{name}} say what prompted Daniel's prayer in Daniel 9:2 and what he confesses?"
+  },
+  {
+   "id": "dan_seventy_weeks",
+   "type": "DOCTRINE",
+   "name": "Gabriel and the seventy weeks",
+   "description": "While Daniel prays, Gabriel comes to give him understanding: seventy weeks are determined for his people and the holy city to finish transgression and bring in everlasting righteousness, with the Messiah the Prince, a city rebuilt, a Messiah cut off, and a desolation.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "DAN 9:20-27"
+   ],
+   "evidence": [
+    "Say when Gabriel comes and why (9:20-23)",
+    "List what the seventy weeks are for (9:24)",
+    "Report what is said of the Messiah the Prince and of the city and the sanctuary (9:25-27)"
+   ],
+   "prompt": "Can {{name}} say what Gabriel says the seventy weeks are for in Daniel 9:24?"
+  },
+  {
+   "id": "dan_man_in_linen",
+   "type": "STORY",
+   "name": "A vision of a man clothed in linen",
+   "description": "In the third year of Cyrus Daniel mourns three weeks and, by the river Hiddekel, sees a man in linen with a radiant appearance whose voice leaves him without strength; he is strengthened, told his words were heard, and that a struggle with the prince of Persia involved Michael.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DAN 10"
+   ],
+   "evidence": [
+    "Describe the man Daniel sees (10:5-6)",
+    "Say how Daniel responds and is strengthened (10:7-19)",
+    "Say what the messenger says of the prince of Persia and Michael (10:12-13, 20-21)"
+   ],
+   "prompt": "Can {{name}} describe what Daniel saw by the river Hiddekel and how he was strengthened in Daniel 10?"
+  },
+  {
+   "id": "dan_kings_south_north",
+   "type": "THEME",
+   "name": "Kings of the south and the north",
+   "description": "The messenger tells Daniel of Persian kings, a mighty king whose kingdom is divided to the four winds, and a long series of conflicts between kings of the south and north including alliance by marriage, wars and a raiser of taxes.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "DAN 11:1-20"
+   ],
+   "evidence": [
+    "Say what is said of the mighty king and his kingdom (11:3-4)",
+    "Describe the rivalry between the king of the south and the king of the north (11:5-20)"
+   ],
+   "prompt": "Can {{name}} describe the pattern of conflict between the kings of the south and north in Daniel 11:5-20?"
+  },
+  {
+   "id": "dan_contemptible_king_end",
+   "type": "THEME",
+   "name": "The contemptible king and the time of the end",
+   "description": "A vile person gains a kingdom by flatteries, turns against the holy covenant, takes away the daily sacrifice and sets up the abomination of desolation; the wise instruct many and some fall; a king exalts himself above every god until his end.",
+   "covenant": null,
+   "ages": [
+    15,
+    18
+   ],
+   "passages": [
+    "DAN 11:21-45"
+   ],
+   "evidence": [
+    "Describe how the vile person rises (11:21-24)",
+    "Say what he does to the sanctuary and the covenant (11:28-32)",
+    "Say what happens to the people who know their God (11:32-35) and to the king in 11:36-45"
+   ],
+   "prompt": "Can {{name}} say what Daniel 11:31-35 says happens to the sanctuary and to the people who know their God?"
+  },
+  {
+   "id": "dan_time_of_end",
+   "type": "DOCTRINE",
+   "name": "Michael stands up; many shall awake",
+   "description": "Michael stands up in a time of trouble, those written in the book are delivered, many who sleep in the dust awake, some to everlasting life and some to shame, the wise shine like stars, and Daniel is told to seal the book until the time of the end and go his way to rest.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DAN 12"
+   ],
+   "evidence": [
+    "Quote the promise in Daniel 12:2-3",
+    "Say what Daniel is told to do with the book (12:4, 9)",
+    "Report what Daniel is told for himself (12:13)"
+   ],
+   "prompt": "Can {{name}} say what Daniel 12:2-3 says will happen to those who sleep in the dust and to the wise?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "isa_indictment",
+   "prereq": "book_isa",
+   "strength": "soft",
+   "reason": "Isaiah 1:1 introduces the vision whose first section is chapter 1"
+  },
+  {
+   "topic": "isa_last_days",
+   "prereq": "isa_indictment",
+   "strength": "soft",
+   "reason": "Isaiah 2:1 gives a new word concerning Judah and Jerusalem following the charge of chapter 1"
+  },
+  {
+   "topic": "isa_day_of_lord",
+   "prereq": "isa_last_days",
+   "strength": "soft",
+   "reason": "Isaiah 2:6 begins with \"Therefore\" after the invitation to walk in the LORD's light in 2:5"
+  },
+  {
+   "topic": "isa_jerusalem_judged",
+   "prereq": "isa_day_of_lord",
+   "strength": "soft",
+   "reason": "Isaiah 3 continues the word to Judah and Jerusalem begun in 2:1"
+  },
+  {
+   "topic": "isa_branch_zion",
+   "prereq": "isa_jerusalem_judged",
+   "strength": "hard",
+   "reason": "Isaiah 4:2 begins \"in that day\" and answers the desolation described in 3:25-26 and 4:1"
+  },
+  {
+   "topic": "isa_vineyard_song",
+   "prereq": "isa_branch_zion",
+   "strength": "soft",
+   "reason": "Isaiah 5 follows the promise of cleansed Zion in chapter 4 with a charge against the LORD's vineyard"
+  },
+  {
+   "topic": "isa_woes",
+   "prereq": "isa_vineyard_song",
+   "strength": "hard",
+   "reason": "The woes of 5:8-23 spell out the oppression and injustice named in 5:7"
+  },
+  {
+   "topic": "isa_call",
+   "prereq": "book_isa",
+   "strength": "soft",
+   "reason": "Chapter 6 dates itself to the year Uzziah died, one of the kings named in Isaiah 1:1"
+  },
+  {
+   "topic": "isa_immanuel",
+   "prereq": "isa_call",
+   "strength": "soft",
+   "reason": "Isaiah 7 is set in the days of Ahaz, one of the kings named in 1:1, after the commission in chapter 6"
+  },
+  {
+   "topic": "isa_assyria_flood",
+   "prereq": "isa_immanuel",
+   "strength": "hard",
+   "reason": "Isaiah 8 continues the Syria-Ephraim crisis of chapter 7 and addresses the land as Immanuel in 8:8"
+  },
+  {
+   "topic": "isa_child_born",
+   "prereq": "isa_assyria_flood",
+   "strength": "soft",
+   "reason": "Isaiah 9:1 begins \"Nevertheless\" after the darkness and distress that close chapter 8"
+  },
+  {
+   "topic": "isa_anger_stretched",
+   "prereq": "isa_child_born",
+   "strength": "soft",
+   "reason": "Isaiah 9:8 returns to judgment on Israel after the promise of 9:1-7"
+  },
+  {
+   "topic": "isa_assyria_rod",
+   "prereq": "isa_anger_stretched",
+   "strength": "soft",
+   "reason": "Isaiah 10:5 continues from the \"woe\" of 10:1-4 and names Assyria as the instrument"
+  },
+  {
+   "topic": "isa_branch_jesse",
+   "prereq": "isa_assyria_rod",
+   "strength": "soft",
+   "reason": "Isaiah 11:1 follows the felling of the forest of Assyria (10:33-34) with a shoot growing from Jesse's stem"
+  },
+  {
+   "topic": "isa_song_salvation",
+   "prereq": "isa_branch_jesse",
+   "strength": "soft",
+   "reason": "Isaiah 12:1 begins \"in that day,\" closing the section of chapters 2-11"
+  },
+  {
+   "topic": "isa_babylon_burden",
+   "prereq": "isa_song_salvation",
+   "strength": "soft",
+   "reason": "Isaiah 13:1 opens a new series of burdens against the nations after the song in chapter 12"
+  },
+  {
+   "topic": "isa_assyria_philistia",
+   "prereq": "isa_babylon_burden",
+   "strength": "soft",
+   "reason": "Isaiah 14:24 follows the oracle on Babylon as part of the same series of burdens"
+  },
+  {
+   "topic": "isa_moab",
+   "prereq": "isa_assyria_philistia",
+   "strength": "soft",
+   "reason": "Isaiah 15:1 gives the next burden in the sequence of oracles against the nations"
+  },
+  {
+   "topic": "isa_damascus_ethiopia",
+   "prereq": "isa_moab",
+   "strength": "soft",
+   "reason": "Isaiah 17:1 is the next burden in the series after Moab"
+  },
+  {
+   "topic": "isa_egypt",
+   "prereq": "isa_damascus_ethiopia",
+   "strength": "soft",
+   "reason": "Isaiah 19 continues the burdens; Ethiopia is also named in 18:1 and 20:3"
+  },
+  {
+   "topic": "isa_burdens_watchman",
+   "prereq": "isa_egypt",
+   "strength": "soft",
+   "reason": "Isaiah 21 gives further burdens after Egypt and Ethiopia in 19-20"
+  },
+  {
+   "topic": "isa_valley_of_vision",
+   "prereq": "isa_burdens_watchman",
+   "strength": "soft",
+   "reason": "Isaiah 22 gives the burden of the valley of vision after the burdens of chapter 21"
+  },
+  {
+   "topic": "isa_tyre",
+   "prereq": "isa_valley_of_vision",
+   "strength": "soft",
+   "reason": "Isaiah 23:1 is the last burden in the series begun in chapter 13"
+  },
+  {
+   "topic": "isa_earth_judged",
+   "prereq": "isa_tyre",
+   "strength": "soft",
+   "reason": "Isaiah 24 widens judgment from the individual nations of 13-23 to the whole earth"
+  },
+  {
+   "topic": "isa_feast_death",
+   "prereq": "isa_earth_judged",
+   "strength": "soft",
+   "reason": "Isaiah 25 is praise for the LORD's deeds following the judgment of chapter 24"
+  },
+  {
+   "topic": "isa_song_judah",
+   "prereq": "isa_feast_death",
+   "strength": "soft",
+   "reason": "Isaiah 26:1 says \"in that day this song shall be sung,\" continuing the section of chapters 24-27"
+  },
+  {
+   "topic": "isa_leviathan_vineyard",
+   "prereq": "isa_song_judah",
+   "strength": "soft",
+   "reason": "Isaiah 27 closes the \"in that day\" section begun in chapter 24"
+  },
+  {
+   "topic": "isa_leviathan_vineyard",
+   "prereq": "isa_vineyard_song",
+   "strength": "soft",
+   "reason": "Isaiah 27:2-6 returns to the image of the LORD's vineyard introduced in 5:1-7"
+  },
+  {
+   "topic": "isa_woe_ephraim",
+   "prereq": "isa_leviathan_vineyard",
+   "strength": "soft",
+   "reason": "Isaiah 28:1 begins a new series of woes after the section of chapters 24-27"
+  },
+  {
+   "topic": "isa_ariel",
+   "prereq": "isa_woe_ephraim",
+   "strength": "soft",
+   "reason": "Isaiah 29:1 is another woe continuing the series begun in chapter 28"
+  },
+  {
+   "topic": "isa_egypt_help",
+   "prereq": "isa_ariel",
+   "strength": "soft",
+   "reason": "Isaiah 30 continues the woes with the people's reliance on Egypt"
+  },
+  {
+   "topic": "isa_horses_chariots",
+   "prereq": "isa_egypt_help",
+   "strength": "soft",
+   "reason": "Isaiah 31 repeats the warning against going down to Egypt for help from chapter 30"
+  },
+  {
+   "topic": "isa_righteous_king",
+   "prereq": "isa_horses_chariots",
+   "strength": "soft",
+   "reason": "Isaiah 32 follows the woes of 28-31 with a promise of a righteous reign"
+  },
+  {
+   "topic": "isa_zion_king",
+   "prereq": "isa_righteous_king",
+   "strength": "soft",
+   "reason": "Isaiah 33 continues the theme of the LORD's kingship in Zion begun in chapter 32"
+  },
+  {
+   "topic": "isa_edom",
+   "prereq": "isa_zion_king",
+   "strength": "soft",
+   "reason": "Isaiah 34 turns from Zion's king in 33 to the nations' judgment"
+  },
+  {
+   "topic": "isa_way_of_holiness",
+   "prereq": "isa_edom",
+   "strength": "soft",
+   "reason": "Isaiah 35 contrasts the wasteland of Edom in 34 with the blossoming wilderness"
+  },
+  {
+   "topic": "isa_rabshakeh",
+   "prereq": "isa_way_of_holiness",
+   "strength": "soft",
+   "reason": "Isaiah 36 shifts to the historical narrative of Sennacherib's invasion in Hezekiah's reign"
+  },
+  {
+   "topic": "isa_hezekiah_prayer",
+   "prereq": "isa_rabshakeh",
+   "strength": "hard",
+   "reason": "Hezekiah answers the letter and words of Rabshakeh recorded in chapter 36 and 37:1-13"
+  },
+  {
+   "topic": "isa_hezekiah_sick",
+   "prereq": "isa_hezekiah_prayer",
+   "strength": "soft",
+   "reason": "Isaiah 38:1 says \"in those days,\" and the LORD's promise concerns the Assyrian king of chapters 36-37"
+  },
+  {
+   "topic": "isa_babylon_envoys",
+   "prereq": "isa_hezekiah_sick",
+   "strength": "hard",
+   "reason": "Isaiah 39:1 says Babylon's king sent letters because he had heard Hezekiah had been sick (chapter 38)"
+  },
+  {
+   "topic": "isa_comfort",
+   "prereq": "isa_babylon_envoys",
+   "strength": "hard",
+   "reason": "Isaiah 40 comforts a people whose exile to Babylon was foretold in 39:6-7"
+  },
+  {
+   "topic": "isa_servant_israel_chosen",
+   "prereq": "isa_comfort",
+   "strength": "soft",
+   "reason": "Isaiah 41 continues the comfort and the questions about who is like the LORD from chapter 40"
+  },
+  {
+   "topic": "isa_servant_chosen",
+   "prereq": "isa_servant_israel_chosen",
+   "strength": "soft",
+   "reason": "Isaiah 42:1 introduces \"my servant\" after the LORD calls Israel his servant in 41:8-9"
+  },
+  {
+   "topic": "isa_new_song_blind_servant",
+   "prereq": "isa_servant_chosen",
+   "strength": "soft",
+   "reason": "Isaiah 42:10 follows the servant passage and 42:19 turns to the servant who does not see"
+  },
+  {
+   "topic": "isa_redeemed_israel",
+   "prereq": "isa_new_song_blind_servant",
+   "strength": "soft",
+   "reason": "Isaiah 43:1 begins \"But now,\" answering the charge against Jacob in 42:24-25"
+  },
+  {
+   "topic": "isa_no_other_god",
+   "prereq": "isa_redeemed_israel",
+   "strength": "soft",
+   "reason": "Isaiah 44 develops the witnesses and the \"no saviour beside me\" statements of chapter 43"
+  },
+  {
+   "topic": "isa_cyrus",
+   "prereq": "isa_no_other_god",
+   "strength": "soft",
+   "reason": "Isaiah 44:24 continues the LORD's declaration of who he is, which leads to naming Cyrus in 44:28"
+  },
+  {
+   "topic": "isa_babylon_idols_borne",
+   "prereq": "isa_cyrus",
+   "strength": "soft",
+   "reason": "Isaiah 46 follows chapter 45, which is directed at those who make idols and the nations"
+  },
+  {
+   "topic": "isa_babylon_fall",
+   "prereq": "isa_babylon_idols_borne",
+   "strength": "soft",
+   "reason": "Isaiah 47 continues the oracle against Babylon begun with Bel and Nebo in 46"
+  },
+  {
+   "topic": "isa_refined_furnace",
+   "prereq": "isa_babylon_fall",
+   "strength": "soft",
+   "reason": "Isaiah 48:14 and 48:20 refer to Babylon, following chapter 47"
+  },
+  {
+   "topic": "isa_servant_light_nations",
+   "prereq": "isa_refined_furnace",
+   "strength": "soft",
+   "reason": "Isaiah 49 continues the series of speeches about the servant and Zion following 42:1-9"
+  },
+  {
+   "topic": "isa_servant_light_nations",
+   "prereq": "isa_servant_chosen",
+   "strength": "soft",
+   "reason": "Isaiah 49:6 speaks of the servant as a light to the Gentiles, as 42:6 does"
+  },
+  {
+   "topic": "isa_servant_obedient",
+   "prereq": "isa_servant_light_nations",
+   "strength": "soft",
+   "reason": "Isaiah 50:4-9 is another speech of the servant, following 49:1-6"
+  },
+  {
+   "topic": "isa_awake_arm",
+   "prereq": "isa_servant_obedient",
+   "strength": "soft",
+   "reason": "Isaiah 51 continues the comfort for Zion after the servant's speech in 50"
+  },
+  {
+   "topic": "isa_good_tidings",
+   "prereq": "isa_awake_arm",
+   "strength": "soft",
+   "reason": "Isaiah 52:1 repeats the \"awake, awake\" call of 51:9 and 51:17"
+  },
+  {
+   "topic": "isa_suffering_servant",
+   "prereq": "isa_servant_obedient",
+   "strength": "soft",
+   "reason": "Isaiah 52:13 says \"my servant shall deal prudently,\" continuing the servant passages of 42, 49 and 50"
+  },
+  {
+   "topic": "isa_suffering_servant",
+   "prereq": "isa_good_tidings",
+   "strength": "soft",
+   "reason": "Isaiah 52:13 follows directly on the announcement of the LORD's salvation to the nations in 52:10"
+  },
+  {
+   "topic": "isa_barren_sing",
+   "prereq": "isa_suffering_servant",
+   "strength": "soft",
+   "reason": "Isaiah 54:1 begins \"Sing, O barren,\" following the servant passage of chapter 53"
+  },
+  {
+   "topic": "isa_come_buy",
+   "prereq": "isa_barren_sing",
+   "strength": "soft",
+   "reason": "Isaiah 55 continues the promises to Zion of chapter 54, including an everlasting covenant"
+  },
+  {
+   "topic": "isa_foreigners_welcome",
+   "prereq": "isa_come_buy",
+   "strength": "soft",
+   "reason": "Isaiah 56 continues with the invitation to the nations of 55:5 and conditions for those who keep the covenant"
+  },
+  {
+   "topic": "isa_contrite_idolaters",
+   "prereq": "isa_foreigners_welcome",
+   "strength": "soft",
+   "reason": "Isaiah 57 follows the condemnation of the watchmen in chapter 56"
+  },
+  {
+   "topic": "isa_true_fast",
+   "prereq": "isa_contrite_idolaters",
+   "strength": "soft",
+   "reason": "Isaiah 58 continues the call to turn from sin in chapters 56-57"
+  },
+  {
+   "topic": "isa_iniquities_separate",
+   "prereq": "isa_true_fast",
+   "strength": "soft",
+   "reason": "Isaiah 59 gives the underlying sins named after the false fasting in chapter 58"
+  },
+  {
+   "topic": "isa_arise_shine",
+   "prereq": "isa_iniquities_separate",
+   "strength": "soft",
+   "reason": "Isaiah 60 follows the coming of the Redeemer to Zion in 59:20"
+  },
+  {
+   "topic": "isa_anointed_good_tidings",
+   "prereq": "isa_arise_shine",
+   "strength": "soft",
+   "reason": "Isaiah 61 continues the promises for Zion in the sequence 60-62"
+  },
+  {
+   "topic": "isa_zion_new_name",
+   "prereq": "isa_anointed_good_tidings",
+   "strength": "soft",
+   "reason": "Isaiah 62 is the third chapter of the sequence 60-62 following chapter 61"
+  },
+  {
+   "topic": "isa_winepress",
+   "prereq": "isa_zion_new_name",
+   "strength": "soft",
+   "reason": "Isaiah 63:4 speaks of \"the year of my redeemed,\" continuing the theme of vengeance and redemption in 61:2 and 62"
+  },
+  {
+   "topic": "isa_prayer_lament",
+   "prereq": "isa_winepress",
+   "strength": "soft",
+   "reason": "Isaiah 63:7 begins the prayer that follows the vision of 63:1-6"
+  },
+  {
+   "topic": "isa_new_heavens_earth",
+   "prereq": "isa_prayer_lament",
+   "strength": "hard",
+   "reason": "Isaiah 65 is the LORD's answer to the prayer of 63:15-64:12"
+  },
+  {
+   "topic": "isa_final_judgment_gathering",
+   "prereq": "isa_new_heavens_earth",
+   "strength": "soft",
+   "reason": "Isaiah 66:22 refers to the new heavens and earth promised in 65:17"
+  },
+  {
+   "topic": "jer_call",
+   "prereq": "book_jer",
+   "strength": "soft",
+   "reason": "Jeremiah 1:1-3 introduces the prophet whose commissioning is described in 1:4-19"
+  },
+  {
+   "topic": "jer_forsaken_fountain",
+   "prereq": "jer_call",
+   "strength": "soft",
+   "reason": "Jeremiah 2:1 begins the first message he is told to proclaim after the commission in chapter 1"
+  },
+  {
+   "topic": "jer_return_backsliding",
+   "prereq": "jer_forsaken_fountain",
+   "strength": "soft",
+   "reason": "Jeremiah 3:1 develops the charge of unfaithfulness begun in chapter 2"
+  },
+  {
+   "topic": "jer_foe_from_north",
+   "prereq": "jer_return_backsliding",
+   "strength": "soft",
+   "reason": "Jeremiah 4:5 begins the proclamation of coming evil after the offer to return in 3:12-4:4"
+  },
+  {
+   "topic": "jer_none_righteous",
+   "prereq": "jer_foe_from_north",
+   "strength": "soft",
+   "reason": "Jeremiah 5:15 describes the nation from far that chapter 4 announces from the north"
+  },
+  {
+   "topic": "jer_siege_jerusalem",
+   "prereq": "jer_none_righteous",
+   "strength": "soft",
+   "reason": "Jeremiah 6 gives the summons to the siege warned of in chapters 4-5"
+  },
+  {
+   "topic": "jer_temple_sermon",
+   "prereq": "jer_siege_jerusalem",
+   "strength": "soft",
+   "reason": "Jeremiah 7 follows the warnings of chapters 4-6 with a message at the temple gate"
+  },
+  {
+   "topic": "jer_no_balm",
+   "prereq": "jer_temple_sermon",
+   "strength": "soft",
+   "reason": "Jeremiah 8:4 continues the message to Jerusalem begun in 7:1"
+  },
+  {
+   "topic": "jer_glory_in_knowing_lord",
+   "prereq": "jer_no_balm",
+   "strength": "soft",
+   "reason": "Jeremiah 9:1 continues the lament over the people's hurt begun at 8:18-22"
+  },
+  {
+   "topic": "jer_living_god_idols",
+   "prereq": "jer_glory_in_knowing_lord",
+   "strength": "soft",
+   "reason": "Jeremiah 10 continues the sermon of 7-10 against idolatry begun in 7:9 and 9:14"
+  },
+  {
+   "topic": "jer_broken_covenant",
+   "prereq": "jer_living_god_idols",
+   "strength": "soft",
+   "reason": "Jeremiah 11:1 begins a new word from the LORD about the covenant after the sermon of chapter 10"
+  },
+  {
+   "topic": "jer_wicked_prosper",
+   "prereq": "jer_broken_covenant",
+   "strength": "soft",
+   "reason": "Jeremiah 12 is Jeremiah's complaint following the plot against him in 11:18-23"
+  },
+  {
+   "topic": "jer_linen_girdle",
+   "prereq": "jer_wicked_prosper",
+   "strength": "soft",
+   "reason": "Jeremiah 13 gives a new sign act after the words of chapters 11-12"
+  },
+  {
+   "topic": "jer_drought_prayers",
+   "prereq": "jer_linen_girdle",
+   "strength": "soft",
+   "reason": "Jeremiah 14 begins with a new word concerning the drought after chapter 13"
+  },
+  {
+   "topic": "jer_moses_samuel",
+   "prereq": "jer_drought_prayers",
+   "strength": "hard",
+   "reason": "Jeremiah 15:1 answers the intercession and refusal of 14:11-12 and 14:19-22"
+  },
+  {
+   "topic": "jer_no_wife_no_mourning",
+   "prereq": "jer_moses_samuel",
+   "strength": "soft",
+   "reason": "Jeremiah 16 continues the announcement of coming judgment from chapter 15"
+  },
+  {
+   "topic": "jer_two_ways_trust",
+   "prereq": "jer_no_wife_no_mourning",
+   "strength": "soft",
+   "reason": "Jeremiah 17 continues messages to Judah after chapter 16"
+  },
+  {
+   "topic": "jer_potter_house",
+   "prereq": "jer_two_ways_trust",
+   "strength": "soft",
+   "reason": "Jeremiah 18 gives a new sign act following the exhortations of chapter 17"
+  },
+  {
+   "topic": "jer_broken_bottle",
+   "prereq": "jer_potter_house",
+   "strength": "hard",
+   "reason": "Jeremiah 19:1 tells Jeremiah to get a potter's earthen flask, a second sign that follows the potter's house in chapter 18"
+  },
+  {
+   "topic": "jer_pashur_complaint",
+   "prereq": "jer_broken_bottle",
+   "strength": "hard",
+   "reason": "Jeremiah 20:1 says Pashur heard Jeremiah prophesy the things he spoke in the temple court (19:14-15)"
+  },
+  {
+   "topic": "jer_zedekiah_asks",
+   "prereq": "jer_pashur_complaint",
+   "strength": "soft",
+   "reason": "Jeremiah 21 names Pashur son of Melchiah as one of the messengers, in the reign of Zedekiah"
+  },
+  {
+   "topic": "jer_kings_judged",
+   "prereq": "jer_zedekiah_asks",
+   "strength": "soft",
+   "reason": "Jeremiah 22 follows the message to the house of David in 21:11-14 with specific sayings about kings"
+  },
+  {
+   "topic": "jer_righteous_branch",
+   "prereq": "jer_kings_judged",
+   "strength": "hard",
+   "reason": "Jeremiah 23:1 begins \"Woe unto the pastors,\" following the sayings against the kings in chapter 22"
+  },
+  {
+   "topic": "jer_false_prophets",
+   "prereq": "jer_righteous_branch",
+   "strength": "soft",
+   "reason": "Jeremiah 23:9 turns from the shepherds of 23:1-8 to the prophets"
+  },
+  {
+   "topic": "jer_two_baskets",
+   "prereq": "jer_false_prophets",
+   "strength": "soft",
+   "reason": "Jeremiah 24 follows the sayings on Judah's leaders in chapters 21-23, in the time of Zedekiah"
+  },
+  {
+   "topic": "jer_seventy_years",
+   "prereq": "jer_two_baskets",
+   "strength": "soft",
+   "reason": "Jeremiah 25 gives a summary of the warning and the coming of Nebuchadnezzar, which is the background to the exiles of chapter 24"
+  },
+  {
+   "topic": "jer_temple_trial",
+   "prereq": "jer_temple_sermon",
+   "strength": "hard",
+   "reason": "Jeremiah 26:1-6 repeats the Shiloh warning of the temple sermon of chapter 7"
+  },
+  {
+   "topic": "jer_yokes",
+   "prereq": "jer_seventy_years",
+   "strength": "soft",
+   "reason": "Jeremiah 27 repeats the message that the nations will serve Nebuchadnezzar, given in 25:9-11"
+  },
+  {
+   "topic": "jer_hananiah",
+   "prereq": "jer_yokes",
+   "strength": "hard",
+   "reason": "Jeremiah 28 is the confrontation over the yoke that happens the same year (28:1) as the message of chapter 27"
+  },
+  {
+   "topic": "jer_letter_exiles",
+   "prereq": "jer_hananiah",
+   "strength": "soft",
+   "reason": "Jeremiah 29 addresses the exiles about prophets who contradict him, as in Hananiah's prophecy in chapter 28"
+  },
+  {
+   "topic": "jer_book_of_consolation",
+   "prereq": "jer_letter_exiles",
+   "strength": "soft",
+   "reason": "Jeremiah 30:3 promises the return of the captivity of Israel and Judah that the letter in chapter 29 anticipates"
+  },
+  {
+   "topic": "jer_israel_restored",
+   "prereq": "jer_book_of_consolation",
+   "strength": "hard",
+   "reason": "Jeremiah 31:1 continues the restoration promises of chapter 30 \"at the same time\""
+  },
+  {
+   "topic": "jer_new_covenant",
+   "prereq": "jer_israel_restored",
+   "strength": "hard",
+   "reason": "Jeremiah 31:31 (\"the days come\") continues the promises of restoration in 31:1-30 and speaks to the house of Israel and the house of Judah"
+  },
+  {
+   "topic": "jer_fixed_ordinances",
+   "prereq": "jer_new_covenant",
+   "strength": "soft",
+   "reason": "Jeremiah 31:35 follows the new covenant promise with assurance that Israel will not cease from being a nation"
+  },
+  {
+   "topic": "jer_field_anathoth",
+   "prereq": "jer_israel_restored",
+   "strength": "soft",
+   "reason": "Jeremiah 32 gives a concrete sign of the restoration promised in chapters 30-31, set in Zedekiah's tenth year (32:1)"
+  },
+  {
+   "topic": "jer_david_covenant_branch",
+   "prereq": "jer_field_anathoth",
+   "strength": "soft",
+   "reason": "Jeremiah 33:1 says the word came \"the second time\" while Jeremiah was still shut up in the court of the prison, as in chapter 32"
+  },
+  {
+   "topic": "jer_slaves_released",
+   "prereq": "jer_david_covenant_branch",
+   "strength": "soft",
+   "reason": "Jeremiah 34 is set while Nebuchadnezzar's army is fighting against Jerusalem (34:1, 7), as in chapters 32-33"
+  },
+  {
+   "topic": "jer_rechabites",
+   "prereq": "jer_slaves_released",
+   "strength": "soft",
+   "reason": "Jeremiah 35 gives an earlier episode (Jehoiakim's days, 35:1) used to contrast obedience with the disobedience described in chapter 34"
+  },
+  {
+   "topic": "jer_scroll_burned",
+   "prereq": "jer_rechabites",
+   "strength": "soft",
+   "reason": "Jeremiah 36 is set in the fourth and fifth years of Jehoiakim, the same king as chapter 35"
+  },
+  {
+   "topic": "jer_jeremiah_imprisoned",
+   "prereq": "jer_scroll_burned",
+   "strength": "soft",
+   "reason": "Jeremiah 37 goes on to the reign of Zedekiah, whom Jeremiah's words earlier also addressed (chapters 21, 34)"
+  },
+  {
+   "topic": "jer_ebedmelech",
+   "prereq": "jer_jeremiah_imprisoned",
+   "strength": "hard",
+   "reason": "Jeremiah 38 continues Jeremiah's confinement in the court of the prison (37:21; 38:6)"
+  },
+  {
+   "topic": "jer_fall_of_jerusalem",
+   "prereq": "jer_ebedmelech",
+   "strength": "hard",
+   "reason": "Jeremiah 38:28 says Jeremiah stayed in the court of the prison until Jerusalem was taken, which chapter 39 narrates"
+  },
+  {
+   "topic": "jer_gedaliah",
+   "prereq": "jer_fall_of_jerusalem",
+   "strength": "hard",
+   "reason": "Jeremiah 40:5 and 39:14 say Gedaliah was made governor over the cities of Judah after the fall of Jerusalem"
+  },
+  {
+   "topic": "jer_do_not_go_egypt",
+   "prereq": "jer_gedaliah",
+   "strength": "hard",
+   "reason": "Jeremiah 41:16-18 says Johanan and the survivors intended to enter Egypt, which chapter 42 takes up"
+  },
+  {
+   "topic": "jer_egypt_stones",
+   "prereq": "jer_do_not_go_egypt",
+   "strength": "hard",
+   "reason": "Jeremiah 43:8 is in Tahpanhes, where the remnant arrived in 43:7"
+  },
+  {
+   "topic": "jer_queen_of_heaven",
+   "prereq": "jer_egypt_stones",
+   "strength": "soft",
+   "reason": "Jeremiah 44 addresses the Jews living in Egypt at Migdol, Tahpanhes and Noph, where the remnant went in 43:7"
+  },
+  {
+   "topic": "jer_baruch",
+   "prereq": "jer_scroll_burned",
+   "strength": "hard",
+   "reason": "Jeremiah 45:1 says it came when Baruch wrote the words in a book (chapter 36) in the fourth year of Jehoiakim"
+  },
+  {
+   "topic": "jer_egypt_philistines",
+   "prereq": "jer_baruch",
+   "strength": "soft",
+   "reason": "Jeremiah 46:1 begins the series of words against the nations after the narratives of 26-45"
+  },
+  {
+   "topic": "jer_moab_judged",
+   "prereq": "jer_egypt_philistines",
+   "strength": "soft",
+   "reason": "Jeremiah 48:1 is the next oracle against a nation after Egypt and the Philistines"
+  },
+  {
+   "topic": "jer_ammon_edom_damascus",
+   "prereq": "jer_moab_judged",
+   "strength": "soft",
+   "reason": "Jeremiah 49 continues the oracles against the nations after Moab in chapter 48"
+  },
+  {
+   "topic": "jer_babylon_judged",
+   "prereq": "jer_ammon_edom_damascus",
+   "strength": "soft",
+   "reason": "Jeremiah 50 is the last and longest of the oracles against the nations that begin at 46:1"
+  },
+  {
+   "topic": "jer_babylon_judged",
+   "prereq": "jer_seventy_years",
+   "strength": "soft",
+   "reason": "Jeremiah 25:12-13 says the king of Babylon will be punished after seventy years, which the words in 50-51 detail"
+  },
+  {
+   "topic": "jer_seraiah_scroll",
+   "prereq": "jer_babylon_judged",
+   "strength": "hard",
+   "reason": "Jeremiah 51:60 says the book contains the words written against Babylon in chapters 50-51"
+  },
+  {
+   "topic": "jer_fall_recounted",
+   "prereq": "jer_fall_of_jerusalem",
+   "strength": "soft",
+   "reason": "Jeremiah 52 retells the capture of Jerusalem and Zedekiah's fate already told in chapter 39"
+  },
+  {
+   "topic": "book_lam",
+   "prereq": "jer_fall_recounted",
+   "strength": "soft",
+   "reason": "Lamentations laments the captivity and ruin of the city and sanctuary (Lam. 1:3, 10), the events recounted in Jeremiah 52:12-27"
+  },
+  {
+   "topic": "lam_zion_alone",
+   "prereq": "book_lam",
+   "strength": "soft",
+   "reason": "Lamentations 1 is the first of the five laments introduced in the book overview"
+  },
+  {
+   "topic": "lam_anger_of_the_lord",
+   "prereq": "lam_zion_alone",
+   "strength": "soft",
+   "reason": "Lamentations 2 continues the lament over Zion's desolation begun in chapter 1"
+  },
+  {
+   "topic": "lam_man_of_affliction",
+   "prereq": "lam_anger_of_the_lord",
+   "strength": "soft",
+   "reason": "Lamentations 3 shifts to one man's voice describing the same affliction as chapters 1-2"
+  },
+  {
+   "topic": "lam_great_faithfulness",
+   "prereq": "lam_man_of_affliction",
+   "strength": "hard",
+   "reason": "Lamentations 3:21 says \"this I recall to my mind,\" turning from the affliction described in 3:1-20"
+  },
+  {
+   "topic": "lam_return_to_lord",
+   "prereq": "lam_great_faithfulness",
+   "strength": "soft",
+   "reason": "Lamentations 3:40 follows the reflection on God's mercies with a call to turn to the LORD"
+  },
+  {
+   "topic": "lam_siege_famine",
+   "prereq": "lam_return_to_lord",
+   "strength": "soft",
+   "reason": "Lamentations 4 returns to the description of the city's ruin after the personal lament of chapter 3"
+  },
+  {
+   "topic": "lam_remember_us",
+   "prereq": "lam_siege_famine",
+   "strength": "soft",
+   "reason": "Lamentations 5 is the closing prayer after the laments of chapters 1-4"
+  },
+  {
+   "topic": "ezk_vision_glory",
+   "prereq": "book_ezk",
+   "strength": "soft",
+   "reason": "Ezekiel 1:1-3 gives the setting for the vision, which is the opening event of the book"
+  },
+  {
+   "topic": "ezk_commission_scroll",
+   "prereq": "ezk_vision_glory",
+   "strength": "hard",
+   "reason": "Ezekiel 2:1 follows the vision of the glory, in which a voice speaks to the prophet who fell on his face (1:28)"
+  },
+  {
+   "topic": "ezk_watchman",
+   "prereq": "ezk_commission_scroll",
+   "strength": "hard",
+   "reason": "Ezekiel 3:16 says the word came at the end of seven days after he sat astonished among the exiles (3:15)"
+  },
+  {
+   "topic": "ezk_siege_signs",
+   "prereq": "ezk_watchman",
+   "strength": "soft",
+   "reason": "Ezekiel 4 gives the acts he performs while confined to his house and bound with bands (3:24-26)"
+  },
+  {
+   "topic": "ezk_razor_thirds",
+   "prereq": "ezk_siege_signs",
+   "strength": "soft",
+   "reason": "Ezekiel 5 gives another sign act on the siege and judgment of Jerusalem, following chapter 4"
+  },
+  {
+   "topic": "ezk_mountains_israel",
+   "prereq": "ezk_razor_thirds",
+   "strength": "soft",
+   "reason": "Ezekiel 6 is a further word of judgment on the land after the signs in chapters 4-5"
+  },
+  {
+   "topic": "ezk_end_has_come",
+   "prereq": "ezk_mountains_israel",
+   "strength": "soft",
+   "reason": "Ezekiel 7 continues the announcement of judgment on the land of Israel from chapter 6"
+  },
+  {
+   "topic": "ezk_temple_abominations",
+   "prereq": "ezk_end_has_come",
+   "strength": "soft",
+   "reason": "Ezekiel 8 shows the idolatry in the temple behind the judgment announced in chapters 6-7"
+  },
+  {
+   "topic": "ezk_mark_slaughter",
+   "prereq": "ezk_temple_abominations",
+   "strength": "hard",
+   "reason": "Ezekiel 9:1 says the LORD cried out in answer to the abominations shown in chapter 8"
+  },
+  {
+   "topic": "ezk_glory_departs",
+   "prereq": "ezk_mark_slaughter",
+   "strength": "soft",
+   "reason": "Ezekiel 10 continues the vision at the temple that includes the man in linen (10:2, 6)"
+  },
+  {
+   "topic": "ezk_glory_departs",
+   "prereq": "ezk_vision_glory",
+   "strength": "hard",
+   "reason": "Ezekiel 10:15, 20 identifies the creatures as those he saw by the river Chebar in chapter 1"
+  },
+  {
+   "topic": "ezk_new_heart",
+   "prereq": "ezk_glory_departs",
+   "strength": "soft",
+   "reason": "Ezekiel 11:22-23 continues the movement of the cherubim and the glory begun in chapter 10"
+  },
+  {
+   "topic": "ezk_exile_sign",
+   "prereq": "ezk_new_heart",
+   "strength": "soft",
+   "reason": "Ezekiel 12:1-2 gives a new word for the rebellious house after Ezekiel told the exiles what he saw (11:24-25)"
+  },
+  {
+   "topic": "ezk_false_prophets",
+   "prereq": "ezk_exile_sign",
+   "strength": "soft",
+   "reason": "Ezekiel 13 turns to the false visions the LORD said would cease in 12:24"
+  },
+  {
+   "topic": "ezk_idols_in_heart",
+   "prereq": "ezk_false_prophets",
+   "strength": "soft",
+   "reason": "Ezekiel 14 continues the LORD's dealings with elders and prophets who disregard him"
+  },
+  {
+   "topic": "ezk_noah_daniel_job",
+   "prereq": "ezk_idols_in_heart",
+   "strength": "soft",
+   "reason": "Ezekiel 14:12 follows the word to the elders with a further word about a land sinning grievously"
+  },
+  {
+   "topic": "ezk_useless_vine",
+   "prereq": "ezk_noah_daniel_job",
+   "strength": "soft",
+   "reason": "Ezekiel 15 follows with a parable about the same Jerusalem whose inhabitants the LORD judges in 14:21"
+  },
+  {
+   "topic": "ezk_foundling_bride",
+   "prereq": "ezk_useless_vine",
+   "strength": "soft",
+   "reason": "Ezekiel 16 is the next word about Jerusalem, whose abominations Ezekiel is told to make known (16:2)"
+  },
+  {
+   "topic": "ezk_sisters_everlasting_covenant",
+   "prereq": "ezk_foundling_bride",
+   "strength": "hard",
+   "reason": "Ezekiel 16:44 continues the same word to Jerusalem begun in 16:1-2 and refers back to her harlotry"
+  },
+  {
+   "topic": "ezk_eagles_vine_cedar",
+   "prereq": "ezk_sisters_everlasting_covenant",
+   "strength": "soft",
+   "reason": "Ezekiel 17 follows with another parable about the house of Israel, and speaks of the king of Babylon's oath and covenant (17:13-19)"
+  },
+  {
+   "topic": "ezk_soul_that_sins",
+   "prereq": "ezk_eagles_vine_cedar",
+   "strength": "soft",
+   "reason": "Ezekiel 18 answers the proverb used in the land of Israel (18:2) after the preceding parables"
+  },
+  {
+   "topic": "ezk_lament_princes",
+   "prereq": "ezk_soul_that_sins",
+   "strength": "soft",
+   "reason": "Ezekiel 19 is a lamentation for the princes of Israel after the words on individual accountability"
+  },
+  {
+   "topic": "ezk_history_rebellion",
+   "prereq": "ezk_lament_princes",
+   "strength": "soft",
+   "reason": "Ezekiel 20:1 is a new episode, in the seventh year, in which elders come to enquire of the LORD"
+  },
+  {
+   "topic": "ezk_south_forest_fire",
+   "prereq": "ezk_history_rebellion",
+   "strength": "soft",
+   "reason": "Ezekiel 20:45 begins another word of the LORD immediately after the prophecy to the elders"
+  },
+  {
+   "topic": "ezk_sword_of_babylon",
+   "prereq": "ezk_south_forest_fire",
+   "strength": "soft",
+   "reason": "Ezekiel 21 continues the judgment from the fire of 20:45-48 with the image of the LORD's sword"
+  },
+  {
+   "topic": "ezk_bloody_city",
+   "prereq": "ezk_sword_of_babylon",
+   "strength": "soft",
+   "reason": "Ezekiel 22:2 charges the bloody city, continuing the judgment of chapter 21"
+  },
+  {
+   "topic": "ezk_two_sisters",
+   "prereq": "ezk_foundling_bride",
+   "strength": "soft",
+   "reason": "Ezekiel 23 uses a similar picture of unfaithful women as chapter 16 for Jerusalem and Samaria"
+  },
+  {
+   "topic": "ezk_two_sisters",
+   "prereq": "ezk_bloody_city",
+   "strength": "soft",
+   "reason": "Ezekiel 23 follows chapter 22 in the series of words against Jerusalem"
+  },
+  {
+   "topic": "ezk_boiling_pot_wife",
+   "prereq": "ezk_two_sisters",
+   "strength": "soft",
+   "reason": "Ezekiel 24:2 dates the word to the day Babylon set himself against Jerusalem, the siege the preceding chapters announce"
+  },
+  {
+   "topic": "ezk_nations_neighbours",
+   "prereq": "ezk_boiling_pot_wife",
+   "strength": "soft",
+   "reason": "Ezekiel 25 follows the announcement of Jerusalem's fall and the sanctuary's profaning in chapter 24, which the nations mocked"
+  },
+  {
+   "topic": "ezk_tyre_fall",
+   "prereq": "ezk_nations_neighbours",
+   "strength": "soft",
+   "reason": "Ezekiel 26 continues the oracles against nations that mocked Jerusalem, begun in chapter 25"
+  },
+  {
+   "topic": "ezk_tyre_lament",
+   "prereq": "ezk_tyre_fall",
+   "strength": "hard",
+   "reason": "Ezekiel 27 is a lamentation for the city whose fall is announced in chapter 26"
+  },
+  {
+   "topic": "ezk_prince_king_tyre",
+   "prereq": "ezk_tyre_lament",
+   "strength": "soft",
+   "reason": "Ezekiel 28 turns from the city of Tyre in 26-27 to her ruler"
+  },
+  {
+   "topic": "ezk_zidon_israel_gathered",
+   "prereq": "ezk_prince_king_tyre",
+   "strength": "soft",
+   "reason": "Ezekiel 28:20 gives the next word of the LORD in the oracle series on Tyre and Zidon"
+  },
+  {
+   "topic": "ezk_egypt_dragon",
+   "prereq": "ezk_zidon_israel_gathered",
+   "strength": "soft",
+   "reason": "Ezekiel 29:1 begins the oracles against Egypt after those against the other neighbours in chapters 25-28"
+  },
+  {
+   "topic": "ezk_day_of_lord_egypt",
+   "prereq": "ezk_egypt_dragon",
+   "strength": "soft",
+   "reason": "Ezekiel 30 continues the oracles against Egypt from chapter 29"
+  },
+  {
+   "topic": "ezk_cedar_pharaoh",
+   "prereq": "ezk_day_of_lord_egypt",
+   "strength": "soft",
+   "reason": "Ezekiel 31 is a further oracle against Pharaoh and Egypt, dated to the eleventh year (31:1)"
+  },
+  {
+   "topic": "ezk_pharaoh_lament_pit",
+   "prereq": "ezk_cedar_pharaoh",
+   "strength": "soft",
+   "reason": "Ezekiel 32 continues the oracles against Egypt and its Pharaoh in the twelfth year"
+  },
+  {
+   "topic": "ezk_watchman_repeat",
+   "prereq": "ezk_watchman",
+   "strength": "hard",
+   "reason": "Ezekiel 33:7-9 restates the watchman charge first given in 3:17-19"
+  },
+  {
+   "topic": "ezk_watchman_repeat",
+   "prereq": "ezk_pharaoh_lament_pit",
+   "strength": "soft",
+   "reason": "Ezekiel 33 returns to Israel after the oracles against the nations in chapters 25-32"
+  },
+  {
+   "topic": "ezk_jerusalem_fallen",
+   "prereq": "ezk_watchman_repeat",
+   "strength": "soft",
+   "reason": "Ezekiel 33:22 says the LORD opened his mouth, fulfilling the dumbness announced in 3:26-27 and 24:27"
+  },
+  {
+   "topic": "ezk_shepherds",
+   "prereq": "ezk_jerusalem_fallen",
+   "strength": "soft",
+   "reason": "Ezekiel 34 follows the report of the fall of Jerusalem with a word to the shepherds of Israel"
+  },
+  {
+   "topic": "ezk_mount_seir",
+   "prereq": "ezk_shepherds",
+   "strength": "soft",
+   "reason": "Ezekiel 35 is the next word, setting the judgment on Seir before the restoration of Israel's mountains in 36"
+  },
+  {
+   "topic": "ezk_mountains_restored",
+   "prereq": "ezk_mount_seir",
+   "strength": "soft",
+   "reason": "Ezekiel 36:5 and 36:1-4 answer the claims against the land that the previous chapter attributes to Seir"
+  },
+  {
+   "topic": "ezk_mountains_restored",
+   "prereq": "ezk_mountains_israel",
+   "strength": "soft",
+   "reason": "Ezekiel 36:1 speaks to the mountains of Israel, as chapter 6 did in judgment"
+  },
+  {
+   "topic": "ezk_new_heart_clean_water",
+   "prereq": "ezk_mountains_restored",
+   "strength": "hard",
+   "reason": "Ezekiel 36:16 continues the word to the house of Israel about the land and the return begun in 36:1-15"
+  },
+  {
+   "topic": "ezk_dry_bones",
+   "prereq": "ezk_new_heart_clean_water",
+   "strength": "soft",
+   "reason": "Ezekiel 37:14 promises the LORD's Spirit in them and their placement in their own land, as in 36:27-28"
+  },
+  {
+   "topic": "ezk_two_sticks",
+   "prereq": "ezk_dry_bones",
+   "strength": "hard",
+   "reason": "Ezekiel 37:15 continues in the same chapter as the bones, which the LORD calls the whole house of Israel (37:11), uniting Judah and Joseph"
+  },
+  {
+   "topic": "ezk_gog_coming",
+   "prereq": "ezk_two_sticks",
+   "strength": "soft",
+   "reason": "Ezekiel 38:8 speaks of a land brought back from the sword and gathered out of many people, following the restoration promises of chapters 36-37"
+  },
+  {
+   "topic": "ezk_gog_defeated",
+   "prereq": "ezk_gog_coming",
+   "strength": "hard",
+   "reason": "Ezekiel 39:1 continues the prophecy against Gog begun in chapter 38"
+  },
+  {
+   "topic": "ezk_temple_gates_courts",
+   "prereq": "ezk_gog_defeated",
+   "strength": "soft",
+   "reason": "Ezekiel 40:1 begins a new vision in the twenty-fifth year of captivity after the oracles of chapters 33-39"
+  },
+  {
+   "topic": "ezk_temple_house_chambers",
+   "prereq": "ezk_temple_gates_courts",
+   "strength": "hard",
+   "reason": "Ezekiel 41:1 begins with the man bringing Ezekiel to the temple after the measuring of the courts in chapter 40"
+  },
+  {
+   "topic": "ezk_glory_returns",
+   "prereq": "ezk_temple_house_chambers",
+   "strength": "soft",
+   "reason": "Ezekiel 43:1 follows the measuring of the temple in 40-42"
+  },
+  {
+   "topic": "ezk_glory_returns",
+   "prereq": "ezk_glory_departs",
+   "strength": "hard",
+   "reason": "Ezekiel 43:3 refers to the vision seen when Ezekiel came to destroy the city and by the Chebar, and the glory comes back by the east gate toward which it departed (10:18, 11:23)"
+  },
+  {
+   "topic": "ezk_east_gate_priests",
+   "prereq": "ezk_glory_returns",
+   "strength": "soft",
+   "reason": "Ezekiel 44:4 sees the glory of the LORD filling the house, as in 43:5"
+  },
+  {
+   "topic": "ezk_holy_portion_prince",
+   "prereq": "ezk_east_gate_priests",
+   "strength": "soft",
+   "reason": "Ezekiel 45 continues the instructions for the sanctuary, the priests and the prince given in chapters 43-44"
+  },
+  {
+   "topic": "ezk_prince_worship_offerings",
+   "prereq": "ezk_holy_portion_prince",
+   "strength": "soft",
+   "reason": "Ezekiel 46 continues the regulations for the prince and offerings of chapter 45"
+  },
+  {
+   "topic": "ezk_river_temple",
+   "prereq": "ezk_prince_worship_offerings",
+   "strength": "soft",
+   "reason": "Ezekiel 47:1 brings Ezekiel back to the door of the house, after the tour of its kitchens and courts in 46:19-24"
+  },
+  {
+   "topic": "ezk_land_borders",
+   "prereq": "ezk_river_temple",
+   "strength": "soft",
+   "reason": "Ezekiel 47:13 follows the vision of the river with the borders for the inheritance"
+  },
+  {
+   "topic": "ezk_land_city_lord_is_there",
+   "prereq": "ezk_land_borders",
+   "strength": "hard",
+   "reason": "Ezekiel 48 gives the tribal portions within the borders set out in 47:13-23"
+  },
+  {
+   "topic": "book_dan",
+   "prereq": "jer_seventy_years",
+   "strength": "soft",
+   "reason": "Daniel 1:1-2 and Jeremiah 25:1, 9-11 both describe Nebuchadnezzar's power over Judah in the days of Jehoiakim"
+  },
+  {
+   "topic": "dan_diet_test",
+   "prereq": "book_dan",
+   "strength": "soft",
+   "reason": "Daniel 1:1-7 introduces the setting that the book overview describes"
+  },
+  {
+   "topic": "dan_dream_image",
+   "prereq": "dan_diet_test",
+   "strength": "soft",
+   "reason": "Daniel 2:13-18 involves Daniel and his three companions, introduced in chapter 1, and Nebuchadnezzar's wise men"
+  },
+  {
+   "topic": "dan_fiery_furnace",
+   "prereq": "dan_dream_image",
+   "strength": "soft",
+   "reason": "Daniel 3:12 says Shadrach, Meshach and Abednego were set over the province of Babylon, as stated in 2:49"
+  },
+  {
+   "topic": "dan_tree_humbled",
+   "prereq": "dan_fiery_furnace",
+   "strength": "soft",
+   "reason": "Daniel 4 is the same king's testimony to the signs and wonders of the high God (4:2-3), following those in chapters 2-3"
+  },
+  {
+   "topic": "dan_writing_wall",
+   "prereq": "dan_tree_humbled",
+   "strength": "hard",
+   "reason": "Daniel 5:18-22 recounts the humbling of Nebuchadnezzar told in chapter 4 as the reason Belshazzar should have humbled himself"
+  },
+  {
+   "topic": "dan_lions_den",
+   "prereq": "dan_writing_wall",
+   "strength": "soft",
+   "reason": "Daniel 5:31 says Darius the Median took the kingdom, and chapter 6 begins in Darius's reign"
+  },
+  {
+   "topic": "dan_beasts_ancient_of_days",
+   "prereq": "dan_lions_den",
+   "strength": "soft",
+   "reason": "Daniel 7:1 dates the vision to the first year of Belshazzar, an earlier date than chapter 6, but the book now moves from narratives to visions"
+  },
+  {
+   "topic": "dan_beasts_interpreted",
+   "prereq": "dan_beasts_ancient_of_days",
+   "strength": "hard",
+   "reason": "Daniel 7:15-16 begins when Daniel asks one standing by the meaning of the vision in 7:1-14"
+  },
+  {
+   "topic": "dan_ram_goat",
+   "prereq": "dan_beasts_interpreted",
+   "strength": "soft",
+   "reason": "Daniel 8:1 says the vision came after the one that appeared at the first, in chapter 7"
+  },
+  {
+   "topic": "dan_prayer_confession",
+   "prereq": "jer_seventy_years",
+   "strength": "hard",
+   "reason": "Daniel 9:2 says Daniel understood from the books the seventy years of Jerusalem's desolation that the word of the LORD gave to Jeremiah (Jeremiah 25:11-12)"
+  },
+  {
+   "topic": "dan_prayer_confession",
+   "prereq": "dan_ram_goat",
+   "strength": "soft",
+   "reason": "Daniel 9:1 is dated to the first year of Darius, later than the vision of chapter 8 in the third year of Belshazzar"
+  },
+  {
+   "topic": "dan_seventy_weeks",
+   "prereq": "dan_prayer_confession",
+   "strength": "hard",
+   "reason": "Daniel 9:20-23 describes Gabriel coming while Daniel was still praying the prayer in 9:3-19"
+  },
+  {
+   "topic": "dan_man_in_linen",
+   "prereq": "dan_seventy_weeks",
+   "strength": "soft",
+   "reason": "Daniel 10:1 gives a further revelation to Daniel, later, in the third year of Cyrus"
+  },
+  {
+   "topic": "dan_kings_south_north",
+   "prereq": "dan_man_in_linen",
+   "strength": "hard",
+   "reason": "Daniel 11:1-2 continues the speech of the messenger who in 10:14 said he came to make Daniel understand what will befall his people in the latter days"
+  },
+  {
+   "topic": "dan_contemptible_king_end",
+   "prereq": "dan_kings_south_north",
+   "strength": "hard",
+   "reason": "Daniel 11:21 continues the list of kings begun in 11:2-20"
+  },
+  {
+   "topic": "dan_time_of_end",
+   "prereq": "dan_contemptible_king_end",
+   "strength": "hard",
+   "reason": "Daniel 12:1 begins \"at that time\" and continues the revelation of chapters 10-11"
+  }
+ ],
+ "relations": [
+  {
+   "from": "jer_righteous_branch",
+   "to": "jer_david_covenant_branch",
+   "kind": "parallels",
+   "refs": [
+    "JER 23:5-6",
+    "JER 33:15-16"
+   ]
+  },
+  {
+   "from": "jer_seventy_years",
+   "to": "jer_letter_exiles",
+   "kind": "parallels",
+   "refs": [
+    "JER 25:11-12",
+    "JER 29:10"
+   ]
+  },
+  {
+   "from": "jer_temple_sermon",
+   "to": "jer_temple_trial",
+   "kind": "parallels",
+   "refs": [
+    "JER 7:12-14",
+    "JER 26:6"
+   ]
+  },
+  {
+   "from": "ezk_watchman",
+   "to": "ezk_watchman_repeat",
+   "kind": "parallels",
+   "refs": [
+    "EZK 3:17-19",
+    "EZK 33:7-9"
+   ]
+  },
+  {
+   "from": "ezk_new_heart",
+   "to": "ezk_new_heart_clean_water",
+   "kind": "parallels",
+   "refs": [
+    "EZK 11:19-20",
+    "EZK 36:26-28"
+   ]
+  },
+  {
+   "from": "jer_new_covenant",
+   "to": "ezk_new_heart_clean_water",
+   "kind": "parallels",
+   "refs": [
+    "JER 31:33",
+    "EZK 36:26-28"
+   ]
+  },
+  {
+   "from": "jer_israel_restored",
+   "to": "ezk_soul_that_sins",
+   "kind": "parallels",
+   "refs": [
+    "JER 31:29-30",
+    "EZK 18:2-4"
+   ]
+  },
+  {
+   "from": "ezk_glory_departs",
+   "to": "ezk_glory_returns",
+   "kind": "parallels",
+   "refs": [
+    "EZK 10:18-19",
+    "EZK 43:2-5"
+   ]
+  },
+  {
+   "from": "dan_tree_humbled",
+   "to": "dan_writing_wall",
+   "kind": "parallels",
+   "refs": [
+    "DAN 4:31-33",
+    "DAN 5:20-21"
+   ]
+  },
+  {
+   "from": "jer_seventy_years",
+   "to": "dan_prayer_confession",
+   "kind": "parallels",
+   "refs": [
+    "JER 25:11-12",
+    "DAN 9:2"
+   ]
+  },
+  {
+   "from": "dan_diet_test",
+   "to": "dan_writing_wall",
+   "kind": "parallels",
+   "refs": [
+    "DAN 1:1-2",
+    "DAN 5:2-3"
+   ]
+  }
+ ]
+}

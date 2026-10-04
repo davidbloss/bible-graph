@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/bible-taxonomy/schema/covenants.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "covenants"],
+  "properties": {
+    "version": { "type": "string" },
+    "covenants": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "description", "keyPassages"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^cv_" },
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "keyPassages": { "type": "array", "items": { "$ref": "topics.schema.json#/$defs/ref" } }
+        }
+      }
+    }
+  }
+}

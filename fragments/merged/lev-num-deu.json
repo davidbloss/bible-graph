@@ -1,0 +1,3250 @@
+{
+ "topics": [
+  {
+   "id": "book_lev",
+   "type": "BOOK_OVERVIEW",
+   "name": "Leviticus: overview",
+   "description": "Leviticus gives the LORD's instructions from the tabernacle: the offerings, the consecration of the priests, clean and unclean, the day of atonement, holy living, the feasts, the jubilee, and the blessings and curses of obedience.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "LEV 1..27"
+   ],
+   "evidence": [
+    "Name the main sections of Leviticus (offerings, priests, clean and unclean, atonement, holiness, feasts, jubilee, blessings and curses)."
+   ],
+   "prompt": "Can {{name}} give a one-sentence summary of what Leviticus is about?"
+  },
+  {
+   "id": "lev_burnt_offering",
+   "type": "THEME",
+   "name": "The burnt offering",
+   "description": "Leviticus 1 describes the burnt offering from the herd, flock or birds: an unblemished male brought to the tabernacle door, a hand laid on its head so that it is accepted to make atonement, and all of it burned on the altar.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 1"
+   ],
+   "evidence": [
+    "Describe what the worshipper and the priests each did with the burnt offering.",
+    "Say what verse 4 says the laid-on hand and the offering accomplish."
+   ],
+   "prompt": "Can {{name}} explain what the burnt offering was and why the animal had to be without blemish?"
+  },
+  {
+   "id": "lev_grain_offering",
+   "type": "THEME",
+   "name": "The grain offering",
+   "description": "Leviticus 2 describes the grain (meat) offering of fine flour with oil and frankincense, a memorial portion burned and the rest given to the priests, with no leaven or honey and salt on every offering.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 2"
+   ],
+   "evidence": [
+    "List what went into a grain offering and what was kept out of it.",
+    "Say who received the part that was not burned."
+   ],
+   "prompt": "Can {{name}} describe the grain offering and say what happened to the part that was not burned?"
+  },
+  {
+   "id": "lev_peace_offering",
+   "type": "THEME",
+   "name": "The peace offering",
+   "description": "Leviticus 3 describes the peace offering from herd or flock, male or female, without blemish: hand laid on the head, blood sprinkled, the fat burned on the altar, with a lasting rule against eating fat or blood.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 3"
+   ],
+   "evidence": [
+    "Say what part of the peace offering was burned and what was forbidden to eat (3:17)."
+   ],
+   "prompt": "Can {{name}} explain how the peace offering differs from the burnt offering in what is burned?"
+  },
+  {
+   "id": "lev_sin_offering",
+   "type": "THEME",
+   "name": "The sin offering",
+   "description": "Leviticus 4 gives the sin offering for sins done through ignorance, with different procedures for the anointed priest, the whole congregation, a ruler and a common person, each ending in atonement and forgiveness.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    17
+   ],
+   "passages": [
+    "LEV 4"
+   ],
+   "evidence": [
+    "Name the four groups of people in chapter 4 and the animal each brings.",
+    "Say where the blood was put in the case of the priest and the congregation."
+   ],
+   "prompt": "Can {{name}} explain who the sin offering was for and what the text says it achieves (for example 4:20, 26)?"
+  },
+  {
+   "id": "lev_trespass_offering",
+   "type": "THEME",
+   "name": "The trespass offering and restitution",
+   "description": "Leviticus 5:1-6:7 lists wrongs needing a trespass offering (silence as a witness, uncleanness, rash oaths, trespass in holy things, deceit toward a neighbour), with confession, a graded offering by ability, and restitution plus a fifth.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    17
+   ],
+   "passages": [
+    "LEV 5",
+    "LEV 6:1-7"
+   ],
+   "evidence": [
+    "State what the guilty person must do besides bringing an offering (confess, restore, add a fifth).",
+    "Describe how the offering changes if he cannot afford a lamb."
+   ],
+   "prompt": "Can {{name}} explain why restitution is required alongside the trespass offering?"
+  },
+  {
+   "id": "lev_offering_laws",
+   "type": "THEME",
+   "name": "The priests' laws of the offerings",
+   "description": "Leviticus 6:8-7:38 gives the priests' instructions for the burnt, grain, sin, trespass and peace offerings: the fire never to go out, which portions the priests eat, and the rules on fat, blood and the wave breast and heave shoulder.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 6:8-30",
+    "LEV 7"
+   ],
+   "evidence": [
+    "Say what was to be kept burning continually on the altar.",
+    "Name which offerings the priests ate and which portion went to them from the peace offerings."
+   ],
+   "prompt": "Can {{name}} explain what the priests received from the offerings?"
+  },
+  {
+   "id": "lev_priests_consecrated",
+   "type": "STORY",
+   "name": "Aaron and his sons are consecrated",
+   "description": "Leviticus 8 records Moses washing, clothing and anointing Aaron and his sons, anointing the tabernacle, and the sin, burnt and consecration offerings over seven days, as the LORD commanded.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 8"
+   ],
+   "evidence": [
+    "Retell the order of events in the consecration of Aaron and his sons.",
+    "Find the phrase showing that they did as the LORD commanded (8:36)."
+   ],
+   "prompt": "Can {{name}} tell how Aaron and his sons were set apart as priests?"
+  },
+  {
+   "id": "lev_eighth_day",
+   "type": "STORY",
+   "name": "The eighth day: glory and fire",
+   "description": "Leviticus 9 tells how on the eighth day Aaron offered for himself and the people, blessed them, and the glory of the LORD appeared as fire came out and consumed the offering, so that the people shouted and fell on their faces.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 9"
+   ],
+   "evidence": [
+    "Say what Aaron offered first and why, then what he offered for the people.",
+    "Describe what happened at the end of the chapter (9:23-24)."
+   ],
+   "prompt": "Can {{name}} tell what happened on the eighth day and how the people responded?"
+  },
+  {
+   "id": "lev_nadab_abihu",
+   "type": "STORY",
+   "name": "Nadab and Abihu",
+   "description": "Leviticus 10 tells how Aaron's sons Nadab and Abihu offered fire before the LORD, fire came out and killed them, and Moses and Aaron respond; the chapter adds a rule about wine for priests and a question over the sin offering.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 10"
+   ],
+   "evidence": [
+    "Tell what Nadab and Abihu did and what happened.",
+    "State what Moses said the LORD means by being sanctified in those who come near (10:3)."
+   ],
+   "prompt": "Can {{name}} explain what the death of Nadab and Abihu teaches about approaching the LORD?"
+  },
+  {
+   "id": "lev_clean_food",
+   "type": "THEME",
+   "name": "Clean and unclean animals",
+   "description": "Leviticus 11 distinguishes animals that may and may not be eaten (land animals, water creatures, birds, insects) and what contact with carcasses makes one unclean, closing with the call to be holy because the LORD is holy.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 11"
+   ],
+   "evidence": [
+    "Give the two marks of a land animal that may be eaten (11:3) and one animal that fails them.",
+    "Find the reason given in 11:44-45 for these laws."
+   ],
+   "prompt": "Can {{name}} explain the reason the chapter itself gives for the clean and unclean laws?"
+  },
+  {
+   "id": "lev_childbirth",
+   "type": "THEME",
+   "name": "Uncleanness after childbirth",
+   "description": "Leviticus 12 sets the days of uncleanness after the birth of a son or daughter, circumcision on the eighth day, and the lamb and bird (or two birds if poor) offered for her cleansing.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    17
+   ],
+   "passages": [
+    "LEV 12"
+   ],
+   "evidence": [
+    "State when a boy is to be circumcised according to 12:3.",
+    "Say what offerings she brings and what changes if she cannot afford a lamb."
+   ],
+   "prompt": "Can {{name}} describe what a woman did at the end of the days of purifying?"
+  },
+  {
+   "id": "lev_skin_diseases",
+   "type": "THEME",
+   "name": "Diseases of skin, clothing and houses",
+   "description": "Leviticus 13 describes how the priest examines skin diseases, with seven-day confinement, pronouncing clean or unclean, the separation of the unclean person outside the camp, and a similar examination of diseased garments.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 13"
+   ],
+   "evidence": [
+    "Say who judges whether a person is clean or unclean and what steps he takes.",
+    "Describe what the person with the disease must do (13:45-46)."
+   ],
+   "prompt": "Can {{name}} explain who decided whether someone was clean and what happened to an unclean person?"
+  },
+  {
+   "id": "lev_cleansing_disease",
+   "type": "THEME",
+   "name": "Cleansing from disease and from mould",
+   "description": "Leviticus 14 gives the rite for cleansing a healed person (two birds, cedar, scarlet, hyssop, washing, then offerings on the eighth day with blood and oil) and the examination and cleansing of a house with spreading plague.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 14"
+   ],
+   "evidence": [
+    "Describe the two stages of the cleansing rite (day of cleansing and eighth day).",
+    "Say what the priest does to a house with a plague."
+   ],
+   "prompt": "Can {{name}} describe how a healed person was declared clean again?"
+  },
+  {
+   "id": "lev_discharges",
+   "type": "THEME",
+   "name": "Bodily discharges",
+   "description": "Leviticus 15 deals with uncleanness from bodily discharges of men and women, how it spreads to beds and things touched, washing and waiting seven days, and the sin and burnt offerings on the eighth day.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 15"
+   ],
+   "evidence": [
+    "Say what a person must do to be clean after a discharge ends (seven days, washing, two birds on the eighth day).",
+    "Find the reason given in 15:31 for these separations."
+   ],
+   "prompt": "Can {{name}} explain why the text says Israel is to be kept separate from uncleanness (15:31)?"
+  },
+  {
+   "id": "lev_day_of_atonement",
+   "type": "STORY",
+   "name": "The day of atonement",
+   "description": "Leviticus 16 sets out how, after Nadab and Abihu died, Aaron enters the holy place once a year with offerings for himself and the people, blood on the mercy seat, and a live goat that carries the people's iniquities into the wilderness.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "LEV 16"
+   ],
+   "evidence": [
+    "Explain why Aaron must not come into the holy place at just any time (16:2).",
+    "Describe the two goats and what happens to each.",
+    "State the date and the people's duty on that day (16:29-31)."
+   ],
+   "prompt": "Can {{name}} explain what happened on the day of atonement and what the two goats show?"
+  },
+  {
+   "id": "lev_blood_life",
+   "type": "THEME",
+   "name": "Sacrifices at the door and the sanctity of blood",
+   "description": "Leviticus 17 requires that sacrifices be brought to the tabernacle door rather than offered in the open fields, and forbids eating blood, because the life of the flesh is in the blood which the LORD gave on the altar to make atonement.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "LEV 17"
+   ],
+   "evidence": [
+    "State the reason given in 17:11 for the ban on eating blood.",
+    "Say what had to be done with blood from an animal taken in hunting (17:13)."
+   ],
+   "prompt": "Can {{name}} explain why blood was treated as special according to Leviticus 17:11?"
+  },
+  {
+   "id": "lev_unlawful_unions",
+   "type": "THEME",
+   "name": "Not like Egypt or Canaan: sexual boundaries",
+   "description": "Leviticus 18 calls Israel not to follow the practices of Egypt or Canaan, listing forbidden sexual relations, Molech worship and other practices, and warns that the land vomits out nations that defile it.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "LEV 18"
+   ],
+   "evidence": [
+    "Say whose ways Israel is told not to follow (18:3).",
+    "State the consequence the chapter gives for defiling the land (18:24-28).",
+    "Find 18:5 and say what it promises to the person who does the LORD's statutes."
+   ],
+   "prompt": "Can {{name}} explain why the chapter says the LORD is giving these commands, using what verses 3 and 24-30 say?"
+  },
+  {
+   "id": "lev_be_holy",
+   "type": "THEME",
+   "name": "\"Ye shall be holy\": laws for neighbours",
+   "description": "Leviticus 19 gathers commands under the call to be holy because the LORD is holy: honouring parents, sabbaths, leaving gleanings for the poor, honest dealing, no partiality, loving one's neighbour as oneself, care for the stranger and just weights.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "LEV 19"
+   ],
+   "evidence": [
+    "Name at least five commands from the chapter that deal with how to treat other people.",
+    "Find the command to love the neighbour (19:18) and the command about the stranger (19:33-34)."
+   ],
+   "prompt": "Can {{name}} list some ways Leviticus 19 says holiness shows up in daily life?"
+  },
+  {
+   "id": "lev_penalties",
+   "type": "THEME",
+   "name": "Penalties for Molech worship, sorcery and sexual sin",
+   "description": "Leviticus 20 repeats prohibitions on Molech worship, mediums, cursing parents and forbidden unions, attaching penalties to each, and ends by calling Israel to be holy and separate from the nations the LORD is casting out.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "LEV 20"
+   ],
+   "evidence": [
+    "Name three sins in the chapter and the penalty the text attaches to each.",
+    "Find what the LORD says in 20:26 about why Israel is to be holy."
+   ],
+   "prompt": "Can {{name}} explain how chapter 20 relates to the commands of chapters 18 and 19?"
+  },
+  {
+   "id": "lev_priests_holy",
+   "type": "THEME",
+   "name": "Holiness of the priests",
+   "description": "Leviticus 21 lays down rules for the priests: limits on mourning, whom they may marry, higher standards for the high priest, and that a priest with a bodily blemish may eat the holy bread but may not approach the veil or altar.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 21"
+   ],
+   "evidence": [
+    "Say how the high priest's rules differ from other priests' in 21:10-15.",
+    "State what a blemished priest may and may not do (21:21-23)."
+   ],
+   "prompt": "Can {{name}} explain why the text says the priests must be holy (21:6, 8)?"
+  },
+  {
+   "id": "lev_holy_things",
+   "type": "THEME",
+   "name": "Eating the holy things and acceptable gifts",
+   "description": "Leviticus 22 says who may and may not eat the holy offerings (uncleanness bars a priest; strangers and hired servants may not), and that offerings to the LORD must be without blemish.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 22"
+   ],
+   "evidence": [
+    "Name who may not eat of the holy things and what bars a priest from eating (22:3-9).",
+    "Say what the text says about offering blemished animals (22:20-25)."
+   ],
+   "prompt": "Can {{name}} explain why animals with defects were not acceptable as offerings?"
+  },
+  {
+   "id": "lev_feasts_weekly_spring",
+   "type": "THEME",
+   "name": "The sabbath, Passover and firstfruits",
+   "description": "Leviticus 23:1-22 lists the weekly sabbath and the feasts of the LORD in spring and early summer: Passover and Unleavened Bread, the wave sheaf of firstfruits, and the feast of weeks fifty days later, with a reminder to leave the corners of the field for the poor.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 23:1-22"
+   ],
+   "evidence": [
+    "Give the date and name of each feast in the first half of the chapter.",
+    "Say how the fifty days to the feast of weeks are counted (23:15-16)."
+   ],
+   "prompt": "Can {{name}} name the feasts in Leviticus 23:1-22 and when each was kept?"
+  },
+  {
+   "id": "lev_feasts_seventh_month",
+   "type": "THEME",
+   "name": "Trumpets, atonement and booths",
+   "description": "Leviticus 23:23-44 sets out the feasts of the seventh month: the day of trumpets, the day of atonement with its affliction of souls, and the feast of tabernacles in which Israel dwells in booths so their generations remember the exodus.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 23:23-44"
+   ],
+   "evidence": [
+    "Give the date of each feast in the seventh month.",
+    "Say why Israel was to live in booths (23:43)."
+   ],
+   "prompt": "Can {{name}} explain what the feast of tabernacles was meant to remind Israel of?"
+  },
+  {
+   "id": "lev_lampstand_bread",
+   "type": "THEME",
+   "name": "The lamps and the bread of the presence",
+   "description": "Leviticus 24:1-9 commands pure olive oil for the lamps to burn continually before the LORD and twelve cakes of fine flour set in two rows each sabbath on the table with frankincense, for Aaron and his sons to eat.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "LEV 24:1-9"
+   ],
+   "evidence": [
+    "Say what the lamps burn on and where the twelve cakes are set.",
+    "State who eats the cakes afterward."
+   ],
+   "prompt": "Can {{name}} describe the lamps and the twelve cakes in the tabernacle?"
+  },
+  {
+   "id": "lev_blasphemer",
+   "type": "STORY",
+   "name": "The blasphemer and the law of equal justice",
+   "description": "Leviticus 24:10-23 tells of a man, son of an Israelite woman and an Egyptian father, who blasphemed the name; the LORD tells Moses he is to be stoned, and gives the law of life for life, eye for eye, one law for stranger and native.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 24:10-23"
+   ],
+   "evidence": [
+    "Retell what the man did and what was decided.",
+    "Say what 24:22 says about the stranger and the native."
+   ],
+   "prompt": "Can {{name}} explain what the law \"eye for eye\" (24:19-20) says is to be done, and who it applies to?"
+  },
+  {
+   "id": "lev_sabbath_year",
+   "type": "THEME",
+   "name": "The sabbath year and the jubilee",
+   "description": "Leviticus 25:1-22 commands a sabbath rest for the land every seventh year, and a jubilee after seven times seven years with trumpet, liberty and return to one's possession, with the LORD promising a blessing of enough produce in the sixth year.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "LEV 25:1-22"
+   ],
+   "evidence": [
+    "Describe what is not done to the land in the seventh year.",
+    "Say what happens in the fiftieth year (25:10-13) and how the LORD answers the question \"what shall we eat?\" (25:20-21)."
+   ],
+   "prompt": "Can {{name}} explain what the jubilee was and what it did for families and land?"
+  },
+  {
+   "id": "lev_redemption",
+   "type": "THEME",
+   "name": "Redeeming land and persons",
+   "description": "Leviticus 25:23-55 teaches that the land is the LORD's and not to be sold permanently, provides for a kinsman to redeem land and a poor brother or sold person, forbids usury to a poor brother, and says Israel are the LORD's servants brought out of Egypt.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 25:23-55"
+   ],
+   "evidence": [
+    "Say who may redeem a poor man's land or person.",
+    "Find why the text says the land cannot be sold for ever (25:23) and why Israelites cannot be treated as slaves (25:42)."
+   ],
+   "prompt": "Can {{name}} explain what a kinsman redeemer could do in Leviticus 25?"
+  },
+  {
+   "id": "lev_blessings_curses",
+   "type": "COVENANT",
+   "name": "Blessings and curses of the covenant",
+   "description": "Leviticus 26 sets before Israel blessings for walking in the statutes (rain, peace, God dwelling among them), and a graded series of punishments for disobedience ending in exile, with a promise to remember the covenant with Jacob, Isaac and Abraham when they confess.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 26"
+   ],
+   "evidence": [
+    "Summarise the blessings in 26:3-13 and the stages of discipline from 26:14 on.",
+    "Find the verses where the LORD promises to remember his covenant (26:42-45)."
+   ],
+   "prompt": "Can {{name}} explain what the chapter says will happen if Israel obeys, if Israel disobeys, and if Israel confesses?"
+  },
+  {
+   "id": "lev_vows",
+   "type": "THEME",
+   "name": "Vows, devoted things and tithes",
+   "description": "Leviticus 27 gives how a person, animal, house or field vowed to the LORD may be valued and redeemed (adding a fifth), what is devoted and cannot be redeemed, and that the tithe of land and herd is the LORD's.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "LEV 27"
+   ],
+   "evidence": [
+    "Say how a vowed field or house could be redeemed.",
+    "Name what the chapter says belongs to the LORD without being redeemed (27:26, 28, 30-33)."
+   ],
+   "prompt": "Can {{name}} explain what the text says about vows and the tithe?"
+  },
+  {
+   "id": "book_num",
+   "type": "BOOK_OVERVIEW",
+   "name": "Numbers: overview",
+   "description": "Numbers follows Israel from Sinai through the wilderness: the census, camp and Levites, departure from Sinai, the rebellion at Kadesh and forty years of wandering, Balaam, a second census, and preparation on the plains of Moab for entering the land.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "NUM 1..36"
+   ],
+   "evidence": [
+    "Describe the journey in Numbers in three stages: at Sinai, wandering, and on the plains of Moab."
+   ],
+   "prompt": "Can {{name}} give a short summary of where Israel starts and ends in Numbers?"
+  },
+  {
+   "id": "num_census",
+   "type": "STORY",
+   "name": "The first census",
+   "description": "Numbers 1 records the LORD telling Moses to number all men twenty years old and up able to go to war, with a leader from each tribe, giving a total of 603,550, while the Levites are not counted but appointed over the tabernacle.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 1"
+   ],
+   "evidence": [
+    "Say who was counted and who was not counted, and why the Levites were set apart (1:47-53).",
+    "Name the leader role given to one man from each tribe."
+   ],
+   "prompt": "Can {{name}} explain who was counted in the first census and who was left out?"
+  },
+  {
+   "id": "num_camp_order",
+   "type": "THEME",
+   "name": "The order of the camp",
+   "description": "Numbers 2 arranges the tribes in four groups around the tabernacle, each under its standard (Judah east, Reuben south, Ephraim west, Dan north), with the Levites' camp in the middle on the march.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 2"
+   ],
+   "evidence": [
+    "Say which tribe camped on each side of the tabernacle.",
+    "Say where the Levites' camp travelled (2:17)."
+   ],
+   "prompt": "Can {{name}} describe how Israel camped around the tabernacle?"
+  },
+  {
+   "id": "num_levites_chosen",
+   "type": "THEME",
+   "name": "The Levites take the place of the firstborn",
+   "description": "Numbers 3 lists the sons of Aaron (noting Nadab and Abihu died) and the Levite families Gershon, Kohath and Merari with their camp positions, and says the LORD takes the Levites instead of Israel's firstborn, with redemption money for the extra firstborn.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 3"
+   ],
+   "evidence": [
+    "Name the three Levite families and where each camped.",
+    "Explain why the LORD says the Levites are his (3:12-13).",
+    "Say how the 273 extra firstborn were redeemed (3:46-51)."
+   ],
+   "prompt": "Can {{name}} explain why the Levites are given to the LORD in place of the firstborn?"
+  },
+  {
+   "id": "num_levite_service",
+   "type": "THEME",
+   "name": "The work of the Levite families",
+   "description": "Numbers 4 counts the Levites aged thirty to fifty and assigns the work of carrying the tabernacle: the Kohathites the holy things after Aaron's sons cover them, the Gershonites the curtains, and the Merarites the boards and pillars.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 4"
+   ],
+   "evidence": [
+    "Say what each Levite family carried.",
+    "State the warning about the Kohathites seeing the holy things (4:15, 20)."
+   ],
+   "prompt": "Can {{name}} tell what each of the Levite families carried when the camp moved?"
+  },
+  {
+   "id": "num_camp_purity",
+   "type": "THEME",
+   "name": "Uncleanness and restitution in the camp",
+   "description": "Numbers 5:1-10 commands that lepers and those with discharges or who touched the dead be put outside the camp, and that someone who wrongs another confesses and repays the wrong plus a fifth.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 5:1-10"
+   ],
+   "evidence": [
+    "Name who was sent outside the camp and the reason given in 5:3.",
+    "Say what a wrongdoer must do when guilty (5:6-8)."
+   ],
+   "prompt": "Can {{name}} explain why the camp had to be kept clean according to Numbers 5:3?"
+  },
+  {
+   "id": "num_jealousy",
+   "type": "THEME",
+   "name": "The law of jealousy",
+   "description": "Numbers 5:11-31 prescribes what a husband who suspects his wife of unfaithfulness without witnesses does: bring her to the priest with an offering, have her swear an oath, and drink the water of bitterness, with the result left to the LORD.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "NUM 5:11-31"
+   ],
+   "evidence": [
+    "Say who conducts the ritual and what the woman is made to drink.",
+    "Describe the two outcomes the text gives (5:27-28)."
+   ],
+   "prompt": "Can {{name}} describe the law of jealousy and say what it is meant to settle?"
+  },
+  {
+   "id": "num_nazirite",
+   "type": "THEME",
+   "name": "The Nazirite vow",
+   "description": "Numbers 6:1-21 sets the rules for a man or woman who takes a vow of separation to the LORD: no wine or grape product, no razor, no contact with the dead, and offerings and shaving of the head when the days are ended.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 6:1-21"
+   ],
+   "evidence": [
+    "List the three things a Nazirite avoided.",
+    "Describe what happens when the vow period ends (6:13-20)."
+   ],
+   "prompt": "Can {{name}} explain what a Nazirite promised and how the vow ended?"
+  },
+  {
+   "id": "num_priestly_blessing",
+   "type": "THEME",
+   "name": "The priestly blessing",
+   "description": "Numbers 6:22-27 gives the words with which Aaron and his sons are to bless Israel in the LORD's name: that the LORD bless and keep them, make his face shine on them and be gracious, and lift up his countenance and give peace.",
+   "covenant": null,
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "NUM 6:22-27"
+   ],
+   "evidence": [
+    "Say the three lines of the blessing in your own words.",
+    "Say what the LORD promises in 6:27 when the priests put his name on Israel."
+   ],
+   "prompt": "Can {{name}} explain what the priestly blessing asks the LORD to do for his people?"
+  },
+  {
+   "id": "num_princes_offerings",
+   "type": "STORY",
+   "name": "The princes dedicate the altar",
+   "description": "Numbers 7 records the twelve tribal princes giving wagons and oxen to the Levites and each bringing the same offering on his own day for the dedication of the altar, and ends with the LORD speaking to Moses from above the mercy seat.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 7"
+   ],
+   "evidence": [
+    "Say who gave wagons and oxen and which Levite family received none (7:7-9).",
+    "Say what the same offering each prince brought included.",
+    "Find where the LORD spoke to Moses (7:89)."
+   ],
+   "prompt": "Can {{name}} explain what the twelve princes did and what Moses heard at the end of chapter 7?"
+  },
+  {
+   "id": "num_lamps_levites",
+   "type": "STORY",
+   "name": "The lamps and the cleansing of the Levites",
+   "description": "Numbers 8 has Aaron set up the seven lamps of the lampstand, then Moses cleanse the Levites by sprinkling, shaving and washing, and Aaron present them as a wave offering in place of the firstborn, with service limited to ages twenty-five to fifty.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 8"
+   ],
+   "evidence": [
+    "Describe how the Levites were cleansed and presented.",
+    "Say the ages for active Levite service."
+   ],
+   "prompt": "Can {{name}} tell how the Levites were set apart for their work?"
+  },
+  {
+   "id": "num_second_passover",
+   "type": "STORY",
+   "name": "The Passover at Sinai and the second Passover",
+   "description": "Numbers 9:1-14 records Israel keeping the Passover in the wilderness and the LORD granting those unclean through a dead body or on a journey a second Passover in the second month.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 9:1-14"
+   ],
+   "evidence": [
+    "Say why some men could not keep the Passover on time (9:6-7).",
+    "Describe what the LORD allowed them to do."
+   ],
+   "prompt": "Can {{name}} explain the provision for the second Passover?"
+  },
+  {
+   "id": "num_cloud_guidance",
+   "type": "THEME",
+   "name": "The cloud over the tabernacle",
+   "description": "Numbers 9:15-23 says that on the day the tabernacle was set up a cloud covered it, fire by night, and Israel camped or travelled at the LORD's command as the cloud stayed or lifted.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "NUM 9:15-23"
+   ],
+   "evidence": [
+    "Say what Israel did when the cloud lifted and when it stayed."
+   ],
+   "prompt": "Can {{name}} explain how Israel knew when to move and when to stay?"
+  },
+  {
+   "id": "num_trumpets_departure",
+   "type": "STORY",
+   "name": "The silver trumpets and leaving Sinai",
+   "description": "Numbers 10 commands two silver trumpets for assembling and moving the camps, then records that on the twentieth day of the second month the cloud lifted and Israel set out from Sinai in the order of the tribes, with Moses asking Hobab to guide them and a prayer when the ark set out.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 10"
+   ],
+   "evidence": [
+    "List the uses of the silver trumpets.",
+    "Say which tribe went first and what Moses said when the ark set forward (10:35)."
+   ],
+   "prompt": "Can {{name}} describe how Israel set out from Sinai?"
+  },
+  {
+   "id": "num_complaints_manna",
+   "type": "STORY",
+   "name": "Complaining at Taberah and craving meat",
+   "description": "Numbers 11:1-15 tells of the people complaining so that fire burns at the edge of the camp, then the mixed multitude craving the food of Egypt and weeping over the manna, and Moses crying to the LORD that the burden of the people is too heavy.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 11:1-15"
+   ],
+   "evidence": [
+    "Say what the people complained about and what Moses said to the LORD."
+   ],
+   "prompt": "Can {{name}} tell what the people wanted and how Moses felt?"
+  },
+  {
+   "id": "num_elders_quail",
+   "type": "STORY",
+   "name": "The seventy elders and the quail",
+   "description": "Numbers 11:16-35 tells how the LORD has Moses gather seventy elders on whom he puts some of the Spirit, Eldad and Medad prophesy in the camp and Moses wishes all the LORD's people were prophets, then the LORD sends quail and a plague strikes those who lusted.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 11:16-35"
+   ],
+   "evidence": [
+    "Retell how the elders were chosen and what happened to them.",
+    "Say what happened while the meat was still between their teeth (11:33)."
+   ],
+   "prompt": "Can {{name}} explain how the LORD answered Moses' complaint and the people's craving?"
+  },
+  {
+   "id": "num_miriam_aaron",
+   "type": "STORY",
+   "name": "Miriam and Aaron speak against Moses",
+   "description": "Numbers 12 tells how Miriam and Aaron criticize Moses, the LORD defends him as faithful in all his house and speaks to him mouth to mouth, Miriam becomes leprous, and Moses prays for her and she is shut out seven days.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 12"
+   ],
+   "evidence": [
+    "Say what Miriam and Aaron said and how the LORD described Moses.",
+    "Describe the outcome for Miriam and how Moses responded."
+   ],
+   "prompt": "Can {{name}} explain what the LORD said about Moses in Numbers 12:6-8?"
+  },
+  {
+   "id": "num_twelve_spies",
+   "type": "STORY",
+   "name": "The twelve spies",
+   "description": "Numbers 13 tells how Moses sends one man from each tribe to search Canaan, they return after forty days with a cluster of grapes from Eshcol, and ten give a bad report while Caleb urges them to go up at once.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "NUM 13"
+   ],
+   "evidence": [
+    "Say what the spies brought back and what Caleb said.",
+    "Tell how the ten described the people of the land."
+   ],
+   "prompt": "Can {{name}} retell the report of the spies and the difference between Caleb and the ten?"
+  },
+  {
+   "id": "num_rebellion_kadesh",
+   "type": "STORY",
+   "name": "Israel refuses to enter the land",
+   "description": "Numbers 14:1-25 records the people weeping and wishing to return to Egypt, Joshua and Caleb urging faith, the glory of the LORD appearing, Moses interceding with appeal to the LORD's mercy, and the LORD pardoning yet declaring that those who tested him will not see the land.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 14:1-25"
+   ],
+   "evidence": [
+    "Say what Joshua and Caleb told the people (14:7-9).",
+    "Describe Moses' prayer and the LORD's answer (14:13-23)."
+   ],
+   "prompt": "Can {{name}} tell how the people responded to the spies' report and how Moses prayed?"
+  },
+  {
+   "id": "num_forty_years",
+   "type": "STORY",
+   "name": "Forty years in the wilderness",
+   "description": "Numbers 14:26-45 records the LORD's sentence that the adults who murmured will die in the wilderness, their children will enter, the spies who gave a bad report die by plague, and the people who then presume to go up are beaten by the Amalekites and Canaanites.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 14:26-45"
+   ],
+   "evidence": [
+    "Say how long the wandering would last and why (14:33-34).",
+    "Describe what happened to those who went up anyway (14:44-45)."
+   ],
+   "prompt": "Can {{name}} explain why Israel wandered forty years and who would enter the land?"
+  },
+  {
+   "id": "num_offerings_in_land",
+   "type": "THEME",
+   "name": "Offerings for the land and sins of ignorance",
+   "description": "Numbers 15:1-31 gives offerings of flour, oil and wine for sacrifices in the land to come, the first of the dough as a heave offering, one law for native and stranger, atonement for sins of ignorance, and the cutting off of the person who sins presumptuously.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 15:1-31"
+   ],
+   "evidence": [
+    "Say what the section promises (it begins \"when ye be come into the land\").",
+    "Describe the difference between sin through ignorance and a presumptuous sin (15:27-31)."
+   ],
+   "prompt": "Can {{name}} explain the difference the chapter draws between ignorance and presumption?"
+  },
+  {
+   "id": "num_sabbath_breaker",
+   "type": "STORY",
+   "name": "The man who gathered sticks on the sabbath",
+   "description": "Numbers 15:32-36 tells of a man found gathering sticks on the sabbath, put in ward until the LORD says he is to be stoned outside the camp by the congregation.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 15:32-36"
+   ],
+   "evidence": [
+    "Say what the man did and what the LORD told Moses to do."
+   ],
+   "prompt": "Can {{name}} tell what happened to the man who gathered sticks and why Moses first waited?"
+  },
+  {
+   "id": "num_tassels",
+   "type": "THEME",
+   "name": "Tassels as a reminder",
+   "description": "Numbers 15:37-41 commands Israel to make fringes with a blue cord on the corners of garments, to look on them and remember all the LORD's commandments and be holy, since the LORD brought them out of Egypt.",
+   "covenant": null,
+   "ages": [
+    6,
+    14
+   ],
+   "passages": [
+    "NUM 15:37-41"
+   ],
+   "evidence": [
+    "Say what the fringes were for (15:39-40)."
+   ],
+   "prompt": "Can {{name}} explain why Israelites wore fringes on their garments?"
+  },
+  {
+   "id": "num_korah",
+   "type": "STORY",
+   "name": "Korah's rebellion",
+   "description": "Numbers 16:1-35 tells how Korah, Dathan, Abiram and 250 leaders oppose Moses and Aaron, Moses calls for a test with censers, and the earth swallows Korah's company while fire consumes the 250.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 16:1-35"
+   ],
+   "evidence": [
+    "Say what Korah's group claimed (16:3) and how Moses answered (16:5-11).",
+    "Describe how the LORD answered the challenge (16:31-35)."
+   ],
+   "prompt": "Can {{name}} tell what Korah's rebellion was about and what happened?"
+  },
+  {
+   "id": "num_plague_atonement",
+   "type": "STORY",
+   "name": "The plague stopped by incense",
+   "description": "Numbers 16:36-50 records the censers beaten into a covering for the altar, the congregation murmuring against Moses and Aaron, a plague killing 14,700, and Aaron running with a censer between the dead and the living to make atonement.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 16:36-50"
+   ],
+   "evidence": [
+    "Say what was done with the censers and what Aaron did to stop the plague."
+   ],
+   "prompt": "Can {{name}} explain how Aaron stopped the plague?"
+  },
+  {
+   "id": "num_aaron_rod",
+   "type": "STORY",
+   "name": "Aaron's rod that budded",
+   "description": "Numbers 17 tells how each tribe's leader lays a rod before the LORD, Aaron's rod for Levi buds, blossoms and yields almonds, and it is kept before the testimony as a sign against rebels, while Israel cries that they will all perish.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 17"
+   ],
+   "evidence": [
+    "Say how the rods were used to show whom the LORD had chosen.",
+    "Say where Aaron's rod was kept and why (17:10)."
+   ],
+   "prompt": "Can {{name}} explain what the budding rod showed and why it was kept?"
+  },
+  {
+   "id": "num_priests_portions",
+   "type": "THEME",
+   "name": "Duties and portions of priests and Levites",
+   "description": "Numbers 18 charges Aaron and his sons to bear the sanctuary's guilt, assigns the Levites to help while no stranger may come near, gives the priests the offerings and firstborn, and gives the Levites the tithe as their inheritance, from which they give a tithe to the priests.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "NUM 18"
+   ],
+   "evidence": [
+    "Say what the priests received and what the Levites received.",
+    "Find the reason the Levites have no land (18:20-24)."
+   ],
+   "prompt": "Can {{name}} explain how the priests and Levites were supported?"
+  },
+  {
+   "id": "num_red_heifer",
+   "type": "THEME",
+   "name": "The red heifer and the water of separation",
+   "description": "Numbers 19 prescribes a red heifer without blemish burned outside the camp with cedar, hyssop and scarlet, the ashes mixed with water to sprinkle on the third and seventh days those made unclean by a dead body.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 19"
+   ],
+   "evidence": [
+    "Describe how the ashes were prepared and when they were sprinkled.",
+    "Say what uncleanness the water was for (19:11-13)."
+   ],
+   "prompt": "Can {{name}} explain what the water of separation was for?"
+  },
+  {
+   "id": "num_meribah",
+   "type": "STORY",
+   "name": "Water from the rock at Meribah",
+   "description": "Numbers 20:1-13 tells how Miriam dies at Kadesh, the people quarrel with Moses for lack of water, and the LORD tells Moses to speak to the rock but Moses strikes it twice, and the LORD says Moses and Aaron did not believe him to sanctify him before Israel and will not bring the congregation in.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 20:1-13"
+   ],
+   "evidence": [
+    "Say what the LORD told Moses to do and what Moses did.",
+    "State the consequence given in 20:12."
+   ],
+   "prompt": "Can {{name}} explain what Moses did wrong at Meribah and what it cost him?"
+  },
+  {
+   "id": "num_edom_aaron",
+   "type": "STORY",
+   "name": "Edom refuses Israel; Aaron dies",
+   "description": "Numbers 20:14-29 records Israel asking the king of Edom to pass through and being refused, then Aaron's garments passing to Eleazar on mount Hor where Aaron dies and Israel mourns thirty days.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 20:14-29"
+   ],
+   "evidence": [
+    "Say what Moses asked of Edom and the answer.",
+    "Describe what happened to Aaron's garments and why (20:24-28)."
+   ],
+   "prompt": "Can {{name}} tell how the priesthood passed from Aaron to Eleazar?"
+  },
+  {
+   "id": "num_conquest_east",
+   "type": "STORY",
+   "name": "Victory over Arad, Sihon and Og",
+   "description": "Numbers 21:1-3 and 21:10-35 recount Israel's vow and victory over the Canaanite king of Arad, the journey to the plains of Moab, and defeats of Sihon king of the Amorites and Og king of Bashan, with Israel taking their lands.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 21:1-3",
+    "NUM 21:10-35"
+   ],
+   "evidence": [
+    "Say which two kings Israel defeated after Edom refused passage.",
+    "Say what the LORD told Moses about Og (21:34)."
+   ],
+   "prompt": "Can {{name}} name the kings Israel defeated and what the LORD said about Og?"
+  },
+  {
+   "id": "num_bronze_serpent",
+   "type": "STORY",
+   "name": "The fiery serpents and the bronze serpent",
+   "description": "Numbers 21:4-9 tells how the people speak against God and Moses, the LORD sends fiery serpents, the people confess, and Moses makes a bronze serpent on a pole so that anyone bitten who looks at it lives.",
+   "covenant": null,
+   "ages": [
+    6,
+    16
+   ],
+   "passages": [
+    "NUM 21:4-9"
+   ],
+   "evidence": [
+    "Say what the people said, what the LORD sent, and how those bitten were healed."
+   ],
+   "prompt": "Can {{name}} retell the story of the bronze serpent and say what the people had to do to live?"
+  },
+  {
+   "id": "num_balak_balaam",
+   "type": "STORY",
+   "name": "Balak sends for Balaam",
+   "description": "Numbers 22:1-21 tells how Israel camps on the plains of Moab, Balak king of Moab fears them and sends elders with rewards to Balaam to curse Israel, and God tells Balaam not to go and not to curse them, then permits him to go with the men if they call him.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 22:1-21"
+   ],
+   "evidence": [
+    "Say why Balak wanted Balaam and what God told Balaam first (22:12)."
+   ],
+   "prompt": "Can {{name}} explain why Balak sent for Balaam and what God told him?"
+  },
+  {
+   "id": "num_balaam_donkey",
+   "type": "STORY",
+   "name": "Balaam's donkey and the angel",
+   "description": "Numbers 22:22-41 tells how the angel of the LORD stands in Balaam's way, the donkey turns aside three times, the LORD opens its mouth and then Balaam's eyes, and the angel tells him to go with the men but speak only what the LORD says; Balak then takes him up to the high places of Baal.",
+   "covenant": null,
+   "ages": [
+    6,
+    12
+   ],
+   "passages": [
+    "NUM 22:22-41"
+   ],
+   "evidence": [
+    "Say what the donkey saw that Balaam did not.",
+    "State what the angel told Balaam to speak (22:35)."
+   ],
+   "prompt": "Can {{name}} retell Balaam's journey with the donkey and the angel?"
+  },
+  {
+   "id": "num_balaam_first_second",
+   "type": "STORY",
+   "name": "Balaam's first two oracles",
+   "description": "Numbers 23 records Balaam building seven altars and, with a word put in his mouth by the LORD, blessing Israel twice instead of cursing: how can he curse whom God has not cursed, and God is not a man that he should lie or repent.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 23"
+   ],
+   "evidence": [
+    "Say what Balak wanted and what Balaam said instead (23:8, 20).",
+    "Find what 23:19 says about God."
+   ],
+   "prompt": "Can {{name}} explain why Balaam blessed Israel and what Numbers 23:19 says about God?"
+  },
+  {
+   "id": "num_balaam_star",
+   "type": "STORY",
+   "name": "Balaam's third and fourth oracles: a star out of Jacob",
+   "description": "Numbers 24 records Balaam blessing Israel a third time, Balak's anger, and a fourth oracle about what will happen in the latter days: a star out of Jacob and a sceptre out of Israel who will have dominion, then short sayings about Edom, Amalek, the Kenites and Asshur.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 24"
+   ],
+   "evidence": [
+    "Say what Balak did when Balaam kept blessing Israel (24:10).",
+    "Read 24:17-19 and say what is described coming from Jacob."
+   ],
+   "prompt": "Can {{name}} describe what Balaam said would come out of Jacob in Numbers 24:17-19?"
+  },
+  {
+   "id": "num_baal_peor",
+   "type": "STORY",
+   "name": "Baal of Peor and Phinehas",
+   "description": "Numbers 25 tells how Israel at Shittim joins in the worship of Baal of Peor and sins with Moabite women, a plague kills 24,000 until Phinehas acts zealously, and the LORD gives him his covenant of peace and an everlasting priesthood and commands Israel to vex the Midianites.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 25"
+   ],
+   "evidence": [
+    "Say what Israel did at Shittim and how the plague stopped.",
+    "Say what the LORD gave Phinehas (25:11-13)."
+   ],
+   "prompt": "Can {{name}} tell what sin brought a plague at Peor and what Phinehas did?"
+  },
+  {
+   "id": "num_second_census",
+   "type": "STORY",
+   "name": "The second census",
+   "description": "Numbers 26 records the LORD commanding a new numbering on the plains of Moab, giving the family lists and totals of the tribes (601,730 in all besides the Levites) and noting that apart from Caleb and Joshua none was left of those counted at Sinai, as the LORD had said they would die in the wilderness.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 26"
+   ],
+   "evidence": [
+    "Say why a second census was taken after the plague and how it was used (26:52-56).",
+    "Say who was left from the first census (26:64-65)."
+   ],
+   "prompt": "Can {{name}} explain what the second census showed about the LORD's word at Kadesh?"
+  },
+  {
+   "id": "num_zelophehad_daughters",
+   "type": "STORY",
+   "name": "The daughters of Zelophehad",
+   "description": "Numbers 27:1-11 tells how five daughters of Zelophehad ask Moses for their father's inheritance since he had no sons, and the LORD says they speak right and gives a law of inheritance for daughters, brothers and kinsmen.",
+   "covenant": null,
+   "ages": [
+    8,
+    14
+   ],
+   "passages": [
+    "NUM 27:1-11"
+   ],
+   "evidence": [
+    "Say what the daughters asked and the LORD's answer."
+   ],
+   "prompt": "Can {{name}} explain why the daughters of Zelophehad came to Moses and what the LORD decided?"
+  },
+  {
+   "id": "num_joshua_successor",
+   "type": "STORY",
+   "name": "Moses sees the land; Joshua is appointed",
+   "description": "Numbers 27:12-23 tells how the LORD tells Moses to see the land from mount Abarim before he dies, Moses asks for a shepherd for the congregation, and the LORD tells him to lay his hand on Joshua, in whom is the Spirit, and set him before Eleazar and the people.",
+   "covenant": null,
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "NUM 27:12-23"
+   ],
+   "evidence": [
+    "Say why Moses will not enter the land (27:14).",
+    "Describe how Joshua was commissioned."
+   ],
+   "prompt": "Can {{name}} explain how Joshua was chosen to lead after Moses?"
+  },
+  {
+   "id": "num_regular_offerings",
+   "type": "THEME",
+   "name": "The daily, sabbath, monthly and spring offerings",
+   "description": "Numbers 28 specifies the offerings to be made: the continual burnt offering of two lambs daily, doubled on the sabbath, the monthly burnt offerings, and the offerings for Passover, Unleavened Bread and the day of firstfruits.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 28"
+   ],
+   "evidence": [
+    "Say what was offered each morning and evening.",
+    "Name the feasts covered in the second half of the chapter."
+   ],
+   "prompt": "Can {{name}} describe the continual burnt offering and when extra offerings were added?"
+  },
+  {
+   "id": "num_seventh_month_offerings",
+   "type": "THEME",
+   "name": "The offerings of the seventh month",
+   "description": "Numbers 29 specifies the offerings for the feast of trumpets, the day of atonement and the seven days of tabernacles, with a declining number of bullocks each day and a solemn assembly on the eighth.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 29"
+   ],
+   "evidence": [
+    "Name the three occasions in the seventh month listed here.",
+    "Say how the number of bullocks changes over the days of tabernacles."
+   ],
+   "prompt": "Can {{name}} list the feasts of the seventh month and what was offered at tabernacles?"
+  },
+  {
+   "id": "num_vows_women",
+   "type": "THEME",
+   "name": "Vows and oaths",
+   "description": "Numbers 30 says a man must keep his vow, and sets out when a father or husband may allow or void the vow of a daughter or wife on the day he hears it, while the vow of a widow or divorced woman stands.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 30"
+   ],
+   "evidence": [
+    "Say how a man's vow differs from the vows in verses 3-15.",
+    "State when a father or husband could confirm or cancel a vow."
+   ],
+   "prompt": "Can {{name}} explain what the chapter says about keeping vows to the LORD?"
+  },
+  {
+   "id": "num_midian_war",
+   "type": "STORY",
+   "name": "War against Midian",
+   "description": "Numbers 31 records the LORD commanding vengeance on Midian, a thousand from each tribe going out with Phinehas, the kings and Balaam being killed, Moses' anger that the women who caused Israel to sin at Peor were spared, purification of the army and spoil, and the division of the plunder with a tribute to the LORD.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 31"
+   ],
+   "evidence": [
+    "Say why the war against Midian was fought (31:2, 16).",
+    "Describe how the soldiers and the plunder were purified and divided."
+   ],
+   "prompt": "Can {{name}} explain the reason the text gives for the war on Midian and how the spoil was divided?"
+  },
+  {
+   "id": "num_reuben_gad",
+   "type": "STORY",
+   "name": "Reuben and Gad ask for land east of the Jordan",
+   "description": "Numbers 32 tells how Reuben and Gad, with great herds, ask to settle in Jazer and Gilead, Moses warns them with the example of the spies, and they agree to cross armed with Israel until the land is taken, so Moses gives land to Gad, Reuben and half of Manasseh.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 32"
+   ],
+   "evidence": [
+    "Say what Reuben and Gad asked and the condition Moses set.",
+    "Say what Moses said would happen if they did not keep their promise (32:23)."
+   ],
+   "prompt": "Can {{name}} explain the deal Moses made with Reuben and Gad?"
+  },
+  {
+   "id": "num_journeys",
+   "type": "THEME",
+   "name": "The stages of the journey",
+   "description": "Numbers 33:1-49 lists in order the places Israel camped from leaving Rameses to the plains of Moab by the Jordan, recorded by Moses at the LORD's command, with notes on the Passover night, the Red Sea, Aaron's death and king Arad.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "NUM 33:1-49"
+   ],
+   "evidence": [
+    "Say where the list begins and ends.",
+    "Find the note on Aaron's death (33:38-39)."
+   ],
+   "prompt": "Can {{name}} explain what the list of stages in Numbers 33 is and why it was written?"
+  },
+  {
+   "id": "num_land_instructions",
+   "type": "THEME",
+   "name": "Driving out the nations and the borders of the land",
+   "description": "Numbers 33:50-56 and chapter 34 tell Israel to drive out the inhabitants and destroy their idols or they will become thorns in their sides, divide the land by lot, and set the borders of Canaan and the names of the men who divide it.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 33:50-56",
+    "NUM 34"
+   ],
+   "evidence": [
+    "Say what Israel was told to do to the inhabitants and the idols and the warning for not doing it (33:52-56).",
+    "Name who divides the land (34:17-19)."
+   ],
+   "prompt": "Can {{name}} describe the instructions for taking and dividing the land?"
+  },
+  {
+   "id": "num_levite_cities",
+   "type": "THEME",
+   "name": "Cities for the Levites and cities of refuge",
+   "description": "Numbers 35 commands that the Levites receive forty-eight cities with pasture lands, six of them cities of refuge where a person who kills unintentionally may flee from the avenger of blood, with rules for murder, witnesses and the high priest's death.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "NUM 35"
+   ],
+   "evidence": [
+    "Say how many cities the Levites got and how many were refuge cities.",
+    "State how the text tells murder from accidental killing, and what 35:33-34 says about blood and the land."
+   ],
+   "prompt": "Can {{name}} explain the purpose of cities of refuge?"
+  },
+  {
+   "id": "num_zelophehad_marriage",
+   "type": "STORY",
+   "name": "Inheritance stays in the tribe",
+   "description": "Numbers 36 tells how the heads of Gilead's families raise a concern that Zelophehad's daughters marrying outside the tribe would move land to another tribe, and the LORD commands that they marry within their father's tribe so that each tribe keeps its inheritance; the daughters do so.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "NUM 36"
+   ],
+   "evidence": [
+    "Say what concern the family heads raised.",
+    "Say what the LORD commanded for heiresses (36:6-9) and what the daughters did."
+   ],
+   "prompt": "Can {{name}} explain why the LORD told Zelophehad's daughters to marry within their tribe?"
+  },
+  {
+   "id": "book_deu",
+   "type": "BOOK_OVERVIEW",
+   "name": "Deuteronomy: overview",
+   "description": "Deuteronomy records Moses' words to Israel on the plains of Moab in the fortieth year: a review of the journey, the ten commandments and the call to love the LORD, the laws for life in the land, the covenant renewal with its blessings and curses, Moses' song and blessing, and his death.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 1..34"
+   ],
+   "evidence": [
+    "Describe Deuteronomy as Moses' speeches before Israel enters the land and name its main parts."
+   ],
+   "prompt": "Can {{name}} explain where Israel is and what Moses is doing throughout Deuteronomy?"
+  },
+  {
+   "id": "deu_horeb_leaders",
+   "type": "THEME",
+   "name": "Leave Horeb; leaders and judges appointed",
+   "description": "Deuteronomy 1:1-18 opens Moses' words in the fortieth year: the LORD tells Israel to leave Horeb and take the land promised to the fathers, and Moses recalls appointing wise men as heads and judges who hear small and great alike without partiality.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 1:1-18"
+   ],
+   "evidence": [
+    "Say when and where Moses speaks (1:1-5).",
+    "Say what Moses charged the judges (1:16-17)."
+   ],
+   "prompt": "Can {{name}} tell where and when Moses gave these speeches and what he told the judges?"
+  },
+  {
+   "id": "deu_spies_recalled",
+   "type": "STORY",
+   "name": "Moses recalls the spies and the refusal",
+   "description": "Deuteronomy 1:19-46 has Moses recall the sending of twelve spies from Kadesh-barnea, Israel's refusal to go up despite the good fruit, the LORD's oath that that generation would not see the land except Caleb, and the failed attack when they presumed to go up.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 1:19-46"
+   ],
+   "evidence": [
+    "Compare this retelling with Numbers 13-14 and name one thing Moses emphasizes (for example the LORD going before them, 1:30-33)."
+   ],
+   "prompt": "Can {{name}} explain why Moses reminded the new generation of the spies?"
+  },
+  {
+   "id": "deu_wilderness_nations",
+   "type": "THEME",
+   "name": "Passing Edom, Moab and Ammon",
+   "description": "Deuteronomy 2:1-23 recalls how the LORD told Israel not to fight Edom, Moab or Ammon because he had given them their land, how the generation of fighting men died during the thirty-eight years, and how the LORD had earlier given those lands to Esau's and Lot's descendants.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 2:1-23"
+   ],
+   "evidence": [
+    "Say whose land Israel was told not to take and the reason given.",
+    "Say how long it took from Kadesh-barnea to the brook Zered (2:14)."
+   ],
+   "prompt": "Can {{name}} explain why Israel left Edom, Moab and Ammon alone?"
+  },
+  {
+   "id": "deu_sihon_og",
+   "type": "STORY",
+   "name": "Sihon and Og defeated",
+   "description": "Deuteronomy 2:24-3:22 recalls the defeat of Sihon king of Heshbon and Og king of Bashan, the LORD hardening Sihon's spirit, the land east of the Jordan given to Reuben, Gad and half of Manasseh, and Moses' command that they cross armed with their brothers.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 2:24-37",
+    "DEU 3:1-22"
+   ],
+   "evidence": [
+    "Say who the two kings were and what happened to them.",
+    "Say what Reuben, Gad and half Manasseh must do before settling (3:18-20)."
+   ],
+   "prompt": "Can {{name}} retell how Israel took the land east of the Jordan?"
+  },
+  {
+   "id": "deu_moses_denied",
+   "type": "STORY",
+   "name": "Moses may only see the land",
+   "description": "Deuteronomy 3:23-29 records Moses pleading with the LORD to let him cross the Jordan, the LORD refusing for the people's sake and telling him to view the land from Pisgah and to charge and encourage Joshua.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 3:23-29"
+   ],
+   "evidence": [
+    "Say what Moses asked and what the LORD answered.",
+    "Say what Moses was told to do for Joshua."
+   ],
+   "prompt": "Can {{name}} explain what Moses asked the LORD and the answer he received?"
+  },
+  {
+   "id": "deu_hear_statutes",
+   "type": "COVENANT",
+   "name": "Hear the statutes: no images, remember Horeb",
+   "description": "Deuteronomy 4:1-40 urges Israel to keep the statutes without adding or taking away, to remember the day at Horeb when they heard the voice from the fire and saw no form, to make no image, to beware of forgetting the covenant, and warns of exile yet promises that the LORD, merciful, will be found when sought.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 4:1-40"
+   ],
+   "evidence": [
+    "Say what Israel saw and did not see at Horeb and why that rules out images (4:12, 15-19).",
+    "Find the promise about seeking the LORD from exile (4:29-31)."
+   ],
+   "prompt": "Can {{name}} explain why Moses told Israel to make no image of God?"
+  },
+  {
+   "id": "deu_refuge_east",
+   "type": "THEME",
+   "name": "Three cities of refuge east of the Jordan",
+   "description": "Deuteronomy 4:41-49 records Moses setting apart Bezer, Ramoth and Golan east of the Jordan for a slayer who killed without hatred to flee to, and introduces the law Moses sets before Israel in the valley opposite Beth-peor.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 4:41-49"
+   ],
+   "evidence": [
+    "Name the three cities and say who could flee there (4:42)."
+   ],
+   "prompt": "Can {{name}} explain what the three cities east of the Jordan were for?"
+  },
+  {
+   "id": "deu_ten_words",
+   "type": "COVENANT",
+   "name": "The ten commandments at Horeb",
+   "description": "Deuteronomy 5 has Moses remind Israel that the LORD made a covenant with them at Horeb, repeats the ten commandments given from the fire, and recounts the people's fear and Moses standing between them and the LORD.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "DEU 5"
+   ],
+   "evidence": [
+    "Say the ten commandments in order.",
+    "Say what 5:2-3 says about whom the covenant was made with.",
+    "Find the reason attached to the sabbath commandment here (5:15)."
+   ],
+   "prompt": "Can {{name}} list the ten commandments and explain who gave them and to whom?"
+  },
+  {
+   "id": "deu_shema",
+   "type": "DOCTRINE",
+   "name": "Hear, O Israel: love the LORD",
+   "description": "Deuteronomy 6 gives the great command to love the LORD with all heart, soul and might because he is one LORD, to teach the words to children throughout the day, to remember him when blessed in the land, and to answer a child's question with the story of the exodus.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    6,
+    18
+   ],
+   "passages": [
+    "DEU 6"
+   ],
+   "evidence": [
+    "Say the command of 6:4-5 in your own words.",
+    "List the ways 6:6-9 says to keep the words before oneself and the children."
+   ],
+   "prompt": "Can {{name}} explain what it means to love the LORD with all one's heart, soul and might?"
+  },
+  {
+   "id": "deu_holy_people",
+   "type": "DOCTRINE",
+   "name": "A holy people chosen in love",
+   "description": "Deuteronomy 7 tells Israel to make no treaties or marriages with the nations of the land and to destroy their altars, because the LORD chose Israel not because they were many but because he loved them and keeps covenant with those who love him, and Israel is not to fear them.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 7"
+   ],
+   "evidence": [
+    "Say the reason 7:7-8 gives for why the LORD chose Israel.",
+    "Find the description of the LORD in 7:9."
+   ],
+   "prompt": "Can {{name}} explain why the LORD chose Israel according to Deuteronomy 7:7-9?"
+  },
+  {
+   "id": "deu_remember_wilderness",
+   "type": "THEME",
+   "name": "Remember the wilderness; do not forget",
+   "description": "Deuteronomy 8 calls Israel to remember how the LORD humbled and fed them with manna for forty years so they would learn that man lives by every word from the LORD's mouth, and warns against pride and forgetting him in the good land.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    16
+   ],
+   "passages": [
+    "DEU 8"
+   ],
+   "evidence": [
+    "Say what the manna was meant to teach (8:3).",
+    "Say what danger Moses warns about in 8:11-18."
+   ],
+   "prompt": "Can {{name}} explain why Moses told Israel to remember the wilderness before they entered the land?"
+  },
+  {
+   "id": "deu_golden_calf_recalled",
+   "type": "STORY",
+   "name": "Not for your righteousness: the calf recalled",
+   "description": "Deuteronomy 9:1-10:11 has Moses tell Israel they will take the land not for their righteousness but for the nations' wickedness, recalling the golden calf, his breaking the tables and fasting forty days, his prayer for the people, and the second tables placed in the ark.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 9",
+    "DEU 10:1-11"
+   ],
+   "evidence": [
+    "Say why Moses says Israel is not given the land for its righteousness (9:4-6).",
+    "Describe what Moses did after the calf and what the LORD wrote on the new tables (10:1-5)."
+   ],
+   "prompt": "Can {{name}} tell how Moses used the golden calf to show Israel it did not earn the land?"
+  },
+  {
+   "id": "deu_what_lord_requires",
+   "type": "DOCTRINE",
+   "name": "What the LORD requires",
+   "description": "Deuteronomy 10:12-22 asks what the LORD requires: to fear him, walk in his ways, love and serve him with all the heart and keep his commandments; Israel is to circumcise the heart because the LORD of lords loves the stranger, orphan and widow.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 10:12-22"
+   ],
+   "evidence": [
+    "List the things the LORD requires in 10:12-13.",
+    "Say what the LORD does for the fatherless, widow and stranger and what Israel is told in response (10:18-19)."
+   ],
+   "prompt": "Can {{name}} explain what it means to circumcise the heart (10:16) in the context of this passage?"
+  },
+  {
+   "id": "deu_blessing_curse",
+   "type": "THEME",
+   "name": "Obey and be blessed; a blessing and a curse",
+   "description": "Deuteronomy 11 calls Israel to love the LORD and remember his acts in Egypt and the wilderness, tells them the land is watered by the LORD's care, to bind his words upon them, and sets before them a blessing and a curse with mount Gerizim and mount Ebal.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 11"
+   ],
+   "evidence": [
+    "Say how the land of promise differs from Egypt in its water (11:10-12).",
+    "Say what blessing and curse are set before Israel (11:26-28)."
+   ],
+   "prompt": "Can {{name}} explain the choice that Moses set before Israel in Deuteronomy 11:26-28?"
+  },
+  {
+   "id": "deu_one_place_worship",
+   "type": "THEME",
+   "name": "Worship at the place the LORD chooses",
+   "description": "Deuteronomy 12 tells Israel to destroy the pagan places of worship and to bring offerings, tithes and firstfruits to the one place the LORD will choose, rejoicing there with households and the Levite, while allowing ordinary meat to be eaten at home but not blood.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 12"
+   ],
+   "evidence": [
+    "Say what Israel was to destroy and where they were to offer sacrifices.",
+    "Say what is allowed at home and what is still forbidden (12:15-16, 23-25)."
+   ],
+   "prompt": "Can {{name}} explain why chapter 12 sets worship at one place the LORD chooses?"
+  },
+  {
+   "id": "deu_false_prophets",
+   "type": "THEME",
+   "name": "Testing prophets and loyalty to the LORD",
+   "description": "Deuteronomy 13 warns that a prophet or dreamer, a family member or a city that urges Israel to follow other gods must not be obeyed even if a sign comes true, because the LORD is testing Israel's love, and gives the penalties.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 13"
+   ],
+   "evidence": [
+    "Say how a prophet can give a sign and still be rejected (13:1-3).",
+    "Say what the chapter says to do with a city led astray (13:12-16)."
+   ],
+   "prompt": "Can {{name}} explain why a prophet whose sign came true was still not to be followed?"
+  },
+  {
+   "id": "deu_clean_food_tithes",
+   "type": "THEME",
+   "name": "Holy people: food and tithes",
+   "description": "Deuteronomy 14 says Israel are children of the LORD and a holy people, so they are not to mutilate themselves for the dead, lists the clean and unclean animals, birds and fish, and gives the tithe to be eaten before the LORD, with a third-year tithe for the Levite, stranger, fatherless and widow.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 14"
+   ],
+   "evidence": [
+    "Say how this list compares with Leviticus 11 (the same kinds of marks).",
+    "Say who received the tithe of the third year (14:28-29)."
+   ],
+   "prompt": "Can {{name}} explain what the third-year tithe was for?"
+  },
+  {
+   "id": "deu_release_year",
+   "type": "THEME",
+   "name": "The year of release and care for the poor",
+   "description": "Deuteronomy 15 commands debts to be released every seventh year, tells Israel to lend freely to the poor and open the hand, to free Hebrew servants in the seventh year with a generous gift remembering Egypt, and to dedicate firstling animals to the LORD.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 15"
+   ],
+   "evidence": [
+    "Say what happens every seventh year for debts and for servants.",
+    "Find the reason Moses gives for generosity (15:15)."
+   ],
+   "prompt": "Can {{name}} explain what Israel had to do for the poor and for a servant who had served six years?"
+  },
+  {
+   "id": "deu_feasts_judges",
+   "type": "THEME",
+   "name": "Three feasts; judges and officers",
+   "description": "Deuteronomy 16 commands Passover, the feast of weeks and the feast of tabernacles at the place the LORD chooses, with all males appearing three times a year and giving as they are able, and appoints just judges who take no bribes and forbids setting up images near the altar.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 16"
+   ],
+   "evidence": [
+    "Name the three feasts and the number of times males appear each year.",
+    "Say what the judges must not do (16:19)."
+   ],
+   "prompt": "Can {{name}} list the three feasts of Deuteronomy 16 and what judges had to avoid?"
+  },
+  {
+   "id": "deu_courts_priests",
+   "type": "THEME",
+   "name": "Witnesses and the central court",
+   "description": "Deuteronomy 17:1-13 requires sacrifices without blemish, trial with at least two or three witnesses before a penalty for idolatry, and a place of final decision by priests and judge where hard cases are brought and whose sentence must be obeyed.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 17:1-13"
+   ],
+   "evidence": [
+    "Say how many witnesses were required (17:6).",
+    "Say where hard cases were to be taken."
+   ],
+   "prompt": "Can {{name}} explain why two or three witnesses were needed before a person was put to death?"
+  },
+  {
+   "id": "deu_king_law",
+   "type": "THEME",
+   "name": "The law of the king",
+   "description": "Deuteronomy 17:14-20 anticipates Israel asking for a king and says he must be one the LORD chooses from among their brothers, must not multiply horses, wives or silver, and must write a copy of the law and read it all his life.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 17:14-20"
+   ],
+   "evidence": [
+    "List what the king must not multiply.",
+    "Say what the king must write and do with the law (17:18-19)."
+   ],
+   "prompt": "Can {{name}} explain what the king was to do with the law and what he was to avoid?"
+  },
+  {
+   "id": "deu_levites_portion",
+   "type": "THEME",
+   "name": "The Levites' portion",
+   "description": "Deuteronomy 18:1-8 says the Levites have no inheritance among their brothers because the LORD is their inheritance, lists the portions of sacrifices and firstfruits that are the priests' due, and allows a Levite from any town to serve at the chosen place.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 18:1-8"
+   ],
+   "evidence": [
+    "Say what the Levites have instead of land.",
+    "Say what portions the priests were due."
+   ],
+   "prompt": "Can {{name}} explain how the Levites were provided for?"
+  },
+  {
+   "id": "deu_forbidden_practices",
+   "type": "THEME",
+   "name": "No divination or sorcery",
+   "description": "Deuteronomy 18:9-14 forbids Israel to learn the abominable practices of the nations: passing children through fire, divination, sorcery, charms, mediums and consulting the dead, which the LORD calls an abomination.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 18:9-14"
+   ],
+   "evidence": [
+    "Name some of the practices forbidden here.",
+    "Say why the LORD is driving out the nations (18:12)."
+   ],
+   "prompt": "Can {{name}} list practices Deuteronomy 18 forbids and say why?"
+  },
+  {
+   "id": "deu_prophet_like_moses",
+   "type": "THEME",
+   "name": "A prophet like Moses",
+   "description": "Deuteronomy 18:15-22 promises that the LORD will raise up a prophet like Moses from among his brothers, recalls Israel's request at Horeb not to hear the LORD's voice directly, puts the LORD's words in the prophet's mouth, and gives a test for false prophets.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 18:15-22"
+   ],
+   "evidence": [
+    "Say what the LORD promises in 18:15 and 18:18.",
+    "Give the test of 18:22 for a prophet who speaks in the LORD's name."
+   ],
+   "prompt": "Can {{name}} explain what the LORD promised in Deuteronomy 18:15-19 and how to tell a false prophet?"
+  },
+  {
+   "id": "deu_refuge_witnesses",
+   "type": "THEME",
+   "name": "Cities of refuge and honest witnesses",
+   "description": "Deuteronomy 19 commands three cities of refuge in the land for accidental killers while the murderer who lies in wait is to be handed over, forbids moving a neighbour's landmark, and requires two or three witnesses, with the penalty of the false witness being what he intended for his brother.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 19"
+   ],
+   "evidence": [
+    "Say how an accidental killing differs from murder in this chapter.",
+    "Say what happens to a false witness (19:16-21)."
+   ],
+   "prompt": "Can {{name}} explain why a false witness received the punishment he planned for another?"
+  },
+  {
+   "id": "deu_war_laws",
+   "type": "THEME",
+   "name": "Laws of war",
+   "description": "Deuteronomy 20 instructs that when Israel goes to battle the priest tells them not to fear since the LORD goes with them, certain men are excused from fighting, a distant city is offered peace first, the cities of the nations in the land are to be destroyed so Israel will not learn their abominations, and fruit trees are not to be cut down in a siege.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "DEU 20"
+   ],
+   "evidence": [
+    "Say what the priest says before battle (20:3-4).",
+    "Describe the offer of peace and the rule for trees.",
+    "Say the reason given for destroying the Canaanite cities (20:18)."
+   ],
+   "prompt": "Can {{name}} explain what Israel was to do before attacking a far-off city and why the Canaanite cities were treated differently?"
+  },
+  {
+   "id": "deu_unsolved_murder",
+   "type": "THEME",
+   "name": "The unsolved murder",
+   "description": "Deuteronomy 21:1-9 gives the rite when a slain man is found and the killer is unknown: the nearest city's elders break a heifer's neck in an unworked valley, wash their hands, declare innocence and ask the LORD not to lay innocent blood on Israel.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 21:1-9"
+   ],
+   "evidence": [
+    "Describe what the elders do and say.",
+    "Say why the rite is needed (21:8-9)."
+   ],
+   "prompt": "Can {{name}} explain why the elders carried out the rite for an unsolved murder?"
+  },
+  {
+   "id": "deu_family_laws",
+   "type": "THEME",
+   "name": "Laws for the family",
+   "description": "Deuteronomy 21:10-23 gives rules about a captive woman taken as a wife, the firstborn right of the son of an unloved wife, the stubborn and rebellious son brought to the elders, and the burial before nightfall of a man hanged on a tree, who is accursed of God.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "DEU 21:10-23"
+   ],
+   "evidence": [
+    "Name the four situations in this section.",
+    "Say when a hanged man's body was to be buried and why (21:22-23)."
+   ],
+   "prompt": "Can {{name}} explain the rule about the firstborn of an unloved wife and the rule for a hanged man?"
+  },
+  {
+   "id": "deu_neighbour_laws",
+   "type": "THEME",
+   "name": "Caring for a neighbour's property and the creation order",
+   "description": "Deuteronomy 22:1-12 commands returning a brother's lost animals, helping a fallen ox, sparing the mother bird, putting a battlement on the roof, and various mixing laws (seeds, ox and ass, wool and linen) and tassels on garments.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 22:1-12"
+   ],
+   "evidence": [
+    "Give two commands in the section about helping a neighbour.",
+    "Say what the battlement was for (22:8)."
+   ],
+   "prompt": "Can {{name}} explain why the text tells Israel to return a neighbour's lost animal and put a battlement on a roof?"
+  },
+  {
+   "id": "deu_marriage_purity",
+   "type": "THEME",
+   "name": "Marriage, charge and sexual purity laws",
+   "description": "Deuteronomy 22:13-30 treats a husband's false charge against his bride, adultery, a betrothed woman assaulted in the city or the field, a woman not betrothed, and a man's taking his father's wife, with penalties set out for each case.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    16,
+    18
+   ],
+   "passages": [
+    "DEU 22:13-30"
+   ],
+   "evidence": [
+    "Say what the elders do in the case of a false charge (22:18-19).",
+    "Say how the text distinguishes the betrothed woman in the city from the field (22:23-27)."
+   ],
+   "prompt": "Can {{name}} explain how these laws protected a woman from false charges and from guilt for an assault she could not prevent?"
+  },
+  {
+   "id": "deu_congregation_camp",
+   "type": "THEME",
+   "name": "The congregation, the camp and a holy LORD among them",
+   "description": "Deuteronomy 23:1-14 says who may not enter the congregation of the LORD (certain persons, Ammonites and Moabites to the tenth generation, with the Edomite and Egyptian treated differently), and commands the camp to be kept clean because the LORD walks in the midst of it.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 23:1-14"
+   ],
+   "evidence": [
+    "Say why Ammonites and Moabites were excluded (23:3-5).",
+    "Say why the camp must be kept clean (23:14)."
+   ],
+   "prompt": "Can {{name}} explain why the LORD wanted the camp kept clean (23:14)?"
+  },
+  {
+   "id": "deu_vows_neighbour",
+   "type": "THEME",
+   "name": "Fugitive slaves, usury, vows and gleaning",
+   "description": "Deuteronomy 23:15-25 forbids returning an escaped slave to his master, forbids prostitution in Israel and offering its wages, forbids interest on loans to a brother, calls for vows to be paid, and allows a neighbour to eat from a vineyard or field but not carry away.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 23:15-25"
+   ],
+   "evidence": [
+    "Say what to do about an escaped servant (23:15-16).",
+    "Say what is allowed when passing a neighbour's vineyard."
+   ],
+   "prompt": "Can {{name}} explain what the text says about keeping a vow?"
+  },
+  {
+   "id": "deu_divorce_justice",
+   "type": "THEME",
+   "name": "Divorce, pledges and the poor",
+   "description": "Deuteronomy 24:1-5 says a man who divorces his wife by a bill may not take her again after she has married another, and a newly married man is free from war for a year; 24:6-22 commands fair treatment of pledges, wages paid on the day, personal responsibility for sin, justice for stranger and orphan, and gleanings left for the poor.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "DEU 24"
+   ],
+   "evidence": [
+    "Say what the law of 24:1-4 forbids.",
+    "Say how Israel was to treat a poor man's pledge and wages (24:10-15).",
+    "Find the reason repeated in 24:18, 22."
+   ],
+   "prompt": "Can {{name}} explain why Moses tells Israel to remember Egypt when treating the poor and stranger?"
+  },
+  {
+   "id": "deu_justice_levirate",
+   "type": "THEME",
+   "name": "Punishment limits, the ox and the brother's widow",
+   "description": "Deuteronomy 25:1-12 limits a beating to forty stripes, forbids muzzling an ox that treads out the corn, gives the duty of a brother to raise up a name for a dead brother and the shoe-loosing ceremony if he refuses, and a rule about a wife seizing a man in a fight.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 25:1-12"
+   ],
+   "evidence": [
+    "Say the limit on flogging and the reason (25:3).",
+    "Describe the duty of a living brother to a dead brother's childless widow."
+   ],
+   "prompt": "Can {{name}} explain the purpose of the law of the brother's widow in 25:5-10?"
+  },
+  {
+   "id": "deu_weights_amalek",
+   "type": "THEME",
+   "name": "Honest weights and remembering Amalek",
+   "description": "Deuteronomy 25:13-19 requires accurate weights and measures, calls dishonest dealing an abomination, and commands Israel to remember what Amalek did on the way from Egypt, attacking the weary, and blot out his memory when the LORD gives rest.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 25:13-19"
+   ],
+   "evidence": [
+    "Say what the LORD calls dishonest weights (25:16).",
+    "Say what Amalek did and what Israel is to do about it (25:17-19)."
+   ],
+   "prompt": "Can {{name}} explain why honest weights and measures mattered to the LORD?"
+  },
+  {
+   "id": "deu_firstfruits",
+   "type": "THEME",
+   "name": "Firstfruits and the tithe confession",
+   "description": "Deuteronomy 26 commands a basket of firstfruits brought to the priest with a confession that tells Israel's story from a wandering Aramean father through Egypt to the gift of the land, a third-year tithe declaration, and a mutual avowal that the LORD is Israel's God and Israel his people.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 26"
+   ],
+   "evidence": [
+    "Summarize the confession said with the firstfruits (26:5-10).",
+    "Say what Israel and the LORD each avouch in 26:17-19."
+   ],
+   "prompt": "Can {{name}} retell Israel's story as the firstfruits confession tells it?"
+  },
+  {
+   "id": "deu_ebal_gerizim",
+   "type": "STORY",
+   "name": "Stones, altar and the curses from Ebal",
+   "description": "Deuteronomy 27 commands that on crossing the Jordan Israel set up stones with the law written on them and an altar on mount Ebal, and that tribes stand on Gerizim to bless and Ebal to curse, with Levites declaring twelve curses to each of which all the people say Amen.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 27"
+   ],
+   "evidence": [
+    "Say which tribes stood on which mount.",
+    "Name several of the sins cursed and what the people answer (27:15-26)."
+   ],
+   "prompt": "Can {{name}} describe what Israel was to do at Gerizim and Ebal?"
+  },
+  {
+   "id": "deu_blessings",
+   "type": "THEME",
+   "name": "Blessings of obedience",
+   "description": "Deuteronomy 28:1-14 promises that if Israel hearkens diligently to the LORD, blessings will overtake them in city and field, in children, crops and herds, victory over enemies, plenty of rain and being the head not the tail, if they do not turn aside.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 28:1-14"
+   ],
+   "evidence": [
+    "List areas of life that are blessed (28:3-6).",
+    "State the condition repeated in 28:1, 9, 13-14."
+   ],
+   "prompt": "Can {{name}} explain what the LORD promised Israel if they obeyed?"
+  },
+  {
+   "id": "deu_curses",
+   "type": "THEME",
+   "name": "Curses of disobedience",
+   "description": "Deuteronomy 28:15-68 sets out the curses that will come if Israel does not obey: sickness, drought, defeat, siege, exile among the nations and a return to Egypt, because they did not serve the LORD joyfully for all he gave.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 28:15-68"
+   ],
+   "evidence": [
+    "Say why the text says these curses come (28:47).",
+    "Describe the final picture of exile in 28:64-68."
+   ],
+   "prompt": "Can {{name}} compare the blessings of verses 1-14 with the curses that follow?"
+  },
+  {
+   "id": "deu_moab_covenant",
+   "type": "COVENANT",
+   "name": "The covenant in the land of Moab",
+   "description": "Deuteronomy 29 calls Israel, including children and strangers, to enter the LORD's covenant and oath that day, warns that anyone who turns to idols will bear the curses of this covenant, and says the nations will ask why the land is ruined, to be answered that they forsook the covenant; the secret things belong to the LORD and the revealed things to Israel.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 29"
+   ],
+   "evidence": [
+    "Say who stands in the covenant ceremony (29:10-15).",
+    "Say what the nations will be told about a ruined land (29:24-28).",
+    "Find 29:29 and say what it says belongs to the LORD and what to Israel."
+   ],
+   "prompt": "Can {{name}} explain what covenant Israel enters in Deuteronomy 29 and what happens if they forsake it?"
+  },
+  {
+   "id": "deu_choose_life",
+   "type": "DOCTRINE",
+   "name": "Return to the LORD; the word is near; choose life",
+   "description": "Deuteronomy 30 says that when blessing and curse have come and Israel returns and obeys, the LORD will gather them, bring them to the land, and circumcise their hearts; the commandment is not hidden or far off but very near, and Moses sets life and death before them and calls them to choose life.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 30"
+   ],
+   "evidence": [
+    "Say what the LORD promises when Israel returns (30:1-6).",
+    "Say what 30:11-14 says about where the word is.",
+    "Say the choice in 30:19."
+   ],
+   "prompt": "Can {{name}} explain the choice set before Israel in Deuteronomy 30:15-20?"
+  },
+  {
+   "id": "deu_joshua_law_read",
+   "type": "STORY",
+   "name": "Joshua commissioned; the law read every seven years",
+   "description": "Deuteronomy 31 records Moses at 120 years old encouraging Israel and Joshua that the LORD goes before them and will not fail them, writing the law and giving it to the priests to read every seventh year, the LORD predicting Israel's turning away, and the book of the law placed beside the ark.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 31"
+   ],
+   "evidence": [
+    "Say what Moses told Joshua (31:7-8).",
+    "Say when and to whom the law is to be read (31:10-13)."
+   ],
+   "prompt": "Can {{name}} explain what Moses told Israel to do with the law after his death?"
+  },
+  {
+   "id": "deu_song_of_moses",
+   "type": "THEME",
+   "name": "The song of Moses",
+   "description": "Deuteronomy 32:1-43 is a song that praises the LORD as the Rock whose work is perfect, recalls his care for Jacob in the wilderness, accuses Israel of forgetting him and worshipping other gods, tells of judgment, yet says vengeance is the LORD's and he will judge his people and be merciful to his land.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "DEU 32:1-43"
+   ],
+   "evidence": [
+    "Describe the picture of the LORD as the Rock in 32:3-4.",
+    "Summarize what Israel did in return for his care (32:15-18).",
+    "Find 32:35 and 32:43."
+   ],
+   "prompt": "Can {{name}} summarize the song in three parts: the LORD's faithfulness, Israel's unfaithfulness and the LORD's judgment and mercy?"
+  },
+  {
+   "id": "deu_moses_to_nebo",
+   "type": "STORY",
+   "name": "Moses is told to go up Nebo",
+   "description": "Deuteronomy 32:44-52 records Moses speaking the song with Joshua, telling Israel to set their hearts on the words because they are their life, and the LORD telling him to go up mount Nebo to see the land and die because of the trespass at Meribah.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "DEU 32:44-52"
+   ],
+   "evidence": [
+    "Say why Moses is told he will not enter the land (32:51).",
+    "Say what Moses tells Israel about the words of the law (32:46-47)."
+   ],
+   "prompt": "Can {{name}} explain why the LORD told Moses to go up Nebo?"
+  },
+  {
+   "id": "deu_blessing_tribes",
+   "type": "THEME",
+   "name": "Moses' blessing of the tribes",
+   "description": "Deuteronomy 33 records Moses' blessing of Israel before his death: the LORD coming from Sinai, a blessing in turn on Reuben, Judah, Levi, Benjamin, Joseph, Zebulun, Issachar, Gad, Dan, Naphtali and Asher, and a close praising the LORD as Israel's refuge and shield.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "DEU 33"
+   ],
+   "evidence": [
+    "Name the tribes blessed.",
+    "Find the closing description of the LORD in 33:26-29."
+   ],
+   "prompt": "Can {{name}} say something Moses blessed about two of the tribes and how the chapter ends?"
+  },
+  {
+   "id": "deu_moses_death",
+   "type": "STORY",
+   "name": "The death of Moses",
+   "description": "Deuteronomy 34 tells how Moses goes up Nebo and sees the whole land the LORD swore to Abraham, Isaac and Jacob, dies at 120 and is buried by the LORD in Moab, Israel mourns thirty days, Joshua is filled with the spirit of wisdom, and no prophet since has been like Moses.",
+   "covenant": "cv_mosaic",
+   "ages": [
+    8,
+    18
+   ],
+   "passages": [
+    "DEU 34"
+   ],
+   "evidence": [
+    "Say what the LORD showed Moses and said to him (34:1-4).",
+    "Say how the chapter describes Moses and who takes his place (34:9-12)."
+   ],
+   "prompt": "Can {{name}} tell how Moses' life ended and who led Israel next?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "book_lev",
+   "prereq": "bt_book_gen",
+   "strength": "soft",
+   "reason": "Leviticus 11:45 speaks of the LORD bringing Israel up out of Egypt, the people whose beginnings Genesis tells"
+  },
+  {
+   "topic": "lev_burnt_offering",
+   "prereq": "book_lev",
+   "strength": "soft",
+   "reason": "Leviticus 1:1 begins the book with the LORD speaking from the tabernacle about offerings"
+  },
+  {
+   "topic": "lev_grain_offering",
+   "prereq": "lev_burnt_offering",
+   "strength": "soft",
+   "reason": "Leviticus 2 follows the burnt offering of chapter 1 as the next kind of offering listed"
+  },
+  {
+   "topic": "lev_peace_offering",
+   "prereq": "lev_grain_offering",
+   "strength": "soft",
+   "reason": "Leviticus 3 continues the list of offerings after the grain offering of chapter 2"
+  },
+  {
+   "topic": "lev_sin_offering",
+   "prereq": "lev_peace_offering",
+   "strength": "soft",
+   "reason": "Leviticus 4 follows the voluntary offerings of chapters 1 to 3 with the offering for sin done through ignorance"
+  },
+  {
+   "topic": "lev_trespass_offering",
+   "prereq": "lev_sin_offering",
+   "strength": "soft",
+   "reason": "Leviticus 5 continues the sin and trespass offerings directly after chapter 4"
+  },
+  {
+   "topic": "lev_offering_laws",
+   "prereq": "lev_trespass_offering",
+   "strength": "soft",
+   "reason": "Leviticus 6:9-7:37 restates the law of each offering already described in chapters 1 to 6:7"
+  },
+  {
+   "topic": "lev_priests_consecrated",
+   "prereq": "lev_offering_laws",
+   "strength": "soft",
+   "reason": "Leviticus 7:35-36 speaks of the day Aaron and his sons were anointed, which chapter 8 narrates"
+  },
+  {
+   "topic": "lev_eighth_day",
+   "prereq": "lev_priests_consecrated",
+   "strength": "soft",
+   "reason": "Leviticus 9:1 begins on the eighth day, after the seven days of consecration in chapter 8"
+  },
+  {
+   "topic": "lev_nadab_abihu",
+   "prereq": "lev_eighth_day",
+   "strength": "soft",
+   "reason": "Leviticus 10 happens right after the fire of chapter 9 and Aaron's first offerings"
+  },
+  {
+   "topic": "lev_clean_food",
+   "prereq": "lev_nadab_abihu",
+   "strength": "soft",
+   "reason": "Leviticus 10:10 says the priests are to tell apart holy and unholy, clean and unclean, which chapter 11 begins to set out"
+  },
+  {
+   "topic": "lev_childbirth",
+   "prereq": "lev_clean_food",
+   "strength": "soft",
+   "reason": "Leviticus 12 continues the laws of uncleanness begun in chapter 11"
+  },
+  {
+   "topic": "lev_skin_diseases",
+   "prereq": "lev_childbirth",
+   "strength": "soft",
+   "reason": "Leviticus 13 carries on the laws of what is unclean after chapter 12"
+  },
+  {
+   "topic": "lev_cleansing_disease",
+   "prereq": "lev_skin_diseases",
+   "strength": "soft",
+   "reason": "Leviticus 14:2 gives the law for the day of cleansing of the one whose disease described in chapter 13 has healed"
+  },
+  {
+   "topic": "lev_discharges",
+   "prereq": "lev_cleansing_disease",
+   "strength": "soft",
+   "reason": "Leviticus 15 continues the laws about uncleanness and cleansing after chapter 14"
+  },
+  {
+   "topic": "lev_day_of_atonement",
+   "prereq": "lev_discharges",
+   "strength": "soft",
+   "reason": "Leviticus 16:1 begins after the death of Aaron's two sons, and chapters 11 to 15 have just dealt with uncleanness that defiles the sanctuary (16:16)"
+  },
+  {
+   "topic": "lev_blood_life",
+   "prereq": "lev_day_of_atonement",
+   "strength": "soft",
+   "reason": "Leviticus 17 follows chapter 16 with further rules about where sacrifice is offered and the blood that makes atonement"
+  },
+  {
+   "topic": "lev_unlawful_unions",
+   "prereq": "lev_blood_life",
+   "strength": "soft",
+   "reason": "Leviticus 18 begins a new section of commands for how Israel is to live in the land after the rules on sacrifice in chapter 17"
+  },
+  {
+   "topic": "lev_be_holy",
+   "prereq": "lev_unlawful_unions",
+   "strength": "soft",
+   "reason": "Leviticus 19 follows chapter 18 with commands for Israel in the land, beginning with the call to be holy"
+  },
+  {
+   "topic": "lev_penalties",
+   "prereq": "lev_be_holy",
+   "strength": "soft",
+   "reason": "Leviticus 20 attaches penalties to many of the sins named in chapters 18 and 19"
+  },
+  {
+   "topic": "lev_priests_holy",
+   "prereq": "lev_penalties",
+   "strength": "soft",
+   "reason": "Leviticus 21 turns from rules for all Israel in chapters 18 to 20 to rules specifically for the priests"
+  },
+  {
+   "topic": "lev_holy_things",
+   "prereq": "lev_priests_holy",
+   "strength": "soft",
+   "reason": "Leviticus 22 continues the priestly rules of chapter 21 by saying who may eat the holy things"
+  },
+  {
+   "topic": "lev_feasts_weekly_spring",
+   "prereq": "lev_holy_things",
+   "strength": "soft",
+   "reason": "Leviticus 23 follows the priests' rules with the appointed feasts that the priests and people keep"
+  },
+  {
+   "topic": "lev_feasts_seventh_month",
+   "prereq": "lev_feasts_weekly_spring",
+   "strength": "soft",
+   "reason": "Leviticus 23:23 continues the list of feasts after those of the first part of the chapter"
+  },
+  {
+   "topic": "lev_lampstand_bread",
+   "prereq": "lev_feasts_seventh_month",
+   "strength": "soft",
+   "reason": "Leviticus 24 follows chapter 23 with the daily and weekly service in the tabernacle"
+  },
+  {
+   "topic": "lev_blasphemer",
+   "prereq": "lev_lampstand_bread",
+   "strength": "soft",
+   "reason": "Leviticus 24:10 continues in the same chapter, in the camp after the instructions about the tabernacle service"
+  },
+  {
+   "topic": "lev_sabbath_year",
+   "prereq": "lev_blasphemer",
+   "strength": "soft",
+   "reason": "Leviticus 25:1 begins a new speech of the LORD at Sinai about life in the land"
+  },
+  {
+   "topic": "lev_redemption",
+   "prereq": "lev_sabbath_year",
+   "strength": "soft",
+   "reason": "Leviticus 25:23 builds on the jubilee return of possessions described earlier in the chapter"
+  },
+  {
+   "topic": "lev_blessings_curses",
+   "prereq": "lev_redemption",
+   "strength": "hard",
+   "reason": "Leviticus 26 closes the laws of chapters 18 to 25 with the results of keeping or breaking them"
+  },
+  {
+   "topic": "lev_vows",
+   "prereq": "lev_blessings_curses",
+   "strength": "soft",
+   "reason": "Leviticus 27:34 closes the book with commandments given at Sinai, after the blessings and curses of chapter 26"
+  },
+  {
+   "topic": "book_num",
+   "prereq": "book_lev",
+   "strength": "soft",
+   "reason": "Numbers 1:1 is set in the wilderness of Sinai, where Leviticus 27:34 says the LORD gave his commandments"
+  },
+  {
+   "topic": "num_census",
+   "prereq": "book_num",
+   "strength": "soft",
+   "reason": "Numbers 1:1 begins in the wilderness of Sinai on the first day of the second month of the second year"
+  },
+  {
+   "topic": "num_camp_order",
+   "prereq": "num_census",
+   "strength": "soft",
+   "reason": "Numbers 2 uses the tribal numbers just recorded in chapter 1 to set the camp order"
+  },
+  {
+   "topic": "num_levites_chosen",
+   "prereq": "num_camp_order",
+   "strength": "soft",
+   "reason": "Numbers 3 describes the Levites who camp around the tabernacle in the middle of the camp described in chapter 2"
+  },
+  {
+   "topic": "num_levite_service",
+   "prereq": "num_levites_chosen",
+   "strength": "soft",
+   "reason": "Numbers 4 gives the duties for the three Levite families named in chapter 3"
+  },
+  {
+   "topic": "num_camp_purity",
+   "prereq": "num_levite_service",
+   "strength": "soft",
+   "reason": "Numbers 5 follows the organization of the camp and the tabernacle service in chapters 1 to 4"
+  },
+  {
+   "topic": "num_jealousy",
+   "prereq": "num_camp_purity",
+   "strength": "soft",
+   "reason": "Numbers 5:11 follows the other laws in chapter 5 about wrongs and purity in the camp"
+  },
+  {
+   "topic": "num_nazirite",
+   "prereq": "num_jealousy",
+   "strength": "soft",
+   "reason": "Numbers 6 continues the laws given to the people in the camp after chapter 5"
+  },
+  {
+   "topic": "num_priestly_blessing",
+   "prereq": "num_nazirite",
+   "strength": "soft",
+   "reason": "Numbers 6:22 follows the Nazirite law in the same chapter with words for Aaron and his sons to speak"
+  },
+  {
+   "topic": "num_princes_offerings",
+   "prereq": "num_priestly_blessing",
+   "strength": "soft",
+   "reason": "Numbers 7:1 begins on the day Moses finished setting up the tabernacle, which the preceding laws were preparing"
+  },
+  {
+   "topic": "num_lamps_levites",
+   "prereq": "num_princes_offerings",
+   "strength": "soft",
+   "reason": "Numbers 8 continues the tabernacle events of chapter 7 and applies the choosing of the Levites announced in chapter 3"
+  },
+  {
+   "topic": "num_second_passover",
+   "prereq": "num_lamps_levites",
+   "strength": "soft",
+   "reason": "Numbers 9:1 is set in the first month of the second year, after the tabernacle and Levites were set in order"
+  },
+  {
+   "topic": "num_cloud_guidance",
+   "prereq": "num_second_passover",
+   "strength": "soft",
+   "reason": "Numbers 9:15 follows the Passover section in the same chapter and prepares for the march in chapter 10"
+  },
+  {
+   "topic": "num_trumpets_departure",
+   "prereq": "num_cloud_guidance",
+   "strength": "soft",
+   "reason": "Numbers 10:11-12 says the cloud was taken up from the tabernacle, the sign described in chapter 9"
+  },
+  {
+   "topic": "num_complaints_manna",
+   "prereq": "num_trumpets_departure",
+   "strength": "soft",
+   "reason": "Numbers 11:1 happens after Israel set out from Sinai in chapter 10"
+  },
+  {
+   "topic": "num_elders_quail",
+   "prereq": "num_complaints_manna",
+   "strength": "soft",
+   "reason": "Numbers 11:16 is the LORD's answer to Moses' prayer in verses 11 to 15"
+  },
+  {
+   "topic": "num_miriam_aaron",
+   "prereq": "num_elders_quail",
+   "strength": "soft",
+   "reason": "Numbers 12 follows the journey from Kibrothhattaavah to Hazeroth at the end of chapter 11"
+  },
+  {
+   "topic": "num_twelve_spies",
+   "prereq": "num_miriam_aaron",
+   "strength": "soft",
+   "reason": "Numbers 13:3 sends them out from the wilderness of Paran where Israel camped at the end of chapter 12"
+  },
+  {
+   "topic": "num_rebellion_kadesh",
+   "prereq": "num_twelve_spies",
+   "strength": "hard",
+   "reason": "Numbers 14:1 responds to the report of the ten spies in chapter 13"
+  },
+  {
+   "topic": "num_forty_years",
+   "prereq": "num_rebellion_kadesh",
+   "strength": "soft",
+   "reason": "Numbers 14:26 continues the LORD's speech after Moses' intercession in the same chapter"
+  },
+  {
+   "topic": "num_offerings_in_land",
+   "prereq": "num_forty_years",
+   "strength": "soft",
+   "reason": "Numbers 15:2 speaks of the land the next generation will enter, following the sentence of chapter 14"
+  },
+  {
+   "topic": "num_sabbath_breaker",
+   "prereq": "num_offerings_in_land",
+   "strength": "soft",
+   "reason": "Numbers 15:32 follows the law of presumptuous sin in verses 30 to 31"
+  },
+  {
+   "topic": "num_tassels",
+   "prereq": "num_sabbath_breaker",
+   "strength": "soft",
+   "reason": "Numbers 15:37 is the last command of the chapter, after the sabbath incident"
+  },
+  {
+   "topic": "num_korah",
+   "prereq": "num_tassels",
+   "strength": "soft",
+   "reason": "Numbers 16:1 follows the laws at the end of chapter 15 in the same wilderness years of the sentence"
+  },
+  {
+   "topic": "num_plague_atonement",
+   "prereq": "num_korah",
+   "strength": "soft",
+   "reason": "Numbers 16:41 begins on the morrow after the judgment on Korah"
+  },
+  {
+   "topic": "num_aaron_rod",
+   "prereq": "num_plague_atonement",
+   "strength": "soft",
+   "reason": "Numbers 17 settles the question of who may approach the LORD after the plague of chapter 16"
+  },
+  {
+   "topic": "num_priests_portions",
+   "prereq": "num_aaron_rod",
+   "strength": "soft",
+   "reason": "Numbers 18 follows the Israelites' cry in 17:12-13 by setting out who does the tabernacle work and how they are supplied"
+  },
+  {
+   "topic": "num_red_heifer",
+   "prereq": "num_priests_portions",
+   "strength": "soft",
+   "reason": "Numbers 19 follows the priestly service of chapter 18 with a law for cleansing from the dead, which was a problem in the camp after the deaths of chapters 14 to 17"
+  },
+  {
+   "topic": "num_meribah",
+   "prereq": "num_red_heifer",
+   "strength": "soft",
+   "reason": "Numbers 20:1 is set in the first month, in the wilderness of Zin, after the laws given in chapter 19"
+  },
+  {
+   "topic": "num_edom_aaron",
+   "prereq": "num_meribah",
+   "strength": "soft",
+   "reason": "Numbers 20:14 follows Kadesh, and Aaron's death was foretold at Meribah in 20:12 and 20:24"
+  },
+  {
+   "topic": "num_conquest_east",
+   "prereq": "num_edom_aaron",
+   "strength": "soft",
+   "reason": "Numbers 21:4 begins after Edom refused passage and Aaron died on mount Hor in chapter 20"
+  },
+  {
+   "topic": "num_bronze_serpent",
+   "prereq": "num_conquest_east",
+   "strength": "soft",
+   "reason": "Numbers 21:4 occurs as Israel journeys from mount Hor around Edom, between the events of verses 1 to 3 and 10 to 35"
+  },
+  {
+   "topic": "num_balak_balaam",
+   "prereq": "num_bronze_serpent",
+   "strength": "soft",
+   "reason": "Numbers 22:2 says Balak saw what Israel had done to the Amorites, as told in chapter 21"
+  },
+  {
+   "topic": "num_balaam_donkey",
+   "prereq": "num_balak_balaam",
+   "strength": "soft",
+   "reason": "Numbers 22:22 describes the journey after Balaam rose and went with the princes of Moab in verse 21"
+  },
+  {
+   "topic": "num_balaam_first_second",
+   "prereq": "num_balaam_donkey",
+   "strength": "soft",
+   "reason": "Numbers 23 follows from Balak's taking Balaam to the high places in 22:41"
+  },
+  {
+   "topic": "num_balaam_star",
+   "prereq": "num_balaam_first_second",
+   "strength": "soft",
+   "reason": "Numbers 24 continues the third and fourth oracles after Balak's second attempt in chapter 23"
+  },
+  {
+   "topic": "num_baal_peor",
+   "prereq": "num_balaam_star",
+   "strength": "soft",
+   "reason": "Numbers 25:1 follows Balaam's departure in 24:25, and Numbers 31:16 later says Balaam's counsel lay behind Peor"
+  },
+  {
+   "topic": "num_second_census",
+   "prereq": "num_baal_peor",
+   "strength": "soft",
+   "reason": "Numbers 26:1 begins after the plague of chapter 25"
+  },
+  {
+   "topic": "num_zelophehad_daughters",
+   "prereq": "num_second_census",
+   "strength": "soft",
+   "reason": "Numbers 26:33 names Zelophehad as having only daughters and 26:52-56 sets the land division they ask about"
+  },
+  {
+   "topic": "num_joshua_successor",
+   "prereq": "num_zelophehad_daughters",
+   "strength": "soft",
+   "reason": "Numbers 27:12 follows in the same chapter and 27:14 refers to the rebellion at Zin recorded in chapter 20"
+  },
+  {
+   "topic": "num_regular_offerings",
+   "prereq": "num_joshua_successor",
+   "strength": "soft",
+   "reason": "Numbers 28 gives the offerings for the people who will enter the land under the new leader of chapter 27"
+  },
+  {
+   "topic": "num_seventh_month_offerings",
+   "prereq": "num_regular_offerings",
+   "strength": "soft",
+   "reason": "Numbers 29 continues the list of appointed offerings begun in chapter 28"
+  },
+  {
+   "topic": "num_vows_women",
+   "prereq": "num_seventh_month_offerings",
+   "strength": "soft",
+   "reason": "Numbers 29:39 mentions vows and freewill offerings alongside the feasts, and chapter 30 gives the law for vows"
+  },
+  {
+   "topic": "num_midian_war",
+   "prereq": "num_vows_women",
+   "strength": "hard",
+   "reason": "Numbers 31:2 carries out the command to vex the Midianites given in 25:16-18"
+  },
+  {
+   "topic": "num_reuben_gad",
+   "prereq": "num_midian_war",
+   "strength": "soft",
+   "reason": "Numbers 32:1 follows the conquest of Jazer and Gilead in chapters 21 and 31"
+  },
+  {
+   "topic": "num_journeys",
+   "prereq": "num_reuben_gad",
+   "strength": "soft",
+   "reason": "Numbers 33:49 ends on the plains of Moab, where chapters 22 to 32 take place"
+  },
+  {
+   "topic": "num_land_instructions",
+   "prereq": "num_journeys",
+   "strength": "soft",
+   "reason": "Numbers 33:51 says \"when ye are passed over Jordan\", following the journeys to the Jordan listed above"
+  },
+  {
+   "topic": "num_levite_cities",
+   "prereq": "num_land_instructions",
+   "strength": "soft",
+   "reason": "Numbers 35 follows the allotment of the land in chapter 34 with the cities the Levites receive from it (18:20-24 says they have no tribal inheritance)"
+  },
+  {
+   "topic": "num_zelophehad_marriage",
+   "prereq": "num_levite_cities",
+   "strength": "hard",
+   "reason": "Numbers 36 returns to the daughters of Zelophehad from 27:1-11, closing the book with the land division settled"
+  },
+  {
+   "topic": "book_deu",
+   "prereq": "book_num",
+   "strength": "soft",
+   "reason": "Deuteronomy 1:1-5 is set in the land of Moab, the plains where Numbers 36 ends"
+  },
+  {
+   "topic": "deu_horeb_leaders",
+   "prereq": "book_deu",
+   "strength": "soft",
+   "reason": "Deuteronomy 1:1-5 gives the setting of the speeches the book records"
+  },
+  {
+   "topic": "deu_spies_recalled",
+   "prereq": "deu_horeb_leaders",
+   "strength": "hard",
+   "reason": "Deuteronomy 1:19 continues Moses' review after leaving Horeb in verse 6, and recounts Numbers 13 and 14"
+  },
+  {
+   "topic": "deu_wilderness_nations",
+   "prereq": "deu_spies_recalled",
+   "strength": "soft",
+   "reason": "Deuteronomy 2:1 turns from Kadesh after the refusal in chapter 1 into the wilderness"
+  },
+  {
+   "topic": "deu_sihon_og",
+   "prereq": "deu_wilderness_nations",
+   "strength": "soft",
+   "reason": "Deuteronomy 2:24 follows the passage past Moab and Ammon, and retells Numbers 21 and 32"
+  },
+  {
+   "topic": "deu_moses_denied",
+   "prereq": "deu_sihon_og",
+   "strength": "soft",
+   "reason": "Deuteronomy 3:23 follows the victories over Sihon and Og, which Moses calls the beginning of the LORD's display of his greatness (3:24)"
+  },
+  {
+   "topic": "deu_hear_statutes",
+   "prereq": "deu_moses_denied",
+   "strength": "soft",
+   "reason": "Deuteronomy 4:1 begins with \"now therefore\", drawing on the events recalled in chapters 1 to 3"
+  },
+  {
+   "topic": "deu_refuge_east",
+   "prereq": "deu_hear_statutes",
+   "strength": "soft",
+   "reason": "Deuteronomy 4:41 follows Moses' address and goes with the law of refuge cities in Numbers 35"
+  },
+  {
+   "topic": "deu_ten_words",
+   "prereq": "deu_refuge_east",
+   "strength": "hard",
+   "reason": "Deuteronomy 5:1 begins a second address of Moses after the first speech of chapters 1 to 4, which refers to the ten commandments in 4:13"
+  },
+  {
+   "topic": "deu_shema",
+   "prereq": "deu_ten_words",
+   "strength": "soft",
+   "reason": "Deuteronomy 6:1 introduces the commandments that follow the ten commandments of chapter 5"
+  },
+  {
+   "topic": "deu_holy_people",
+   "prereq": "deu_shema",
+   "strength": "soft",
+   "reason": "Deuteronomy 7:1 speaks of the LORD bringing Israel into the land, which the call to loyalty in chapter 6 prepares for"
+  },
+  {
+   "topic": "deu_remember_wilderness",
+   "prereq": "deu_holy_people",
+   "strength": "soft",
+   "reason": "Deuteronomy 8:7 describes the good land the LORD is bringing them to, which chapter 7 says they will possess"
+  },
+  {
+   "topic": "deu_golden_calf_recalled",
+   "prereq": "deu_remember_wilderness",
+   "strength": "soft",
+   "reason": "Deuteronomy 9:7 tells Israel to remember how they provoked the LORD in the wilderness, recalling Exodus 32"
+  },
+  {
+   "topic": "deu_what_lord_requires",
+   "prereq": "deu_golden_calf_recalled",
+   "strength": "soft",
+   "reason": "Deuteronomy 10:12 draws a conclusion (\"and now\") from the history just recalled in chapters 9 and 10:1-11"
+  },
+  {
+   "topic": "deu_blessing_curse",
+   "prereq": "deu_what_lord_requires",
+   "strength": "soft",
+   "reason": "Deuteronomy 11:1 repeats the call to love the LORD from 10:12 and prepares the statutes that begin in chapter 12"
+  },
+  {
+   "topic": "deu_one_place_worship",
+   "prereq": "deu_blessing_curse",
+   "strength": "soft",
+   "reason": "Deuteronomy 12:1 opens the statutes and judgments to be kept in the land that chapters 5 to 11 introduced"
+  },
+  {
+   "topic": "deu_false_prophets",
+   "prereq": "deu_one_place_worship",
+   "strength": "soft",
+   "reason": "Deuteronomy 13:1 addresses leading Israel to other gods, the danger Deuteronomy 12:30-31 already warns of"
+  },
+  {
+   "topic": "deu_clean_food_tithes",
+   "prereq": "deu_false_prophets",
+   "strength": "soft",
+   "reason": "Deuteronomy 14:2 calls Israel a holy people chosen by the LORD, the same description as in 7:6"
+  },
+  {
+   "topic": "deu_release_year",
+   "prereq": "deu_clean_food_tithes",
+   "strength": "soft",
+   "reason": "Deuteronomy 15 follows the third-year tithe for the poor of 14:28-29 with further laws about helping the poor"
+  },
+  {
+   "topic": "deu_feasts_judges",
+   "prereq": "deu_release_year",
+   "strength": "soft",
+   "reason": "Deuteronomy 16 continues the laws for Israel in the land after the release laws of chapter 15, and Leviticus 23 lists the same feasts"
+  },
+  {
+   "topic": "deu_courts_priests",
+   "prereq": "deu_feasts_judges",
+   "strength": "soft",
+   "reason": "Deuteronomy 17:1 follows 16:18-20 on judges with rules for judging and sacrifices"
+  },
+  {
+   "topic": "deu_king_law",
+   "prereq": "deu_courts_priests",
+   "strength": "soft",
+   "reason": "Deuteronomy 17:14 continues the leaders of Israel after the judges and priests described in 17:8-13"
+  },
+  {
+   "topic": "deu_levites_portion",
+   "prereq": "deu_king_law",
+   "strength": "soft",
+   "reason": "Deuteronomy 18:1 follows the law of leaders and judges with the portion of the tribe of Levi"
+  },
+  {
+   "topic": "deu_forbidden_practices",
+   "prereq": "deu_levites_portion",
+   "strength": "soft",
+   "reason": "Deuteronomy 18:9 begins \"when thou art come into the land\", turning from the Levites to the nations in the land"
+  },
+  {
+   "topic": "deu_prophet_like_moses",
+   "prereq": "deu_forbidden_practices",
+   "strength": "soft",
+   "reason": "Deuteronomy 18:14 says the LORD has not allowed Israel to listen to diviners, and 18:15 gives the LORD's alternative"
+  },
+  {
+   "topic": "deu_refuge_witnesses",
+   "prereq": "deu_prophet_like_moses",
+   "strength": "soft",
+   "reason": "Deuteronomy 19 follows chapter 18 with further laws for justice in the land, repeating the cities of refuge of 4:41-43 and Numbers 35"
+  },
+  {
+   "topic": "deu_war_laws",
+   "prereq": "deu_refuge_witnesses",
+   "strength": "soft",
+   "reason": "Deuteronomy 20 follows chapter 19 with laws for the land and the war that precedes settling it"
+  },
+  {
+   "topic": "deu_unsolved_murder",
+   "prereq": "deu_war_laws",
+   "strength": "soft",
+   "reason": "Deuteronomy 21:1 continues the justice laws after chapter 20, and the concern for innocent blood echoes 19:10"
+  },
+  {
+   "topic": "deu_family_laws",
+   "prereq": "deu_unsolved_murder",
+   "strength": "soft",
+   "reason": "Deuteronomy 21:10 follows the first part of the chapter with laws for family life"
+  },
+  {
+   "topic": "deu_neighbour_laws",
+   "prereq": "deu_family_laws",
+   "strength": "soft",
+   "reason": "Deuteronomy 22 follows chapter 21 with more laws on daily life in the land"
+  },
+  {
+   "topic": "deu_marriage_purity",
+   "prereq": "deu_neighbour_laws",
+   "strength": "soft",
+   "reason": "Deuteronomy 22:13 continues the chapter with laws about marriage after the neighbour and mixing laws"
+  },
+  {
+   "topic": "deu_congregation_camp",
+   "prereq": "deu_marriage_purity",
+   "strength": "soft",
+   "reason": "Deuteronomy 23:1 follows the sexual laws of chapter 22 and 23:4-5 recalls Balaam from Numbers 22"
+  },
+  {
+   "topic": "deu_vows_neighbour",
+   "prereq": "deu_congregation_camp",
+   "strength": "soft",
+   "reason": "Deuteronomy 23:15 continues the laws in the same chapter after the rules for the camp"
+  },
+  {
+   "topic": "deu_divorce_justice",
+   "prereq": "deu_vows_neighbour",
+   "strength": "soft",
+   "reason": "Deuteronomy 24 continues the laws on lending (23:19-20) and neighbour care with the relation of marriage, pledges and wages"
+  },
+  {
+   "topic": "deu_justice_levirate",
+   "prereq": "deu_divorce_justice",
+   "strength": "soft",
+   "reason": "Deuteronomy 25 continues the justice laws after chapter 24"
+  },
+  {
+   "topic": "deu_weights_amalek",
+   "prereq": "deu_justice_levirate",
+   "strength": "soft",
+   "reason": "Deuteronomy 25:13 closes the chapter after the justice laws and 25:17 recalls the attack by Amalek"
+  },
+  {
+   "topic": "deu_firstfruits",
+   "prereq": "deu_weights_amalek",
+   "strength": "soft",
+   "reason": "Deuteronomy 26:1 begins \"when thou art come in unto the land\", closing the statutes begun in chapter 12"
+  },
+  {
+   "topic": "deu_ebal_gerizim",
+   "prereq": "deu_firstfruits",
+   "strength": "soft",
+   "reason": "Deuteronomy 27 follows the statutes with the plan for the ceremony when Israel crosses the Jordan, which 11:29 foretold"
+  },
+  {
+   "topic": "deu_blessings",
+   "prereq": "deu_ebal_gerizim",
+   "strength": "soft",
+   "reason": "Deuteronomy 28:1 gives the blessings that the people on Gerizim are to hear in 27:12"
+  },
+  {
+   "topic": "deu_curses",
+   "prereq": "deu_blessings",
+   "strength": "soft",
+   "reason": "Deuteronomy 28:15 turns to the opposite condition after the blessings of verses 1 to 14"
+  },
+  {
+   "topic": "deu_moab_covenant",
+   "prereq": "deu_curses",
+   "strength": "soft",
+   "reason": "Deuteronomy 29:1 calls these the words of the covenant in Moab beside the covenant at Horeb, and gives the context for the curses of chapter 28"
+  },
+  {
+   "topic": "deu_choose_life",
+   "prereq": "deu_moab_covenant",
+   "strength": "soft",
+   "reason": "Deuteronomy 30:1 speaks of the blessing and the curse that chapters 28 and 29 set out"
+  },
+  {
+   "topic": "deu_joshua_law_read",
+   "prereq": "deu_choose_life",
+   "strength": "soft",
+   "reason": "Deuteronomy 31:1 follows Moses' speeches in chapters 1 to 30 with his final arrangements; 3:28 had said Joshua would be charged"
+  },
+  {
+   "topic": "deu_song_of_moses",
+   "prereq": "deu_joshua_law_read",
+   "strength": "soft",
+   "reason": "Deuteronomy 31:19-22 says Moses was told to write this song and teach it to Israel"
+  },
+  {
+   "topic": "deu_moses_to_nebo",
+   "prereq": "deu_song_of_moses",
+   "strength": "soft",
+   "reason": "Deuteronomy 32:44 follows the end of the song and refers to Numbers 20 (Meribah)"
+  },
+  {
+   "topic": "deu_blessing_tribes",
+   "prereq": "deu_moses_to_nebo",
+   "strength": "soft",
+   "reason": "Deuteronomy 33:1 gives the blessing Moses spoke before his death, which the LORD announced in 32:48-52"
+  },
+  {
+   "topic": "deu_moses_death",
+   "prereq": "deu_blessing_tribes",
+   "strength": "soft",
+   "reason": "Deuteronomy 34:1 carries out the command to go up Nebo given in 32:49-50 after the blessing of chapter 33"
+  }
+ ],
+ "relations": [
+  {
+   "from": "lev_unlawful_unions",
+   "to": "rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 18:5",
+    "ROM 10:5"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "rom_authorities",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:18",
+    "ROM 13:9"
+   ]
+  },
+  {
+   "from": "deu_ten_words",
+   "to": "rom_authorities",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 5:17-21",
+    "ROM 13:9"
+   ]
+  },
+  {
+   "from": "deu_ten_words",
+   "to": "rom_law_sin",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 5:21",
+    "ROM 7:7"
+   ]
+  },
+  {
+   "from": "deu_choose_life",
+   "to": "rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 30:12-14",
+    "ROM 10:6-8"
+   ]
+  },
+  {
+   "from": "deu_song_of_moses",
+   "to": "rom_living_sacrifice",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 32:35",
+    "ROM 12:19"
+   ]
+  },
+  {
+   "from": "deu_song_of_moses",
+   "to": "rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 32:21",
+    "ROM 10:19"
+   ]
+  },
+  {
+   "from": "deu_song_of_moses",
+   "to": "rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 32:43",
+    "ROM 15:10"
+   ]
+  },
+  {
+   "from": "deu_ten_words",
+   "to": "deu_hear_statutes",
+   "kind": "part-of-covenant",
+   "refs": [
+    "DEU 4:13",
+    "DEU 5:2"
+   ]
+  },
+  {
+   "from": "deu_ten_words",
+   "to": "deu_golden_calf_recalled",
+   "kind": "part-of-covenant",
+   "refs": [
+    "DEU 9:9",
+    "DEU 10:4"
+   ]
+  }
+ ]
+}

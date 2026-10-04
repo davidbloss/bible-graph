@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/bible-taxonomy/schema/relations.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "relationCount", "relations"],
+  "properties": {
+    "version": { "type": "string" },
+    "relationCount": { "type": "integer" },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["from", "to", "kind", "refs"],
+        "properties": {
+          "from": { "type": "string", "pattern": "^bt_" },
+          "to": { "type": "string", "pattern": "^bt_" },
+          "kind": { "enum": ["fulfilled-in", "quoted-in", "parallels", "part-of-covenant", "illustrates-doctrine"] },
+          "refs": {
+            "type": "array",
+            "minItems": 1,
+            "description": "Scripture references justifying the edge. Required: no edge without a cited passage.",
+            "items": { "$ref": "topics.schema.json#/$defs/ref" }
+          }
+        }
+      }
+    }
+  }
+}

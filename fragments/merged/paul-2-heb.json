@@ -1,0 +1,2103 @@
+{
+ "topics": [
+  {
+   "id": "1th_faith_love_hope",
+   "type": "DOCTRINE",
+   "name": "Faith, love and hope in Thessalonica",
+   "description": "Paul thanks God for the Thessalonians' work of faith, labour of love and patience of hope, and recalls how they received the gospel and turned from idols to serve the living God and wait for his Son.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1TH 1"
+   ],
+   "evidence": [
+    "Name the three things Paul remembers in 1:3",
+    "Describe how 1:9-10 sums up their conversion"
+   ],
+   "prompt": "Can {{name}} explain what it means that the Thessalonians turned from idols to serve the living God and wait for his Son (1:9-10)?"
+  },
+  {
+   "id": "1th_paul_ministry",
+   "type": "THEME",
+   "name": "Paul's ministry among them",
+   "description": "Paul reminds them how he and his companions brought the gospel despite suffering at Philippi, working night and day, and treating them like a nurse and a father; the Thessalonians received it as the word of God.",
+   "covenant": null,
+   "ages": [
+    11,
+    17
+   ],
+   "passages": [
+    "1TH 2:1-16"
+   ],
+   "evidence": [
+    "Say why Paul did not flatter or seek glory (2:4-6)",
+    "Point out the nurse and father pictures (2:7, 2:11)"
+   ],
+   "prompt": "Can {{name}} describe how Paul says he behaved among the Thessalonians and how they received the word (2:13)?"
+  },
+  {
+   "id": "1th_timothy_sent",
+   "type": "STORY",
+   "name": "Longing to see them, and Timothy's report",
+   "description": "Hindered from returning, Paul sent Timothy from Athens to strengthen them, and Timothy's good news of their faith and love comforted Paul and led to his prayer for their love and holiness at Christ's coming.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "1TH 2:17-20",
+    "1TH 3"
+   ],
+   "evidence": [
+    "Tell why Paul sent Timothy (3:2, 3:5)",
+    "Summarise the prayer in 3:11-13"
+   ],
+   "prompt": "Can {{name}} explain why Paul sent Timothy and what news he brought back (3:5-6)?"
+  },
+  {
+   "id": "1th_holiness_love",
+   "type": "DOCTRINE",
+   "name": "Sanctification and brotherly love",
+   "description": "God's will is their sanctification: sexual purity, not wronging a brother, brotherly love, quiet living and honest work.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TH 4:1-12"
+   ],
+   "evidence": [
+    "State what 4:3 says is the will of God",
+    "List the practical commands of 4:11-12"
+   ],
+   "prompt": "Can {{name}} explain what Paul means by saying God has called us unto holiness, not uncleanness (4:7)?"
+  },
+  {
+   "id": "1th_lord_returns",
+   "type": "DOCTRINE",
+   "name": "Those who sleep in Jesus and the Lord's coming",
+   "description": "Paul comforts the Thessalonians about believers who have died: God will bring them with Jesus, the dead in Christ rise first, and all believers will be with the Lord for ever.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TH 4:13-18"
+   ],
+   "evidence": [
+    "Explain why believers need not sorrow as those without hope (4:13-14)",
+    "Order the events of 4:16-17"
+   ],
+   "prompt": "Can {{name}} tell what Paul says will happen to believers who have died when the Lord comes (4:16)?"
+  },
+  {
+   "id": "1th_day_of_lord",
+   "type": "DOCTRINE",
+   "name": "The day of the Lord and living as children of the day",
+   "description": "The day of the Lord comes as a thief in the night on those who say peace and safety, but believers, children of light, are to be watchful and sober, since God appointed them to salvation.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TH 5:1-11"
+   ],
+   "evidence": [
+    "Contrast night and day in 5:4-8",
+    "Name the armour in 5:8"
+   ],
+   "prompt": "Can {{name}} explain why Paul says believers are not in darkness that the day should overtake them as a thief (5:4-5)?"
+  },
+  {
+   "id": "1th_closing_exhortations",
+   "type": "THEME",
+   "name": "Closing exhortations and prayer",
+   "description": "Paul urges respect for leaders, care for the unruly and weak, joy, prayer and thanksgiving, testing everything, and prays that God sanctify them wholly and keep them blameless until Christ's coming.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "1TH 5:12-28"
+   ],
+   "evidence": [
+    "Recite 5:16-18",
+    "Describe how they are to treat the unruly, the feebleminded and the weak (5:14)"
+   ],
+   "prompt": "Can {{name}} name three of the short commands in 5:16-22 and say why they matter?"
+  },
+  {
+   "id": "book_1th",
+   "type": "BOOK_OVERVIEW",
+   "name": "1 Thessalonians: overview",
+   "description": "Paul's first letter to the Thessalonian church, from thanksgiving for their faith (ch. 1) through his ministry and concern for them (2-3), to holy living, the Lord's coming and closing exhortations (4-5).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TH 1..5"
+   ],
+   "evidence": [
+    "Describe the movement: thanksgiving (1), ministry and Timothy (2-3), holy living and the Lord's coming (4-5)"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what 1 Thessalonians is about?"
+  },
+  {
+   "id": "2th_judgment_relief",
+   "type": "DOCTRINE",
+   "name": "Persecution, God's righteous judgment and Christ revealed",
+   "description": "Paul thanks God for their growing faith under persecution and says God will repay those who trouble them and give rest to believers when the Lord Jesus is revealed from heaven.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2TH 1"
+   ],
+   "evidence": [
+    "State what 1:6-7 says God will do for the troubled and for those who trouble them",
+    "Describe how Christ is revealed in 1:7-10"
+   ],
+   "prompt": "Can {{name}} explain what Paul says will happen when the Lord Jesus is revealed from heaven (1:7-10)?"
+  },
+  {
+   "id": "2th_man_of_sin",
+   "type": "DOCTRINE",
+   "name": "The day of Christ and the man of sin",
+   "description": "Paul tells them not to be shaken as if the day of Christ had come, because a falling away and the revealing of the man of sin come first, whom the Lord will destroy at his coming.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "2TH 2:1-12"
+   ],
+   "evidence": [
+    "Say what must come before that day (2:3)",
+    "State what happens to the Wicked when the Lord comes (2:8)"
+   ],
+   "prompt": "Can {{name}} explain why Paul says the Thessalonians should not be troubled that the day of Christ is at hand (2:1-3)?"
+  },
+  {
+   "id": "2th_chosen_stand_fast",
+   "type": "DOCTRINE",
+   "name": "Chosen to salvation: stand fast",
+   "description": "Paul gives thanks that God chose them from the beginning to salvation through sanctification and belief of the truth, and tells them to hold the teachings they received and prays for their comfort.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2TH 2:13-17"
+   ],
+   "evidence": [
+    "Name the means of salvation in 2:13",
+    "Tell what Paul tells them to hold in 2:15"
+   ],
+   "prompt": "Can {{name}} explain what Paul says God has done for the Thessalonians in 2:13-14?"
+  },
+  {
+   "id": "2th_prayer_request",
+   "type": "THEME",
+   "name": "Pray for us; the Lord is faithful",
+   "description": "Paul asks prayer that the word of the Lord run freely and that they be delivered from wicked men, and affirms that the Lord is faithful to establish and keep them.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2TH 3:1-5"
+   ],
+   "evidence": [
+    "State the two requests of 3:1-2",
+    "Find who is faithful in 3:3"
+   ],
+   "prompt": "Can {{name}} say what Paul asks the Thessalonians to pray for, and who he says is faithful (3:1-3)?"
+  },
+  {
+   "id": "2th_idleness",
+   "type": "THEME",
+   "name": "Work, and dealing with the disorderly",
+   "description": "Paul commands them to withdraw from brothers who live disorderly and will not work, pointing to his own example of labour, and says to admonish such a person as a brother, not treat him as an enemy.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "2TH 3:6-18"
+   ],
+   "evidence": [
+    "Quote or paraphrase 3:10 and say who it addresses",
+    "Explain how the disorderly are to be treated (3:14-15)"
+   ],
+   "prompt": "Can {{name}} explain what example Paul set about work and what he told them to do about those who would not work (3:7-12)?"
+  },
+  {
+   "id": "book_2th",
+   "type": "BOOK_OVERVIEW",
+   "name": "2 Thessalonians: overview",
+   "description": "Paul's second letter to the Thessalonians on persecution and God's judgment (ch. 1), the day of Christ and the man of sin (ch. 2), and prayer, work and discipline (ch. 3).",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2TH 1..3"
+   ],
+   "evidence": [
+    "Describe the three movements: judgment and relief (1), the day of Christ (2), prayer and work (3)"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what 2 Thessalonians is about?"
+  },
+  {
+   "id": "1ti_false_teachers",
+   "type": "THEME",
+   "name": "Timothy charged at Ephesus: sound teaching and the law",
+   "description": "Paul left Timothy at Ephesus to charge some not to teach other doctrine or follow fables and endless genealogies; the aim of the commandment is love, and the law is good when used lawfully.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 1:1-11"
+   ],
+   "evidence": [
+    "State the aim of the charge (1:5)",
+    "Explain how 1:8-11 says the law is used lawfully"
+   ],
+   "prompt": "Can {{name}} explain why Paul left Timothy at Ephesus (1:3-5)?"
+  },
+  {
+   "id": "1ti_paul_mercy",
+   "type": "DOCTRINE",
+   "name": "Christ came to save sinners",
+   "description": "Paul thanks Christ for putting him into the ministry though he was a blasphemer and persecutor; Christ Jesus came into the world to save sinners, and Paul charges Timothy to hold faith and a good conscience.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 1:12-20"
+   ],
+   "evidence": [
+    "Recite or paraphrase 1:15",
+    "Say what Paul says his case shows about Christ (1:16)"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about himself and about why Christ Jesus came into the world (1:13-16)?"
+  },
+  {
+   "id": "1ti_prayer_mediator",
+   "type": "DOCTRINE",
+   "name": "Prayer for all, one God, one mediator",
+   "description": "Prayer is to be made for all men, including kings; God our Saviour wills all to be saved, and there is one God and one mediator, the man Christ Jesus, who gave himself a ransom for all.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 2:1-7"
+   ],
+   "evidence": [
+    "List the kinds of prayer in 2:1",
+    "State who the one mediator is (2:5)"
+   ],
+   "prompt": "Can {{name}} explain what 2:5-6 teaches about Jesus as mediator?"
+  },
+  {
+   "id": "1ti_worship_conduct",
+   "type": "THEME",
+   "name": "Conduct in the church: men, women and teaching",
+   "description": "Paul gives instruction on men praying and on women's modesty and good works, and says he does not permit a woman to teach or have authority over a man, grounding this in the order of Adam and Eve's creation and the deception.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "1TI 2:8-15"
+   ],
+   "evidence": [
+    "Describe what the text says about men praying and women adorning themselves (2:8-10)",
+    "State the reasons Paul gives in 2:13-14"
+   ],
+   "prompt": "Can {{name}} tell what reasons Paul gives from Genesis in 2:13-14 for his instruction in 2:12?"
+  },
+  {
+   "id": "1ti_overseers_deacons",
+   "type": "THEME",
+   "name": "Qualifications for overseers and deacons",
+   "description": "Paul lists the character required of a bishop (overseer) and of deacons and their wives, including a well-ordered household, a good report and tested blamelessness.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 3:1-13"
+   ],
+   "evidence": [
+    "Name several qualifications in 3:2-7",
+    "Say how deacons are to be proved (3:10)"
+   ],
+   "prompt": "Can {{name}} list some qualities of an overseer in 3:2-7 and say why household management matters (3:5)?"
+  },
+  {
+   "id": "1ti_mystery_godliness",
+   "type": "DOCTRINE",
+   "name": "The church and the mystery of godliness",
+   "description": "Paul writes so Timothy may know how to behave in the house of God, the church of the living God, the pillar and ground of the truth, and states the mystery of godliness: God manifest in the flesh, received up into glory.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 3:14-16"
+   ],
+   "evidence": [
+    "Say how 3:15 describes the church",
+    "List the six statements about Christ in 3:16"
+   ],
+   "prompt": "Can {{name}} name what Paul says about Christ in 1 Timothy 3:16?"
+  },
+  {
+   "id": "1ti_latter_times",
+   "type": "THEME",
+   "name": "Departing from the faith: good creation received with thanks",
+   "description": "The Spirit says some will depart from the faith, forbidding marriage and certain foods; Paul says every creature of God is good and sanctified by the word of God and prayer.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 4:1-5"
+   ],
+   "evidence": [
+    "State what the false teachers forbid (4:3)",
+    "Explain why 4:4-5 says food is not to be refused"
+   ],
+   "prompt": "Can {{name}} explain why Paul says nothing is to be refused if received with thanksgiving (4:4-5)?"
+  },
+  {
+   "id": "1ti_good_minister",
+   "type": "THEME",
+   "name": "A good minister of Jesus Christ",
+   "description": "Timothy is to refuse profane fables, train himself in godliness, set an example in word, conduct, love, faith and purity, devote himself to reading, exhortation and doctrine, and not neglect his gift.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 4:6-16"
+   ],
+   "evidence": [
+    "Recite or paraphrase 4:12",
+    "List the three things in 4:13"
+   ],
+   "prompt": "Can {{name}} explain what Paul tells Timothy to do so that no one despises his youth (4:12-16)?"
+  },
+  {
+   "id": "1ti_widows_family",
+   "type": "THEME",
+   "name": "Honouring widows and caring for family",
+   "description": "Timothy is to treat people of every age with respect, honour widows who are truly widows, expect families to care for their own, and set guidelines for enrolling widows and for younger widows.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1TI 5:1-16"
+   ],
+   "evidence": [
+    "State what 5:8 says about providing for one's own",
+    "Describe the tasks of a widow indeed (5:5, 5:10)"
+   ],
+   "prompt": "Can {{name}} explain who is to care for widows according to 5:4 and 5:16?"
+  },
+  {
+   "id": "1ti_elders_accusation",
+   "type": "THEME",
+   "name": "Elders: honour, accusation and impartiality",
+   "description": "Elders who rule well are worthy of double honour; an accusation against an elder needs two or three witnesses; Timothy is to rebuke sin openly, act without partiality, and not lay hands hastily.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1TI 5:17-25"
+   ],
+   "evidence": [
+    "Say how 5:18 supports honouring elders",
+    "State the rule about accusations in 5:19"
+   ],
+   "prompt": "Can {{name}} explain how Paul says an accusation against an elder should be handled (5:19-21)?"
+  },
+  {
+   "id": "1ti_godliness_contentment",
+   "type": "THEME",
+   "name": "Servants, false gain, and godliness with contentment",
+   "description": "Servants are to honour their masters; those who teach otherwise and suppose gain is godliness are to be avoided; godliness with contentment is great gain, and the love of money is a root of all evil.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 6:1-10"
+   ],
+   "evidence": [
+    "Recite 6:6-8",
+    "Explain what 6:10 says about the love of money"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about godliness with contentment and the love of money (6:6-10)?"
+  },
+  {
+   "id": "1ti_fight_good_fight",
+   "type": "THEME",
+   "name": "Fight the good fight; charge to the rich",
+   "description": "Timothy, a man of God, is to flee these things, pursue righteousness and godliness, fight the good fight of faith and keep the commandment until Christ's appearing; the rich are to trust the living God and do good.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "1TI 6:11-21"
+   ],
+   "evidence": [
+    "List what Timothy flees and follows (6:11)",
+    "State what the rich are told in 6:17-19"
+   ],
+   "prompt": "Can {{name}} explain what Paul charges Timothy to do in 6:11-14?"
+  },
+  {
+   "id": "book_1ti",
+   "type": "BOOK_OVERVIEW",
+   "name": "1 Timothy: overview",
+   "description": "Paul's letter to Timothy at Ephesus about sound doctrine, prayer, order in the church, qualified leaders, and a minister's conduct and charge.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "1TI 1..6"
+   ],
+   "evidence": [
+    "Describe how 3:15 states the letter's purpose",
+    "Name the main sections: false teaching, prayer and conduct, leaders, Timothy's ministry, groups in the church, closing charge"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what 1 Timothy is about (see 3:14-15)?"
+  },
+  {
+   "id": "2ti_not_ashamed",
+   "type": "THEME",
+   "name": "Stir up the gift; do not be ashamed of the gospel",
+   "description": "Paul remembers Timothy's sincere faith and tells him to stir up God's gift, not be ashamed of the testimony, and share in the afflictions of the gospel, since God saved and called us by his own purpose and grace and Christ brought life and immortality to light.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2TI 1:1-14"
+   ],
+   "evidence": [
+    "Say whose faith dwelt in Timothy first (1:5)",
+    "Explain how 1:9-10 describes salvation"
+   ],
+   "prompt": "Can {{name}} explain what Paul tells Timothy to do in 1:6-8 and why (1:9-10)?"
+  },
+  {
+   "id": "2ti_onesiphorus",
+   "type": "STORY",
+   "name": "Those who turned away and Onesiphorus who refreshed Paul",
+   "description": "Paul notes that all in Asia have turned away from him, including Phygellus and Hermogenes, while Onesiphorus often refreshed him and sought him out in Rome.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "2TI 1:15-18"
+   ],
+   "evidence": [
+    "Contrast the two groups in 1:15-16",
+    "Tell what Onesiphorus did in Rome (1:17)"
+   ],
+   "prompt": "Can {{name}} tell what Onesiphorus did for Paul and why Paul prays for him (1:16-18)?"
+  },
+  {
+   "id": "2ti_endure_hardness",
+   "type": "THEME",
+   "name": "Strong in grace: soldier, athlete, farmer",
+   "description": "Timothy is to pass on what he heard to faithful men, endure hardness as a good soldier, strive lawfully like an athlete and labour like a farmer; Paul endures for the elect, and the faithful saying says if we die with him we shall live with him.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2TI 2:1-13"
+   ],
+   "evidence": [
+    "Name the three pictures in 2:3-6",
+    "Recite the faithful saying of 2:11-13"
+   ],
+   "prompt": "Can {{name}} explain the soldier, athlete and farmer pictures in 2:3-6 and what they teach?"
+  },
+  {
+   "id": "2ti_approved_workman",
+   "type": "THEME",
+   "name": "A workman approved by God",
+   "description": "Timothy is to avoid wrangling about words and profane babblings, rightly handle the word of truth, and flee youthful lusts; the Lord's servant must be gentle and patient, instructing opponents in hope that God grants repentance.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2TI 2:14-26"
+   ],
+   "evidence": [
+    "State the goal of 2:15",
+    "Describe how the Lord's servant treats opponents (2:24-26)"
+   ],
+   "prompt": "Can {{name}} explain what it means to be a workman who rightly divides the word of truth (2:15)?"
+  },
+  {
+   "id": "2ti_last_days",
+   "type": "THEME",
+   "name": "Perilous times in the last days",
+   "description": "Paul describes men in the last days with a form of godliness but denying its power, compares them to Jannes and Jambres who withstood Moses, and says they will not progress further.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "2TI 3:1-9"
+   ],
+   "evidence": [
+    "List several marks of the men in 3:2-4",
+    "Say who Jannes and Jambres are compared to (3:8)"
+   ],
+   "prompt": "Can {{name}} describe what Paul says about people in the last days and what Timothy should do about them (3:1-5)?"
+  },
+  {
+   "id": "2ti_scripture",
+   "type": "DOCTRINE",
+   "name": "Continue in Scripture, inspired by God",
+   "description": "Timothy is to continue in what he learned, having known the holy scriptures from childhood; all scripture is given by inspiration of God and is profitable for teaching, reproof, correction and training in righteousness, so the man of God is thoroughly furnished.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "2TI 3:10-17"
+   ],
+   "evidence": [
+    "Say what the scriptures are able to do (3:15)",
+    "List the four uses in 3:16"
+   ],
+   "prompt": "Can {{name}} explain what 3:16-17 says about Scripture and what it is for?"
+  },
+  {
+   "id": "2ti_preach_word",
+   "type": "THEME",
+   "name": "Preach the word: Paul's charge and finished course",
+   "description": "Paul charges Timothy before God and Christ to preach the word in season and out, warns of those who will not endure sound doctrine, and says he is ready to be offered, having fought the good fight and awaiting a crown of righteousness.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2TI 4:1-8"
+   ],
+   "evidence": [
+    "Recite 4:2",
+    "Describe what Paul says of his own course in 4:6-8"
+   ],
+   "prompt": "Can {{name}} explain what Paul charges Timothy to do and what Paul says awaits him (4:2, 4:7-8)?"
+  },
+  {
+   "id": "2ti_final_requests",
+   "type": "STORY",
+   "name": "Paul's last requests and greetings",
+   "description": "Paul asks Timothy to come, names companions who left or remain, recounts that none stood with him at his first answer but the Lord stood with him, and sends greetings.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "2TI 4:9-22"
+   ],
+   "evidence": [
+    "Say who is with Paul in 4:11",
+    "Tell who stood with Paul at his first answer (4:16-17)"
+   ],
+   "prompt": "Can {{name}} say who stood with Paul at his first defence and what he asks Timothy to bring (4:11-17)?"
+  },
+  {
+   "id": "book_2ti",
+   "type": "BOOK_OVERVIEW",
+   "name": "2 Timothy: overview",
+   "description": "Paul's last letter in this collection, written as a prisoner to Timothy, urging faithfulness, endurance, trust in Scripture and preaching the word until the end.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "2TI 1..4"
+   ],
+   "evidence": [
+    "Describe the four chapters: not ashamed (1), endure and handle the word (2), Scripture in the last days (3), the charge and Paul's last words (4)"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what 2 Timothy is about?"
+  },
+  {
+   "id": "tit_elders_crete",
+   "type": "THEME",
+   "name": "Elders in every city of Crete",
+   "description": "Paul greets Titus, mentions the hope of eternal life promised before the world began, and tells him he left him in Crete to appoint elders who are blameless and hold fast the faithful word.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "TIT 1:1-9"
+   ],
+   "evidence": [
+    "State why Paul left Titus in Crete (1:5)",
+    "List some qualities of an elder in 1:6-9"
+   ],
+   "prompt": "Can {{name}} explain why Paul left Titus in Crete and what kind of men were to be elders (1:5-9)?"
+  },
+  {
+   "id": "tit_rebuke_deceivers",
+   "type": "THEME",
+   "name": "Rebuking the unruly teachers",
+   "description": "Many unruly talkers, especially of the circumcision, subvert households for gain; Titus is to rebuke them sharply, since they profess to know God but deny him by their works.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "TIT 1:10-16"
+   ],
+   "evidence": [
+    "Say what these teachers do (1:11)",
+    "Explain 1:16"
+   ],
+   "prompt": "Can {{name}} explain what Paul says about those who profess to know God but deny him by works (1:16)?"
+  },
+  {
+   "id": "tit_sound_doctrine_lives",
+   "type": "THEME",
+   "name": "Sound doctrine in every household",
+   "description": "Titus is to teach what fits sound doctrine to older men and women, younger women and men, and servants, and to be a pattern of good works himself.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "TIT 2:1-10"
+   ],
+   "evidence": [
+    "Name the groups in 2:2-10",
+    "State why Titus must be an example (2:7-8)"
+   ],
+   "prompt": "Can {{name}} describe how Paul wants the different groups to live and why (2:5, 2:8, 2:10)?"
+  },
+  {
+   "id": "tit_grace_appeared",
+   "type": "DOCTRINE",
+   "name": "The grace of God has appeared",
+   "description": "The grace of God that brings salvation has appeared to all men, teaching us to deny ungodliness and live soberly while looking for the glorious appearing of our great God and Saviour Jesus Christ, who gave himself to redeem and purify a people for himself.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "TIT 2:11-15"
+   ],
+   "evidence": [
+    "Say what grace teaches in 2:12",
+    "State what Christ gave himself to do in 2:14"
+   ],
+   "prompt": "Can {{name}} explain what Titus 2:11-14 says grace teaches us and what Christ did for us?"
+  },
+  {
+   "id": "tit_saved_by_mercy",
+   "type": "DOCTRINE",
+   "name": "Saved by mercy, not by works",
+   "description": "Believers once lived in folly and malice, but God our Saviour saved them according to his mercy, not works, through the washing of regeneration and renewing of the Holy Ghost, that they might be justified by grace and be heirs; they are to be careful to maintain good works.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "TIT 3:1-8"
+   ],
+   "evidence": [
+    "Say what 3:5 says saved us and what it says did not",
+    "Describe how believers are to treat others (3:1-2)"
+   ],
+   "prompt": "Can {{name}} explain what Titus 3:4-7 says about how God saved us?"
+  },
+  {
+   "id": "tit_closing_warnings",
+   "type": "THEME",
+   "name": "Avoiding division, and final instructions",
+   "description": "Titus is to avoid foolish questions and genealogies, reject a divisive man after two admonitions, and Paul closes with travel instructions, names of helpers and greetings.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "TIT 3:9-15"
+   ],
+   "evidence": [
+    "State what to do with a divisive man (3:10)",
+    "Name people mentioned in 3:12-13"
+   ],
+   "prompt": "Can {{name}} tell what Paul says to avoid and what to do after admonishing a divisive person twice (3:9-10)?"
+  },
+  {
+   "id": "book_tit",
+   "type": "BOOK_OVERVIEW",
+   "name": "Titus: overview",
+   "description": "Paul's letter to Titus in Crete about appointing elders, opposing unruly teachers, sound doctrine in daily life, and salvation by grace that leads to good works.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "TIT 1..3"
+   ],
+   "evidence": [
+    "Describe the three chapters: order and elders (1), sound doctrine and grace (2), mercy and good works (3)"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what Titus is about?"
+  },
+  {
+   "id": "phm_philemons_love",
+   "type": "THEME",
+   "name": "Greeting and thanks for Philemon's love",
+   "description": "Paul and Timothy greet Philemon, Apphia, Archippus and the church in his house, and Paul thanks God for Philemon's love and faith toward the Lord Jesus and all saints.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "PHM 1:1-7"
+   ],
+   "evidence": [
+    "Name the people greeted in 1:1-2",
+    "Say what Paul has heard of Philemon (1:5)"
+   ],
+   "prompt": "Can {{name}} tell what Paul thanks God for about Philemon (1:4-7)?"
+  },
+  {
+   "id": "phm_onesimus",
+   "type": "STORY",
+   "name": "Paul appeals for Onesimus",
+   "description": "Paul, an aged prisoner, urges Philemon out of love to receive Onesimus, whom he begot in his bonds, no longer as a servant but as a beloved brother.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "PHM 1:8-16"
+   ],
+   "evidence": [
+    "State how Paul describes Onesimus in 1:10-11",
+    "Say how Paul wants Philemon to receive him (1:16)"
+   ],
+   "prompt": "Can {{name}} explain what Paul asks Philemon to do about Onesimus and why he asks by love rather than command (1:8-16)?"
+  },
+  {
+   "id": "phm_receive_as_me",
+   "type": "STORY",
+   "name": "Receive him as myself",
+   "description": "Paul asks Philemon to receive Onesimus as he would receive Paul, offers to repay anything Onesimus owes, expresses confidence in Philemon, and sends greetings from his companions.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "PHM 1:17-25"
+   ],
+   "evidence": [
+    "Say what Paul offers in 1:18-19",
+    "Name the fellow workers who send greetings (1:23-24)"
+   ],
+   "prompt": "Can {{name}} explain what Paul offers to do if Onesimus has wronged Philemon (1:17-19)?"
+  },
+  {
+   "id": "book_phm",
+   "type": "BOOK_OVERVIEW",
+   "name": "Philemon: overview",
+   "description": "Paul's short personal letter to Philemon, appealing on behalf of Onesimus.",
+   "covenant": null,
+   "ages": [
+    10,
+    16
+   ],
+   "passages": [
+    "PHM 1"
+   ],
+   "evidence": [
+    "Summarise the letter's one request in 1:10-17"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what Philemon is about?"
+  },
+  {
+   "id": "heb_son_better_than_angels",
+   "type": "DOCTRINE",
+   "name": "God has spoken by his Son",
+   "description": "God who spoke by the prophets has in these last days spoken by his Son, heir of all things, maker of the worlds, radiance of his glory, who purged sins and sat at God's right hand, better than the angels.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 1"
+   ],
+   "evidence": [
+    "List what 1:2-3 says about the Son",
+    "Say how 1:4-14 compares him with angels"
+   ],
+   "prompt": "Can {{name}} explain what Hebrews 1:1-4 says about how God has spoken and who the Son is?"
+  },
+  {
+   "id": "heb_great_salvation",
+   "type": "THEME",
+   "name": "Do not neglect so great salvation",
+   "description": "Because the word spoken through angels was steadfast, the readers must give heed to the salvation first spoken by the Lord and confirmed by those who heard him, with God bearing witness by signs and wonders.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 2:1-4"
+   ],
+   "evidence": [
+    "State the question of 2:3",
+    "Say how the message was confirmed (2:3-4)"
+   ],
+   "prompt": "Can {{name}} explain the warning of 2:1-3 and why it is serious?"
+  },
+  {
+   "id": "heb_jesus_like_brothers",
+   "type": "DOCTRINE",
+   "name": "Jesus made like his brothers",
+   "description": "Jesus, made a little lower than the angels, tasted death for everyone, shared flesh and blood to destroy the devil and free those enslaved by fear of death, and became a merciful and faithful high priest able to help the tempted.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 2:5-18"
+   ],
+   "evidence": [
+    "Say why he shared flesh and blood (2:14-15)",
+    "State what kind of high priest he is (2:17)"
+   ],
+   "prompt": "Can {{name}} explain why Jesus became like his brothers according to Hebrews 2:14-18?"
+  },
+  {
+   "id": "heb_greater_than_moses",
+   "type": "DOCTRINE",
+   "name": "Christ greater than Moses",
+   "description": "Moses was faithful as a servant in God's house, but Christ is faithful as a Son over his own house, and believers are that house if they hold fast.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 3:1-6"
+   ],
+   "evidence": [
+    "Compare servant and son in 3:5-6",
+    "Say what condition 3:6 states"
+   ],
+   "prompt": "Can {{name}} explain how the text says Christ is greater than Moses (3:3-6)?"
+  },
+  {
+   "id": "heb_unbelief_wilderness",
+   "type": "THEME",
+   "name": "Do not harden your hearts as in the wilderness",
+   "description": "Quoting the warning that God swore the generation that provoked him in the wilderness would not enter his rest, the writer urges them to beware an evil heart of unbelief and to exhort one another daily.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 3:7-19"
+   ],
+   "evidence": [
+    "Say why that generation could not enter (3:19)",
+    "Describe what 3:12-13 tells the readers to do"
+   ],
+   "prompt": "Can {{name}} explain what happened to those who came out of Egypt and what warning the writer draws (3:16-19)?"
+  },
+  {
+   "id": "heb_sabbath_rest",
+   "type": "DOCTRINE",
+   "name": "A rest remains for the people of God",
+   "description": "The promise of entering God's rest still stands: the gospel preached to them did not profit those without faith, God rested on the seventh day, and a Sabbath rest remains for God's people, so they must labour to enter it.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 4:1-13"
+   ],
+   "evidence": [
+    "Cite the creation rest mentioned in 4:4",
+    "State what remains for the people of God (4:9)",
+    "Say what the word of God does in 4:12"
+   ],
+   "prompt": "Can {{name}} explain what the rest is that remains for God's people, and what warning goes with it (4:9-11)?"
+  },
+  {
+   "id": "heb_great_high_priest",
+   "type": "DOCTRINE",
+   "name": "A great high priest who sympathises",
+   "description": "We have a great high priest, Jesus the Son of God, who passed into the heavens and was tempted in all points like us yet without sin, so we may come boldly to the throne of grace.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "HEB 4:14-16"
+   ],
+   "evidence": [
+    "Say how Jesus is like and unlike us (4:15)",
+    "State where we may come (4:16)"
+   ],
+   "prompt": "Can {{name}} explain why we may come boldly to the throne of grace (4:14-16)?"
+  },
+  {
+   "id": "heb_priest_called",
+   "type": "DOCTRINE",
+   "name": "Called as high priest after Melchizedek's order",
+   "description": "Every high priest is taken from men to offer gifts and sacrifices and is called of God as Aaron was; Christ was so called, learned obedience through suffering, and became the source of eternal salvation, a priest after the order of Melchizedek.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 5:1-10"
+   ],
+   "evidence": [
+    "List what a high priest does (5:1-3)",
+    "Say how Christ became a high priest (5:5-6, 5:10)"
+   ],
+   "prompt": "Can {{name}} explain how the text says Christ was called to be high priest (5:4-10)?"
+  },
+  {
+   "id": "heb_press_on",
+   "type": "THEME",
+   "name": "From milk to solid food: a warning and encouragement",
+   "description": "The writer says the readers are dull of hearing and need milk, urges them to go on to maturity, warns about falling away after being enlightened, and is persuaded of better things, praising their work of love and urging diligence and patience.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 5:11-14",
+    "HEB 6:1-12"
+   ],
+   "evidence": [
+    "Contrast milk and strong meat (5:12-14)",
+    "Describe the two earth pictures of 6:7-8",
+    "Say what the writer is persuaded of (6:9-10)"
+   ],
+   "prompt": "Can {{name}} explain what the writer asks the readers to do in 6:1 and why (5:11-14)?"
+  },
+  {
+   "id": "heb_oath_anchor",
+   "type": "DOCTRINE",
+   "name": "God's oath to Abraham: an anchor of the soul",
+   "description": "God promised Abraham and confirmed it by an oath, swearing by himself; by two unchangeable things the heirs of promise have strong comfort, a hope like an anchor that enters within the veil where Jesus has gone as forerunner, a high priest after Melchizedek's order.",
+   "covenant": "cv_abrahamic",
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 6:13-20"
+   ],
+   "evidence": [
+    "State why God swore by himself (6:13)",
+    "Describe the anchor picture of 6:19-20"
+   ],
+   "prompt": "Can {{name}} explain what the text says about God's promise and oath to Abraham, and why it gives us hope (6:13-19)?"
+  },
+  {
+   "id": "heb_melchizedek",
+   "type": "DOCTRINE",
+   "name": "Melchizedek, king of Salem and priest",
+   "description": "Melchizedek, king of Salem and priest of the most high God, met Abraham, blessed him and received tithes; this shows he is greater than Abraham and the Levites, and is made like the Son of God, abiding a priest continually.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 7:1-10"
+   ],
+   "evidence": [
+    "Retell how 7:1-2 summarises Genesis 14",
+    "Explain the argument that the lesser is blessed by the greater (7:7)"
+   ],
+   "prompt": "Can {{name}} explain what Hebrews 7:1-10 says about Melchizedek and why he is called greater than Abraham?"
+  },
+  {
+   "id": "heb_priesthood_changed",
+   "type": "DOCTRINE",
+   "name": "Another priest, a change of law, an unchangeable priesthood",
+   "description": "Because perfection did not come through the Levitical priesthood, another priest arose from Judah after the order of Melchizedek, by an oath and the power of an endless life; Jesus is surety of a better testament and lives to save to the uttermost and intercede.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 7:11-28"
+   ],
+   "evidence": [
+    "State why another priest was needed (7:11)",
+    "Explain how Jesus differs from the many priests (7:23-27)"
+   ],
+   "prompt": "Can {{name}} explain why the writer says the priesthood had to change and what Jesus' priesthood is like (7:11-25)?"
+  },
+  {
+   "id": "heb_new_covenant",
+   "type": "COVENANT",
+   "name": "A better covenant: the new covenant promised",
+   "description": "Jesus ministers in the true tabernacle as mediator of a better covenant on better promises; the writer cites the promise of a new covenant, in which God will write his laws on hearts, be their God, and remember their sins no more, making the first old.",
+   "covenant": "cv_new",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 8"
+   ],
+   "evidence": [
+    "State what is better about the covenant (8:6)",
+    "List the promises of 8:10-12",
+    "Say what 8:13 says about the first covenant"
+   ],
+   "prompt": "Can {{name}} describe what the writer says God promised in the new covenant (8:8-12)?"
+  },
+  {
+   "id": "heb_earthly_tabernacle",
+   "type": "THEME",
+   "name": "The first covenant's tabernacle and ordinances",
+   "description": "The first covenant had a worldly sanctuary with a first tent and Most Holy Place containing the ark, and only the high priest entered once a year with blood; the writer says the Holy Spirit signified this could not perfect the conscience until a time of reformation.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 9:1-10"
+   ],
+   "evidence": [
+    "Name items in the Holiest of all (9:3-4)",
+    "Say what the Holy Spirit showed by the arrangement (9:8)"
+   ],
+   "prompt": "Can {{name}} describe the tabernacle arrangements and what they could not do (9:1-10)?"
+  },
+  {
+   "id": "heb_blood_of_christ",
+   "type": "DOCTRINE",
+   "name": "Christ's own blood and the mediator of the new testament",
+   "description": "Christ entered the heavenly sanctuary once by his own blood, obtained eternal redemption, and is the mediator of the new testament; the first was dedicated with blood, without shedding of blood there is no remission, and he will appear a second time without sin for salvation.",
+   "covenant": "cv_new",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 9:11-28"
+   ],
+   "evidence": [
+    "Contrast animal blood and Christ's blood (9:12-14)",
+    "State what 9:22 says about blood and remission",
+    "Describe the two appearings in 9:26-28"
+   ],
+   "prompt": "Can {{name}} explain why the writer says Christ's blood does what the blood of bulls and goats could not (9:12-14)?"
+  },
+  {
+   "id": "heb_one_sacrifice",
+   "type": "DOCTRINE",
+   "name": "One sacrifice for sins for ever",
+   "description": "The law's repeated sacrifices could not take away sins, but Christ came to do God's will and by one offering of his body perfected for ever those who are sanctified; the writer again cites the covenant promise that sins will be remembered no more.",
+   "covenant": "cv_new",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 10:1-18"
+   ],
+   "evidence": [
+    "Say why the old sacrifices were repeated (10:1-4)",
+    "State what Christ did and where he sat down (10:10-14)"
+   ],
+   "prompt": "Can {{name}} explain why Christ's single offering is enough according to Hebrews 10:10-18?"
+  },
+  {
+   "id": "heb_draw_near",
+   "type": "THEME",
+   "name": "Draw near with full assurance",
+   "description": "Because of boldness to enter the holiest by the blood of Jesus, through the veil of his flesh, and with a great priest over God's house, believers are to draw near with a true heart, hold fast their hope, provoke one another to love and good works, and not stop meeting together.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 10:19-25"
+   ],
+   "evidence": [
+    "List the three \"let us\" calls in 10:22-24",
+    "Say what 10:25 warns against"
+   ],
+   "prompt": "Can {{name}} explain what the writer says believers should do because of Jesus' blood and high priesthood (10:19-25)?"
+  },
+  {
+   "id": "heb_endure_faith",
+   "type": "THEME",
+   "name": "Warning against wilful sin; endure and live by faith",
+   "description": "The writer warns that no sacrifice remains for wilful sin after receiving the truth, reminds readers of their earlier endurance, and urges patience, since the just shall live by faith and they are not of those who draw back.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 10:26-39"
+   ],
+   "evidence": [
+    "Describe the warning of 10:26-29",
+    "State what the just shall do (10:38)",
+    "Tell what the readers endured before (10:32-34)"
+   ],
+   "prompt": "Can {{name}} explain what the writer asks the readers to remember and do in 10:32-39?"
+  },
+  {
+   "id": "heb_faith_defined",
+   "type": "DOCTRINE",
+   "name": "What faith is: Abel, Enoch and Noah",
+   "description": "Faith is the substance of things hoped for and evidence of things unseen; by faith Abel offered a better sacrifice, Enoch was translated, and Noah built the ark; without faith it is impossible to please God.",
+   "covenant": null,
+   "ages": [
+    10,
+    18
+   ],
+   "passages": [
+    "HEB 11:1-7"
+   ],
+   "evidence": [
+    "Recite or paraphrase 11:1",
+    "Say what 11:6 requires of one who comes to God",
+    "Name what each of Abel, Enoch and Noah did by faith"
+   ],
+   "prompt": "Can {{name}} explain what faith is (11:1) and give the example of Noah (11:7)?"
+  },
+  {
+   "id": "heb_faith_patriarchs",
+   "type": "STORY",
+   "name": "By faith Abraham, Sarah and the patriarchs",
+   "description": "By faith Abraham went out not knowing where, sojourned as a stranger seeking a city built by God, Sara received strength to bear a child, Abraham offered Isaac, and Isaac, Jacob and Joseph acted in faith about things to come.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "HEB 11:8-22"
+   ],
+   "evidence": [
+    "Say what Abraham did by faith in 11:8-10 and 11:17-19",
+    "Name what Isaac, Jacob and Joseph did in 11:20-22",
+    "State what 11:13-16 says these people sought"
+   ],
+   "prompt": "Can {{name}} tell what Abraham did by faith and what the patriarchs were looking for (11:8-16)?"
+  },
+  {
+   "id": "heb_faith_moses_conquest",
+   "type": "STORY",
+   "name": "By faith Moses, Israel and Rahab",
+   "description": "By faith Moses' parents hid him, Moses chose affliction with God's people over Egypt's pleasures, kept the Passover, Israel crossed the Red Sea and the walls of Jericho fell, and Rahab was not destroyed.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "HEB 11:23-31"
+   ],
+   "evidence": [
+    "List what Moses did by faith (11:24-28)",
+    "Name the two events of 11:29-30"
+   ],
+   "prompt": "Can {{name}} describe what Moses chose by faith and why (11:24-27)?"
+  },
+  {
+   "id": "heb_faith_many",
+   "type": "THEME",
+   "name": "The rest of the cloud: triumph and suffering by faith",
+   "description": "The writer lists Gideon, Barak, Samson, Jephthah, David, Samuel and the prophets, and describes those who conquered and those who suffered, none of whom received the promise without us.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 11:32-40"
+   ],
+   "evidence": [
+    "Name some people in 11:32",
+    "Contrast the two kinds of experience in 11:33-38",
+    "State 11:39-40"
+   ],
+   "prompt": "Can {{name}} explain what the writer says about those who by faith suffered and had not yet received the promise (11:35-40)?"
+  },
+  {
+   "id": "heb_run_race",
+   "type": "THEME",
+   "name": "Looking to Jesus, the author and finisher of faith",
+   "description": "Surrounded by a cloud of witnesses, believers lay aside every weight and sin and run with patience, looking to Jesus, who endured the cross for the joy set before him and sat down at God's right hand.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "HEB 12:1-3"
+   ],
+   "evidence": [
+    "State what we lay aside and what we run (12:1)",
+    "Say what Jesus endured and where he is (12:2)"
+   ],
+   "prompt": "Can {{name}} explain what 12:1-2 tells believers to do and why they should look to Jesus?"
+  },
+  {
+   "id": "heb_discipline",
+   "type": "DOCTRINE",
+   "name": "The Lord's discipline of his sons",
+   "description": "The writer reminds readers that the Lord chastens those he loves as a father disciplines sons, for their profit and holiness, and that discipline afterwards yields the peaceful fruit of righteousness.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "HEB 12:4-13"
+   ],
+   "evidence": [
+    "State why God chastens (12:6, 12:10)",
+    "Describe the result in 12:11"
+   ],
+   "prompt": "Can {{name}} explain why the writer says God's discipline is a sign of sonship (12:5-11)?"
+  },
+  {
+   "id": "heb_holiness_esau",
+   "type": "THEME",
+   "name": "Pursue peace and holiness; the example of Esau",
+   "description": "The readers are to follow peace and holiness, watch against a root of bitterness, and not be like Esau, who sold his birthright for one meal and later found no place of repentance though he sought the blessing with tears.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 12:14-17"
+   ],
+   "evidence": [
+    "Say what we are to follow (12:14)",
+    "Tell what Esau did and what happened afterward (12:16-17)"
+   ],
+   "prompt": "Can {{name}} explain what the writer says about Esau as a warning (12:15-17)?"
+  },
+  {
+   "id": "heb_sinai_zion",
+   "type": "DOCTRINE",
+   "name": "Not Mount Sinai but Mount Zion",
+   "description": "Believers have not come to the fearful mountain of Sinai but to mount Zion, the heavenly Jerusalem, to God, to Jesus the mediator of the new covenant and to the blood of sprinkling; they must not refuse the one who speaks, and receive a kingdom that cannot be shaken.",
+   "covenant": "cv_new",
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 12:18-29"
+   ],
+   "evidence": [
+    "Contrast the two mountains (12:18-24)",
+    "State what is said of the kingdom and of God (12:28-29)"
+   ],
+   "prompt": "Can {{name}} explain how Hebrews 12:18-24 contrasts Sinai with Zion and names Jesus there?"
+  },
+  {
+   "id": "heb_love_in_life",
+   "type": "THEME",
+   "name": "Brotherly love, marriage and contentment",
+   "description": "The writer calls for brotherly love and hospitality to strangers, remembering prisoners, honour in marriage, and a life free from covetousness because God has said he will never leave or forsake.",
+   "covenant": null,
+   "ages": [
+    11,
+    18
+   ],
+   "passages": [
+    "HEB 13:1-6"
+   ],
+   "evidence": [
+    "List the commands of 13:1-5",
+    "Say what promise supports contentment (13:5)"
+   ],
+   "prompt": "Can {{name}} name some practical commands in 13:1-5 and the promise that supports them?"
+  },
+  {
+   "id": "heb_outside_camp",
+   "type": "THEME",
+   "name": "Leaders, Jesus outside the camp, and sacrifices of praise",
+   "description": "Readers are to remember their leaders, avoid strange doctrines, go out to Jesus outside the camp bearing his reproach, seeking the city to come, and offer sacrifices of praise and doing good.",
+   "covenant": null,
+   "ages": [
+    13,
+    18
+   ],
+   "passages": [
+    "HEB 13:7-16"
+   ],
+   "evidence": [
+    "Recite 13:8",
+    "Say where Jesus suffered and what believers are to do (13:12-13)",
+    "List the sacrifices of 13:15-16"
+   ],
+   "prompt": "Can {{name}} explain what it means to go to Jesus outside the camp and what sacrifices God is pleased with (13:12-16)?"
+  },
+  {
+   "id": "heb_closing",
+   "type": "THEME",
+   "name": "Obey leaders; blessing and farewell",
+   "description": "The writer asks them to obey their leaders and pray for him, prays that the God of peace who raised Jesus through the blood of the everlasting covenant would equip them, and closes with news of Timothy and greetings.",
+   "covenant": null,
+   "ages": [
+    12,
+    18
+   ],
+   "passages": [
+    "HEB 13:17-25"
+   ],
+   "evidence": [
+    "Say what the benediction asks of God (13:20-21)",
+    "Note the greeting from those of Italy (13:24)"
+   ],
+   "prompt": "Can {{name}} describe the prayer of 13:20-21 and what it says about Jesus?"
+  },
+  {
+   "id": "book_heb",
+   "type": "BOOK_OVERVIEW",
+   "name": "Hebrews: overview",
+   "description": "The letter to the Hebrews presents Jesus as God's Son, greater than angels and Moses, our great high priest after Melchizedek who mediates a better covenant by one sacrifice, and calls readers to faith and endurance.",
+   "covenant": null,
+   "ages": [
+    14,
+    18
+   ],
+   "passages": [
+    "HEB 1..13"
+   ],
+   "evidence": [
+    "Describe the main parts: the Son (1-2), Moses and rest (3-4), the high priest (4-7), the new covenant and sacrifice (8-10), faith (11), endurance and exhortations (12-13)"
+   ],
+   "prompt": "Can {{name}} explain in a few sentences what Hebrews teaches about Jesus and what the readers are told to do?"
+  }
+ ],
+ "dependencies": [
+  {
+   "topic": "1th_paul_ministry",
+   "prereq": "1th_faith_love_hope",
+   "strength": "soft",
+   "reason": "1 Thessalonians 2:1 looks back on Paul's entrance among them, mentioned in 1:5-9"
+  },
+  {
+   "topic": "1th_timothy_sent",
+   "prereq": "1th_paul_ministry",
+   "strength": "soft",
+   "reason": "2:17 continues from his time among them in 2:1-16 to being taken from them"
+  },
+  {
+   "topic": "1th_holiness_love",
+   "prereq": "1th_timothy_sent",
+   "strength": "soft",
+   "reason": "Chapter 4 begins \"Furthermore then\" after the prayer for their holiness in 3:12-13"
+  },
+  {
+   "topic": "1th_lord_returns",
+   "prereq": "1th_holiness_love",
+   "strength": "soft",
+   "reason": "4:13 follows the exhortations of 4:1-12 with a new matter about those who sleep"
+  },
+  {
+   "topic": "1th_day_of_lord",
+   "prereq": "1th_lord_returns",
+   "strength": "hard",
+   "reason": "5:1-2 takes up the times and seasons of the Lord's coming described in 4:13-18"
+  },
+  {
+   "topic": "1th_closing_exhortations",
+   "prereq": "1th_day_of_lord",
+   "strength": "soft",
+   "reason": "5:12 turns to practical instruction after 5:1-11 (\"Wherefore comfort yourselves\" in 5:11)"
+  },
+  {
+   "topic": "book_1th",
+   "prereq": "1th_faith_love_hope",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the letter, which begins with 1:1-10"
+  },
+  {
+   "topic": "2th_judgment_relief",
+   "prereq": "1th_day_of_lord",
+   "strength": "soft",
+   "reason": "2 Thessalonians 1:7-10 continues the theme of the Lord's coming that 1 Thessalonians 5:1-11 discusses"
+  },
+  {
+   "topic": "2th_man_of_sin",
+   "prereq": "2th_judgment_relief",
+   "strength": "hard",
+   "reason": "2:1 appeals to the coming of the Lord Jesus described in chapter 1:7-10"
+  },
+  {
+   "topic": "2th_chosen_stand_fast",
+   "prereq": "2th_man_of_sin",
+   "strength": "soft",
+   "reason": "2:13 contrasts the Thessalonians with those who perish in 2:10-12"
+  },
+  {
+   "topic": "2th_prayer_request",
+   "prereq": "2th_chosen_stand_fast",
+   "strength": "soft",
+   "reason": "3:1 begins \"Finally\" after the prayer of 2:16-17"
+  },
+  {
+   "topic": "2th_idleness",
+   "prereq": "2th_prayer_request",
+   "strength": "soft",
+   "reason": "3:6 begins the commands that follow 3:1-5"
+  },
+  {
+   "topic": "book_2th",
+   "prereq": "2th_judgment_relief",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the letter, which begins with 1:1-12"
+  },
+  {
+   "topic": "1ti_paul_mercy",
+   "prereq": "1ti_false_teachers",
+   "strength": "soft",
+   "reason": "1:12-20 continues from the lawful use of the law and \"the glorious gospel\" in 1:11"
+  },
+  {
+   "topic": "1ti_prayer_mediator",
+   "prereq": "1ti_paul_mercy",
+   "strength": "soft",
+   "reason": "2:1 begins \"I exhort therefore\" after the charge of chapter 1"
+  },
+  {
+   "topic": "1ti_worship_conduct",
+   "prereq": "1ti_prayer_mediator",
+   "strength": "soft",
+   "reason": "2:8 continues the instructions about public prayer begun in 2:1"
+  },
+  {
+   "topic": "1ti_overseers_deacons",
+   "prereq": "1ti_worship_conduct",
+   "strength": "soft",
+   "reason": "3:1 follows the instructions of chapter 2 with qualifications for church office"
+  },
+  {
+   "topic": "1ti_mystery_godliness",
+   "prereq": "1ti_overseers_deacons",
+   "strength": "soft",
+   "reason": "3:14-15 explains why Paul writes these things about order in the church (chapters 2-3)"
+  },
+  {
+   "topic": "1ti_latter_times",
+   "prereq": "1ti_mystery_godliness",
+   "strength": "soft",
+   "reason": "4:1 follows the truth of 3:16 with a warning that some will depart from the faith"
+  },
+  {
+   "topic": "1ti_good_minister",
+   "prereq": "1ti_latter_times",
+   "strength": "soft",
+   "reason": "4:6 instructs Timothy how to be a good minister in light of the departures of 4:1-5"
+  },
+  {
+   "topic": "1ti_widows_family",
+   "prereq": "1ti_good_minister",
+   "strength": "soft",
+   "reason": "5:1 continues Timothy's instructions on dealing with different groups in the church"
+  },
+  {
+   "topic": "1ti_elders_accusation",
+   "prereq": "1ti_widows_family",
+   "strength": "soft",
+   "reason": "5:17 continues the instructions of 5:1-16 with elders"
+  },
+  {
+   "topic": "1ti_godliness_contentment",
+   "prereq": "1ti_elders_accusation",
+   "strength": "soft",
+   "reason": "6:1 continues the instructions to groups in the church (servants) after chapter 5"
+  },
+  {
+   "topic": "1ti_fight_good_fight",
+   "prereq": "1ti_godliness_contentment",
+   "strength": "soft",
+   "reason": "6:11 turns Timothy from the love of money (6:9-10) with \"But thou, O man of God, flee these things\""
+  },
+  {
+   "topic": "book_1ti",
+   "prereq": "1ti_false_teachers",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the letter, which begins with 1:1-11"
+  },
+  {
+   "topic": "1ti_false_teachers",
+   "prereq": "book_1th",
+   "strength": "soft",
+   "reason": "Paul and Timothy are named together as senders in 1 Thessalonians 1:1; 1 Timothy 1:2 addresses Timothy as Paul's own son in the faith"
+  },
+  {
+   "topic": "2ti_onesiphorus",
+   "prereq": "2ti_not_ashamed",
+   "strength": "soft",
+   "reason": "1:15 follows the call to share in Paul's afflictions and not be ashamed of his chain (1:8, 1:16)"
+  },
+  {
+   "topic": "2ti_endure_hardness",
+   "prereq": "2ti_onesiphorus",
+   "strength": "soft",
+   "reason": "2:1 begins \"Thou therefore, my son\" after chapter 1"
+  },
+  {
+   "topic": "2ti_approved_workman",
+   "prereq": "2ti_endure_hardness",
+   "strength": "soft",
+   "reason": "2:14 continues Timothy's instructions from 2:1-13"
+  },
+  {
+   "topic": "2ti_last_days",
+   "prereq": "2ti_approved_workman",
+   "strength": "soft",
+   "reason": "3:1 turns to what the last days bring after warnings in chapter 2"
+  },
+  {
+   "topic": "2ti_scripture",
+   "prereq": "2ti_last_days",
+   "strength": "soft",
+   "reason": "3:10 begins \"But thou\" in contrast to the men of 3:1-9"
+  },
+  {
+   "topic": "2ti_preach_word",
+   "prereq": "2ti_scripture",
+   "strength": "soft",
+   "reason": "4:1 begins \"I charge thee therefore\" on the basis of 3:14-17"
+  },
+  {
+   "topic": "2ti_final_requests",
+   "prereq": "2ti_preach_word",
+   "strength": "soft",
+   "reason": "4:9 follows Paul's final charge and statement that his departure is at hand (4:6)"
+  },
+  {
+   "topic": "2ti_not_ashamed",
+   "prereq": "book_1ti",
+   "strength": "soft",
+   "reason": "2 Timothy 1:2 is addressed to the same Timothy charged in 1 Timothy 1:2-3"
+  },
+  {
+   "topic": "book_2ti",
+   "prereq": "2ti_not_ashamed",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the letter, which begins with 1:1-14"
+  },
+  {
+   "topic": "tit_rebuke_deceivers",
+   "prereq": "tit_elders_crete",
+   "strength": "hard",
+   "reason": "Titus 1:9-10 gives the reason elders must hold sound doctrine: the unruly deceivers"
+  },
+  {
+   "topic": "tit_sound_doctrine_lives",
+   "prereq": "tit_rebuke_deceivers",
+   "strength": "soft",
+   "reason": "2:1 sets \"the things which become sound doctrine\" against the unruly in 1:10-16"
+  },
+  {
+   "topic": "tit_grace_appeared",
+   "prereq": "tit_sound_doctrine_lives",
+   "strength": "hard",
+   "reason": "2:11 begins \"For\" and gives the ground for the instructions of 2:1-10"
+  },
+  {
+   "topic": "tit_saved_by_mercy",
+   "prereq": "tit_grace_appeared",
+   "strength": "soft",
+   "reason": "3:4-7 continues the teaching of 2:11-14 on the appearing of God's grace"
+  },
+  {
+   "topic": "tit_closing_warnings",
+   "prereq": "tit_saved_by_mercy",
+   "strength": "soft",
+   "reason": "3:9 follows 3:8, which says to maintain good works, with what to avoid"
+  },
+  {
+   "topic": "book_tit",
+   "prereq": "tit_elders_crete",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the letter, which begins with 1:1-9"
+  },
+  {
+   "topic": "tit_elders_crete",
+   "prereq": "book_1ti",
+   "strength": "soft",
+   "reason": "1 Timothy 3:1-7 and Titus 1:5-9 each list qualifications of a bishop/overseer and elders"
+  },
+  {
+   "topic": "phm_onesimus",
+   "prereq": "phm_philemons_love",
+   "strength": "hard",
+   "reason": "Verse 8 begins Paul's request (\"Wherefore\") on the basis of Philemon's love in verses 5-7"
+  },
+  {
+   "topic": "phm_receive_as_me",
+   "prereq": "phm_onesimus",
+   "strength": "hard",
+   "reason": "Verse 17 continues the plea for Onesimus begun in verse 10"
+  },
+  {
+   "topic": "book_phm",
+   "prereq": "phm_philemons_love",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the letter, which begins with verses 1-7"
+  },
+  {
+   "topic": "heb_great_salvation",
+   "prereq": "heb_son_better_than_angels",
+   "strength": "hard",
+   "reason": "2:1 begins \"Therefore\" on the strength of the Son's superiority to angels in chapter 1"
+  },
+  {
+   "topic": "heb_jesus_like_brothers",
+   "prereq": "heb_great_salvation",
+   "strength": "soft",
+   "reason": "2:5 explains who the world to come is subject to, following 2:1-4 and the angels of chapter 1"
+  },
+  {
+   "topic": "heb_greater_than_moses",
+   "prereq": "heb_jesus_like_brothers",
+   "strength": "hard",
+   "reason": "3:1 begins \"Wherefore\" and calls Christ Jesus the Apostle and High Priest after 2:17"
+  },
+  {
+   "topic": "heb_unbelief_wilderness",
+   "prereq": "heb_greater_than_moses",
+   "strength": "soft",
+   "reason": "3:7 begins \"Wherefore\" after the comparison of Moses and Christ"
+  },
+  {
+   "topic": "heb_sabbath_rest",
+   "prereq": "heb_unbelief_wilderness",
+   "strength": "hard",
+   "reason": "4:1-3 draws on the wilderness generation and God's oath about his rest in 3:7-19"
+  },
+  {
+   "topic": "heb_great_high_priest",
+   "prereq": "heb_jesus_like_brothers",
+   "strength": "hard",
+   "reason": "4:14 builds on 2:17-18, where Jesus is called a merciful and faithful high priest who helps the tempted"
+  },
+  {
+   "topic": "heb_priest_called",
+   "prereq": "heb_great_high_priest",
+   "strength": "hard",
+   "reason": "5:1 explains what a high priest is, following the high priest of 4:14-16"
+  },
+  {
+   "topic": "heb_press_on",
+   "prereq": "heb_priest_called",
+   "strength": "soft",
+   "reason": "5:11 says there is much to say about Melchizedek (5:10) but readers are dull of hearing"
+  },
+  {
+   "topic": "heb_oath_anchor",
+   "prereq": "heb_press_on",
+   "strength": "soft",
+   "reason": "6:13 continues the exhortation to inherit the promises (6:12) with God's promise to Abraham"
+  },
+  {
+   "topic": "heb_melchizedek",
+   "prereq": "heb_oath_anchor",
+   "strength": "hard",
+   "reason": "7:1 resumes Melchizedek, with whom 6:20 ends"
+  },
+  {
+   "topic": "heb_priesthood_changed",
+   "prereq": "heb_melchizedek",
+   "strength": "hard",
+   "reason": "7:11 argues from the Melchizedek priesthood described in 7:1-10"
+  },
+  {
+   "topic": "heb_new_covenant",
+   "prereq": "heb_priesthood_changed",
+   "strength": "hard",
+   "reason": "8:1 gives the sum of what has been said about the high priest, and 8:6 speaks of a better covenant after 7:22"
+  },
+  {
+   "topic": "heb_earthly_tabernacle",
+   "prereq": "heb_new_covenant",
+   "strength": "hard",
+   "reason": "9:1 describes the first covenant mentioned in 8:7-13"
+  },
+  {
+   "topic": "heb_blood_of_christ",
+   "prereq": "heb_earthly_tabernacle",
+   "strength": "hard",
+   "reason": "9:11 contrasts Christ's entrance with the high priest's entrance described in 9:1-10"
+  },
+  {
+   "topic": "heb_one_sacrifice",
+   "prereq": "heb_blood_of_christ",
+   "strength": "hard",
+   "reason": "10:1 continues the argument about sacrifices and the law, and 10:16-17 returns to the covenant of 8:8-12"
+  },
+  {
+   "topic": "heb_draw_near",
+   "prereq": "heb_one_sacrifice",
+   "strength": "hard",
+   "reason": "10:19 begins \"Having therefore\" on the basis of 10:1-18"
+  },
+  {
+   "topic": "heb_endure_faith",
+   "prereq": "heb_draw_near",
+   "strength": "soft",
+   "reason": "10:26 follows the exhortations of 10:19-25 with a warning"
+  },
+  {
+   "topic": "heb_faith_defined",
+   "prereq": "heb_endure_faith",
+   "strength": "hard",
+   "reason": "11:1 takes up the faith of 10:38-39"
+  },
+  {
+   "topic": "heb_faith_patriarchs",
+   "prereq": "heb_faith_defined",
+   "strength": "hard",
+   "reason": "11:8 continues the list of examples begun in 11:4"
+  },
+  {
+   "topic": "heb_faith_moses_conquest",
+   "prereq": "heb_faith_patriarchs",
+   "strength": "soft",
+   "reason": "11:23 continues the list of those who acted by faith after 11:22"
+  },
+  {
+   "topic": "heb_faith_many",
+   "prereq": "heb_faith_moses_conquest",
+   "strength": "soft",
+   "reason": "11:32 continues the list (\"what shall I more say?\") after 11:31"
+  },
+  {
+   "topic": "heb_run_race",
+   "prereq": "heb_faith_many",
+   "strength": "hard",
+   "reason": "12:1 begins \"Wherefore\" on the cloud of witnesses of chapter 11"
+  },
+  {
+   "topic": "heb_discipline",
+   "prereq": "heb_run_race",
+   "strength": "soft",
+   "reason": "12:4 continues the race and endurance of 12:1-3"
+  },
+  {
+   "topic": "heb_holiness_esau",
+   "prereq": "heb_discipline",
+   "strength": "soft",
+   "reason": "12:14 follows 12:4-13 with calls to peace and holiness"
+  },
+  {
+   "topic": "heb_sinai_zion",
+   "prereq": "heb_holiness_esau",
+   "strength": "soft",
+   "reason": "12:18 gives reasons (\"For ye are not come\") for the exhortations of 12:14-17"
+  },
+  {
+   "topic": "heb_love_in_life",
+   "prereq": "heb_sinai_zion",
+   "strength": "soft",
+   "reason": "13:1 begins practical exhortations after the warning of 12:25-29"
+  },
+  {
+   "topic": "heb_outside_camp",
+   "prereq": "heb_love_in_life",
+   "strength": "soft",
+   "reason": "13:7 continues the closing exhortations of 13:1-6"
+  },
+  {
+   "topic": "heb_closing",
+   "prereq": "heb_outside_camp",
+   "strength": "soft",
+   "reason": "13:17 continues the closing exhortations after 13:7-16"
+  },
+  {
+   "topic": "book_heb",
+   "prereq": "heb_son_better_than_angels",
+   "strength": "soft",
+   "reason": "The overview presents the sequence of the letter, which begins with 1:1-14"
+  },
+  {
+   "topic": "heb_melchizedek",
+   "prereq": "gen_melchizedek",
+   "strength": "hard",
+   "reason": "Hebrews 7:1-2 retells Melchizedek meeting Abraham, described in Genesis 14:17-20"
+  },
+  {
+   "topic": "heb_oath_anchor",
+   "prereq": "gen_abraham_isaac",
+   "strength": "soft",
+   "reason": "Hebrews 6:13-14 cites the promise God made to Abraham with an oath, given in Genesis 22:16-17"
+  },
+  {
+   "topic": "heb_faith_patriarchs",
+   "prereq": "gen_abraham_isaac",
+   "strength": "soft",
+   "reason": "Hebrews 11:17-19 refers to Abraham offering Isaac, told in Genesis 22:1-19"
+  },
+  {
+   "topic": "heb_faith_defined",
+   "prereq": "gen_flood",
+   "strength": "soft",
+   "reason": "Hebrews 11:7 refers to Noah preparing an ark, told in Genesis 6-7"
+  },
+  {
+   "topic": "heb_faith_defined",
+   "prereq": "gen_cain_abel",
+   "strength": "soft",
+   "reason": "Hebrews 11:4 refers to Abel's sacrifice compared with Cain's, told in Genesis 4"
+  },
+  {
+   "topic": "heb_holiness_esau",
+   "prereq": "gen_jacob_esau",
+   "strength": "soft",
+   "reason": "Hebrews 12:16-17 refers to Esau selling his birthright and seeking the blessing, told in Genesis 25 and 27"
+  },
+  {
+   "topic": "heb_sabbath_rest",
+   "prereq": "gen_creation",
+   "strength": "soft",
+   "reason": "Hebrews 4:4 cites God resting on the seventh day, told in Genesis 2:1-3"
+  },
+  {
+   "topic": "heb_new_covenant",
+   "prereq": "heb_greater_than_moses",
+   "strength": "soft",
+   "reason": "8:9 refers to the covenant at the exodus from Egypt, whose mediator Moses is compared with Christ in 3:1-6"
+  }
+ ],
+ "relations": [
+  {
+   "from": "gen_cain_abel",
+   "to": "heb_faith_defined",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 4:3-5",
+    "HEB 11:4"
+   ]
+  },
+  {
+   "from": "gen_adam_to_noah",
+   "to": "heb_faith_defined",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 5:24",
+    "HEB 11:5"
+   ]
+  },
+  {
+   "from": "gen_flood",
+   "to": "heb_faith_defined",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 6:14-22",
+    "HEB 11:7"
+   ]
+  },
+  {
+   "from": "gen_call_abram",
+   "to": "heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 12:1-4",
+    "HEB 11:8"
+   ]
+  },
+  {
+   "from": "gen_sarah_buried",
+   "to": "heb_faith_patriarchs",
+   "kind": "parallels",
+   "refs": [
+    "GEN 23:4",
+    "HEB 11:13"
+   ]
+  },
+  {
+   "from": "gen_isaac_born",
+   "to": "heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 21:1-2",
+    "HEB 11:11"
+   ]
+  },
+  {
+   "from": "gen_abraham_isaac",
+   "to": "heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 22:1-12",
+    "HEB 11:17-19"
+   ]
+  },
+  {
+   "from": "gen_hagar_sent_away",
+   "to": "heb_faith_patriarchs",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 21:12",
+    "HEB 11:18"
+   ]
+  },
+  {
+   "from": "gen_jacob_esau",
+   "to": "heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 27:27-29",
+    "HEB 11:20"
+   ]
+  },
+  {
+   "from": "gen_israel_blesses_ephraim_manasseh",
+   "to": "heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 48:15-20",
+    "HEB 11:21"
+   ]
+  },
+  {
+   "from": "gen_providence",
+   "to": "heb_faith_patriarchs",
+   "kind": "illustrates-doctrine",
+   "refs": [
+    "GEN 50:24-25",
+    "HEB 11:22"
+   ]
+  },
+  {
+   "from": "gen_melchizedek",
+   "to": "heb_melchizedek",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 14:18-20",
+    "HEB 7:1-2"
+   ]
+  },
+  {
+   "from": "gen_abraham_isaac",
+   "to": "heb_oath_anchor",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 22:16-17",
+    "HEB 6:13-14"
+   ]
+  },
+  {
+   "from": "gen_jacob_esau",
+   "to": "heb_holiness_esau",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 25:29-34",
+    "HEB 12:16"
+   ]
+  },
+  {
+   "from": "gen_creation",
+   "to": "heb_sabbath_rest",
+   "kind": "quoted-in",
+   "refs": [
+    "GEN 2:2",
+    "HEB 4:4"
+   ]
+  }
+ ]
+}
