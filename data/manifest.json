@@ -4,7 +4,7 @@
     "covenants": 6,
     "topics": 1772,
     "dependencies": 1811,
-    "relations": 197,
+    "relations": 461,
     "teachers": 0,
     "works": 0,
     "citations": 0
@@ -17,7 +17,7 @@
       "sha256": "3931b461c5c591e053fb9e2b756cc6f24b6b25fc8e5728dcebae1b4e201b9c5d"
     },
     "relations.json": {
-      "sha256": "8369481265faf2d009ab3f4e918f55002c724e38c9b8e26d9ad95990c2d5efdc"
+      "sha256": "0261f3ee41aad8be07200a403e2b8b032562a63978c4b5d32095c8f3c490b624"
     },
     "covenants.json": {
       "sha256": "88c763918e8d3c504c4985d5b69d57263b68646a3cd8182184a5eed8e2cd5a51"

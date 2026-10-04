@@ -1,0 +1,2380 @@
+{
+ "relations": [
+  {
+   "from": "isa_immanuel",
+   "to": "mat_virgin_birth",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 7:14",
+    "MAT 1:22-23"
+   ]
+  },
+  {
+   "from": "mic_ruler_from_bethlehem",
+   "to": "mat_wise_men",
+   "kind": "quoted-in",
+   "refs": [
+    "MIC 5:2",
+    "MAT 2:5-6"
+   ]
+  },
+  {
+   "from": "hos_out_of_egypt",
+   "to": "mat_flight_to_egypt",
+   "kind": "fulfilled-in",
+   "refs": [
+    "HOS 11:1",
+    "MAT 2:14-15"
+   ]
+  },
+  {
+   "from": "jer_israel_restored",
+   "to": "mat_flight_to_egypt",
+   "kind": "fulfilled-in",
+   "refs": [
+    "JER 31:15",
+    "MAT 2:17-18"
+   ]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "mat_john_baptist",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 40:3",
+    "MAT 3:3"
+   ]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "mrk_john_prepares_way",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 40:3",
+    "MRK 1:2-3"
+   ]
+  },
+  {
+   "from": "mal_messenger_refiner",
+   "to": "mrk_john_prepares_way",
+   "kind": "quoted-in",
+   "refs": [
+    "MAL 3:1",
+    "MRK 1:2"
+   ]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "luk_john_preaching",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 40:3-5",
+    "LUK 3:4-6"
+   ]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "jhn_baptist_witness",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 40:3",
+    "JHN 1:23"
+   ]
+  },
+  {
+   "from": "mal_messenger_refiner",
+   "to": "mat_john_asks",
+   "kind": "quoted-in",
+   "refs": [
+    "MAL 3:1",
+    "MAT 11:10"
+   ]
+  },
+  {
+   "from": "mal_messenger_refiner",
+   "to": "luk_john_question",
+   "kind": "quoted-in",
+   "refs": [
+    "MAL 3:1",
+    "LUK 7:27"
+   ]
+  },
+  {
+   "from": "deu_remember_wilderness",
+   "to": "mat_temptation",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 8:3",
+    "MAT 4:4"
+   ]
+  },
+  {
+   "from": "deu_shema",
+   "to": "mat_temptation",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 6:16",
+    "MAT 4:7"
+   ]
+  },
+  {
+   "from": "deu_shema",
+   "to": "mat_temptation",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 6:13",
+    "MAT 4:10"
+   ]
+  },
+  {
+   "from": "psa_91",
+   "to": "mat_temptation",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 91:11-12",
+    "MAT 4:6"
+   ]
+  },
+  {
+   "from": "deu_remember_wilderness",
+   "to": "luk_temptation",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 8:3",
+    "LUK 4:4"
+   ]
+  },
+  {
+   "from": "deu_shema",
+   "to": "luk_temptation",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 6:13",
+    "LUK 4:8"
+   ]
+  },
+  {
+   "from": "psa_91",
+   "to": "luk_temptation",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 91:11-12",
+    "LUK 4:10-11"
+   ]
+  },
+  {
+   "from": "deu_shema",
+   "to": "luk_temptation",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 6:16",
+    "LUK 4:12"
+   ]
+  },
+  {
+   "from": "isa_child_born",
+   "to": "mat_ministry_begins",
+   "kind": "fulfilled-in",
+   "refs": [
+    "ISA 9:1-2",
+    "MAT 4:14-16"
+   ]
+  },
+  {
+   "from": "isa_servant_chosen",
+   "to": "mat_withered_hand",
+   "kind": "fulfilled-in",
+   "refs": [
+    "ISA 42:1-3",
+    "MAT 12:17-21"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "mat_peters_mother_in_law",
+   "kind": "fulfilled-in",
+   "refs": [
+    "ISA 53:4",
+    "MAT 8:17"
+   ]
+  },
+  {
+   "from": "hos_mercy_not_sacrifice",
+   "to": "mat_matthew_called",
+   "kind": "quoted-in",
+   "refs": [
+    "HOS 6:6",
+    "MAT 9:13"
+   ]
+  },
+  {
+   "from": "hos_mercy_not_sacrifice",
+   "to": "mat_sabbath_grainfield",
+   "kind": "quoted-in",
+   "refs": [
+    "HOS 6:6",
+    "MAT 12:7"
+   ]
+  },
+  {
+   "from": "1sa_david_nob_gath",
+   "to": "mat_sabbath_grainfield",
+   "kind": "parallels",
+   "refs": [
+    "1SA 21:6",
+    "MAT 12:3-4"
+   ]
+  },
+  {
+   "from": "1sa_david_nob_gath",
+   "to": "mrk_sabbath_grain",
+   "kind": "parallels",
+   "refs": [
+    "1SA 21:6",
+    "MRK 2:25-26"
+   ]
+  },
+  {
+   "from": "isa_call",
+   "to": "mat_sower",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 6:9-10",
+    "MAT 13:14-15"
+   ]
+  },
+  {
+   "from": "isa_call",
+   "to": "jhn_unbelief",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 6:10",
+    "JHN 12:40"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "jhn_unbelief",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 53:1",
+    "JHN 12:38"
+   ]
+  },
+  {
+   "from": "isa_call",
+   "to": "act_paul_rome_testimony",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 6:9-10",
+    "ACT 28:26-27"
+   ]
+  },
+  {
+   "from": "psa_78",
+   "to": "mat_mustard_leaven",
+   "kind": "fulfilled-in",
+   "refs": [
+    "PSA 78:2",
+    "MAT 13:34-35"
+   ]
+  },
+  {
+   "from": "isa_ariel",
+   "to": "mat_tradition_defilement",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 29:13",
+    "MAT 15:7-9"
+   ]
+  },
+  {
+   "from": "isa_ariel",
+   "to": "mrk_tradition_defilement",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 29:13",
+    "MRK 7:6-7"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "mat_tradition_defilement",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:12",
+    "MAT 15:4"
+   ]
+  },
+  {
+   "from": "exo_laws_violence",
+   "to": "mat_tradition_defilement",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 21:17",
+    "MAT 15:4"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "mrk_tradition_defilement",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:12",
+    "MRK 7:10"
+   ]
+  },
+  {
+   "from": "exo_laws_violence",
+   "to": "mrk_tradition_defilement",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 21:17",
+    "MRK 7:10"
+   ]
+  },
+  {
+   "from": "deu_divorce_justice",
+   "to": "mat_marriage_divorce",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 24:1",
+    "MAT 19:7"
+   ]
+  },
+  {
+   "from": "deu_divorce_justice",
+   "to": "mrk_divorce_children",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 24:1",
+    "MRK 10:4"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "mat_rich_young_man",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:12-16",
+    "MAT 19:18-19"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "mat_rich_young_man",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:18",
+    "MAT 19:19"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "mrk_rich_man",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:12-16",
+    "MRK 10:19"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "luk_rich_ruler",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:12-16",
+    "LUK 18:20"
+   ]
+  },
+  {
+   "from": "zec_king_comes_lowly",
+   "to": "mat_triumphal_entry",
+   "kind": "fulfilled-in",
+   "refs": [
+    "ZEC 9:9",
+    "MAT 21:4-5"
+   ]
+  },
+  {
+   "from": "isa_zion_new_name",
+   "to": "mat_triumphal_entry",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 62:11",
+    "MAT 21:5"
+   ]
+  },
+  {
+   "from": "zec_king_comes_lowly",
+   "to": "jhn_triumphal_entry",
+   "kind": "quoted-in",
+   "refs": [
+    "ZEC 9:9",
+    "JHN 12:14-15"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "mat_triumphal_entry",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:25-26",
+    "MAT 21:9"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "mrk_triumphal_entry",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:25-26",
+    "MRK 11:9-10"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "luk_triumphal_entry",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:26",
+    "LUK 19:38"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "jhn_triumphal_entry",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:25-26",
+    "JHN 12:13"
+   ]
+  },
+  {
+   "from": "isa_foreigners_welcome",
+   "to": "mat_temple_cleansing",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 56:7",
+    "MAT 21:13"
+   ]
+  },
+  {
+   "from": "jer_temple_sermon",
+   "to": "mat_temple_cleansing",
+   "kind": "quoted-in",
+   "refs": [
+    "JER 7:11",
+    "MAT 21:13"
+   ]
+  },
+  {
+   "from": "isa_foreigners_welcome",
+   "to": "mrk_fig_tree_temple",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 56:7",
+    "MRK 11:17"
+   ]
+  },
+  {
+   "from": "jer_temple_sermon",
+   "to": "mrk_fig_tree_temple",
+   "kind": "quoted-in",
+   "refs": [
+    "JER 7:11",
+    "MRK 11:17"
+   ]
+  },
+  {
+   "from": "isa_foreigners_welcome",
+   "to": "luk_temple_cleansing",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 56:7",
+    "LUK 19:46"
+   ]
+  },
+  {
+   "from": "jer_temple_sermon",
+   "to": "luk_temple_cleansing",
+   "kind": "quoted-in",
+   "refs": [
+    "JER 7:11",
+    "LUK 19:46"
+   ]
+  },
+  {
+   "from": "psa_8",
+   "to": "mat_temple_cleansing",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 8:2",
+    "MAT 21:16"
+   ]
+  },
+  {
+   "from": "psa_69",
+   "to": "jhn_temple_cleansing",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 69:9",
+    "JHN 2:17"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "mat_wicked_tenants",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:22-23",
+    "MAT 21:42"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "mrk_wicked_husbandmen",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:22-23",
+    "MRK 12:10-11"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "luk_wicked_tenants",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:22",
+    "LUK 20:17"
+   ]
+  },
+  {
+   "from": "isa_vineyard_song",
+   "to": "mat_wicked_tenants",
+   "kind": "parallels",
+   "refs": [
+    "ISA 5:1-2",
+    "MAT 21:33"
+   ]
+  },
+  {
+   "from": "isa_vineyard_song",
+   "to": "mrk_wicked_husbandmen",
+   "kind": "parallels",
+   "refs": [
+    "ISA 5:1-2",
+    "MRK 12:1"
+   ]
+  },
+  {
+   "from": "deu_shema",
+   "to": "mat_great_commandment",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 6:5",
+    "MAT 22:37"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "mat_great_commandment",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:18",
+    "MAT 22:39"
+   ]
+  },
+  {
+   "from": "deu_shema",
+   "to": "mrk_first_commandment",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 6:4-5",
+    "MRK 12:29-30"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "mrk_first_commandment",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:18",
+    "MRK 12:31"
+   ]
+  },
+  {
+   "from": "deu_shema",
+   "to": "luk_good_samaritan",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 6:5",
+    "LUK 10:27"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "luk_good_samaritan",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:18",
+    "LUK 10:27"
+   ]
+  },
+  {
+   "from": "exo_burning_bush",
+   "to": "mat_resurrection_question",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 3:6",
+    "MAT 22:32"
+   ]
+  },
+  {
+   "from": "exo_burning_bush",
+   "to": "mrk_resurrection_question",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 3:6",
+    "MRK 12:26"
+   ]
+  },
+  {
+   "from": "exo_burning_bush",
+   "to": "luk_resurrection_question",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 3:6",
+    "LUK 20:37"
+   ]
+  },
+  {
+   "from": "deu_justice_levirate",
+   "to": "mat_resurrection_question",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 25:5",
+    "MAT 22:24"
+   ]
+  },
+  {
+   "from": "deu_justice_levirate",
+   "to": "mrk_resurrection_question",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 25:5",
+    "MRK 12:19"
+   ]
+  },
+  {
+   "from": "deu_justice_levirate",
+   "to": "luk_resurrection_question",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 25:5",
+    "LUK 20:28"
+   ]
+  },
+  {
+   "from": "psa_110",
+   "to": "mat_son_of_david_question",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 110:1",
+    "MAT 22:44"
+   ]
+  },
+  {
+   "from": "psa_110",
+   "to": "mrk_son_of_david_scribes",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 110:1",
+    "MRK 12:36"
+   ]
+  },
+  {
+   "from": "psa_110",
+   "to": "luk_david_lord",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 110:1",
+    "LUK 20:42-43"
+   ]
+  },
+  {
+   "from": "zec_fountain_smitten_shepherd",
+   "to": "mat_gethsemane",
+   "kind": "quoted-in",
+   "refs": [
+    "ZEC 13:7",
+    "MAT 26:31"
+   ]
+  },
+  {
+   "from": "zec_fountain_smitten_shepherd",
+   "to": "mrk_gethsemane",
+   "kind": "quoted-in",
+   "refs": [
+    "ZEC 13:7",
+    "MRK 14:27"
+   ]
+  },
+  {
+   "from": "zec_two_staves_thirty_silver",
+   "to": "mat_judas_death",
+   "kind": "fulfilled-in",
+   "refs": [
+    "ZEC 11:12-13",
+    "MAT 27:9-10"
+   ]
+  },
+  {
+   "from": "psa_22",
+   "to": "mat_crucifixion",
+   "kind": "fulfilled-in",
+   "refs": [
+    "PSA 22:18",
+    "MAT 27:35"
+   ]
+  },
+  {
+   "from": "psa_22",
+   "to": "mat_crucifixion",
+   "kind": "parallels",
+   "refs": [
+    "PSA 22:7-8",
+    "MAT 27:39-43"
+   ]
+  },
+  {
+   "from": "psa_22",
+   "to": "mat_death_of_jesus",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 22:1",
+    "MAT 27:46"
+   ]
+  },
+  {
+   "from": "psa_22",
+   "to": "mrk_death_of_jesus",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 22:1",
+    "MRK 15:34"
+   ]
+  },
+  {
+   "from": "psa_22",
+   "to": "mrk_crucifixion",
+   "kind": "parallels",
+   "refs": [
+    "PSA 22:18",
+    "MRK 15:24"
+   ]
+  },
+  {
+   "from": "psa_22",
+   "to": "jhn_crucifixion",
+   "kind": "fulfilled-in",
+   "refs": [
+    "PSA 22:18",
+    "JHN 19:23-24"
+   ]
+  },
+  {
+   "from": "psa_69",
+   "to": "mat_crucifixion",
+   "kind": "parallels",
+   "refs": [
+    "PSA 69:21",
+    "MAT 27:34"
+   ]
+  },
+  {
+   "from": "psa_69",
+   "to": "jhn_crucifixion",
+   "kind": "fulfilled-in",
+   "refs": [
+    "PSA 69:21",
+    "JHN 19:28-29"
+   ]
+  },
+  {
+   "from": "psa_31",
+   "to": "luk_death_burial",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 31:5",
+    "LUK 23:46"
+   ]
+  },
+  {
+   "from": "exo_passover_rules",
+   "to": "jhn_pierced_burial",
+   "kind": "fulfilled-in",
+   "refs": [
+    "EXO 12:46",
+    "JHN 19:36"
+   ]
+  },
+  {
+   "from": "zec_look_on_pierced",
+   "to": "jhn_pierced_burial",
+   "kind": "fulfilled-in",
+   "refs": [
+    "ZEC 12:10",
+    "JHN 19:37"
+   ]
+  },
+  {
+   "from": "num_bronze_serpent",
+   "to": "jhn_new_birth",
+   "kind": "parallels",
+   "refs": [
+    "NUM 21:9",
+    "JHN 3:14"
+   ]
+  },
+  {
+   "from": "exo_manna",
+   "to": "jhn_bread_of_life",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 16:4",
+    "JHN 6:31"
+   ]
+  },
+  {
+   "from": "psa_78",
+   "to": "jhn_bread_of_life",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 78:24",
+    "JHN 6:31"
+   ]
+  },
+  {
+   "from": "isa_barren_sing",
+   "to": "jhn_eat_flesh",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 54:13",
+    "JHN 6:45"
+   ]
+  },
+  {
+   "from": "psa_41",
+   "to": "jhn_foot_washing",
+   "kind": "fulfilled-in",
+   "refs": [
+    "PSA 41:9",
+    "JHN 13:18"
+   ]
+  },
+  {
+   "from": "psa_69",
+   "to": "jhn_world_hates",
+   "kind": "fulfilled-in",
+   "refs": [
+    "PSA 69:4",
+    "JHN 15:25"
+   ]
+  },
+  {
+   "from": "psa_81_82",
+   "to": "jhn_dedication",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 82:6",
+    "JHN 10:34"
+   ]
+  },
+  {
+   "from": "deu_refuge_witnesses",
+   "to": "jhn_light_of_world",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 19:15",
+    "JHN 8:17"
+   ]
+  },
+  {
+   "from": "isa_anointed_good_tidings",
+   "to": "luk_nazareth",
+   "kind": "fulfilled-in",
+   "refs": [
+    "ISA 61:1-2",
+    "LUK 4:18-19"
+   ]
+  },
+  {
+   "from": "isa_true_fast",
+   "to": "luk_nazareth",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 58:6",
+    "LUK 4:18"
+   ]
+  },
+  {
+   "from": "1ki_widow_zarephath_meal",
+   "to": "luk_nazareth",
+   "kind": "parallels",
+   "refs": [
+    "1KI 17:8-9",
+    "LUK 4:25-26"
+   ]
+  },
+  {
+   "from": "2ki_naaman",
+   "to": "luk_nazareth",
+   "kind": "parallels",
+   "refs": [
+    "2KI 5:14",
+    "LUK 4:27"
+   ]
+  },
+  {
+   "from": "exo_firstborn_consecrated",
+   "to": "luk_presentation",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 13:2",
+    "LUK 2:23"
+   ]
+  },
+  {
+   "from": "lev_childbirth",
+   "to": "luk_presentation",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 12:8",
+    "LUK 2:24"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "luk_greatest_serve",
+   "kind": "fulfilled-in",
+   "refs": [
+    "ISA 53:12",
+    "LUK 22:37"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "act_ethiopian_eunuch",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 53:7-8",
+    "ACT 8:32-33"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "mat_anger_and_lust",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:13",
+    "MAT 5:21"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "mat_anger_and_lust",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:14",
+    "MAT 5:27"
+   ]
+  },
+  {
+   "from": "deu_divorce_justice",
+   "to": "mat_divorce_oaths_enemies",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 24:1",
+    "MAT 5:31"
+   ]
+  },
+  {
+   "from": "exo_laws_violence",
+   "to": "mat_divorce_oaths_enemies",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 21:24",
+    "MAT 5:38"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "mat_divorce_oaths_enemies",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:18",
+    "MAT 5:43"
+   ]
+  },
+  {
+   "from": "jon_fish_prayer",
+   "to": "mat_sign_of_jonah",
+   "kind": "parallels",
+   "refs": [
+    "JON 1:17",
+    "MAT 12:40"
+   ]
+  },
+  {
+   "from": "jon_nineveh_repents",
+   "to": "mat_sign_of_jonah",
+   "kind": "parallels",
+   "refs": [
+    "JON 3:5",
+    "MAT 12:41"
+   ]
+  },
+  {
+   "from": "1ki_queen_of_sheba",
+   "to": "mat_sign_of_jonah",
+   "kind": "parallels",
+   "refs": [
+    "1KI 10:1",
+    "MAT 12:42"
+   ]
+  },
+  {
+   "from": "dan_seventy_weeks",
+   "to": "mat_great_tribulation",
+   "kind": "parallels",
+   "refs": [
+    "DAN 9:27",
+    "MAT 24:15"
+   ]
+  },
+  {
+   "from": "dan_seventy_weeks",
+   "to": "mrk_olivet_signs",
+   "kind": "parallels",
+   "refs": [
+    "DAN 9:27",
+    "MRK 13:14"
+   ]
+  },
+  {
+   "from": "gen_flood",
+   "to": "mat_watchfulness",
+   "kind": "parallels",
+   "refs": [
+    "GEN 7:7",
+    "MAT 24:37-38"
+   ]
+  },
+  {
+   "from": "gen_cain_abel",
+   "to": "mat_woes_scribes_pharisees",
+   "kind": "parallels",
+   "refs": [
+    "GEN 4:8",
+    "MAT 23:35"
+   ]
+  },
+  {
+   "from": "jol_restoration_spirit",
+   "to": "act_pentecost_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "JOL 2:28-32",
+    "ACT 2:17-21"
+   ]
+  },
+  {
+   "from": "psa_16",
+   "to": "act_pentecost_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 16:8-11",
+    "ACT 2:25-28"
+   ]
+  },
+  {
+   "from": "psa_110",
+   "to": "act_pentecost_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 110:1",
+    "ACT 2:34-35"
+   ]
+  },
+  {
+   "from": "psa_132",
+   "to": "act_pentecost_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 132:11",
+    "ACT 2:30"
+   ]
+  },
+  {
+   "from": "deu_prophet_like_moses",
+   "to": "act_temple_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 18:15-19",
+    "ACT 3:22-23"
+   ]
+  },
+  {
+   "from": "exo_burning_bush",
+   "to": "act_temple_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 3:6",
+    "ACT 3:13"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "act_council_peter_john",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:22",
+    "ACT 4:11"
+   ]
+  },
+  {
+   "from": "psa_2",
+   "to": "act_church_prays",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 2:1-2",
+    "ACT 4:25-26"
+   ]
+  },
+  {
+   "from": "psa_69",
+   "to": "act_matthias",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 69:25",
+    "ACT 1:20"
+   ]
+  },
+  {
+   "from": "psa_109",
+   "to": "act_matthias",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 109:8",
+    "ACT 1:20"
+   ]
+  },
+  {
+   "from": "exo_moses_flees",
+   "to": "act_stephen_moses",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 2:14",
+    "ACT 7:27-28"
+   ]
+  },
+  {
+   "from": "exo_burning_bush",
+   "to": "act_stephen_moses",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 3:6-7",
+    "ACT 7:30-34"
+   ]
+  },
+  {
+   "from": "deu_prophet_like_moses",
+   "to": "act_stephen_moses",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 18:15",
+    "ACT 7:37"
+   ]
+  },
+  {
+   "from": "exo_golden_calf",
+   "to": "act_stephen_moses",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 32:1",
+    "ACT 7:40"
+   ]
+  },
+  {
+   "from": "amo_seek_the_lord_and_live",
+   "to": "act_stephen_moses",
+   "kind": "quoted-in",
+   "refs": [
+    "AMO 5:25-27",
+    "ACT 7:42-43"
+   ]
+  },
+  {
+   "from": "isa_final_judgment_gathering",
+   "to": "act_stephen_temple",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 66:1-2",
+    "ACT 7:49-50"
+   ]
+  },
+  {
+   "from": "psa_2",
+   "to": "act_pisidian_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 2:7",
+    "ACT 13:33"
+   ]
+  },
+  {
+   "from": "isa_come_buy",
+   "to": "act_pisidian_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 55:3",
+    "ACT 13:34"
+   ]
+  },
+  {
+   "from": "psa_16",
+   "to": "act_pisidian_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 16:10",
+    "ACT 13:35"
+   ]
+  },
+  {
+   "from": "hab_complaint_chaldeans",
+   "to": "act_pisidian_sermon",
+   "kind": "quoted-in",
+   "refs": [
+    "HAB 1:5",
+    "ACT 13:40-41"
+   ]
+  },
+  {
+   "from": "isa_servant_light_nations",
+   "to": "act_turn_to_gentiles",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 49:6",
+    "ACT 13:47"
+   ]
+  },
+  {
+   "from": "amo_tabernacle_of_david",
+   "to": "act_jerusalem_council",
+   "kind": "quoted-in",
+   "refs": [
+    "AMO 9:11-12",
+    "ACT 15:16-17"
+   ]
+  },
+  {
+   "from": "exo_laws_social",
+   "to": "act_paul_sanhedrin",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 22:28",
+    "ACT 23:5"
+   ]
+  },
+  {
+   "from": "isa_ariel",
+   "to": "rom_remnant",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 29:10",
+    "ROM 11:8"
+   ]
+  },
+  {
+   "from": "isa_good_tidings",
+   "to": "rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 52:7",
+    "ROM 10:15"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 53:1",
+    "ROM 10:16"
+   ]
+  },
+  {
+   "from": "isa_new_heavens_earth",
+   "to": "rom_faith_hearing",
+   "kind": "parallels",
+   "refs": [
+    "ISA 65:1",
+    "ROM 10:20"
+   ]
+  },
+  {
+   "from": "isa_indictment",
+   "to": "rom_election",
+   "kind": "parallels",
+   "refs": [
+    "ISA 1:9",
+    "ROM 9:29"
+   ]
+  },
+  {
+   "from": "1ki_horeb_still_small_voice",
+   "to": "rom_remnant",
+   "kind": "quoted-in",
+   "refs": [
+    "1KI 19:10",
+    "ROM 11:3"
+   ]
+  },
+  {
+   "from": "1ki_horeb_still_small_voice",
+   "to": "rom_remnant",
+   "kind": "quoted-in",
+   "refs": [
+    "1KI 19:18",
+    "ROM 11:4"
+   ]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "rom_remnant",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 40:13",
+    "ROM 11:34"
+   ]
+  },
+  {
+   "from": "pro_hezekiah_kings",
+   "to": "rom_living_sacrifice",
+   "kind": "quoted-in",
+   "refs": [
+    "PRO 25:21-22",
+    "ROM 12:20"
+   ]
+  },
+  {
+   "from": "isa_cyrus",
+   "to": "rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 45:23",
+    "ROM 14:11"
+   ]
+  },
+  {
+   "from": "psa_69",
+   "to": "rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 69:9",
+    "ROM 15:3"
+   ]
+  },
+  {
+   "from": "isa_branch_jesse",
+   "to": "rom_strong_weak",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 11:10",
+    "ROM 15:12"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "rom_closing",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 52:15",
+    "ROM 15:21"
+   ]
+  },
+  {
+   "from": "isa_ariel",
+   "to": "1co_cross_wisdom",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 29:14",
+    "1CO 1:19"
+   ]
+  },
+  {
+   "from": "jer_glory_in_knowing_lord",
+   "to": "1co_cross_wisdom",
+   "kind": "quoted-in",
+   "refs": [
+    "JER 9:23-24",
+    "1CO 1:31"
+   ]
+  },
+  {
+   "from": "isa_prayer_lament",
+   "to": "1co_spirit_reveals",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 64:4",
+    "1CO 2:9"
+   ]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "1co_spirit_reveals",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 40:13",
+    "1CO 2:16"
+   ]
+  },
+  {
+   "from": "job_eliphaz_first",
+   "to": "1co_servants_building",
+   "kind": "quoted-in",
+   "refs": [
+    "JOB 5:13",
+    "1CO 3:19"
+   ]
+  },
+  {
+   "from": "psa_94",
+   "to": "1co_servants_building",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 94:11",
+    "1CO 3:20"
+   ]
+  },
+  {
+   "from": "deu_justice_levirate",
+   "to": "1co_apostle_rights",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 25:4",
+    "1CO 9:9"
+   ]
+  },
+  {
+   "from": "exo_pillar",
+   "to": "1co_wilderness_warning",
+   "kind": "parallels",
+   "refs": [
+    "EXO 13:21",
+    "1CO 10:1"
+   ]
+  },
+  {
+   "from": "exo_red_sea",
+   "to": "1co_wilderness_warning",
+   "kind": "parallels",
+   "refs": [
+    "EXO 14:22",
+    "1CO 10:1-2"
+   ]
+  },
+  {
+   "from": "exo_manna",
+   "to": "1co_wilderness_warning",
+   "kind": "parallels",
+   "refs": [
+    "EXO 16:4",
+    "1CO 10:3"
+   ]
+  },
+  {
+   "from": "exo_water_rock",
+   "to": "1co_wilderness_warning",
+   "kind": "parallels",
+   "refs": [
+    "EXO 17:6",
+    "1CO 10:4"
+   ]
+  },
+  {
+   "from": "exo_golden_calf",
+   "to": "1co_wilderness_warning",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 32:6",
+    "1CO 10:7"
+   ]
+  },
+  {
+   "from": "num_baal_peor",
+   "to": "1co_wilderness_warning",
+   "kind": "parallels",
+   "refs": [
+    "NUM 25:1-9",
+    "1CO 10:8"
+   ]
+  },
+  {
+   "from": "num_bronze_serpent",
+   "to": "1co_wilderness_warning",
+   "kind": "parallels",
+   "refs": [
+    "NUM 21:5-6",
+    "1CO 10:9"
+   ]
+  },
+  {
+   "from": "num_plague_atonement",
+   "to": "1co_wilderness_warning",
+   "kind": "parallels",
+   "refs": [
+    "NUM 16:41-49",
+    "1CO 10:10"
+   ]
+  },
+  {
+   "from": "psa_24",
+   "to": "1co_liberty_glory",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 24:1",
+    "1CO 10:26"
+   ]
+  },
+  {
+   "from": "isa_woe_ephraim",
+   "to": "1co_tongues_prophecy",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 28:11-12",
+    "1CO 14:21"
+   ]
+  },
+  {
+   "from": "psa_8",
+   "to": "1co_resurrection_hope",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 8:6",
+    "1CO 15:27"
+   ]
+  },
+  {
+   "from": "isa_valley_of_vision",
+   "to": "1co_resurrection_hope",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 22:13",
+    "1CO 15:32"
+   ]
+  },
+  {
+   "from": "isa_feast_death",
+   "to": "1co_resurrection_body",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 25:8",
+    "1CO 15:54"
+   ]
+  },
+  {
+   "from": "hos_no_saviour_beside_me",
+   "to": "1co_resurrection_body",
+   "kind": "quoted-in",
+   "refs": [
+    "HOS 13:14",
+    "1CO 15:55"
+   ]
+  },
+  {
+   "from": "deu_ebal_gerizim",
+   "to": "gal_abraham_faith",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 27:26",
+    "GAL 3:10"
+   ]
+  },
+  {
+   "from": "hab_just_shall_live_by_faith",
+   "to": "gal_abraham_faith",
+   "kind": "quoted-in",
+   "refs": [
+    "HAB 2:4",
+    "GAL 3:11"
+   ]
+  },
+  {
+   "from": "lev_unlawful_unions",
+   "to": "gal_abraham_faith",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 18:5",
+    "GAL 3:12"
+   ]
+  },
+  {
+   "from": "deu_family_laws",
+   "to": "gal_abraham_faith",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 21:23",
+    "GAL 3:13"
+   ]
+  },
+  {
+   "from": "gen_hagar_ishmael",
+   "to": "gal_hagar_sarah",
+   "kind": "parallels",
+   "refs": [
+    "GEN 16:15",
+    "GAL 4:22-23"
+   ]
+  },
+  {
+   "from": "gen_isaac_born",
+   "to": "gal_hagar_sarah",
+   "kind": "parallels",
+   "refs": [
+    "GEN 21:2",
+    "GAL 4:22-23"
+   ]
+  },
+  {
+   "from": "isa_barren_sing",
+   "to": "gal_hagar_sarah",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 54:1",
+    "GAL 4:27"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "gal_flesh_spirit",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:18",
+    "GAL 5:14"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "eph_household",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:12",
+    "EPH 6:2-3"
+   ]
+  },
+  {
+   "from": "psa_8",
+   "to": "eph_paul_prayer_power",
+   "kind": "parallels",
+   "refs": [
+    "PSA 8:6",
+    "EPH 1:22"
+   ]
+  },
+  {
+   "from": "psa_68",
+   "to": "eph_unity_gifts",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 68:18",
+    "EPH 4:8"
+   ]
+  },
+  {
+   "from": "zec_zion_restored",
+   "to": "eph_old_new_man",
+   "kind": "parallels",
+   "refs": [
+    "ZEC 8:16",
+    "EPH 4:25"
+   ]
+  },
+  {
+   "from": "isa_assyria_rod",
+   "to": "rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 10:22-23",
+    "ROM 9:27-28"
+   ]
+  },
+  {
+   "from": "isa_woe_ephraim",
+   "to": "rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 28:16",
+    "ROM 9:33"
+   ]
+  },
+  {
+   "from": "isa_assyria_flood",
+   "to": "rom_election",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 8:14",
+    "ROM 9:33"
+   ]
+  },
+  {
+   "from": "isa_woe_ephraim",
+   "to": "rom_faith_hearing",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 28:16",
+    "ROM 10:11"
+   ]
+  },
+  {
+   "from": "isa_iniquities_separate",
+   "to": "rom_remnant",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 59:20-21",
+    "ROM 11:26-27"
+   ]
+  },
+  {
+   "from": "psa_2",
+   "to": "heb_son_better_than_angels",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 2:7",
+    "HEB 1:5"
+   ]
+  },
+  {
+   "from": "2sa_davidic_promise",
+   "to": "heb_son_better_than_angels",
+   "kind": "quoted-in",
+   "refs": [
+    "2SA 7:14",
+    "HEB 1:5"
+   ]
+  },
+  {
+   "from": "psa_96_99",
+   "to": "heb_son_better_than_angels",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 97:7",
+    "HEB 1:6"
+   ]
+  },
+  {
+   "from": "psa_104",
+   "to": "heb_son_better_than_angels",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 104:4",
+    "HEB 1:7"
+   ]
+  },
+  {
+   "from": "psa_45",
+   "to": "heb_son_better_than_angels",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 45:6-7",
+    "HEB 1:8-9"
+   ]
+  },
+  {
+   "from": "psa_102",
+   "to": "heb_son_better_than_angels",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 102:25-27",
+    "HEB 1:10-12"
+   ]
+  },
+  {
+   "from": "psa_110",
+   "to": "heb_son_better_than_angels",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 110:1",
+    "HEB 1:13"
+   ]
+  },
+  {
+   "from": "psa_8",
+   "to": "heb_jesus_like_brothers",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 8:4-6",
+    "HEB 2:6-8"
+   ]
+  },
+  {
+   "from": "psa_22",
+   "to": "heb_jesus_like_brothers",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 22:22",
+    "HEB 2:12"
+   ]
+  },
+  {
+   "from": "isa_assyria_flood",
+   "to": "heb_jesus_like_brothers",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 8:17-18",
+    "HEB 2:13"
+   ]
+  },
+  {
+   "from": "num_miriam_aaron",
+   "to": "heb_greater_than_moses",
+   "kind": "quoted-in",
+   "refs": [
+    "NUM 12:7",
+    "HEB 3:2"
+   ]
+  },
+  {
+   "from": "psa_95",
+   "to": "heb_unbelief_wilderness",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 95:7-11",
+    "HEB 3:7-11"
+   ]
+  },
+  {
+   "from": "num_rebellion_kadesh",
+   "to": "heb_unbelief_wilderness",
+   "kind": "parallels",
+   "refs": [
+    "NUM 14:22-23",
+    "HEB 3:16-18"
+   ]
+  },
+  {
+   "from": "psa_95",
+   "to": "heb_sabbath_rest",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 95:7-8",
+    "HEB 4:7"
+   ]
+  },
+  {
+   "from": "psa_2",
+   "to": "heb_priest_called",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 2:7",
+    "HEB 5:5"
+   ]
+  },
+  {
+   "from": "psa_110",
+   "to": "heb_priest_called",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 110:4",
+    "HEB 5:6"
+   ]
+  },
+  {
+   "from": "psa_110",
+   "to": "heb_priesthood_changed",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 110:4",
+    "HEB 7:17"
+   ]
+  },
+  {
+   "from": "exo_table_lampstand",
+   "to": "heb_new_covenant",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 25:40",
+    "HEB 8:5"
+   ]
+  },
+  {
+   "from": "jer_new_covenant",
+   "to": "heb_new_covenant",
+   "kind": "quoted-in",
+   "refs": [
+    "JER 31:31-34",
+    "HEB 8:8-12"
+   ]
+  },
+  {
+   "from": "lev_day_of_atonement",
+   "to": "heb_earthly_tabernacle",
+   "kind": "parallels",
+   "refs": [
+    "LEV 16:34",
+    "HEB 9:7"
+   ]
+  },
+  {
+   "from": "exo_covenant_ratified",
+   "to": "heb_blood_of_christ",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 24:8",
+    "HEB 9:20"
+   ]
+  },
+  {
+   "from": "psa_40",
+   "to": "heb_one_sacrifice",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 40:6-8",
+    "HEB 10:5-7"
+   ]
+  },
+  {
+   "from": "jer_new_covenant",
+   "to": "heb_one_sacrifice",
+   "kind": "quoted-in",
+   "refs": [
+    "JER 31:33-34",
+    "HEB 10:16-17"
+   ]
+  },
+  {
+   "from": "deu_song_of_moses",
+   "to": "heb_endure_faith",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 32:35-36",
+    "HEB 10:30"
+   ]
+  },
+  {
+   "from": "hab_just_shall_live_by_faith",
+   "to": "heb_endure_faith",
+   "kind": "quoted-in",
+   "refs": [
+    "HAB 2:3-4",
+    "HEB 10:37-38"
+   ]
+  },
+  {
+   "from": "exo_moses_born",
+   "to": "heb_faith_moses_conquest",
+   "kind": "parallels",
+   "refs": [
+    "EXO 2:2",
+    "HEB 11:23"
+   ]
+  },
+  {
+   "from": "exo_passover_instituted",
+   "to": "heb_faith_moses_conquest",
+   "kind": "parallels",
+   "refs": [
+    "EXO 12:21-23",
+    "HEB 11:28"
+   ]
+  },
+  {
+   "from": "exo_red_sea",
+   "to": "heb_faith_moses_conquest",
+   "kind": "parallels",
+   "refs": [
+    "EXO 14:22",
+    "HEB 11:29"
+   ]
+  },
+  {
+   "from": "jos_jericho",
+   "to": "heb_faith_moses_conquest",
+   "kind": "parallels",
+   "refs": [
+    "JOS 6:20",
+    "HEB 11:30"
+   ]
+  },
+  {
+   "from": "jos_rahab",
+   "to": "heb_faith_moses_conquest",
+   "kind": "parallels",
+   "refs": [
+    "JOS 2:4-6",
+    "HEB 11:31"
+   ]
+  },
+  {
+   "from": "pro_trust_lord",
+   "to": "heb_discipline",
+   "kind": "quoted-in",
+   "refs": [
+    "PRO 3:11-12",
+    "HEB 12:5-6"
+   ]
+  },
+  {
+   "from": "gen_cain_abel",
+   "to": "heb_sinai_zion",
+   "kind": "parallels",
+   "refs": [
+    "GEN 4:10",
+    "HEB 12:24"
+   ]
+  },
+  {
+   "from": "exo_sinai_theophany",
+   "to": "heb_sinai_zion",
+   "kind": "parallels",
+   "refs": [
+    "EXO 19:12-19",
+    "HEB 12:18-19"
+   ]
+  },
+  {
+   "from": "deu_golden_calf_recalled",
+   "to": "heb_sinai_zion",
+   "kind": "parallels",
+   "refs": [
+    "DEU 9:19",
+    "HEB 12:21"
+   ]
+  },
+  {
+   "from": "deu_hear_statutes",
+   "to": "heb_sinai_zion",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 4:24",
+    "HEB 12:29"
+   ]
+  },
+  {
+   "from": "deu_joshua_law_read",
+   "to": "heb_love_in_life",
+   "kind": "quoted-in",
+   "refs": [
+    "DEU 31:6",
+    "HEB 13:5"
+   ]
+  },
+  {
+   "from": "jos_commission",
+   "to": "heb_love_in_life",
+   "kind": "quoted-in",
+   "refs": [
+    "JOS 1:5",
+    "HEB 13:5"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "heb_love_in_life",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:6",
+    "HEB 13:6"
+   ]
+  },
+  {
+   "from": "lev_day_of_atonement",
+   "to": "heb_outside_camp",
+   "kind": "parallels",
+   "refs": [
+    "LEV 16:27",
+    "HEB 13:11"
+   ]
+  },
+  {
+   "from": "num_forty_years",
+   "to": "jud_examples_of_judgment",
+   "kind": "parallels",
+   "refs": [
+    "NUM 14:29-30",
+    "JUD 1:5"
+   ]
+  },
+  {
+   "from": "gen_cain_abel",
+   "to": "jud_ungodly_men",
+   "kind": "parallels",
+   "refs": [
+    "GEN 4:8",
+    "JUD 1:11"
+   ]
+  },
+  {
+   "from": "num_balak_balaam",
+   "to": "jud_ungodly_men",
+   "kind": "parallels",
+   "refs": [
+    "NUM 22:7",
+    "JUD 1:11"
+   ]
+  },
+  {
+   "from": "num_korah",
+   "to": "jud_ungodly_men",
+   "kind": "parallels",
+   "refs": [
+    "NUM 16:1-3",
+    "JUD 1:11"
+   ]
+  },
+  {
+   "from": "gen_adam_to_noah",
+   "to": "jud_ungodly_men",
+   "kind": "parallels",
+   "refs": [
+    "GEN 5:21-24",
+    "JUD 1:14"
+   ]
+  },
+  {
+   "from": "num_balaam_donkey",
+   "to": "2pe_false_teachers_portrait",
+   "kind": "parallels",
+   "refs": [
+    "NUM 22:21-30",
+    "2PE 2:15-16"
+   ]
+  },
+  {
+   "from": "pro_fools_sluggards",
+   "to": "2pe_false_teachers_portrait",
+   "kind": "quoted-in",
+   "refs": [
+    "PRO 26:11",
+    "2PE 2:22"
+   ]
+  },
+  {
+   "from": "psa_90",
+   "to": "2pe_scoffers",
+   "kind": "parallels",
+   "refs": [
+    "PSA 90:4",
+    "2PE 3:8"
+   ]
+  },
+  {
+   "from": "isa_new_heavens_earth",
+   "to": "2pe_day_of_lord",
+   "kind": "parallels",
+   "refs": [
+    "ISA 65:17",
+    "2PE 3:13"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "1pe_holy_redeemed",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:2",
+    "1PE 1:16"
+   ]
+  },
+  {
+   "from": "isa_comfort",
+   "to": "1pe_holy_redeemed",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 40:6-8",
+    "1PE 1:24-25"
+   ]
+  },
+  {
+   "from": "isa_woe_ephraim",
+   "to": "1pe_living_stone",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 28:16",
+    "1PE 2:6"
+   ]
+  },
+  {
+   "from": "psa_117_118",
+   "to": "1pe_living_stone",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 118:22",
+    "1PE 2:7"
+   ]
+  },
+  {
+   "from": "isa_assyria_flood",
+   "to": "1pe_living_stone",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 8:14",
+    "1PE 2:8"
+   ]
+  },
+  {
+   "from": "exo_kingdom_of_priests",
+   "to": "1pe_living_stone",
+   "kind": "parallels",
+   "refs": [
+    "EXO 19:5-6",
+    "1PE 2:9"
+   ]
+  },
+  {
+   "from": "hos_plead_with_mother",
+   "to": "1pe_living_stone",
+   "kind": "quoted-in",
+   "refs": [
+    "HOS 2:23",
+    "1PE 2:10"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "1pe_christ_example",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 53:9",
+    "1PE 2:22"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "1pe_christ_example",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 53:4-5",
+    "1PE 2:24"
+   ]
+  },
+  {
+   "from": "isa_suffering_servant",
+   "to": "1pe_christ_example",
+   "kind": "parallels",
+   "refs": [
+    "ISA 53:6",
+    "1PE 2:25"
+   ]
+  },
+  {
+   "from": "psa_34",
+   "to": "1pe_suffer_for_good",
+   "kind": "quoted-in",
+   "refs": [
+    "PSA 34:12-16",
+    "1PE 3:10-12"
+   ]
+  },
+  {
+   "from": "isa_assyria_flood",
+   "to": "1pe_suffer_for_good",
+   "kind": "quoted-in",
+   "refs": [
+    "ISA 8:12-13",
+    "1PE 3:14-15"
+   ]
+  },
+  {
+   "from": "pro_righteous_wicked_1",
+   "to": "1pe_live_for_god",
+   "kind": "parallels",
+   "refs": [
+    "PRO 10:12",
+    "1PE 4:8"
+   ]
+  },
+  {
+   "from": "pro_righteous_wicked_1",
+   "to": "1pe_fiery_trial",
+   "kind": "quoted-in",
+   "refs": [
+    "PRO 11:31",
+    "1PE 4:18"
+   ]
+  },
+  {
+   "from": "pro_trust_lord",
+   "to": "1pe_elders_humility",
+   "kind": "quoted-in",
+   "refs": [
+    "PRO 3:34",
+    "1PE 5:5"
+   ]
+  },
+  {
+   "from": "pro_trust_lord",
+   "to": "jas_friendship_world",
+   "kind": "quoted-in",
+   "refs": [
+    "PRO 3:34",
+    "JAS 4:6"
+   ]
+  },
+  {
+   "from": "lev_be_holy",
+   "to": "jas_partiality",
+   "kind": "quoted-in",
+   "refs": [
+    "LEV 19:18",
+    "JAS 2:8"
+   ]
+  },
+  {
+   "from": "exo_ten_commandments",
+   "to": "jas_partiality",
+   "kind": "quoted-in",
+   "refs": [
+    "EXO 20:13-14",
+    "JAS 2:11"
+   ]
+  },
+  {
+   "from": "jos_rahab",
+   "to": "jas_faith_works",
+   "kind": "parallels",
+   "refs": [
+    "JOS 2:4-6",
+    "JAS 2:25"
+   ]
+  },
+  {
+   "from": "job_restored",
+   "to": "jas_patience_oaths",
+   "kind": "parallels",
+   "refs": [
+    "JOB 42:10",
+    "JAS 5:11"
+   ]
+  },
+  {
+   "from": "1ki_elijah_ravens",
+   "to": "jas_prayer_restoration",
+   "kind": "parallels",
+   "refs": [
+    "1KI 17:1",
+    "JAS 5:17"
+   ]
+  },
+  {
+   "from": "1ki_rain_returns",
+   "to": "jas_prayer_restoration",
+   "kind": "parallels",
+   "refs": [
+    "1KI 18:41-45",
+    "JAS 5:18"
+   ]
+  }
+ ]
+}
