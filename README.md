@@ -37,7 +37,7 @@ Cross-linking is done where the text supports it, and stopped where it does not.
 | `schema/` | JSON Schemas for each data file |
 | `fragments/` | Parallel authoring: write a fragment, `node scripts/fragment.mjs check <file>`, then a maintainer merges. `scripts/show.mjs` prints KJV passages |
 | `docs/crosslink-coverage.md` | Why some cross-links are absent, including the books the New Testament never cites |
-| `scripts/` | `validate.mjs`, `import-kjv.mjs`, `build-teachers-md.mjs`, `build-review.mjs`, `fragment.mjs`, `show.mjs` |
+| `scripts/` | `validate.mjs`, `import-kjv.mjs`, `build-teachers-md.mjs`, `build-review.mjs`, `build-graph.mjs`, `fragment.mjs`, `show.mjs` |
 
 ```
 npm run validate                          # integrity checks
@@ -45,7 +45,32 @@ node scripts/validate.mjs --update-manifest   # after editing data, refresh chec
 npm run build:review                      # regenerate REVIEW.md from data/ + data/review.json
 npm run build:book-links                  # regenerate the book-level rollup fragment
 npm run build:teachers                    # regenerate TEACHERS.md
+npm run build:web                         # regenerate web/graph.json for the explorer
 ```
+
+## Interactive explorer
+
+`web/` is a self-contained canvas explorer for the graph, in the shape of [Marble](https://withmarble.com/curriculum/)'s curriculum view: 1,772 topics laid out as a funnel with Genesis at the top and Revelation at the bottom, wired by prerequisite and by cross-reference. Click any dot for its passages, evidence and assessment prompt; selecting one lights its prerequisite chain and the cross-references that meet at it.
+
+```
+npm run build:web                         # writes web/graph.json (1.1MB, 313KB gzipped)
+python3 -m http.server 8000               # then open http://localhost:8000/web/
+```
+
+It must be served over HTTP, not opened as a file: `fetch` is blocked on `file://`, so the page cannot read `graph.json` or `data/kjv.json` from there. It says so on screen if you try.
+
+Verse text is fetched lazily from `data/kjv.json` (4.7MB) the first time you open a topic with a passage, and never if you don't. If that fetch fails the page still works and shows references without text.
+
+| Path | Purpose |
+|---|---|
+| `web/index.html` | The explorer. No build step, no dependencies |
+| `web/graph.json` | Generated payload: nodes with precomputed positions, edges, relations. Do not edit by hand |
+| `scripts/lib/graph-layout.mjs` | Canon order, deterministic jitter, unique-descendant centrality, per-book placement |
+| `scripts/lib/graph-payload.mjs` | Packs `data/` into the web payload |
+
+Layout is deterministic and the build is byte-reproducible, so a rebuild produces no diff. Position is derived, not hand-tuned: topics sit in their book's band, spread by a hash-seeded low-discrepancy sequence, with the band's inner radius set by how many descendants a topic unlocks. Two properties are asserted at build time and will fail the build if broken: no book overflows its band, and radius never decreases with canonical order.
+
+Add `?debug=1` to the URL for a `window.bibleGraph` handle (projection, hit testing, selection, render timings). A canvas has no DOM to assert against, so this is how the page is tested.
 
 ## Passage references
 A reference is `{book, chapter, verseStart, verseEnd}` within one chapter; multi-chapter passages are several refs. In text and front matter: `ROM.5.12-21`. ESV links are derived from refs, never stored (e.g. `https://www.esv.org/Romans+5/`); ESV text is not stored (Crossway copyright).

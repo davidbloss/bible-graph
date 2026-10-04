@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="The open map of scripture: 1,772 topics from all 66 books, wired by prerequisite and by quotation. Built from the King James text. Open source.">
+<title>Every story in the Bible</title>
+<!-- Inline so the page ships as a single file plus one JSON payload, with no favicon 404. -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='7' r='3' fill='%237FB77E'/%3E%3Ccircle cx='9' cy='17' r='2.6' fill='%23D9A441'/%3E%3Ccircle cx='23' cy='17' r='2.6' fill='%23C05746'/%3E%3Ccircle cx='16' cy='27' r='3.4' fill='%23E8C15A'/%3E%3Cpath d='M16 7 9 17M16 7l7 10M9 17h14M9 17l7 10M23 17l-7 10' stroke='%23566' stroke-width='1.4' fill='none'/%3E%3C/svg%3E">
+<style>
+:root{
+  --bg:#0A0C14; --panel:rgba(14,17,28,.78); --stroke:rgba(130,145,190,.16);
+  --ink:#EDEFF7; --mut:#98A0B8; --faint:#646C84; --gold:#D9A441; --red:#E23C32;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{
+  background:var(--bg); color:var(--ink); overflow:hidden;
+  font:500 15px/1.55 ui-rounded,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+
+#wrap{
+  position:relative; height:100vh; min-height:560px; overflow:hidden;
+  cursor:grab; user-select:none; touch-action:none;
+  background:radial-gradient(110% 85% at 50% 118%, rgba(90,70,40,.20), transparent 55%), var(--bg);
+}
+#wrap.drag{cursor:grabbing}
+#cv{position:absolute; inset:0; display:block}
+
+#logo{position:absolute; top:26px; left:34px; z-index:6}
+#logo svg{display:block; height:22px; width:auto; fill:var(--ink)}
+#logo .sub{display:block; margin-top:5px; font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--faint)}
+
+#head{position:absolute; top:50%; left:34px; transform:translateY(-50%); z-index:5; width:min(430px,42vw); pointer-events:none}
+h1{
+  font-family:ui-serif,Georgia,"Times New Roman",serif; font-weight:500;
+  font-size:clamp(42px,5.4vw,74px); line-height:1.03; letter-spacing:-.022em;
+  text-wrap:balance; color:#fff;
+}
+h1 .rp{color:var(--gold)}
+.kicker{margin-top:16px; font-size:15px; color:#C6CDE0; text-wrap:balance}
+.counts{margin-top:14px; font-size:15px; color:#C6CDE0}
+.counts b{color:var(--gold); font-weight:700}
+.ctx{margin-top:12px; font-size:12.5px; color:var(--faint); max-width:38ch}
+.ctx a{color:var(--mut)}
+#ctas{margin-top:20px; display:flex; gap:14px; align-items:center; pointer-events:auto}
+.btn{
+  display:inline-block; padding:9px 18px; border-radius:999px; text-decoration:none;
+  border:1px solid var(--stroke); background:rgba(20,24,38,.7); color:var(--ink);
+  font-size:13.5px; font-weight:600; transition:border-color .16s,background .16s;
+}
+.btn:hover{border-color:rgba(217,164,65,.55); background:rgba(30,26,20,.8)}
+.lic{font-size:12px; color:var(--faint)}
+
+#legend{
+  position:absolute; left:34px; bottom:30px; z-index:6; max-width:min(430px,44vw);
+  padding:14px 16px 15px; border-radius:20px;
+  background:var(--panel); border:1px solid var(--stroke);
+  backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px);
+}
+.lg-title{font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--faint)}
+#chips{margin-top:10px; display:flex; flex-wrap:wrap; gap:6px}
+.chip{
+  display:flex; align-items:center; gap:7px; padding:6px 11px 6px 9px; border-radius:999px;
+  border:1px solid var(--stroke); background:rgba(255,255,255,.03);
+  font-size:12.5px; cursor:pointer; transition:opacity .16s,border-color .16s;
+}
+.chip:hover{border-color:rgba(217,164,65,.4)}
+.chip[aria-pressed="false"]{opacity:.34}
+.chip .sw{width:9px; height:9px; border-radius:50%; flex:none; box-shadow:0 0 0 1px rgba(8,10,18,.6)}
+.chip .n{color:var(--faint); font-size:11px}
+.edgebar{margin-top:12px; padding-top:12px; border-top:1px solid var(--stroke); display:flex; gap:6px; flex-wrap:wrap}
+#hint{position:absolute; right:34px; bottom:30px; z-index:4; font-size:12px; color:var(--faint); pointer-events:none; text-align:right}
+#hint b{color:var(--mut); font-weight:600}
+
+#tip{
+  position:absolute; z-index:9; max-width:320px; padding:11px 13px; border-radius:16px;
+  background:rgba(10,13,22,.95); border:1px solid var(--stroke);
+  box-shadow:0 18px 50px rgba(0,0,0,.55);
+  opacity:0; pointer-events:none; transition:opacity .12s;
+}
+#tip.on{opacity:1}
+.tmeta{display:flex; align-items:center; gap:7px; font-size:10.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--mut)}
+.tmeta .sw{width:8px; height:8px; border-radius:50%; flex:none}
+.ttl{margin-top:6px; font-size:14.5px; font-weight:700; letter-spacing:-.01em}
+.tq{margin-top:5px; font-size:12.5px; color:#D3D9E8; line-height:1.45}
+
+#card{
+  position:absolute; z-index:10; top:26px; right:26px; bottom:26px; width:min(390px,38vw);
+  display:flex; flex-direction:column; border-radius:20px;
+  background:var(--panel); border:1px solid var(--stroke);
+  backdrop-filter:blur(13px); -webkit-backdrop-filter:blur(13px);
+  opacity:0; pointer-events:none; transform:translateX(14px); transition:opacity .18s,transform .18s;
+}
+#card.on{opacity:1; pointer-events:auto; transform:none}
+.cbar{display:flex; align-items:center; gap:10px; padding:14px 16px 0}
+.cbar .sp{flex:1}
+.cbar button{
+  border:1px solid var(--stroke); background:rgba(255,255,255,.04); color:var(--mut);
+  border-radius:999px; padding:5px 12px; font:inherit; font-size:12.5px; cursor:pointer;
+}
+.cbar button:hover{color:var(--ink); border-color:rgba(217,164,65,.45)}
+.cbar button[disabled]{opacity:.3; cursor:default}
+.cbody{overflow-y:auto; padding:12px 16px 20px; scrollbar-width:thin; scrollbar-color:rgba(130,145,190,.3) transparent}
+.cmeta{display:flex; align-items:center; gap:8px; font-size:10.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--mut)}
+.cmeta .sw{width:9px; height:9px; border-radius:50%; flex:none}
+.ctl{margin-top:7px; font-size:21px; font-weight:800; letter-spacing:-.022em; line-height:1.15}
+.cd{margin-top:9px; font-size:13.5px; color:#D3D9E8; line-height:1.5}
+.big{margin-top:15px; display:flex; align-items:baseline; gap:8px}
+.big .n{font-size:33px; font-weight:800; color:var(--gold); line-height:1}
+.big .u{font-size:12px; color:var(--mut)}
+.csub{margin-top:5px; font-size:12.5px; color:#AEB6CC}
+.sec{margin-top:18px}
+.seclabel{font-size:10.5px; letter-spacing:.13em; text-transform:uppercase; color:var(--faint); margin-bottom:7px}
+.rows{display:flex; flex-direction:column; gap:5px}
+.row{
+  display:flex; align-items:flex-start; gap:9px; width:100%; text-align:left;
+  padding:8px 10px; border-radius:10px; border:1px solid transparent; background:rgba(255,255,255,.03);
+  font:inherit; font-size:12.5px; color:var(--ink); cursor:pointer; line-height:1.4;
+}
+.row:hover{background:rgba(255,255,255,.07); border-color:var(--stroke)}
+.row .dot{width:7px; height:7px; border-radius:50%; flex:none; margin-top:5px}
+.row .rt{flex:1}
+.row .rr{font-size:10.5px; color:var(--faint); flex:none; margin-top:1px}
+.row .empty{color:var(--faint); cursor:default; background:none; border:none; padding-left:0}
+.row .empty:hover{background:none}
+.kv{margin-top:4px; font-size:11px; color:var(--mut)}
+.passage{margin-top:7px; padding:11px 12px; border-radius:12px; background:rgba(255,255,255,.035); border:1px solid var(--stroke)}
+.passage .pr{font-size:11px; color:var(--gold); letter-spacing:.03em}
+.passage .pt{margin-top:6px; font-size:13px; color:#E4E7F2; line-height:1.55}
+.passage.loading .pt{color:var(--faint)}
+.passage .no{font-size:11.5px; color:var(--faint)}
+.sidebyside{display:grid; gap:9px; margin-top:8px}
+.sidebyside.two{grid-template-columns:1fr 1fr}
+.evidence{margin:0; padding-left:17px; font-size:12.5px; color:#D3D9E8; line-height:1.5}
+.evidence li{margin-bottom:4px}
+.prompt{margin-top:14px; padding:11px 12px; border-radius:12px; border:1px dashed var(--stroke); font-size:12.5px; color:#C6CDE0; line-height:1.5}
+#more,.more{font-size:11.5px; color:var(--faint); padding:4px 0}
+
+#boot{
+  position:absolute; inset:0; z-index:20; display:flex; align-items:center; justify-content:center;
+  background:var(--bg); text-align:center; padding:30px; transition:opacity .4s;
+}
+#boot.gone{opacity:0; pointer-events:none}
+#boot .msg{font-size:14px; color:var(--mut); max-width:44ch; line-height:1.6}
+#boot code{font-family:ui-monospace,Menlo,monospace; color:var(--gold); font-size:12.5px}
+#foot{position:absolute; right:26px; bottom:6px; z-index:4; font-size:10.5px; color:#4A5165; text-align:right; pointer-events:none}
+
+@media (max-width:900px){
+  #head{width:min(360px,52vw)}
+  #card{width:min(340px,44vw)}
+}
+@media (max-width:720px){
+  #logo{top:18px; left:18px}
+  #head{left:18px; right:18px; width:auto; top:78px; transform:none}
+  .ctx,#ctas .lic{display:none}
+  #legend{left:18px; right:18px; bottom:18px; max-width:none; max-height:36vh; overflow-y:auto}
+  #hint{display:none}
+  #card{
+    top:auto; left:0; right:0; bottom:0; width:auto; max-height:64vh;
+    border-radius:20px 20px 0 0; transform:translateY(18px);
+  }
+  #foot{display:none}
+  .sidebyside.two{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none !important; animation:none !important}
+}
+:focus-visible{outline:2px solid var(--gold); outline-offset:2px}
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="cv"></canvas>
+
+  <div id="logo">
+    <svg viewBox="0 0 200 24" role="img" aria-label="bible-taxonomy"><text x="0" y="18" style="font:700 19px ui-rounded,system-ui,sans-serif;letter-spacing:-.02em">bible-taxonomy</text></svg>
+    <span class="sub">Genesis to Revelation</span>
+  </div>
+
+  <header id="head">
+    <p class="kicker">The open map of scripture, wired by what comes first and what quotes what.</p>
+    <h1>Every story in the&nbsp;Bible<span class="rp">.</span></h1>
+    <p class="counts"><b id="nCount">0</b> topics, <b id="eCount">0</b> prerequisite links and <b id="rCount">0</b> scripture cross-references. Every link cites the verses it rests on. <b style="color:var(--ink)">Tap any dot</b> to see where it sits.</p>
+    <p class="ctx">Every KJV verse is inside at least one topic. Passage text is the King James, from Project Gutenberg eBook&nbsp;#10. <b style="color:var(--gold)">This graph is a v0 draft and no part of it has been human-reviewed.</b></p>
+    <div id="ctas">
+      <a class="btn" href="https://github.com/withmarbleapp/os-taxonomy" rel="noopener">Modelled on Marble&rsquo;s curriculum graph</a>
+      <span class="lic">Licence not yet decided</span>
+    </div>
+  </header>
+
+  <div id="legend">
+    <div class="lg-title">Covenant &middot; click to toggle</div>
+    <div id="chips"></div>
+    <div class="edgebar">
+      <div class="chip" id="tgPre" role="button" tabIndex="0" aria-pressed="true"><span class="sw" style="background:rgba(150,165,205,.85)"></span>Prerequisites</div>
+      <div class="chip" id="tgRel" role="button" tabIndex="0" aria-pressed="true"><span class="sw" style="background:#E8C15A"></span>Cross-references</div>
+    </div>
+  </div>
+
+  <div id="hint"><b>Drag</b> to spin &middot; <b>Scroll</b> to zoom &middot; <b>Tap</b> a dot to open it</div>
+
+  <div id="tip" role="tooltip"><div class="tmeta"><span class="sw"></span><span class="ts"></span></div><div class="ttl"></div><div class="q"></div></div>
+
+  <aside id="card" role="dialog" aria-label="Topic detail">
+    <div class="cbar"><button class="back" disabled>Back</button><span class="sp"></span><button class="close">Close</button></div>
+    <div class="cbody"></div>
+  </aside>
+
+  <div id="foot">bible-taxonomy &middot; KJV via Project Gutenberg #10</div>
+
+  <div id="boot"><div class="msg">Loading the graph&hellip;</div></div>
+</div>
+
+<script>
+(() => {
+'use strict';
+
+// ---------------------------------------------------------------- boot
+
+const boot = document.getElementById('boot');
+const bootMsg = (html) => { boot.querySelector('.msg').innerHTML = html; };
+const fail = (html) => { boot.classList.remove('gone'); bootMsg(html); };
+
+// fetch() is blocked on file://, and so is reading data/kjv.json from there, so the page says so
+// plainly instead of failing silently.
+if (location.protocol === 'file:') {
+  fail('This page reads two files, which a <code>file://</code> URL blocks.<br><br>Serve the repository root instead:<br><br><code>python3 -m http.server 8000</code><br><br>then open <code>http://localhost:8000/web/</code>');
+  return;
+}
+
+// ---------------------------------------------------------------- constants
+
+const FOV = 1400;
+const GROW_MS = 2800;
+const MAX_ROWS = 8;
+// A book overview cites up to 50 passages covering every chapter in the book. Rendering that as
+// text is 3,000-odd verses of book overviews nobody reads, so past this many verses we show the
+// chapter range and stop.
+const MAX_TEXT_VERSES = 40;
+
+const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+const wrap = document.getElementById('wrap');
+const cv = document.getElementById('cv');
+const ctx = cv.getContext('2d');
+const tip = document.getElementById('tip');
+const card = document.getElementById('card');
+const cbody = card.querySelector('.cbody');
+const backBtn = card.querySelector('.back');
+const closeBtn = card.querySelector('.close');
+const chipsEl = document.getElementById('chips');
+const tgPre = document.getElementById('tgPre');
+const tgRel = document.getElementById('tgRel');
+const footEl = document.getElementById('foot');
+
+let D = null, N = null, RL = null, H = 0, GROUPS = [], GCOL = [], RKINDS = [];
+let preEdges = [], relEdges = [];
+let directPre = [], directNext = [], relOut = [], relIn = [], relTouch = [];
+let P = null, order = null;
+let VW = 0, VH = 0, dpr = 1;
+
+let rotY = 0.6, tilt = -0.1, zoom = 1;
+let rotYT = rotY, tiltT = tilt, zoomT = 1;
+let grow = reduced ? 1 : 0;
+const t0 = performance.now();
+
+let active = new Set();
+let selected = -1, hover = -1, hist = [];
+let showPre = true, showRel = true;
+let lineage = { nodes: new Set(), edges: new Set() };
+let lineageMs = 0, frames = 0, paints = 0;
+
+let dragging = false, moved = false, lx = 0, ly = 0, pinchPrev = 0;
+const touches = new Map();
+let spin = reduced ? 0 : 0.045;
+let idleUntil = 0;
+
+const kjv = { verses: null, state: 'idle', tried: false };
+
+// ---------------------------------------------------------------- helpers
+
+const esc = (s) => {
+  const d = document.createElement('div');
+  d.textContent = s ?? '';
+  return d.innerHTML;
+};
+// Every assessment prompt is written with a {{name}} placeholder for the learner's name. On a
+// public page the placeholder is noise, so it reads as "you".
+const sayable = (s) => (s ?? '').replace(/\{\{\s*name\s*\}\}/g, 'you');
+const nf = (n) => n.toLocaleString('en-GB');
+const BOOKNAME = (code) => D?.books.find((b) => b.code === code)?.name ?? code;
+// Parsed once per node at load. Doing it in the draw loop allocated 1,772 short arrays a frame.
+const hexRgb = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
+
+// Refs are packed as [bookIndex, chapter, firstVerse, lastVerse] rather than repeating the book
+// code on every row, so the index has to be resolved back to a name on the way out.
+const bookName = (i) => D?.books[i]?.name ?? String(i);
+// `["GEN",1,1,31]` -> "Genesis 1:1-31"
+function fmtRef(r) {
+  const range = r[2] === r[3] ? `${r[1]}:${r[2]}` : `${r[1]}:${r[2]}-${r[3]}`;
+  return `${bookName(r[0])} ${range}`;
+}
+function fmtRefs(refs) {
+  return refs.map(fmtRef).join(' · ');
+}
+function verseCount(refs) {
+  return refs.reduce((s, r) => s + (r[3] - r[2] + 1), 0);
+}
+// Book overviews cite chapter by chapter, so 50 adjacent refs collapse to one range.
+function collapseRefs(refs) {
+  if (refs.length <= 4) return [fmtRefs(refs)];
+  const byBook = new Map();
+  for (const r of refs) {
+    if (!byBook.has(r[0])) byBook.set(r[0], new Set());
+    byBook.get(r[0]).add(r[1]);
+  }
+  return [...byBook].map(([book, chapters]) => {
+    const cs = [...chapters].sort((a, b) => a - b);
+    let lo = cs[0], hi = cs[0], parts = [];
+    for (const c of cs.slice(1)) {
+      if (c === hi + 1) hi = c;
+      else { parts.push(lo === hi ? `${lo}` : `${lo}-${hi}`); lo = hi = c; }
+    }
+    parts.push(lo === hi ? `${lo}` : `${lo}-${hi}`);
+    return `${bookName(book)} ${parts.length > 6 ? `${parts[0]}-${parts[parts.length - 1]}` : parts.join(', ')}`;
+  });
+}
+
+// ---------------------------------------------------------------- layout
+
+function resize() {
+  dpr = Math.min(devicePixelRatio || 1, 2);
+  VW = wrap.clientWidth;
+  VH = wrap.clientHeight;
+  cv.width = Math.round(VW * dpr);
+  cv.height = Math.round(VH * dpr);
+  cv.style.width = VW + 'px';
+  cv.style.height = VH + 'px';
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+}
+
+// Spins the model about y, then tilts it, then divides by depth. Positions land in a Float32Array
+// holding screen x, screen y and the perspective factor, which doubles as the depth sort key.
+function project() {
+  const cy = Math.cos(rotY), sy = Math.sin(rotY);
+  const ct = Math.cos(tilt), st = Math.sin(tilt);
+  const cx = VW * 0.52, cyy = VH * 0.52;
+  const sc = Math.min(VW / 1500, VH / 1780) * zoom;
+  for (let i = 0; i < N.length; i++) {
+    const n = N[i];
+    const x = n.x * cy + n.z * sy, z = -n.x * sy + n.z * cy, y = n.y - H / 2;
+    const y2 = y * ct - z * st, z2 = y * st + z * ct;
+    const pf = FOV / (FOV + z2 * sc * 1.6);
+    P[i * 3] = cx + x * sc * pf;
+    P[i * 3 + 1] = cyy - y2 * sc * pf;
+    P[i * 3 + 2] = pf;
+  }
+}
+
+// Centrality drives dot size only, as in Marble. `pf` is folded in so distant dots shrink with
+// depth, and the zoom clamp keeps them tappable when zoomed out.
+function nodeR(i) {
+  return (2.3 + Math.sqrt(N[i].c) * 7.5) * P[i * 3 + 2] * Math.min(1.6, Math.max(0.9, zoom));
+}
+
+// ---------------------------------------------------------------- draw
+
+// Measured at dpr 2 on a 1440x900 viewport: 1,772 dots plus 2,412 edges cost ~48ms a frame in
+// software rendering. Two optimisations were tried and rejected because both measured much worse.
+  // Batching every edge into one path per alpha bucket: 150ms. Batching all dots into one filled
+  // path per colour: 175ms. Both are slower because fill and stroke cost scale with the area and
+  // length of the path, not with the number of draw calls, so many small primitives win here.
+  // What did help was quantising depth to a few alpha steps and replacing the per-node rim stroke
+  // with a dark disc underneath, which removes 1,772 stroked arcs a frame.
+const DIM_RGB = '150,165,205';
+const DEPTH_STEPS = 6;
+const depthStep = (d) => Math.round(Math.min(1, Math.max(0, d)) * DEPTH_STEPS) / DEPTH_STEPS;
+
+function draw() {
+  ctx.clearRect(0, 0, VW, VH);
+  const hasSel = selected >= 0;
+
+  // Relations first, so the long Old Testament to New Testament threads sit behind the
+  // prerequisites rather than crossing over them.
+  if (showRel) {
+    for (let k = 0; k < relEdges.length; k++) {
+      const [a, b, kind] = relEdges[k];
+      const lit = hasSel && lineage.relEdges.has(k);
+      let col, alpha, lw;
+      if (hasSel) {
+        col = lit ? RKINDS[kind].rgb : DIM_RGB;
+        alpha = lit ? 0.7 : 0.03 * depthStep((P[a * 3 + 2] + P[b * 3 + 2]) / 2);
+        lw = lit ? 1.5 : 1;
+      } else {
+        col = RKINDS[kind].rgb;
+        alpha = RKINDS[kind].strong ? 0.16 : 0.09;
+        lw = RKINDS[kind].strong ? 1.1 : 1;
+      }
+      ctx.strokeStyle = `rgba(${col},${alpha})`;
+      ctx.lineWidth = lw;
+      ctx.beginPath();
+      ctx.moveTo(P[a * 3], P[a * 3 + 1]);
+      ctx.lineTo(P[b * 3], P[b * 3 + 1]);
+      ctx.stroke();
+    }
+  }
+
+  if (showPre) {
+    for (let k = 0; k < preEdges.length; k++) {
+      const [a, b, hard] = preEdges[k];
+      const lit = hasSel && lineage.edges.has(k);
+      ctx.strokeStyle = lit ? 'rgba(217,164,65,0.7)'
+        : `rgba(${DIM_RGB},${+((hard ? 0.1 : 0.05) * depthStep((P[a * 3 + 2] + P[b * 3 + 2]) / 2)).toFixed(3)})`;
+      ctx.lineWidth = lit ? 1.4 : 1;
+      ctx.beginPath();
+      ctx.moveTo(P[a * 3], P[a * 3 + 1]);
+      ctx.lineTo(P[b * 3], P[b * 3 + 1]);
+      ctx.stroke();
+    }
+  }
+
+  // Painter's algorithm: far nodes first, so near ones cover them.
+  order.sort((a, b) => P[a * 3 + 2] - P[b * 3 + 2]);
+
+  // Nodes are deliberately NOT batched. Measured: grouping ~1,700 arcs into one filled path took
+  // the frame from 48ms to 175ms at dpr 2, because fill cost scales with the path's area rather
+  // than with the number of draw calls. Small per-node fills are the cheap case.
+  for (let n = 0; n < order.length; n++) {
+    const i = order[n];
+    const node = N[i];
+    if (node.y / H > grow) continue;
+    // A topic stays lit if it is in the prerequisite chain or directly cross-referenced from the
+    // selection, so the two kinds of connection both read as connected.
+    const inLine = hasSel ? (lineage.nodes.has(i) || lineage.relNodes.has(i)) : true;
+    const isFocus = i === selected || i === hover;
+    const dim = hasSel && !inLine ? 0.1 : 1;
+    const x = P[i * 3], y = P[i * 3 + 1], r = nodeR(i);
+
+    // A slightly larger dark disc underneath is the legible rim where neighbours share a colour.
+    // Filling it costs less than stroking a ring per node.
+    if (dim === 1) {
+      ctx.fillStyle = 'rgba(8,10,18,.5)';
+      ctx.beginPath();
+      ctx.arc(x, y, r + 0.7, 0, 6.2832);
+      ctx.fill();
+    }
+
+    ctx.fillStyle = `rgba(${node.rgb},${+(dim * (0.55 + 0.45 * depthStep(P[i * 3 + 2]))).toFixed(3)})`;
+    ctx.beginPath();
+    ctx.arc(x, y, r, 0, 6.2832);
+    ctx.fill();
+
+    if (isFocus) {
+      ctx.shadowColor = node.rgbc;
+      ctx.shadowBlur = i === selected ? 18 : 14;
+      ctx.fillStyle = `rgba(${node.rgb},1)`;
+      ctx.beginPath();
+      ctx.arc(x, y, r, 0, 6.2832);
+      ctx.fill();
+      ctx.shadowBlur = 0;
+      ctx.strokeStyle = 'rgba(255,255,255,.95)';
+      ctx.lineWidth = 1.6;
+      ctx.beginPath();
+      ctx.arc(x, y, r + 2.5, 0, 6.2832);
+      ctx.stroke();
+    }
+  }
+}
+
+// ---------------------------------------------------------------- frame loop
+
+let last = 0, lastPaint = 0;
+const IDLE_FRAME_MS = 1000 / 30;
+function frame(now) {
+  requestAnimationFrame(frame);
+  const dt = Math.min(64, now - (last || now));
+  last = now;
+  frames++;
+
+  if (!reduced) {
+    grow = Math.min(1.02, (now - t0) / GROW_MS * 1.02);
+    // Ambient spin stops on any interaction so the tooltip stays readable, and resumes later.
+    if (now > idleUntil && !dragging) rotY += spin * dt / 1000;
+  }
+
+  // One lerp drives all three camera values so they arrive together.
+  const ease = 1 - Math.pow(0.001, dt / 420);
+  rotY += (rotYT - rotY) * ease;
+  tilt += (tiltT - tilt) * ease;
+  zoom += (zoomT - zoom) * ease;
+
+  // Measured at dpr 2 on a 1440x900 viewport: project()+draw() costs 1.4ms of JavaScript, so the
+  // app's own work is not the constraint. What costs more is the browser rasterising 2,412
+  // alpha-blended edges and 1,772 discs, and that lands on the GPU on real hardware but on the CPU
+  // under a software rasteriser, where a full frame measured ~30ms. Idle frames are therefore
+  // capped at 30fps, which halves that load for a spin slow enough that the difference is not
+  // visible. Any real interaction, or the opening growth, keeps the display's refresh rate.
+  // The spin drifts rotY on every frame, so rotY can only be tested for convergence while the spin is
+  // paused; tilt and zoom are untouched by it. Without that exclusion the camera never looks
+  // settled and the cap below never engages.
+  const spinning = now > idleUntil && !dragging;
+  const lerping = Math.abs(tilt - tiltT) > 2e-4
+    || Math.abs(zoom - zoomT) > 2e-4
+    || (!spinning && Math.abs(rotY - rotYT) > 2e-4);
+  const settling = dragging || lerping || grow < 1.02;
+  if (!settling && now - lastPaint < IDLE_FRAME_MS - 1) return;
+  lastPaint = now;
+  paints++;
+
+  project();
+  draw();
+}
+
+// ---------------------------------------------------------------- picking
+
+function pick(mx, my) {
+  let best = -1, bd = 20 * 20;
+  for (let i = 0; i < N.length; i++) {
+    if (!active.has(N[i].g)) continue;
+    if (N[i].y / H > grow) continue;
+    const dx = P[i * 3] - mx, dy = P[i * 3 + 1] - my;
+    const d = dx * dx + dy * dy;
+    // An 11px floor keeps the smallest dots tappable without inflating big ones.
+    const rr = Math.max(11, nodeR(i) + 6);
+    if (d < rr * rr && d < bd) { bd = d; best = i; }
+  }
+  return best;
+}
+
+// Rotating so the node faces the viewer has two solutions 180 degrees apart; take the nearer one.
+function focusNode(i) {
+  const n = N[i];
+  let best = rotYT, bestZ = Infinity;
+  for (const cand of [Math.atan2(-n.x, n.z), Math.atan2(-n.x, n.z) + Math.PI]) {
+    const z2 = -n.x * Math.sin(cand) + n.z * Math.cos(cand);
+    if (z2 < bestZ) { bestZ = z2; best = cand; }
+  }
+  rotYT = best;
+  tiltT = -0.18;
+  zoomT = Math.max(zoom, 1.5);
+}
+
+// ---------------------------------------------------------------- lineage
+
+// Everything that must be understood first, traced to its roots, over the prerequisite DAG only.
+// Relations are not prerequisites: a verse being quoted elsewhere does not mean it comes earlier.
+// So the two focus sets are built separately. `nodes` is the prerequisite closure and drives node
+// brightness; `relEdges` is the relation edges meeting at the selection and drives relation
+// brightness. Reusing the prerequisite walk for both would leave every relation touching the
+// selected topic unlit, since the walk never leaves the selection going backwards.
+function buildLineage(i) {
+  const t = performance.now();
+  const nodes = new Set();
+  const edges = new Set();
+  const relEdgesLit = new Set();
+  const relNodes = new Set();
+  if (i < 0) return { nodes, edges, relEdges: relEdgesLit, relNodes };
+
+  const seen = new Uint8Array(N.length);
+  const stack = [i];
+  seen[i] = 1;
+  while (stack.length) {
+    const v = stack.pop();
+    for (const [k, p] of directPre[v]) {
+      edges.add(k);
+      if (seen[p]) continue;
+      seen[p] = 1;
+      nodes.add(p);
+      stack.push(p);
+    }
+  }
+
+  relNodes.add(i);
+  for (const k of relTouch[i]) {
+    relEdgesLit.add(k);
+    const [from, to] = relEdges[k];
+    relNodes.add(from === i ? to : from);
+  }
+
+  // A selected topic can sit at the top of a 110-edge chain, so the whole prerequisite closure is
+  // walked on every click. Measured because it runs inside the interaction, not the idle loop.
+  lineageMs = performance.now() - t;
+  return { nodes, edges, relEdges: relEdgesLit, relNodes };
+}
+
+// ---------------------------------------------------------------- card
+
+function renderCard(i) {
+  const n = N[i];
+  const group = GROUPS[n.g];
+  const pre = directPre[i], next = directNext[i];
+  const rout = relOut[i], rin = relIn[i];
+  const totalPre = lineage.nodes.size;
+
+  const row = (dotCol, label, meta, target) => `<button class="row" data-go="${target}">
+      ${dotCol ? `<span class="dot" style="background:${dotCol}"></span>` : ''}
+      <span class="rt">${esc(label)}</span>${meta ? `<span class="rr">${esc(meta)}</span>` : ''}
+    </button>`;
+
+  const emptyRow = (what) => `<div class="row empty">${esc(what)}</div>`;
+
+  // Prerequisite entries are [edgeIndex, otherNode]. The strength lives on the edge, not the node.
+  const prereqRows = (list, emptyText) => {
+    if (!list.length) return emptyRow(emptyText);
+    const shown = list.slice(0, MAX_ROWS)
+      .map(([k, p]) => row(N[p].col, N[p].t, preEdges[k][2] ? 'hard' : 'soft', p)).join('');
+    const rest = list.length - MAX_ROWS;
+    return shown + (rest > 0 ? `<div class="more">and ${rest} more</div>` : '');
+  };
+
+  // Relation entries are [kind, otherNode, refs]. Both directions are listed, since a topic can be
+  // the source of a later quotation and the target of an earlier one.
+  const relRows = (list) => {
+    if (!list.length) return '';
+    const shown = list.slice(0, MAX_ROWS).map(([k, other, refs]) =>
+      row(RKINDS[k].color, N[other].t, RKINDS[k].label, other)
+      + `<div class="kv" style="padding-left:26px">${esc(fmtRefs(refs))}</div>`).join('');
+    const rest = list.length - MAX_ROWS;
+    return shown + (rest > 0 ? `<div class="more">and ${rest} more</div>` : '');
+  };
+
+  const pp = n.pp;
+  const passage = pp.length
+    ? `<div class="sec">
+         <div class="seclabel">Primary passage${pp.length > 1 ? 's' : ''}</div>
+         ${verseCount(pp) <= MAX_TEXT_VERSES
+            ? `<div class="passage" data-verses="${esc(JSON.stringify(pp))}">
+                 <div class="pr">${esc(fmtRefs(pp))}</div>
+                 <div class="pt">Loading the King James text&hellip;</div>
+               </div>`
+            : `<div class="passage">
+                 <div class="pr">${esc(fmtRefs(pp))}</div>
+                 <div class="no">${verseCount(pp).toLocaleString('en-GB')} verses across ${pp.length} passages. Too long to quote here; the references are exact.</div>
+               </div>`}
+       </div>`
+    : '';
+
+  cbody.innerHTML = `
+    <div class="cmeta"><span class="sw" style="background:${n.col}"></span>
+      <span>${esc(n.ty.replace(/_/g, ' ').toLowerCase())} &middot; ${esc(BOOKNAME(n.bk))}</span></div>
+    <div class="ctl">${esc(n.t)}</div>
+    <div class="cd">${esc(n.d)}</div>
+
+    <div class="big"><span class="n mono">${nf(totalPre)}</span><span class="u">${totalPre === 1 ? 'prerequisite in total' : 'prerequisites in total'}</span></div>
+    <div class="csub">${totalPre ? 'Everything a learner must master before this one, traced back to the beginning.' : 'A starting point. Nothing has to come before it.'}</div>
+
+    ${passage}
+
+    ${n.ev.length ? `<div class="sec"><div class="seclabel">What a learner can do</div>
+      <ul class="evidence">${n.ev.map((e) => `<li>${esc(e)}</li>`).join('')}</ul></div>` : ''}
+
+    <div class="sec"><div class="seclabel">Ask them</div>
+      <div class="prompt">${esc(sayable(n.q))}</div></div>
+
+    ${(rout.length || rin.length) ? `<div class="sec">
+      <div class="seclabel">Cross-references &middot; ${rout.length + rin.length}</div>
+      <div class="rows">${relRows([...rout, ...rin])}</div>
+      <div class="kv">Quotations and fulfilments point forward, from the earlier text to the later one that takes it up.</div>
+    </div>` : ''}
+
+    <div class="sec sec-pre"><div class="seclabel">Builds directly on &middot; ${pre.length}</div>
+      <div class="rows">${prereqRows(pre, 'nothing yet')}</div></div>
+
+    <div class="sec sec-next"><div class="seclabel">Unlocks next &middot; ${next.length}</div>
+      <div class="rows">${prereqRows(next, 'nothing yet')}</div></div>
+  `;
+
+  cbody.scrollTop = 0;
+  backBtn.disabled = hist.length === 0;
+
+  // Relations render both directions, so the label differs from the prerequisite lists. Rebuild
+  // those two rows here rather than threading a direction flag through renderRow.
+  hydratePassages();
+}
+
+function hydratePassages() {
+  for (const el of cbody.querySelectorAll('.passage[data-verses]')) {
+    const refs = JSON.parse(el.dataset.verses);
+    fetchVerses().then((verses) => {
+      if (!verses) { el.querySelector('.pt').textContent = 'Passage text needs the KJV file, which this browser could not read.'; return; }
+      const text = [];
+      for (const r of refs) {
+        // KJV keys are code-based ("GEN.15.1") while refs carry a book index, so the two meet here.
+        const code = D.books[r[0]].code;
+        for (let v = r[2]; v <= r[3]; v++) {
+          const t = verses[`${code}.${r[1]}.${v}`];
+          if (t) text.push(t);
+        }
+      }
+      el.querySelector('.pt').textContent = text.join(' ') || 'Those verses are not in the KJV file.';
+    });
+  }
+}
+
+// ---------------------------------------------------------------- selection
+
+function select(i) {
+  if (i === selected) return;
+  if (selected >= 0) hist.push(selected);
+  selected = i;
+  lineage = buildLineage(i);
+  if (i >= 0) {
+    renderCard(i);
+    card.classList.add('on');
+    focusNode(i);
+  } else {
+    card.classList.remove('on');
+    backBtn.disabled = true;
+  }
+}
+
+function goBack() {
+  if (!hist.length) return;
+  const prev = hist.pop();
+  selected = -1;
+  select(prev);
+  backBtn.disabled = hist.length === 0;
+}
+
+function goTo(i) {
+  select(i);
+}
+
+// ---------------------------------------------------------------- pointer
+
+wrap.addEventListener('pointerdown', (e) => {
+  dragging = true; moved = false;
+  lx = e.clientX; ly = e.clientY;
+  wrap.setPointerCapture(e.pointerId);
+  wrap.classList.add('drag');
+  idleUntil = Infinity;
+});
+
+wrap.addEventListener('pointermove', (e) => {
+  if (dragging) {
+    const dx = e.clientX - lx, dy = e.clientY - ly;
+    if (Math.abs(dx) + Math.abs(dy) > 3) moved = true;
+    rotYT = rotY += dx * 0.0055;
+    tiltT = tilt = Math.max(-1.1, Math.min(0.15, tilt - dy * 0.003));
+    lx = e.clientX; ly = e.clientY;
+    idleUntil = performance.now() + 2600;
+    hideTip();
+  } else {
+    idleUntil = performance.now() + 2600;
+    onHover(e);
+  }
+});
+
+const endDrag = (e) => {
+  if (!dragging) return;
+  dragging = false;
+  wrap.classList.remove('drag');
+  try { wrap.releasePointerCapture(e.pointerId); } catch {}
+  idleUntil = performance.now() + 1800;
+  if (!moved) onClick(e);
+};
+wrap.addEventListener('pointerup', endDrag);
+wrap.addEventListener('pointercancel', endDrag);
+
+wrap.addEventListener('wheel', (e) => {
+  e.preventDefault();
+  zoomT = zoom = Math.max(0.5, Math.min(4, zoom * Math.exp(-e.deltaY * 0.0016)));
+  idleUntil = performance.now() + 2600;
+}, { passive: false });
+
+// Two-finger pinch, tracked by pointer id so a third finger does not confuse it.
+wrap.addEventListener('pointerdown', (e) => { if (e.pointerType === 'touch') touches.set(e.pointerId, [e.clientX, e.clientY]); });
+wrap.addEventListener('pointermove', (e) => {
+  if (e.pointerType !== 'touch' || !touches.has(e.pointerId)) return;
+  touches.set(e.pointerId, [e.clientX, e.clientY]);
+  if (touches.size !== 2) return;
+  const [a, b] = [...touches.values()];
+  const d = Math.hypot(a[0] - b[0], a[1] - b[1]);
+  if (pinchPrev) {
+    zoomT = zoom = Math.max(0.5, Math.min(4, zoom * (d / pinchPrev)));
+    idleUntil = performance.now() + 2600;
+  }
+  pinchPrev = d;
+});
+const dropTouch = (e) => { touches.delete(e.pointerId); pinchPrev = 0; };
+wrap.addEventListener('pointerup', dropTouch);
+wrap.addEventListener('pointercancel', dropTouch);
+
+function onHover(e) {
+  const i = pick(e.clientX, e.clientY);
+  if (i === hover) return;
+  hover = i;
+  if (i < 0) { hideTip(); return; }
+  const n = N[i];
+  tip.querySelector('.sw').style.background = n.col;
+  tip.querySelector('.ts').textContent = `${n.ty.replace(/_/g, ' ').toLowerCase()} · ${BOOKNAME(n.bk)} · ${GROUPS[n.g]}`;
+  tip.querySelector('.ttl').textContent = n.t;
+  tip.querySelector('.q').textContent = sayable(n.q);
+  tip.classList.add('on');
+  placeTip(e.clientX, e.clientY);
+}
+function placeTip(x, y) {
+  const r = tip.getBoundingClientRect();
+  const left = x + 16 + r.width > VW ? x - 16 - r.width : x + 16;
+  const top = Math.min(VH - r.height - 8, y + 16);
+  tip.style.left = Math.max(8, left) + 'px';
+  tip.style.top = Math.max(8, top) + 'px';
+}
+function hideTip() {
+  if (hover >= 0) { hover = -1; }
+  tip.classList.remove('on');
+}
+
+function onClick(e) {
+  const i = pick(e.clientX, e.clientY);
+  // Clicking empty space closes and drops the history; clicking a dot keeps it so the Back button
+  // still walks back through the prerequisite chain you were following.
+  if (i < 0) { hist = []; select(-1); return; }
+  select(i);
+}
+
+wrap.addEventListener('pointerleave', hideTip);
+
+// Card and legend sit over the canvas; without this a click on a prerequisite row also selects
+// whatever dot happens to be underneath.
+for (const el of [card, document.getElementById('legend')]) {
+  for (const t of ['pointerdown', 'pointerup', 'pointermove', 'wheel', 'click']) {
+    el.addEventListener(t, (e) => e.stopPropagation());
+  }
+}
+
+cbody.addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-go]');
+  if (btn) goTo(+btn.dataset.go);
+});
+backBtn.addEventListener('click', goBack);
+closeBtn.addEventListener('click', () => { hist = []; select(-1); });
+
+// ---------------------------------------------------------------- legend
+
+function buildLegend() {
+  chipsEl.innerHTML = GROUPS.map((label, g) => `
+    <div class="chip" role="button" tabIndex="0" aria-pressed="true" data-g="${g}">
+      <span class="sw" style="background:${GCOL[g]}"></span>${esc(label)}
+      <span class="n">${nf(D.gcount[g])}</span>
+    </div>`).join('');
+  for (const chip of chipsEl.querySelectorAll('.chip')) {
+    const toggle = () => {
+      const g = +chip.dataset.g;
+      const on = chip.getAttribute('aria-pressed') === 'true';
+      chip.setAttribute('aria-pressed', String(!on));
+      if (on) active.delete(g); else active.add(g);
+    };
+    chip.addEventListener('click', toggle);
+    chip.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+    });
+  }
+}
+const wireToggle = (el, set) => {
+  const toggle = () => {
+    const on = el.getAttribute('aria-pressed') === 'true';
+    el.setAttribute('aria-pressed', String(!on));
+    set(!on);
+  };
+  el.addEventListener('click', toggle);
+  el.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+  });
+};
+wireToggle(tgPre, (v) => { showPre = v; });
+wireToggle(tgRel, (v) => { showRel = v; });
+
+// ---------------------------------------------------------------- kjv
+
+function fetchVerses() {
+  if (kjv.verses) return Promise.resolve(kjv.verses);
+  if (kjv.state === 'loading') return new Promise((res) => { kjv.waiters.push(res); });
+  kjv.state = 'loading';
+  kjv.waiters = [];
+  return fetch('../data/kjv.json')
+    .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))))
+    .then((j) => {
+      kjv.verses = j.verses;
+      kjv.state = 'ready';
+      footEl.textContent = `${nf(j.verseCount)} KJV verses · Project Gutenberg #10`;
+      const w = kjv.waiters; kjv.waiters = [];
+      w.forEach((r) => r(kjv.verses));
+      return kjv.verses;
+    })
+    .catch(() => {
+      kjv.state = 'failed';
+      kjv.waiters.forEach((r) => r(null));
+      return null;
+    });
+}
+
+// ---------------------------------------------------------------- load
+
+fetch('graph.json')
+  .then((r) => (r.ok ? r.json() : Promise.reject(new Error('graph.json ' + r.status))))
+  .then((d) => {
+    D = d;
+    N = D.nodes;
+    RL = D.rel;
+    H = D.H;
+    GROUPS = D.groups;
+    GCOL = D.gcol;
+    RKINDS = D.relkinds.map((k) => ({ ...k, rgb: hexRgb(k.color).join(',') }));
+
+    const n = N.length;
+    P = new Float32Array(n * 3);
+    order = Array.from({ length: n }, (_, i) => i);
+    directPre = Array.from({ length: n }, () => []);
+    directNext = Array.from({ length: n }, () => []);
+    relOut = Array.from({ length: n }, () => []);
+    relIn = Array.from({ length: n }, () => []);
+    relTouch = Array.from({ length: n }, () => []);
+    for (const node of N) {
+      node.rgb = hexRgb(node.col).join(',');
+      node.rgbc = `rgb(${node.rgb})`;
+    }
+
+    preEdges = D.edges.map(([a, b, hard], k) => {
+      directPre[a].push([k, b]);
+      directNext[b].push([k, a]);
+      return [a, b, hard];
+    });
+    relEdges = RL.map(([from, to, kind, refs], k) => {
+      relOut[from].push([kind, to, refs]);
+      relIn[to].push([kind, from, refs]);
+      // Needed so a selection can light the relation edges meeting at the selected topic, which
+      // the prerequisite walk never visits.
+      relTouch[from].push(k);
+      relTouch[to].push(k);
+      return [from, to, kind];
+    });
+
+    for (let g = 0; g < GROUPS.length; g++) active.add(g);
+
+    document.getElementById('nCount').textContent = nf(D.counts.topics);
+    document.getElementById('eCount').textContent = nf(D.counts.edges);
+    document.getElementById('rCount').textContent = nf(D.counts.relations);
+    buildLegend();
+    resize();
+    addEventListener('resize', resize);
+
+    requestAnimationFrame(frame);
+    setTimeout(() => boot.classList.add('gone'), reduced ? 0 : 260);
+  })
+  .catch((err) => {
+    fail(`Could not load <code>graph.json</code>.<br><br>Build it first:<br><br><code>npm run build:web</code><br><br><span style="opacity:.6">${esc(String(err.message || err))}</span>`);
+  });
+
+  // Everything above is module-private, and a canvas has no DOM to assert against. Without a
+  // handle, neither a test nor a future contributor can check what was projected where, so the
+  // internals are exposed on request. Opt in with ?debug=1.
+  if (location.search.includes('debug')) {
+    window.bibleGraph = {
+      project, pick, select,
+      // N and D are still null when this object is built, so they have to be read lazily.
+      get N() { return N; },
+      get D() { return D; },
+      indexOf: (title) => N.findIndex((n) => n.t === title),
+      card: () => card.querySelector('.ctl')?.textContent?.trim() ?? null,
+      cardText: () => card.innerText,
+      get zoom() { return zoom; },
+      get spin() { return spin; },
+      get frames() { return frames; },
+      get paints() { return paints; },
+      get selected() { return selected; },
+      get lineage() { return lineage; },
+      get showPre() { return showPre; },
+      setEdges: (pre, rel) => { showPre = pre; showRel = rel; },
+      get showRel() { return showRel; },
+      get lineageMs() { return lineageMs; },
+      sample(k) {
+        const off = document.createElement('canvas');
+        off.width = cv.width; off.height = cv.height;
+        off.getContext('2d').drawImage(cv, 0, 0);
+        const d = off.getContext('2d').getImageData(0, 0, off.width, off.height).data;
+        let lit = 0;
+        for (let p = 0; p < d.length; p += 4) {
+          // The sky is a dark blue-grey; anything appreciably brighter is a dot, edge or label.
+          if (d[p] + d[p + 1] + d[p + 2] > 150) lit++;
+        }
+        return { width: off.width, height: off.height, litPixels: lit };
+      },
+      /** rAF cadence in ms, which shows the idle cap rather than render cost. */
+      async frameCost(k = 90) {
+        const t = [];
+        await new Promise((res) => {
+          let n = 0, last = performance.now();
+          const tick = () => {
+            const now = performance.now();
+            t.push(now - last); last = now;
+            if (++n >= k) res(); else requestAnimationFrame(tick);
+          };
+          requestAnimationFrame(tick);
+        });
+        const warm = t.slice(5).sort((a, b) => a - b);
+        return {
+          median: +warm[warm.length >> 1].toFixed(2),
+          p95: +warm[Math.floor(warm.length * 0.95)].toFixed(2),
+          worst: +warm[warm.length - 1].toFixed(2),
+        };
+      },
+      /** Cost of one project()+draw(), timed synchronously so the idle cap cannot mask it. */
+      renderCost(k = 40) {
+        const t = [];
+        for (let i = 0; i < k; i++) {
+          const s = performance.now();
+          project();
+          draw();
+          t.push(performance.now() - s);
+        }
+        t.sort((a, b) => a - b);
+        return {
+          median: +t[t.length >> 1].toFixed(2),
+          p95: +t[Math.floor(t.length * 0.95)].toFixed(2),
+          worst: +t[t.length - 1].toFixed(2),
+        };
+      },
+    };
+  }
+})();
+</script>
+</body>
+</html>
