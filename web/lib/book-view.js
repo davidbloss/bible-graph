@@ -99,7 +99,7 @@ function start(D) {
     <aside id="side">
       <div class="crumb"><a href="../">All of scripture</a> &rsaquo; ${esc(D.book.name)}</div>
       <h1>${esc(D.book.name)}<span class="rp">.</span></h1>
-      <p class="counts"><b>${nf(D.counts.topics)}</b> topics, <b>${nf(D.edges.filter(([a, b]) => !N[a].p && !N[b].p).length)}</b> prerequisite links and ${hasPortals ? `<b>${nf(D.counts.outbound)}</b> cross-references to <b>${nf(D.counts.portals)}</b> topics in other books` : 'no cross-references to other books yet'}. <b style="color:var(--ink)">Tap a topic</b> to trace what it rests on and where it leads.</p>
+      <p class="counts"><b>${nf(D.counts.topics)}</b> topics, <b>${nf(D.edges.filter(([a, b]) => !N[a].p && !N[b].p).length)}</b> prerequisite links and ${D.counts.outbound ? `<b>${nf(D.counts.outbound)}</b> cross-references to <b>${nf(D.counts.portals)}</b> topics in other books` : hasPortals ? `prerequisite links to <b>${nf(D.counts.portals)}</b> topics in other books` : 'no cross-references to other books yet'}. <b style="color:var(--ink)">Tap a topic</b> to trace what it rests on and where it leads.</p>
       <p class="ctx"><b style="color:var(--mut)">Drag</b> to pan, <b style="color:var(--mut)">scroll</b> to move, <b style="color:var(--mut)">pinch</b> or <b style="color:var(--mut)">+/&minus;</b> to zoom. Passage text is the King James. <b>A v0 draft: no part of it has been human-reviewed.</b></p>
 
       <div class="group"><div class="lg-title">Colour by</div>

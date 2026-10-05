@@ -76,7 +76,7 @@ Add `?debug=1` to the URL for a `window.bibleGraph` handle (projection, hit test
 
 ## Book pages
 
-Each of the 39 Old Testament books has a focused map at `web/<slug>/` (`genesis`, `exodus`, `1-samuel`, `song-of-solomon`, `malachi`, and so on): the book's topics in bands by section (for Genesis: Creation to Babel, Abraham, Isaac and Jacob, Joseph), with every topic elsewhere in scripture that it is wired to shown as a "portal" in a band at the bottom. Open e.g. `http://localhost:8000/web/exodus/` with the same server as above.
+Each of the 66 books has a focused map at `web/<slug>/` (`genesis`, `1-samuel`, `song-of-solomon`, `matthew`, `revelation`, and so on): the book's topics in bands by section (for Genesis: Creation to Babel, Abraham, Isaac and Jacob, Joseph), with every topic elsewhere in scripture that it is wired to shown as a "portal" in a band at the bottom. Open e.g. `http://localhost:8000/web/exodus/` with the same server as above.
 
 - Click a topic to trace its prerequisites and light its cross-references; filters cover section, topic kind, relation kind, link type and testament, and nodes can be coloured by section or covenant.
 - A portal links to `../<slug>/?topic=<id>` when that book has a page, and to the whole-canon explorer (`../?topic=<id>`) otherwise. Both pages open the topic named by `?topic=`.
