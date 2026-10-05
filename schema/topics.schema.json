@@ -19,6 +19,11 @@
           "name": { "type": "string" },
           "description": { "type": "string" },
           "covenant": { "type": ["string", "null"], "description": "id in covenants.json" },
+          "covenantTier": {
+            "type": ["string", "null"],
+            "enum": ["central", "contextual", null],
+            "description": "central when the cited passage is one the framework essay points at; contextual when the tag is inherited from a book-wide default, meaning the book discusses the covenant but this topic is not about it. Null when covenant is null. Set by scripts/tag-covenants.mjs, never by hand."
+          },
           "ageRangeStart": { "type": ["integer", "null"] },
           "ageRangeEnd": { "type": ["integer", "null"] },
           "primaryPassages": {

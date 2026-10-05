@@ -1,0 +1,28 @@
+{
+ "comment": "Standing rules for approving many review items at once. A reviewer approves a rule here, not the individual rows it covers, and `npm run review:bulk` stamps the items it matches. Only status \"approved\" stamps anything. Predicates live in scripts/review-bulk.mjs, which is the only place a rule's meaning is defined; this file carries the intent and the audit trail. A decision written this way records the rule rather than a person, because the judgement belongs to the rule and was made once.",
+ "rules": [
+  {
+   "id": "dep-narrative-order",
+   "predicate": "depNarrativeOrder",
+   "status": "proposed",
+   "proposedOn": "2026-10-04",
+   "approvedOn": null,
+   "description": "A dependency whose prerequisite sits in an earlier chapter of the same book is narrative order, not an argument about meaning.",
+   "rationale": "1,100 of 1,811 dependencies. The claim is structural: you cannot follow chapter 30 before chapter 29. Reading them individually buys almost nothing, because the only way this is wrong is if the prerequisite is the wrong topic, and that shows up as a forward or cross-book link instead.",
+   "risk": "Low. Wrong rows here are cosmetic, since a prerequisite that points to the wrong earlier chapter still lands the reader in roughly the right place.",
+   "proposedBy": "agent, after measuring chapter ordering across all dependencies"
+  },
+  {
+   "id": "rel-quoted-overlap-40",
+   "predicate": "relQuotedOverlapAtLeast40",
+   "status": "rejected",
+   "proposedOn": "2026-10-04",
+   "approvedOn": null,
+   "description": "A quoted-in edge whose OT and NT sides share at least 40% of the OT side's content words is a real quotation.",
+   "rationale": "Considered and refused. The ratio is hit/size, so on a short OT passage a single shared word scores 1.00. Deut 25:4 'thou shalt not muzzle the ox' scores 1.00 and is correctly quoted by 1 Tim 5:18 and 1 Cor 9:9, but the same score would equally clear a wrong pair, and the three edges that first looked wrong turned out to be right. A score that cannot separate those two cases cannot approve 168 rows.",
+   "risk": "Would have wrongly cleared an unknown number of edges.",
+   "decidedOn": "2026-10-04",
+   "decidedBy": "agent, at reviewer's direction to treat overlap as a sort key only"
+  }
+ ]
+}

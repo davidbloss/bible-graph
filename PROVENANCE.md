@@ -31,6 +31,13 @@ Two places where the framework does not line up cleanly with the six existing `c
 
 Assigning a covenant to a topic is an editorial proposal, not a reviewed judgement. Of the 1,140 assigned topics, 50 rest on a single cited verse, 126 on a cited chapter range, and 964 on a book-wide default; that last group is the review priority, since a chapter-spanning topic can match a cited verse without being about it. Three topics previously tagged in this project are deliberately now untagged, because the essay gives them no place: `EZK.20`, `EZK.34` and `DAN.9`.
 
+Tags carry a second field, `covenantTier`. `central` (176 topics) means the essay points at the passage
+itself. `contextual` (964) means the tag is inherited from a book-wide default, so the book discusses the
+covenant without this topic being about it. The distinction is a claim about provenance, not importance,
+and the tagger derives it rather than a person setting it, so it cannot drift from `covenant`. One rule
+carrying the `central` tier is a 39-chapter Genesis range, which is far wider than any other; whether its
+reach is justified is open.
+
 ## Teachers
 Bibliographic only: author, work, year, edition, exact location, URL, passage addressed. No quoted or paraphrased text. Copyright is recorded per work (`public-domain` or `in-copyright`). No entries have been added yet.
 

@@ -244,12 +244,17 @@ const matchKind = { verse: 0, chapter: 0, book: 0, none: 0 };
 for (const topic of doc.topics) {
   let id = null;
   let why = null;
+  // Two tiers, because "about a covenant" and "in a book that discusses covenants" are different
+  // claims. A passage the essay actually cites settles the first; a book-wide default only settles
+  // the second, and a reader filtering to `central` gets the topics that are centrally about one.
+  // Derived from how the tag was reached rather than hand-set, so a re-run cannot desync it.
+  let tier = null;
 
   if (topic.type === 'BOOK_OVERVIEW') {
     // An overview cites a passage for every chapter, so a rule would tag it by whichever chapter
     // happens to be listed first. The book default is the honest answer for the book as a whole.
     const dflt = BOOK_DEFAULT[topic.primaryPassages[0]?.book];
-    if (dflt) { id = dflt[0]; why = dflt[1]; }
+    if (dflt?.[0]) { id = dflt[0]; why = dflt[1]; tier = 'contextual'; }
     if (id) matchKind.book++; else matchKind.none++;
   } else {
     // Passages are tried in order and the first one a rule matches settles the topic, so a topic
@@ -260,6 +265,7 @@ for (const topic of doc.topics) {
         if (!ruleMatches(rule, p)) continue;
         id = rule[0];
         why = `${rule[6]}: ${rule[7]}`;
+        tier = 'central';
         if (rule[4] == null) matchKind.chapter++; else matchKind.verse++;
         if (rule[6].startsWith('repo:')) repoInferred.add(id);
         break outer;
@@ -267,7 +273,7 @@ for (const topic of doc.topics) {
     }
     if (id == null) {
       const dflt = BOOK_DEFAULT[topic.primaryPassages[0]?.book];
-      if (dflt?.[0]) { id = dflt[0]; why = dflt[1]; matchKind.book++; }
+      if (dflt?.[0]) { id = dflt[0]; why = dflt[1]; tier = 'contextual'; matchKind.book++; }
     }
     if (id == null) matchKind.none++;
   }
@@ -277,6 +283,7 @@ for (const topic of doc.topics) {
   }
   if (topic.covenant !== id) changed.push({ from: topic.covenant, to: id, name: topic.name });
   topic.covenant = id;
+  topic.covenantTier = tier;
 }
 
 const tagged = doc.topics.filter((t) => t.covenant);
@@ -303,6 +310,11 @@ console.log(`  cited verse range   ${matchKind.verse}`);
 console.log(`  cited chapter range ${matchKind.chapter}`);
 console.log(`  book-wide default   ${matchKind.book}`);
 console.log(`  untagged            ${matchKind.none}`);
+const tierCount = { central: 0, contextual: 0 };
+for (const t of doc.topics) if (t.covenantTier) tierCount[t.covenantTier]++;
+console.log(`\ncovenant tier`);
+console.log(`  central (essay cites the passage)   ${tierCount.central}`);
+console.log(`  contextual (in a covenant book)     ${tierCount.contextual}`);
 
 if (unplaced.length) console.log(`\ntopics in books with no default (should be empty):\n${unplaced.slice(0, 10).join('\n')}`);
 

@@ -46,12 +46,205 @@ Edit `data/review.json`, then run `npm run build:review`. Keys are printed in th
 | `fragments/merged/wisdom.json` | 199 | 194 | 11 | 0/404 |
 | `authored directly in data/` | 46 | 48 | 11 | 0/105 |
 
-Quotation edges sharing no content words: **2**. Each needs a decision before the surrounding batch can be signed off.
+150 edges and dependencies to read before anything else. Start with the tables below; they are ordered by how badly the mechanical check can be trusted, not by row count.
 
-| Edge | Cites | Shared words | Status | Key |
-|---|---|---:|---|---|
-| Abraham offers Isaac -> John Is Born; Zacharias Prophesies (fulfilled-in) | GEN.22.16-18, LUK.1.72-73 | 0 of 33 | unreviewed | `relation:bt_gen_abraham_isaac|bt_luk_john_born|fulfilled-in|GEN.22.16-18,LUK.1.72-73` |
-| The servant exalted, despised and bearing iniquity -> Healing Peter’s mother-in-law and many others (fulfilled-in) | ISA.53.4, MAT.8.17 | 0 of 12 | unreviewed | `relation:bt_isa_suffering_servant|bt_mat_peters_mother_in_law|fulfilled-in|ISA.53.4-4,MAT.8.17-17` |
+## Suggested sweep order
+
+| # | Block | Items | Why here |
+|---|---|---:|---|
+| 1 | Cross-book dependencies | 58 | Each one is a real claim about canonical order, and they are few enough to read properly. Highest value per item in the queue. |
+| 2 | `parallels` and `illustrates-doctrine` | 242 | Resemblance is a matter of degree and nothing in this repo defines a threshold, so there is no mechanical check at all. |
+| 3 | Short-cited quotation edges | 72 | The overlap score cannot rank these; see table 2. |
+| 4 | Zero-overlap quotation edges | 2 | Read both passages. Zero is not a verdict. |
+| 5 | Same-chapter dependencies | 648 | Individually authored but formulaic in kind. Skimmable a book at a time. |
+
+## Standing rules
+
+Approving a rule approves everything it covers in one decision, instead of ticking each row. Set `status` to `approved` in `data/review-rules.json` and run `npm run review:bulk -- --apply`. A row decided this way shows the rule that covered it rather than a person, because the judgement was made about the rule.
+
+| Rule | Status | Decided by it | Description |
+|---|---|---:|---|
+| `dep-narrative-order` | proposed | — | A dependency whose prerequisite sits in an earlier chapter of the same book is narrative order, not an argument about meaning. |
+| `rel-quoted-overlap-40` | rejected | — | A quoted-in edge whose OT and NT sides share at least 40% of the OT side's content words is a real quotation. |
+
+Rejected rules stay in the file on purpose, so the reasoning is not re-litigated:
+
+- **`rel-quoted-overlap-40`** — Considered and refused. The ratio is hit/size, so on a short OT passage a single shared word scores 1.00. Deut 25:4 'thou shalt not muzzle the ox' scores 1.00 and is correctly quoted by 1 Tim 5:18 and 1 Cor 9:9, but the same score would equally clear a wrong pair, and the three edges that first looked wrong turned out to be right. A score that cannot separate those two cases cannot approve 168 rows.
+
+0 of 4184 items are covered by an approved rule.
+
+## Table 1: quotation edges sharing no content words
+
+Zero overlap means the two passages use no common vocabulary, not that the link is wrong. Each of these is a paraphrase or allusion and needs a read.
+
+| Edge | Cites | Status | Key |
+|---|---|---|---|
+| Abraham offers Isaac -> John Is Born; Zacharias Prophesies (fulfilled-in) | GEN.22.16-18, LUK.1.72-73 | unreviewed | `relation:bt_gen_abraham_isaac|bt_luk_john_born|fulfilled-in|GEN.22.16-18,LUK.1.72-73` |
+| The servant exalted, despised and bearing iniquity -> Healing Peter’s mother-in-law and many others (fulfilled-in) | ISA.53.4, MAT.8.17 | unreviewed | `relation:bt_isa_suffering_servant|bt_mat_peters_mother_in_law|fulfilled-in|ISA.53.4-4,MAT.8.17-17` |
+
+## Table 2: short citations the score cannot rank (72 edges)
+
+The OT side of these edges has 8 content words or fewer, so the ratio is hit/size over a tiny denominator and a single shared word scores 1.00. They are listed regardless of score because the score is uninformative at this size, and they overlap table 1 where a short passage shares nothing. Read these rather than trusting the number.
+
+| Edge | Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|---|
+| "Ye shall be holy": laws for neighbours -> Be holy: redeemed by precious blood (quoted-in) | LEV.19.2, 1PE.1.16 | 1 of 8 | 0.13 | unreviewed | `relation:bt_lev_be_holy|bt_1pe_holy_redeemed|quoted-in|1PE.1.16-16,LEV.19.2-2` |
+| Sing, barren one: the covenant of peace -> Eat My Flesh, Drink My Blood (quoted-in) | ISA.54.13, JHN.6.45 | 1 of 6 | 0.17 | unreviewed | `relation:bt_isa_barren_sing|bt_jhn_eat_flesh|quoted-in|ISA.54.13-13,JHN.6.45-45` |
+| Proverbs: overview -> 1 Peter: overview (quoted-in) | PRO.10.12, 1PE.4.8 | 1 of 6 | 0.17 | unreviewed | `relation:bt_book_pro|bt_book_1pe|quoted-in|1PE.4.8-8,PRO.10.12-12` |
+| Return to the LORD; mercy, not sacrifice -> Matthew called and eating with sinners (quoted-in) | HOS.6.6, MAT.9.13 | 2 of 8 | 0.25 | unreviewed | `relation:bt_hos_mercy_not_sacrifice|bt_mat_matthew_called|quoted-in|HOS.6.6-6,MAT.9.13-13` |
+| Return to the LORD; mercy, not sacrifice -> Plucking grain on the sabbath (quoted-in) | HOS.6.6, MAT.12.7 | 2 of 8 | 0.25 | unreviewed | `relation:bt_hos_mercy_not_sacrifice|bt_mat_sabbath_grainfield|quoted-in|HOS.6.6-6,MAT.12.7-7` |
+| Proverbs of Solomon: the righteous, the wicked and words (10-11) -> The fiery trial and suffering as a Christian (quoted-in) | PRO.11.31, 1PE.4.18 | 2 of 8 | 0.25 | unreviewed | `relation:bt_pro_righteous_wicked_1|bt_1pe_fiery_trial|quoted-in|1PE.4.18-18,PRO.11.31-31` |
+| Not like Egypt or Canaan: sexual boundaries -> Faith comes by hearing (quoted-in) | LEV.18.5, ROM.10.5 | 2 of 7 | 0.29 | unreviewed | `relation:bt_lev_unlawful_unions|bt_rom_faith_hearing|quoted-in|LEV.18.5-5,ROM.10.5-5` |
+| God calls Abram -> Abraham, faith and the blessing for the nations (quoted-in) | GEN.12.3, GAL.3.8 | 2 of 7 | 0.29 | unreviewed | `relation:bt_gen_call_abram|bt_gal_abraham_faith|quoted-in|GAL.3.8-8,GEN.12.3-3` |
+| Made in the image of God -> Jesus on marriage and divorce (quoted-in) | GEN.1.27, MAT.19.4 | 2 of 7 | 0.29 | unreviewed | `relation:bt_gen_image|bt_mat_marriage_divorce|quoted-in|GEN.1.27-27,MAT.19.4-4` |
+| Comfort my people: the incomparable God -> The Spirit reveals God's hidden wisdom (quoted-in) | ISA.40.13, 1CO.2.16 | 2 of 7 | 0.29 | unreviewed | `relation:bt_isa_comfort|bt_1co_spirit_reveals|quoted-in|1CO.2.16-16,ISA.40.13-13` |
+| Stones, altar and the curses from Ebal -> Abraham, faith and the blessing for the nations (quoted-in) | DEU.27.26, GAL.3.10 | 2 of 7 | 0.29 | unreviewed | `relation:bt_deu_ebal_gerizim|bt_gal_abraham_faith|quoted-in|DEU.27.26-26,GAL.3.10-10` |
+| Not like Egypt or Canaan: sexual boundaries -> Abraham, faith and the blessing for the nations (quoted-in) | LEV.18.5, GAL.3.12 | 2 of 7 | 0.29 | unreviewed | `relation:bt_lev_unlawful_unions|bt_gal_abraham_faith|quoted-in|GAL.3.12-12,LEV.18.5-5` |
+| Deuteronomy: overview -> Galatians: overview (quoted-in) | DEU.27.26, GAL.3.10 | 2 of 7 | 0.29 | unreviewed | `relation:bt_book_deu|bt_book_gal|quoted-in|DEU.27.26-26,GAL.3.10-10` |
+| Leviticus: overview -> Galatians: overview (quoted-in) | LEV.18.5, GAL.3.12 | 2 of 7 | 0.29 | unreviewed | `relation:bt_book_lev|bt_book_gal|quoted-in|GAL.3.12-12,LEV.18.5-5` |
+| Leviticus: overview -> Romans: overview (quoted-in) | LEV.18.5, ROM.10.5 | 2 of 7 | 0.29 | unreviewed | `relation:bt_book_lev|bt_book_rom|quoted-in|LEV.18.5-5,ROM.10.5-5` |
+| Psalm 69: zeal for thy house; they gave me vinegar -> The Crucifixion (fulfilled-in) | PSA.69.21, JHN.19.28-29 | 2 of 6 | 0.33 | unreviewed | `relation:bt_psa_69|bt_jhn_crucifixion|fulfilled-in|JHN.19.28-29,PSA.69.21-21` |
+| Trust in the LORD with all your heart -> Shepherd the flock, humility and the roaring lion (quoted-in) | PRO.3.34, 1PE.5.5 | 2 of 6 | 0.33 | unreviewed | `relation:bt_pro_trust_lord|bt_1pe_elders_humility|quoted-in|1PE.5.5-5,PRO.3.34-34` |
+| Trust in the LORD with all your heart -> Conflicts, the world and humbling before God (quoted-in) | PRO.3.34, JAS.4.6 | 2 of 6 | 0.33 | unreviewed | `relation:bt_pro_trust_lord|bt_jas_friendship_world|quoted-in|JAS.4.6-6,PRO.3.34-34` |
+| Proverbs: overview -> James: overview (quoted-in) | PRO.3.34, JAS.4.6 | 2 of 6 | 0.33 | unreviewed | `relation:bt_book_pro|bt_book_jas|quoted-in|JAS.4.6-6,PRO.3.34-34` |
+| Psalms 81-82: hear my people; God judges among the gods -> I and My Father Are One (quoted-in) | PSA.82.6, JHN.10.34 | 2 of 5 | 0.40 | unreviewed | `relation:bt_psa_81_82|bt_jhn_dedication|quoted-in|JHN.10.34-34,PSA.82.6-6` |
+| Fools, sluggards and talebearers (26) -> The character and end of the false teachers (quoted-in) | PRO.26.11, 2PE.2.22 | 2 of 5 | 0.40 | unreviewed | `relation:bt_pro_fools_sluggards|bt_2pe_false_teachers_portrait|quoted-in|2PE.2.22-22,PRO.26.11-11` |
+| Proverbs: overview -> 2 Peter: overview (quoted-in) | PRO.26.11, 2PE.2.22 | 2 of 5 | 0.40 | unreviewed | `relation:bt_book_pro|bt_book_2pe|quoted-in|2PE.2.22-22,PRO.26.11-11` |
+| God creates the world -> A rest remains for the people of God (quoted-in) | GEN.2.2, HEB.4.4 | 3 of 7 | 0.43 | unreviewed | `relation:bt_gen_creation|bt_heb_sabbath_rest|quoted-in|GEN.2.2-2,HEB.4.4-4` |
+| The vision to wait for; the just live by faith -> The gospel is the power of God (quoted-in) | HAB.2.4, ROM.1.17 | 3 of 7 | 0.43 | unreviewed | `relation:bt_hab_just_shall_live_by_faith|bt_rom_gospel|quoted-in|HAB.2.4-4,ROM.1.17-17` |
+| Made in the image of God -> Marriage and divorce, and blessing the children (quoted-in) | GEN.1.27, MRK.10.6 | 3 of 7 | 0.43 | unreviewed | `relation:bt_gen_image|bt_mrk_divorce_children|quoted-in|GEN.1.27-27,MRK.10.6-6` |
+| Psalm 78: tell the coming generation what God did and how Israel rebelled -> I Am the Bread of Life (quoted-in) | PSA.78.24, JHN.6.31 | 3 of 7 | 0.43 | unreviewed | `relation:bt_psa_78|bt_jhn_bread_of_life|quoted-in|JHN.6.31-31,PSA.78.24-24` |
+| Comfort my people: the incomparable God -> The remnant and the olive tree (quoted-in) | ISA.40.13, ROM.11.34 | 3 of 7 | 0.43 | unreviewed | `relation:bt_isa_comfort|bt_rom_remnant|quoted-in|ISA.40.13-13,ROM.11.34-34` |
+| The vision to wait for; the just live by faith -> Abraham, faith and the blessing for the nations (quoted-in) | HAB.2.4, GAL.3.11 | 3 of 7 | 0.43 | unreviewed | `relation:bt_hab_just_shall_live_by_faith|bt_gal_abraham_faith|quoted-in|GAL.3.11-11,HAB.2.4-4` |
+| Habakkuk: overview -> Galatians: overview (quoted-in) | HAB.2.4, GAL.3.11 | 3 of 7 | 0.43 | unreviewed | `relation:bt_book_hab|bt_book_gal|quoted-in|GAL.3.11-11,HAB.2.4-4` |
+| Habakkuk: overview -> Romans: overview (quoted-in) | HAB.2.4, ROM.1.17 | 3 of 7 | 0.43 | unreviewed | `relation:bt_book_hab|bt_book_rom|quoted-in|HAB.2.4-4,ROM.1.17-17` |
+| Abram believed and it was counted as righteousness -> Abraham, faith and the blessing for the nations (quoted-in) | GEN.15.6, GAL.3.6 | 2 of 4 | 0.50 | unreviewed | `relation:bt_gen_abraham_believed|bt_gal_abraham_faith|quoted-in|GAL.3.6-6,GEN.15.6-6` |
+| Judgments: injury and death -> Divorce, oaths, retaliation and love for enemies (quoted-in) | EXO.21.24, MAT.5.38 | 2 of 4 | 0.50 | unreviewed | `relation:bt_exo_laws_violence|bt_mat_divorce_oaths_enemies|quoted-in|EXO.21.24-24,MAT.5.38-38` |
+| Psalm 109: a cry against false accusers -> Matthias takes the place of Judas (quoted-in) | PSA.109.8, ACT.1.20 | 3 of 6 | 0.50 | unreviewed | `relation:bt_psa_109|bt_act_matthias|quoted-in|ACT.1.20-20,PSA.109.8-8` |
+| Eliphaz’s first speech -> Servants, builders and God's temple (quoted-in) | JOB.5.13, 1CO.3.19 | 4 of 8 | 0.50 | unreviewed | `relation:bt_job_eliphaz_first|bt_1co_servants_building|quoted-in|1CO.3.19-19,JOB.5.13-13` |
+| Hear the statutes: no images, remember Horeb -> Not Mount Sinai but Mount Zion (quoted-in) | DEU.4.24, HEB.12.29 | 3 of 6 | 0.50 | unreviewed | `relation:bt_deu_hear_statutes|bt_heb_sinai_zion|quoted-in|DEU.4.24-24,HEB.12.29-29` |
+| Genesis: overview -> Galatians: overview (quoted-in) | GEN.15.6, GAL.3.6 | 2 of 4 | 0.50 | unreviewed | `relation:bt_book_gen|bt_book_gal|quoted-in|GAL.3.6-6,GEN.15.6-6` |
+| Job: overview -> 1 Corinthians: overview (quoted-in) | JOB.5.13, 1CO.3.19 | 4 of 8 | 0.50 | unreviewed | `relation:bt_book_job|bt_book_1co|quoted-in|1CO.3.19-19,JOB.5.13-13` |
+| Psalm 78: tell the coming generation what God did and how Israel rebelled -> The mustard seed and the leaven (fulfilled-in) | PSA.78.2, MAT.13.34-35 | 4 of 7 | 0.57 | unreviewed | `relation:bt_psa_78|bt_mat_mustard_leaven|fulfilled-in|MAT.13.34-35,PSA.78.2-2` |
+| The servant exalted, despised and bearing iniquity -> Faith comes by hearing (quoted-in) | ISA.53.1, ROM.10.16 | 4 of 7 | 0.57 | unreviewed | `relation:bt_isa_suffering_servant|bt_rom_faith_hearing|quoted-in|ISA.53.1-1,ROM.10.16-16` |
+| Psalm 24: the King of glory -> Liberty, conscience and the glory of God (quoted-in) | PSA.24.1, 1CO.10.26 | 4 of 7 | 0.57 | unreviewed | `relation:bt_psa_24|bt_1co_liberty_glory|quoted-in|1CO.10.26-26,PSA.24.1-1` |
+| Hear, O Israel: love the LORD -> The temptation in the wilderness (quoted-in) | DEU.6.16, MAT.4.7 | 3 of 5 | 0.60 | unreviewed | `relation:bt_deu_shema|bt_mat_temptation|quoted-in|DEU.6.16-16,MAT.4.7-7` |
+| Hear, O Israel: love the LORD -> The Temptation in the Wilderness (quoted-in) | DEU.6.16, LUK.4.12 | 3 of 5 | 0.60 | unreviewed | `relation:bt_deu_shema|bt_luk_temptation|quoted-in|DEU.6.16-16,LUK.4.12-12` |
+| Psalm 94: O LORD God, to whom vengeance belongeth -> Servants, builders and God's temple (quoted-in) | PSA.94.11, 1CO.3.20 | 3 of 5 | 0.60 | unreviewed | `relation:bt_psa_94|bt_1co_servants_building|quoted-in|1CO.3.20-20,PSA.94.11-11` |
+| Miriam and Aaron speak against Moses -> Christ greater than Moses (quoted-in) | NUM.12.7, HEB.3.2 | 3 of 5 | 0.60 | unreviewed | `relation:bt_num_miriam_aaron|bt_heb_greater_than_moses|quoted-in|HEB.3.2-2,NUM.12.7-7` |
+| Psalms: overview -> 1 Corinthians: overview (quoted-in) | PSA.94.11, 1CO.3.20 | 3 of 5 | 0.60 | unreviewed | `relation:bt_book_psa|bt_book_1co|quoted-in|1CO.3.20-20,PSA.94.11-11` |
+| Numbers: overview -> Hebrews: overview (quoted-in) | NUM.12.7, HEB.3.2 | 3 of 5 | 0.60 | unreviewed | `relation:bt_book_num|bt_book_heb|quoted-in|HEB.3.2-2,NUM.12.7-7` |
+| Judgments: injury and death -> Tradition and what defiles (quoted-in) | EXO.21.17, MAT.15.4 | 4 of 6 | 0.67 | unreviewed | `relation:bt_exo_laws_violence|bt_mat_tradition_defilement|quoted-in|EXO.21.17-17,MAT.15.4-4` |
+| Judgments: injury and death -> Tradition of the elders and what defiles (quoted-in) | EXO.21.17, MRK.7.10 | 4 of 6 | 0.67 | unreviewed | `relation:bt_exo_laws_violence|bt_mrk_tradition_defilement|quoted-in|EXO.21.17-17,MRK.7.10-10` |
+| Psalms 117-118: his mercy endureth for ever; the stone the builders refused -> The Entry into Jerusalem (quoted-in) | PSA.118.26, LUK.19.38 | 4 of 6 | 0.67 | unreviewed | `relation:bt_psa_117_118|bt_luk_triumphal_entry|quoted-in|LUK.19.38-38,PSA.118.26-26` |
+| Psalm 69: zeal for thy house; they gave me vinegar -> Matthias takes the place of Judas (quoted-in) | PSA.69.25, ACT.1.20 | 4 of 6 | 0.67 | unreviewed | `relation:bt_psa_69|bt_act_matthias|quoted-in|ACT.1.20-20,PSA.69.25-25` |
+| Psalms 117-118: his mercy endureth for ever; the stone the builders refused -> The living stone and the holy priesthood (quoted-in) | PSA.118.22, 1PE.2.7 | 4 of 6 | 0.67 | unreviewed | `relation:bt_psa_117_118|bt_1pe_living_stone|quoted-in|1PE.2.7-7,PSA.118.22-22` |
+| Psalms: overview -> 1 Peter: overview (quoted-in) | PSA.118.22, 1PE.2.7 | 4 of 6 | 0.67 | unreviewed | `relation:bt_book_psa|bt_book_1pe|quoted-in|1PE.2.7-7,PSA.118.22-22` |
+| Out of Egypt: the LORD's fatherly love -> Flight to Egypt and return to Nazareth (fulfilled-in) | HOS.11.1, MAT.2.14-15 | 5 of 7 | 0.71 | unreviewed | `relation:bt_hos_out_of_egypt|bt_mat_flight_to_egypt|fulfilled-in|HOS.11.1-1,MAT.2.14-15` |
+| Hosea: overview -> Matthew: overview (quoted-in) | HOS.11.1, MAT.2.14-15 | 5 of 7 | 0.71 | unreviewed | `relation:bt_book_hos|bt_book_mat|quoted-in|HOS.11.1-1,MAT.2.14-15` |
+| Abram believed and it was counted as righteousness -> Abraham justified by faith (quoted-in) | GEN.15.6, ROM.4.3 | 3 of 4 | 0.75 | unreviewed | `relation:bt_gen_abraham_believed|bt_rom_abraham|quoted-in|GEN.15.6-6,ROM.4.3-3` |
+| Psalms 117-118: his mercy endureth for ever; the stone the builders refused -> The strong and the weak (quoted-in) | PSA.117.1, ROM.15.11 | 3 of 4 | 0.75 | unreviewed | `relation:bt_psa_117_118|bt_rom_strong_weak|quoted-in|PSA.117.1-1,ROM.15.11-11` |
+| The table and the golden lampstand -> A better covenant: the new covenant promised (quoted-in) | EXO.25.40, HEB.8.5 | 6 of 8 | 0.75 | unreviewed | `relation:bt_exo_table_lampstand|bt_heb_new_covenant|quoted-in|EXO.25.40-40,HEB.8.5-5` |
+| Psalms 117-118: his mercy endureth for ever; the stone the builders refused -> Brotherly love, marriage and contentment (quoted-in) | PSA.118.6, HEB.13.6 | 3 of 4 | 0.75 | unreviewed | `relation:bt_psa_117_118|bt_heb_love_in_life|quoted-in|HEB.13.6-6,PSA.118.6-6` |
+| Genesis: overview -> Romans: overview (quoted-in) | GEN.15.6, ROM.4.3 | 3 of 4 | 0.75 | unreviewed | `relation:bt_book_gen|bt_book_rom|quoted-in|GEN.15.6-6,ROM.4.3-3` |
+| The Ten Commandments -> No partiality: the royal law (quoted-in) | EXO.20.13-14, JAS.2.11 | 4 of 5 | 0.80 | unreviewed | `relation:bt_exo_ten_commandments|bt_jas_partiality|quoted-in|EXO.20.13-14,JAS.2.11-11` |
+| Psalms 117-118: his mercy endureth for ever; the stone the builders refused -> The Parable of the Wicked Tenants (quoted-in) | PSA.118.22, LUK.20.17 | 5 of 6 | 0.83 | unreviewed | `relation:bt_psa_117_118|bt_luk_wicked_tenants|quoted-in|LUK.20.17-17,PSA.118.22-22` |
+| Psalm 22: my God, why hast thou forsaken me? -> The mocking and crucifixion (fulfilled-in) | PSA.22.18, MAT.27.35 | 5 of 6 | 0.83 | unreviewed | `relation:bt_psa_22|bt_mat_crucifixion|fulfilled-in|MAT.27.35-35,PSA.22.18-18` |
+| Psalms 117-118: his mercy endureth for ever; the stone the builders refused -> Peter and John before the council (quoted-in) | PSA.118.22, ACT.4.11 | 5 of 6 | 0.83 | unreviewed | `relation:bt_psa_117_118|bt_act_council_peter_john|quoted-in|ACT.4.11-11,PSA.118.22-22` |
+| Psalm 104: the LORD’s creation and provision -> God has spoken by his Son (quoted-in) | PSA.104.4, HEB.1.7 | 5 of 6 | 0.83 | unreviewed | `relation:bt_psa_104|bt_heb_son_better_than_angels|quoted-in|HEB.1.7-7,PSA.104.4-4` |
+| Psalm 22: my God, why hast thou forsaken me? -> Jesus made like his brothers (quoted-in) | PSA.22.22, HEB.2.12 | 7 of 8 | 0.88 | unreviewed | `relation:bt_psa_22|bt_heb_jesus_like_brothers|quoted-in|HEB.2.12-12,PSA.22.22-22` |
+| The servant exalted, despised and bearing iniquity -> Unbelief and Jesus' Final Public Words (quoted-in) | ISA.53.1, JHN.12.38 | 7 of 7 | 1.00 | unreviewed | `relation:bt_isa_suffering_servant|bt_jhn_unbelief|quoted-in|ISA.53.1-1,JHN.12.38-38` |
+| Psalm 22: my God, why hast thou forsaken me? -> The Crucifixion (fulfilled-in) | PSA.22.18, JHN.19.23-24 | 6 of 6 | 1.00 | unreviewed | `relation:bt_psa_22|bt_jhn_crucifixion|fulfilled-in|JHN.19.23-24,PSA.22.18-18` |
+| The Ten Commandments -> Murder, anger, adultery and lust (quoted-in) | EXO.20.13, MAT.5.21 | 3 of 3 | 1.00 | unreviewed | `relation:bt_exo_ten_commandments|bt_mat_anger_and_lust|quoted-in|EXO.20.13-13,MAT.5.21-21` |
+| The Ten Commandments -> Murder, anger, adultery and lust (quoted-in) | EXO.20.14, MAT.5.27 | 4 of 4 | 1.00 | unreviewed | `relation:bt_exo_ten_commandments|bt_mat_anger_and_lust|quoted-in|EXO.20.14-14,MAT.5.27-27` |
+| Punishment limits, the ox and the brother's widow -> Paul's rights given up for the gospel (quoted-in) | DEU.25.4, 1CO.9.9 | 6 of 6 | 1.00 | unreviewed | `relation:bt_deu_justice_levirate|bt_1co_apostle_rights|quoted-in|1CO.9.9-9,DEU.25.4-4` |
+| Punishment limits, the ox and the brother's widow -> Honouring widows and caring for family (quoted-in) | DEU.25.4, 1TI.5.18 | 6 of 6 | 1.00 | unreviewed | `relation:bt_deu_justice_levirate|bt_1ti_widows_family|quoted-in|1TI.5.18-18,DEU.25.4-4` |
+| Deuteronomy: overview -> 1 Timothy: overview (quoted-in) | DEU.25.4, 1TI.5.18 | 6 of 6 | 1.00 | unreviewed | `relation:bt_book_deu|bt_book_1ti|quoted-in|1TI.5.18-18,DEU.25.4-4` |
+
+## Table 3: one claim, more than one citation (9 claims)
+
+The same from/to/kind asserted at several verse pairs. Decide the claim once; the extra rows need a status too, since `validate` wants every key resolved.
+
+<details><summary>The sign of circumcision -> Abraham justified by faith (quoted-in), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| GEN.17.10-11, ROM.4.11 | 1 of 17 | 0.06 | unreviewed | `relation:bt_gen_circumcision|bt_rom_abraham|quoted-in|GEN.17.10-11,ROM.4.11-11` |
+| GEN.17.5, ROM.4.17 | 5 of 13 | 0.38 | unreviewed | `relation:bt_gen_circumcision|bt_rom_abraham|quoted-in|GEN.17.5-5,ROM.4.17-17` |
+
+</details>
+
+<details><summary>The river of life and the tree of life -> The curse and the first promise (parallels), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| REV.22.3, GEN.3.17 | n/a | n/a | unreviewed | `relation:bt_rev_river_tree_of_life|bt_gen_curse_promise|parallels|GEN.3.17-17,REV.22.3-3` |
+| REV.22.2, GEN.3.22-24 | n/a | n/a | unreviewed | `relation:bt_rev_river_tree_of_life|bt_gen_curse_promise|parallels|GEN.3.22-24,REV.22.2-2` |
+
+</details>
+
+<details><summary>The fall -> False apostles and Paul's foolish boasting (parallels), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| GEN.3.1-13, 2CO.11.3 | n/a | n/a | unreviewed | `relation:bt_gen_fall|bt_2co_false_apostles|parallels|2CO.11.3-3,GEN.3.1-13` |
+| GEN.3.1-4, 2CO.11.14 | n/a | n/a | unreviewed | `relation:bt_gen_fall|bt_2co_false_apostles|parallels|2CO.11.14-14,GEN.3.1-4` |
+
+</details>
+
+<details><summary>Hear, O Israel: love the LORD -> The temptation in the wilderness (quoted-in), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| DEU.6.16, MAT.4.7 | 3 of 5 | 0.60 | unreviewed | `relation:bt_deu_shema|bt_mat_temptation|quoted-in|DEU.6.16-16,MAT.4.7-7` |
+| DEU.6.13, MAT.4.10 | 6 of 9 | 0.67 | unreviewed | `relation:bt_deu_shema|bt_mat_temptation|quoted-in|DEU.6.13-13,MAT.4.10-10` |
+
+</details>
+
+<details><summary>Hear, O Israel: love the LORD -> The Temptation in the Wilderness (quoted-in), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| DEU.6.13, LUK.4.8 | 6 of 9 | 0.67 | unreviewed | `relation:bt_deu_shema|bt_luk_temptation|quoted-in|DEU.6.13-13,LUK.4.8-8` |
+| DEU.6.16, LUK.4.12 | 3 of 5 | 0.60 | unreviewed | `relation:bt_deu_shema|bt_luk_temptation|quoted-in|DEU.6.16-16,LUK.4.12-12` |
+
+</details>
+
+<details><summary>The Ten Commandments -> Murder, anger, adultery and lust (quoted-in), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| EXO.20.13, MAT.5.21 | 3 of 3 | 1.00 | unreviewed | `relation:bt_exo_ten_commandments|bt_mat_anger_and_lust|quoted-in|EXO.20.13-13,MAT.5.21-21` |
+| EXO.20.14, MAT.5.27 | 4 of 4 | 1.00 | unreviewed | `relation:bt_exo_ten_commandments|bt_mat_anger_and_lust|quoted-in|EXO.20.14-14,MAT.5.27-27` |
+
+</details>
+
+<details><summary>The LORD speaks to Elijah at Horeb -> The remnant and the olive tree (quoted-in), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| 1KI.19.10, ROM.11.3 | 9 of 25 | 0.36 | unreviewed | `relation:bt_1ki_horeb_still_small_voice|bt_rom_remnant|quoted-in|1KI.19.10-10,ROM.11.3-3` |
+| 1KI.19.18, ROM.11.4 | 4 of 12 | 0.33 | unreviewed | `relation:bt_1ki_horeb_still_small_voice|bt_rom_remnant|quoted-in|1KI.19.18-18,ROM.11.4-4` |
+
+</details>
+
+<details><summary>The servant exalted, despised and bearing iniquity -> Christ suffered for us, an example (quoted-in), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| ISA.53.9, 1PE.2.22 | 2 of 11 | 0.18 | unreviewed | `relation:bt_isa_suffering_servant|bt_1pe_christ_example|quoted-in|1PE.2.22-22,ISA.53.9-9` |
+| ISA.53.4-5, 1PE.2.24 | 2 of 20 | 0.10 | unreviewed | `relation:bt_isa_suffering_servant|bt_1pe_christ_example|quoted-in|1PE.2.24-24,ISA.53.4-5` |
+
+</details>
+
+<details><summary>New heavens and a new earth -> A new heaven and a new earth (quoted-in), 2 citations</summary>
+
+| Cites | Shared | Score | Status | Key |
+|---|---|---:|---:|---|
+| ISA.65.17, REV.21.1 | 2 of 10 | 0.20 | unreviewed | `relation:bt_isa_new_heavens_earth|bt_rev_new_heaven_earth|quoted-in|ISA.65.17-17,REV.21.1-1` |
+| ISA.65.19, REV.21.4 | 3 of 10 | 0.30 | unreviewed | `relation:bt_isa_new_heavens_earth|bt_rev_new_heaven_earth|quoted-in|ISA.65.19-19,REV.21.4-4` |
+
+</details>
 
 ## `fragments/merged/1ki-est.json`
 

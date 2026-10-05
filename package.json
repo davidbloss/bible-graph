@@ -8,6 +8,7 @@
     "validate": "node scripts/validate.mjs",
     "build:teachers": "node scripts/build-teachers-md.mjs",
     "build:review": "node scripts/build-review.mjs",
+    "review:bulk": "node scripts/review-bulk.mjs",
     "build:book-links": "node scripts/lib/derive-book-edges.mjs",
     "build:web": "node scripts/build-graph.mjs",
     "tag:covenants": "node scripts/tag-covenants.mjs"

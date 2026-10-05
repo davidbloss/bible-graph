@@ -37,12 +37,13 @@ Cross-linking is done where the text supports it, and stopped where it does not.
 | `schema/` | JSON Schemas for each data file |
 | `fragments/` | Parallel authoring: write a fragment, `node scripts/fragment.mjs check <file>`, then a maintainer merges. `scripts/show.mjs` prints KJV passages |
 | `docs/crosslink-coverage.md` | Why some cross-links are absent, including the books the New Testament never cites |
-| `scripts/` | `validate.mjs`, `import-kjv.mjs`, `build-teachers-md.mjs`, `build-review.mjs`, `build-graph.mjs`, `fragment.mjs`, `show.mjs` |
+| `scripts/` | `validate.mjs`, `import-kjv.mjs`, `build-teachers-md.mjs`, `build-review.mjs`, `review-bulk.mjs`, `build-graph.mjs`, `fragment.mjs`, `show.mjs` |
 
 ```
 npm run validate                          # integrity checks
 node scripts/validate.mjs --update-manifest   # after editing data, refresh checksums
 npm run build:review                      # regenerate REVIEW.md from data/ + data/review.json
+npm run review:bulk -- --apply            # stamp items covered by an approved rule (dry without --apply)
 npm run build:book-links                  # regenerate the book-level rollup fragment
 npm run build:teachers                    # regenerate TEACHERS.md
 npm run build:web                         # regenerate web/graph.json for the explorer
@@ -88,6 +89,37 @@ That essay counts only covenants Scripture itself describes, so **Noah's is the 
 `node scripts/tag-covenants.mjs` assigns a covenant to every topic the framework can place. A topic is tagged with the stage its primary text belongs to under the essay's chronology, most specific match first: a cited verse, then a cited chapter range, then a book-wide default. Every rule names the essay passage it rests on, and inferences of this project's own are prefixed `repo:`. All 66 books have a considered entry with a reason, including the ones the essay leaves unplaced — `EST`, `JOB`, `PRO`, `ECC`, `SNG`, `DAN`, the twelve minor prophets, and several letters — which is a recorded decision rather than an omission.
 
 Current state: **1,140 of 1,772 topics tagged (64.3%)** across 34 books. By reach, 50 tags come from a cited verse, 126 from a cited chapter range, and 964 from a book-wide default. That last group is the review priority, because a topic spanning a whole chapter can match a cited verse without being about it. The 632 untagged topics are concentrated in books the essay does not use — wisdom literature, the minor prophets, and several letters — plus a handful of Genesis and Ezekiel chapters with no covenant content. Use `--dry` to report without writing; the script is idempotent.
+
+### Two tiers: central and contextual
+`covenant` answers "which stage is this text in?"; `covenantTier` answers "how do we know?" and splits the 1,140 into **176 `central`** and **964 `contextual`**.
+
+- `central` — the essay points at this passage (50 cited verse, 126 cited chapter range). The topic is centrally about that covenant.
+- `contextual` — the tag is inherited from a book-wide default. The *book* discusses the covenant; this topic is not about it. "Jacob's vineyard and the curse on Canaan" is `cv_noahic` contextually because it sits in Genesis 9, and the Noahic covenant ends at 9:17.
+
+The field is derived by the tagger from how each tag was reached, never set by hand, so a re-run cannot let the two drift apart. Untagged topics have `covenantTier: null`.
+
+**Open for the next round:** the broadest `central` rule is `GEN.12-50`, a 39-chapter range that swept in 16 topics — far wider than any other rule carrying that tier. Demoting it to `contextual` is a one-line change if you decide "essay's Abrahamic section is built on Genesis 12-50" does not make every topic in that span central.
+
+**Not built yet:** a `central`-only legend toggle in `web/`, so the explorer can filter to topics centrally about a covenant. Worth adding when the tier has been reviewed; it is the fastest way to put the distinction to use.
+
+## Reviewing the corpus
+
+`REVIEW.md` is generated, and its opening tables are ordered by how badly the mechanical checks can be trusted rather than by row count. Start at the top:
+
+1. **58 cross-book dependencies.** Each is a real claim about canonical order, and there are few enough to read properly.
+2. **242 `parallels` and `illustrates-doctrine` edges.** Nothing in this repo defines how similar two passages must be to count as parallel, so there is no mechanical check at all.
+3. **72 short-cited quotation edges.** The lexical-overlap score is hit/size, so on a four-word OT passage one shared word scores 1.00. Table 2 lists these whatever their score, because the score cannot rank them.
+4. **2 zero-overlap quotation edges.** Luke 1:73 "the oath which he sware to our father Abraham" echoes Genesis 22:16 and shares no vocabulary with it. Zero is not a verdict.
+5. **648 same-chapter dependencies.** Individually authored but formulaic; skim a book at a time.
+
+`docs/crosslink-coverage.md` explains why the overlap heuristic exists and what it cannot do.
+
+### Standing rules
+Some items are the same judgement repeated, and reading them one at a time is the wrong shape of work. A **rule** in `data/review-rules.json` approves everything it covers in one decision: set `status` to `approved`, run `npm run review:bulk -- --apply`, and the covered rows are recorded as decided by that rule. A decision written this way names the rule rather than a person, and `REVIEW.md` prints the rule next to each row so a bulk approval is never mistaken for hand review.
+
+Rules are safe in three ways: they are dry-run by default, they refuse to stamp anything they cannot match to a real item, and they never overwrite a decision that came from somewhere else.
+
+One rule, `dep-narrative-order` (1,100 dependencies), is proposed and awaiting a decision. One, `rel-quoted-overlap-40`, is recorded as **rejected** with its reasoning, so it does not get re-proposed: the score cannot separate a correct short citation from a wrong one.
 
 ## Passage references
 A reference is `{book, chapter, verseStart, verseEnd}` within one chapter; multi-chapter passages are several refs. In text and front matter: `ROM.5.12-21`. ESV links are derived from refs, never stored (e.g. `https://www.esv.org/Romans+5/`); ESV text is not stored (Crossway copyright).
