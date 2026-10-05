@@ -7,7 +7,9 @@ const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, 
 export function bookPage(book) {
   const { name } = book.book;
   const { topics, portals, outbound } = book.counts;
-  const desc = `${topics} topics in ${name}, and the ${outbound} cross-references that tie them to the rest of scripture. Built from the King James text.`;
+  const desc = outbound
+    ? `${topics} topics in ${name}, and the ${outbound} cross-references that tie them to the rest of scripture. Built from the King James text.`
+    : `${topics} topics in ${name}, wired by what must be understood first. Built from the King James text.`;
   return `<!DOCTYPE html>
 <html lang="en">
 <head>

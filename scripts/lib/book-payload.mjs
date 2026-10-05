@@ -65,7 +65,7 @@ export function buildBookPayload(code, { topics, dependencies, relations, covena
     if (b !== lastBook) { portalItems.push({ header: b }); lastBook = b; }
     portalItems.push(p.id);
   }
-  const { bands: geo, height } = layoutBands([...bandItems.filter((b) => b.items.length), { key: 'elsewhere', items: portalItems }]);
+  const { bands: geo, height } = layoutBands([...bandItems.filter((b) => b.items.length), ...(portalItems.length ? [{ key: 'elsewhere', items: portalItems }] : [])]);
 
   const pos = new Map();
   const headers = [];
@@ -123,7 +123,10 @@ export function buildBookPayload(code, { topics, dependencies, relations, covena
       y: laneGeo.get(lane.key).top,
       h: laneGeo.get(lane.key).h,
     })),
-    { key: 'elsewhere', label: `Elsewhere in scripture`, range: 'Topics in other books wired to this one', color: '#8C93AD', s: -2, n: portals.length, y: laneGeo.get('elsewhere').top, h: laneGeo.get('elsewhere').h },
+    // A book with no links out (Obadiah, Nahum) has no portal band.
+    ...(portals.length
+      ? [{ key: 'elsewhere', label: 'Elsewhere in scripture', range: 'Topics in other books wired to this one', color: '#8C93AD', s: -2, n: portals.length, y: laneGeo.get('elsewhere').top, h: laneGeo.get('elsewhere').h }]
+      : []),
   ];
 
   return {

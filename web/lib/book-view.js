@@ -94,11 +94,12 @@ function start(D) {
   // ---------------------------------------------------------------- chrome
 
   const coreLanes = D.lanes.filter((l) => l.s >= -1);
+  const hasPortals = portalIdx.length > 0;
   app.innerHTML = `
     <aside id="side">
       <div class="crumb"><a href="../">All of scripture</a> &rsaquo; ${esc(D.book.name)}</div>
       <h1>${esc(D.book.name)}<span class="rp">.</span></h1>
-      <p class="counts"><b>${nf(D.counts.topics)}</b> topics, <b>${nf(D.edges.filter(([a, b]) => !N[a].p && !N[b].p).length)}</b> prerequisite links and <b>${nf(D.counts.outbound)}</b> cross-references to <b>${nf(D.counts.portals)}</b> topics in other books. <b style="color:var(--ink)">Tap a topic</b> to trace what it rests on and where it leads.</p>
+      <p class="counts"><b>${nf(D.counts.topics)}</b> topics, <b>${nf(D.edges.filter(([a, b]) => !N[a].p && !N[b].p).length)}</b> prerequisite links and ${hasPortals ? `<b>${nf(D.counts.outbound)}</b> cross-references to <b>${nf(D.counts.portals)}</b> topics in other books` : 'no cross-references to other books yet'}. <b style="color:var(--ink)">Tap a topic</b> to trace what it rests on and where it leads.</p>
       <p class="ctx"><b style="color:var(--mut)">Drag</b> to pan, <b style="color:var(--mut)">scroll</b> to move, <b style="color:var(--mut)">pinch</b> or <b style="color:var(--mut)">+/&minus;</b> to zoom. Passage text is the King James. <b>A v0 draft: no part of it has been human-reviewed.</b></p>
 
       <div class="group"><div class="lg-title">Colour by</div>
@@ -117,8 +118,8 @@ function start(D) {
         <div class="chips" id="edgeChips"></div></div>
       <div class="group"><div class="lg-title">Kind of cross-reference</div>
         <div class="chips" id="kindChips"></div></div>
-      <div class="group"><div class="lg-title">Other books</div>
-        <div class="chips" id="testChips"></div></div>
+      ${hasPortals ? `<div class="group"><div class="lg-title">Other books</div>
+        <div class="chips" id="testChips"></div></div>` : ''}
     </aside>
     <main id="stage">
       <svg id="map" role="group" aria-label="${esc(D.book.name)} topic map"></svg>
@@ -147,10 +148,10 @@ function start(D) {
   document.getElementById('edgeChips').innerHTML =
     chip('Prerequisites', { color: 'rgba(150,165,205,.85)', attrs: 'data-e="showPre"' }) +
     chip('Within this book', { color: '#E8C15A', attrs: 'data-e="showRel"' }) +
-    chip('To other books', { color: '#D9715C', attrs: 'data-e="showOut"' });
+    (hasPortals ? chip('To other books', { color: '#D9715C', attrs: 'data-e="showOut"' }) : '');
   document.getElementById('kindChips').innerHTML = kinds.map((k, i) =>
     chip(k.label, { color: k.color, n: D.rel.filter((r) => r[2] === i).length, attrs: `data-k="${i}"` })).join('');
-  document.getElementById('testChips').innerHTML = ['OT', 'NT'].map((t) =>
+  if (hasPortals) document.getElementById('testChips').innerHTML = ['OT', 'NT'].map((t) =>
     chip(t === 'OT' ? 'Old Testament' : 'New Testament', {
       color: D.portalColor[t],
       n: portalIdx.filter((i) => testamentOfNode(N[i]) === t).length,
@@ -473,7 +474,7 @@ function start(D) {
   wire(document.getElementById('secChips'), (c, on) => setIn(state.sections, +c.dataset.s, on));
   wire(document.getElementById('typeChips'), (c, on) => setIn(state.types, c.dataset.t, on));
   wire(document.getElementById('kindChips'), (c, on) => setIn(state.kinds, +c.dataset.k, on));
-  wire(document.getElementById('testChips'), (c, on) => setIn(state.testaments, c.dataset.ts, on));
+  if (hasPortals) wire(document.getElementById('testChips'), (c, on) => setIn(state.testaments, c.dataset.ts, on));
   wire(document.getElementById('edgeChips'), (c, on) => { state[c.dataset.e] = on; });
 
   function syncChips() {
