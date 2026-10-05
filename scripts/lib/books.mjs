@@ -32,5 +32,5 @@ export const slugOf = (code) => {
 // Books that have a generated page. A cross-book link to any other book falls back to the
 // whole-canon explorer (`../?topic=`), so adding a book here is the only step that turns its
 // portals from fallbacks into real links. Each live book also needs an entry in book-sections.mjs.
-export const LIVE_BOOKS = ['GEN'];
+export const LIVE_BOOKS = ['GEN', 'EXO', 'LEV', 'NUM', 'DEU'];
 export const isLive = (code) => LIVE_BOOKS.includes(code);
