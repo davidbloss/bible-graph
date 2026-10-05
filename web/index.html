@@ -7,20 +7,8 @@
 <title>Every story in the Bible</title>
 <!-- Inline so the page ships as a single file plus one JSON payload, with no favicon 404. -->
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='7' r='3' fill='%237FB77E'/%3E%3Ccircle cx='9' cy='17' r='2.6' fill='%23D9A441'/%3E%3Ccircle cx='23' cy='17' r='2.6' fill='%23C05746'/%3E%3Ccircle cx='16' cy='27' r='3.4' fill='%23E8C15A'/%3E%3Cpath d='M16 7 9 17M16 7l7 10M9 17h14M9 17l7 10M23 17l-7 10' stroke='%23566' stroke-width='1.4' fill='none'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="lib/ui.css">
 <style>
-:root{
-  --bg:#0A0C14; --panel:rgba(14,17,28,.78); --stroke:rgba(130,145,190,.16);
-  --ink:#EDEFF7; --mut:#98A0B8; --faint:#646C84; --gold:#D9A441; --red:#E23C32;
-}
-*{box-sizing:border-box;margin:0;padding:0}
-html,body{height:100%}
-body{
-  background:var(--bg); color:var(--ink); overflow:hidden;
-  font:500 15px/1.55 ui-rounded,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
-  -webkit-font-smoothing:antialiased;
-}
-.mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
-
 #wrap{
   position:relative; height:100vh; min-height:560px; overflow:hidden;
   cursor:grab; user-select:none; touch-action:none;
@@ -62,95 +50,16 @@ h1 .rp{color:var(--gold)}
 }
 .lg-title{font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--faint)}
 #chips{margin-top:10px; display:flex; flex-wrap:wrap; gap:6px}
-.chip{
-  display:flex; align-items:center; gap:7px; padding:6px 11px 6px 9px; border-radius:999px;
-  border:1px solid var(--stroke); background:rgba(255,255,255,.03);
-  font-size:12.5px; cursor:pointer; transition:opacity .16s,border-color .16s;
-}
-.chip:hover{border-color:rgba(217,164,65,.4)}
-.chip[aria-pressed="false"]{opacity:.34}
-.chip .sw{width:9px; height:9px; border-radius:50%; flex:none; box-shadow:0 0 0 1px rgba(8,10,18,.6)}
-.chip .n{color:var(--faint); font-size:11px}
 .edgebar{margin-top:12px; padding-top:12px; border-top:1px solid var(--stroke); display:flex; gap:6px; flex-wrap:wrap}
 #hint{position:absolute; right:34px; bottom:30px; z-index:4; font-size:12px; color:var(--faint); pointer-events:none; text-align:right}
 #hint b{color:var(--mut); font-weight:600}
 
-#tip{
-  position:absolute; z-index:9; max-width:320px; padding:11px 13px; border-radius:16px;
-  background:rgba(10,13,22,.95); border:1px solid var(--stroke);
-  box-shadow:0 18px 50px rgba(0,0,0,.55);
-  opacity:0; pointer-events:none; transition:opacity .12s;
-}
-#tip.on{opacity:1}
-.tmeta{display:flex; align-items:center; gap:7px; font-size:10.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--mut)}
-.tmeta .sw{width:8px; height:8px; border-radius:50%; flex:none}
-.ttl{margin-top:6px; font-size:14.5px; font-weight:700; letter-spacing:-.01em}
-.tq{margin-top:5px; font-size:12.5px; color:#D3D9E8; line-height:1.45}
 
-#card{
-  position:absolute; z-index:10; top:26px; right:26px; bottom:26px; width:min(390px,38vw);
-  display:flex; flex-direction:column; border-radius:20px;
-  background:var(--panel); border:1px solid var(--stroke);
-  backdrop-filter:blur(13px); -webkit-backdrop-filter:blur(13px);
-  opacity:0; pointer-events:none; transform:translateX(14px); transition:opacity .18s,transform .18s;
-}
-#card.on{opacity:1; pointer-events:auto; transform:none}
-.cbar{display:flex; align-items:center; gap:10px; padding:14px 16px 0}
-.cbar .sp{flex:1}
-.cbar button{
-  border:1px solid var(--stroke); background:rgba(255,255,255,.04); color:var(--mut);
-  border-radius:999px; padding:5px 12px; font:inherit; font-size:12.5px; cursor:pointer;
-}
-.cbar button:hover{color:var(--ink); border-color:rgba(217,164,65,.45)}
-.cbar button[disabled]{opacity:.3; cursor:default}
-.cbody{overflow-y:auto; padding:12px 16px 20px; scrollbar-width:thin; scrollbar-color:rgba(130,145,190,.3) transparent}
-.cmeta{display:flex; align-items:center; gap:8px; font-size:10.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--mut)}
-.cmeta .sw{width:9px; height:9px; border-radius:50%; flex:none}
-.ctl{margin-top:7px; font-size:21px; font-weight:800; letter-spacing:-.022em; line-height:1.15}
-.cd{margin-top:9px; font-size:13.5px; color:#D3D9E8; line-height:1.5}
-.big{margin-top:15px; display:flex; align-items:baseline; gap:8px}
-.big .n{font-size:33px; font-weight:800; color:var(--gold); line-height:1}
-.big .u{font-size:12px; color:var(--mut)}
-.csub{margin-top:5px; font-size:12.5px; color:#AEB6CC}
-.sec{margin-top:18px}
-.seclabel{font-size:10.5px; letter-spacing:.13em; text-transform:uppercase; color:var(--faint); margin-bottom:7px}
-.rows{display:flex; flex-direction:column; gap:5px}
-.row{
-  display:flex; align-items:flex-start; gap:9px; width:100%; text-align:left;
-  padding:8px 10px; border-radius:10px; border:1px solid transparent; background:rgba(255,255,255,.03);
-  font:inherit; font-size:12.5px; color:var(--ink); cursor:pointer; line-height:1.4;
-}
-.row:hover{background:rgba(255,255,255,.07); border-color:var(--stroke)}
-.row .dot{width:7px; height:7px; border-radius:50%; flex:none; margin-top:5px}
-.row .rt{flex:1}
-.row .rr{font-size:10.5px; color:var(--faint); flex:none; margin-top:1px}
-.row .empty{color:var(--faint); cursor:default; background:none; border:none; padding-left:0}
-.row .empty:hover{background:none}
-.kv{margin-top:4px; font-size:11px; color:var(--mut)}
-.passage{margin-top:7px; padding:11px 12px; border-radius:12px; background:rgba(255,255,255,.035); border:1px solid var(--stroke)}
-.passage .pr{font-size:11px; color:var(--gold); letter-spacing:.03em}
-.passage .pt{margin-top:6px; font-size:13px; color:#E4E7F2; line-height:1.55}
-.passage.loading .pt{color:var(--faint)}
-.passage .no{font-size:11.5px; color:var(--faint)}
-.sidebyside{display:grid; gap:9px; margin-top:8px}
-.sidebyside.two{grid-template-columns:1fr 1fr}
-.evidence{margin:0; padding-left:17px; font-size:12.5px; color:#D3D9E8; line-height:1.5}
-.evidence li{margin-bottom:4px}
-.prompt{margin-top:14px; padding:11px 12px; border-radius:12px; border:1px dashed var(--stroke); font-size:12.5px; color:#C6CDE0; line-height:1.5}
-#more,.more{font-size:11.5px; color:var(--faint); padding:4px 0}
 
-#boot{
-  position:absolute; inset:0; z-index:20; display:flex; align-items:center; justify-content:center;
-  background:var(--bg); text-align:center; padding:30px; transition:opacity .4s;
-}
-#boot.gone{opacity:0; pointer-events:none}
-#boot .msg{font-size:14px; color:var(--mut); max-width:44ch; line-height:1.6}
-#boot code{font-family:ui-monospace,Menlo,monospace; color:var(--gold); font-size:12.5px}
 #foot{position:absolute; right:26px; bottom:6px; z-index:4; font-size:10.5px; color:#4A5165; text-align:right; pointer-events:none}
 
 @media (max-width:900px){
   #head{width:min(360px,52vw)}
-  #card{width:min(340px,44vw)}
 }
 @media (max-width:720px){
   #logo{top:18px; left:18px}
@@ -158,17 +67,8 @@ h1 .rp{color:var(--gold)}
   .ctx,#ctas .lic{display:none}
   #legend{left:18px; right:18px; bottom:18px; max-width:none; max-height:36vh; overflow-y:auto}
   #hint{display:none}
-  #card{
-    top:auto; left:0; right:0; bottom:0; width:auto; max-height:64vh;
-    border-radius:20px 20px 0 0; transform:translateY(18px);
-  }
   #foot{display:none}
-  .sidebyside.two{grid-template-columns:1fr}
 }
-@media (prefers-reduced-motion:reduce){
-  *{transition:none !important; animation:none !important}
-}
-:focus-visible{outline:2px solid var(--gold); outline-offset:2px}
 </style>
 </head>
 <body>
@@ -653,6 +553,7 @@ function renderCard(i) {
       <span>${esc(n.ty.replace(/_/g, ' ').toLowerCase())} &middot; ${esc(BOOKNAME(n.bk))}</span></div>
     <div class="ctl">${esc(n.t)}</div>
     <div class="cd">${esc(n.d)}</div>
+    ${D.books[n.k].live ? `<a class="openmap" href="${D.books[n.k].slug}/?topic=${encodeURIComponent(n.id)}">Open the ${esc(BOOKNAME(n.bk))} map &rarr;</a>` : ''}
 
     <div class="big"><span class="n mono">${nf(totalPre)}</span><span class="u">${totalPre === 1 ? 'prerequisite in total' : 'prerequisites in total'}</span></div>
     <div class="csub">${totalPre ? 'Everything a learner must master before this one, traced back to the beginning.' : 'A starting point. Nothing has to come before it.'}</div>
@@ -956,6 +857,11 @@ fetch('graph.json')
     buildLegend();
     resize();
     addEventListener('resize', resize);
+
+    // `?topic=<id>` is how a book page links here: open that topic's card on arrival.
+    const want = new URLSearchParams(location.search).get('topic');
+    const wanted = want ? N.findIndex((node) => node.id === want) : -1;
+    if (wanted >= 0) select(wanted);
 
     requestAnimationFrame(frame);
     setTimeout(() => boot.classList.add('gone'), reduced ? 0 : 260);

@@ -46,7 +46,8 @@ npm run build:review                      # regenerate REVIEW.md from data/ + da
 npm run review:bulk -- --apply            # stamp items covered by an approved rule (dry without --apply)
 npm run build:book-links                  # regenerate the book-level rollup fragment
 npm run build:teachers                    # regenerate TEACHERS.md
-npm run build:web                         # regenerate web/graph.json for the explorer
+npm run build:web                         # regenerate web/graph.json and each book page under web/<slug>/
+npm run check:web                         # invariants on the generated web payloads
 ```
 
 ## Interactive explorer
@@ -72,6 +73,22 @@ Verse text is fetched lazily from `data/kjv.json` (4.7MB) the first time you ope
 Layout is deterministic and the build is byte-reproducible, so a rebuild produces no diff. Position is derived, not hand-tuned: topics sit in their book's band, spread by a hash-seeded low-discrepancy sequence, with the band's inner radius set by how many descendants a topic unlocks. Two properties are asserted at build time and will fail the build if broken: no book overflows its band, and radius never decreases with canonical order.
 
 Add `?debug=1` to the URL for a `window.bibleGraph` handle (projection, hit testing, selection, render timings). A canvas has no DOM to assert against, so this is how the page is tested.
+
+## Book pages
+
+`web/genesis/` is a focused map of one book: its topics in bands by section (Creation to Babel, Abraham, Isaac and Jacob, Joseph), with every topic elsewhere in scripture that it is wired to shown as a "portal" in a band at the bottom. Open `http://localhost:8000/web/genesis/` with the same server as above.
+
+- Click a topic to trace its prerequisites and light its cross-references; filters cover section, topic kind, relation kind, link type and testament, and nodes can be coloured by section or covenant.
+- A portal links to `../<slug>/?topic=<id>` when that book has a page, and to the whole-canon explorer (`../?topic=<id>`) otherwise. Both pages open the topic named by `?topic=`.
+- Adding a book: add its sections to `scripts/lib/book-sections.mjs`, add its code to `LIVE_BOOKS` in `scripts/lib/books.mjs`, then `npm run build:web && npm run check:web`. Nothing else changes.
+
+| Path | Purpose |
+|---|---|
+| `scripts/lib/book-payload.mjs` | One book's nodes, portals and edges. Unlike the whole-canon payload it keeps edges whose far end is in another book |
+| `scripts/lib/band-layout.mjs` | Deterministic band layout: fixed cells, reading order, no randomness |
+| `web/lib/book-view.js`, `book-view.css` | The SVG viewer shared by every book page |
+| `web/lib/ui.css` | Card, chip, tooltip and token styles shared with `web/index.html` |
+| `web/<slug>/` | Generated: `index.html` and `graph.json`. Do not edit by hand |
 
 ## Covenant framework
 The covenant spine is not improvised. Its structure, chronology and key passages follow:

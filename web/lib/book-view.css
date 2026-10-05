@@ -1,0 +1,79 @@
+/* Book page: sidebar of filters on the left, a pannable SVG map, the shared topic card on the right. */
+html,body{height:100%}
+body{background:var(--bg); color:var(--ink); overflow:hidden;
+  font:500 15px/1.55 ui-rounded,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif; -webkit-font-smoothing:antialiased}
+.mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace; font-variant-numeric:tabular-nums}
+
+#app{display:grid; grid-template-columns:304px 1fr; height:100vh; min-height:520px}
+
+#side{
+  overflow-y:auto; padding:22px 20px 28px; border-right:1px solid var(--stroke);
+  background:rgba(12,14,24,.9); scrollbar-width:thin; scrollbar-color:rgba(130,145,190,.3) transparent;
+}
+#side .crumb{font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--faint)}
+#side .crumb a{color:var(--mut); text-decoration:none}
+#side .crumb a:hover{color:var(--gold)}
+#side h1{
+  margin-top:10px; font-family:ui-serif,Georgia,"Times New Roman",serif; font-weight:500;
+  font-size:44px; line-height:1.03; letter-spacing:-.022em; color:#fff;
+}
+#side h1 .rp{color:var(--gold)}
+#side .counts{margin-top:12px; font-size:13.5px; color:#C6CDE0}
+#side .counts b{color:var(--gold); font-weight:700}
+#side .ctx{margin-top:10px; font-size:12px; color:var(--faint)}
+#side .ctx b{color:var(--gold); font-weight:600}
+.group{margin-top:22px}
+.group .chips{margin-top:9px; display:flex; flex-wrap:wrap; gap:6px}
+.seg{margin-top:9px; display:inline-flex; border:1px solid var(--stroke); border-radius:999px; overflow:hidden}
+.seg button{
+  border:0; background:transparent; color:var(--mut); font:inherit; font-size:12.5px; padding:6px 13px; cursor:pointer;
+}
+.seg button[aria-pressed="true"]{background:rgba(217,164,65,.16); color:var(--gold)}
+.key{margin-top:8px; font-size:11.5px; color:var(--faint)}
+
+#stage{position:relative; overflow:hidden; cursor:grab; touch-action:none; user-select:none;
+  background:radial-gradient(110% 85% at 50% 118%, rgba(90,70,40,.16), transparent 55%), var(--bg)}
+#stage.drag{cursor:grabbing}
+#map{position:absolute; inset:0; width:100%; height:100%; display:block}
+#zoom{position:absolute; left:16px; bottom:16px; z-index:5; display:flex; gap:6px}
+#zoom button{
+  width:34px; height:34px; border-radius:50%; border:1px solid var(--stroke); background:var(--panel);
+  color:var(--ink); font:inherit; font-size:17px; cursor:pointer;
+}
+#zoom button:hover{border-color:rgba(217,164,65,.5)}
+
+/* SVG */
+.lane rect.bg{fill:rgba(255,255,255,.018); stroke:rgba(130,145,190,.14)}
+.lane .accent{stroke-width:3; stroke-linecap:round}
+.lane .lt{fill:#EDEFF7; font-weight:700; font-size:15px}
+.lane .lr{fill:#646C84; font-size:12px}
+.lane .ln{fill:#646C84; font-size:12px; text-anchor:end}
+.bkhead text{fill:#98A0B8; font-size:11.5px; font-weight:700; letter-spacing:.06em; text-transform:uppercase}
+.bkhead a text{fill:#D9A441}
+.bkhead a:hover text{text-decoration:underline}
+.edge{fill:none; stroke-linecap:round; pointer-events:none; transition:opacity .15s}
+.node{cursor:pointer; transition:opacity .15s}
+.node text{fill:#C6CDE0; font-size:11.5px; pointer-events:none}
+.node .rim{fill:#0A0C14}
+.node .hit{fill:transparent}
+.node:focus{outline:none}
+.node:focus-visible .ring{stroke:var(--gold); stroke-width:2}
+.node .ring{fill:none; stroke:transparent; stroke-width:2}
+.node.sel .ring{stroke:#fff}
+.node.sel text{fill:#fff; font-weight:700}
+.node.dim{opacity:.22}
+.node.off{opacity:.07; pointer-events:none}
+.edge.off{display:none}
+
+#card{top:20px; right:20px; bottom:20px}
+.cmeta .sw{flex:none}
+.hint-ext{margin-top:10px; font-size:12px; color:var(--faint)}
+
+@media (max-width:900px){#app{grid-template-columns:260px 1fr}}
+@media (max-width:720px){
+  #app{grid-template-columns:1fr; grid-template-rows:auto 1fr}
+  #side{max-height:38vh; border-right:0; border-bottom:1px solid var(--stroke); padding:14px 16px 16px}
+  #side h1{font-size:30px}
+  #side .ctx{display:none}
+  #hint{display:none}
+}

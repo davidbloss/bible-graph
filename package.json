@@ -11,6 +11,7 @@
     "review:bulk": "node scripts/review-bulk.mjs",
     "build:book-links": "node scripts/lib/derive-book-edges.mjs",
     "build:web": "node scripts/build-graph.mjs",
+    "check:web": "node scripts/check-web.mjs",
     "tag:covenants": "node scripts/tag-covenants.mjs"
   }
 }
