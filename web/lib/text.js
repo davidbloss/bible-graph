@@ -35,11 +35,22 @@ export function refFormatter(books) {
 
 // One fetch, shared by every caller. Resolves to the verse map, or null if the file can't be read,
 // in which case the page still works and shows references without text.
+// Accepts one URL or a list tried in order, so a book page works both in the
+// site-root layout (GitHub Pages: ../data/kjv.json) and the repo-root layout
+// (local dev at /web/<slug>/: ../../data/kjv.json).
 let pending = null;
 export function fetchVerses(url) {
-  pending ??= fetch(url)
-    .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))))
-    .then((j) => j.verses)
-    .catch(() => null);
+  const urls = Array.isArray(url) ? url : [url];
+  pending ??= (async () => {
+    for (const u of urls) {
+      try {
+        const r = await fetch(u);
+        if (!r.ok) continue;
+        const j = await r.json();
+        return j.verses;
+      } catch {}
+    }
+    return null;
+  })();
   return pending;
 }

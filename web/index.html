@@ -127,7 +127,7 @@ const fail = (html) => { boot.classList.remove('gone'); bootMsg(html); };
 // fetch() is blocked on file://, and so is reading data/kjv.json from there, so the page says so
 // plainly instead of failing silently.
 if (location.protocol === 'file:') {
-  fail('This page reads two files, which a <code>file://</code> URL blocks.<br><br>Serve the repository root instead:<br><br><code>python3 -m http.server 8000</code><br><br>then open <code>http://localhost:8000/web/</code>');
+  fail('This page reads two files, which a <code>file://</code> URL blocks.<br><br>Serve the built site instead:<br><br><code>npm run build:pages && python3 -m http.server 8000 --directory dist</code><br><br>then open <code>http://localhost:8000/</code>');
   return;
 }
 
@@ -789,8 +789,11 @@ function fetchVerses() {
   if (kjv.state === 'loading') return new Promise((res) => { kjv.waiters.push(res); });
   kjv.state = 'loading';
   kjv.waiters = [];
-  return fetch('../data/kjv.json')
-    .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))))
+  // Site-root layout (GitHub Pages) serves data/kjv.json next to this page.
+  // Repo-root layout (local dev at /web/) serves it one level up. Try both.
+  const tryFetch = (url) => fetch(url)
+    .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))));
+  return tryFetch('data/kjv.json').catch(() => tryFetch('../data/kjv.json'))
     .then((j) => {
       kjv.verses = j.verses;
       kjv.state = 'ready';

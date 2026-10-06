@@ -15,12 +15,13 @@ const SVGNS = 'http://www.w3.org/2000/svg';
 const MAX_ROWS = 8;
 const MAX_TEXT_VERSES = 40;
 const LABEL_CHARS = 25;
-const KJV_URL = '../../data/kjv.json';
+// Site root first (GitHub Pages), repo root fallback (local dev at /web/<slug>/).
+const KJV_URL = ['../data/kjv.json', '../../data/kjv.json'];
 
 const app = document.getElementById('app');
 
 if (location.protocol === 'file:') {
-  app.innerHTML = '<div id="boot"><div class="msg">This page reads <code>graph.json</code>, which a <code>file://</code> URL blocks.<br><br>Serve the repository root:<br><br><code>python3 -m http.server 8000</code><br><br>then open <code>http://localhost:8000/web/genesis/</code></div></div>';
+  app.innerHTML = '<div id="boot"><div class="msg">This page reads <code>graph.json</code>, which a <code>file://</code> URL blocks.<br><br>Serve the built site:<br><br><code>npm run build:pages && python3 -m http.server 8000 --directory dist</code><br><br>then open <code>http://localhost:8000/genesis/</code></div></div>';
 } else {
   fetch('graph.json')
     .then((r) => (r.ok ? r.json() : Promise.reject(new Error(`graph.json ${r.status}`))))
